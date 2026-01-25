@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "03",
+  "prefecture_name": "岩手県",
+  "district_number": 3,
+  "district_name": "岩手3区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "小沢一郎",
+      "name_kana": "おざわ いちろう",
+      "age": 82,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "藤原崇",
+      "name_kana": "ふじわら たかし",
+      "age": 41,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

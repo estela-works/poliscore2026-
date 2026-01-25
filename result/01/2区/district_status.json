@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "01",
+  "prefecture_name": "北海道",
+  "district_number": 2,
+  "district_name": "北海道2区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 4,
+  "candidates": [
+    {
+      "name": "松木謙公",
+      "name_kana": "まつき けんこう",
+      "age": 65,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高橋祐介",
+      "name_kana": "たかはし ゆうすけ",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山崎泉",
+      "name_kana": "やまざき いずみ",
+      "age": 51,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "宮内史織",
+      "name_kana": "みやうち しおり",
+      "age": 32,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

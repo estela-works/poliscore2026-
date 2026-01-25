@@ -1,0 +1,88 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 2,
+  "district_name": "埼玉2区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 1,
+  "candidates": [
+    {
+      "name": "新藤義孝",
+      "name_kana": "しんどう よしたか",
+      "age": 66,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 72467,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高橋英明",
+      "name_kana": "たかはし ひであき",
+      "age": 61,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "比例復活",
+      "votes": 43164,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "松浦玄嗣",
+      "name_kana": "まつうら げんじ",
+      "age": 52,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 34327,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "奥田智子",
+      "name_kana": "おくだ ともこ",
+      "age": 55,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 23317,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "津村大作",
+      "name_kana": "つむら だいさく",
+      "age": 50,
+      "party": "川口自警団",
+      "status": "新人",
+      "result": "落選",
+      "votes": 9348,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

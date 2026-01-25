@@ -1,0 +1,9 @@
+# すべてを無視
+*
+
+# result/ ディレクトリのみ追跡
+!result/
+!result/**
+
+# .gitignore自体も追跡
+!.gitignore

@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "01",
+  "prefecture_name": "北海道",
+  "district_number": 10,
+  "district_name": "北海道10区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "candidates": [
+    {
+      "name": "神谷裕",
+      "name_kana": "かみや ひろし",
+      "age": 0,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "渡辺孝一",
+      "name_kana": "わたなべ こういち",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山田恵子",
+      "name_kana": "やまだ けいこ",
+      "age": 0,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

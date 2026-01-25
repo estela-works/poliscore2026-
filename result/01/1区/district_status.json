@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "01",
+  "prefecture_name": "北海道",
+  "district_number": 1,
+  "district_name": "北海道1区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
+  "candidates": [
+    {
+      "name": "道下大樹",
+      "name_kana": "みちした だいき",
+      "age": 48,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "加藤貴弘",
+      "name_kana": "かとう たかひろ",
+      "age": 41,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "千葉尚子",
+      "name_kana": "ちば なおこ",
+      "age": 44,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "田中義人",
+      "name_kana": "たなか よしひと",
+      "age": 52,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小林悟",
+      "name_kana": "こばやし さとる",
+      "age": 60,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

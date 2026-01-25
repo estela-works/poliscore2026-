@@ -1,0 +1,73 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 3,
+  "district_name": "埼玉3区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "黄川田仁志",
+      "name_kana": "きかわだ ひとし",
+      "age": 54,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 76239,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "竹内千春",
+      "name_kana": "たけうち ちはる",
+      "age": 56,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "比例復活",
+      "votes": 66103,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "石川隆美",
+      "name_kana": "いしかわ たかみ",
+      "age": null,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "votes": 24442,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "馬場浩",
+      "name_kana": "ばば ひろし",
+      "age": null,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 14731,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

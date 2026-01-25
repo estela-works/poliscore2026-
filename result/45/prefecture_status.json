@@ -1,0 +1,43 @@
+{
+  "prefecture_code": "45",
+  "prefecture_name": "宮崎県",
+  "total_districts": 2,
+  "is_official": false,
+  "last_updated": "2026-01-26T01:15:57.762681",
+  "status_summary": {
+    "none": 2,
+    "pre": 0,
+    "identified": 0,
+    "processing": 0,
+    "completed": 0
+  },
+  "total_candidates": 0,
+  "processed_candidates": 0,
+  "party_summary": {
+    "自由民主党": 0,
+    "立憲民主党": 0,
+    "日本維新の会": 0,
+    "公明党": 0,
+    "日本共産党": 0,
+    "国民民主党": 0,
+    "れいわ新選組": 0,
+    "社会民主党": 0,
+    "参政党": 0,
+    "無所属": 0,
+    "その他": 0
+  },
+  "districts": [
+    {
+      "district_number": 1,
+      "status": "none",
+      "total_candidates": 0,
+      "processed_candidates": 0
+    },
+    {
+      "district_number": 2,
+      "status": "none",
+      "total_candidates": 0,
+      "processed_candidates": 0
+    }
+  ]
+}
