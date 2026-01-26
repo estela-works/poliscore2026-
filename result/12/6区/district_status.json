@@ -1,0 +1,52 @@
+{
+  "prefecture_code": "12",
+  "prefecture_name": "千葉県",
+  "district_number": 6,
+  "district_name": "千葉6区",
+  "status": "pre",
+  "is_official": false,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "安藤淳子",
+      "name_kana": "あんどう じゅんこ",
+      "age": null,
+      "party": "中道改革連合",
+      "status": "前職",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "渡辺博道",
+      "name_kana": "わたなべ ひろみち",
+      "age": null,
+      "party": "自由民主党",
+      "status": "元職",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "武藤雄大",
+      "name_kana": "むとう ゆうだい",
+      "age": null,
+      "party": "国民民主党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

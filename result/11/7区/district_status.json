@@ -1,0 +1,73 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 7,
+  "district_name": "埼玉7区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "小宮山泰子",
+      "name_kana": "こみやま やすこ",
+      "age": 59,
+      "party": "立憲民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 73293,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中野英幸",
+      "name_kana": "なかの ひでゆき",
+      "age": 63,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "比例復活",
+      "votes": 66498,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "伊勢田享子",
+      "name_kana": "いせだ きょうこ",
+      "age": null,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "votes": 27266,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐藤一馬",
+      "name_kana": "さとう かずま",
+      "age": 33,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 17541,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

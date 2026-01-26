@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "07",
+  "prefecture_name": "福島県",
+  "district_number": 1,
+  "district_name": "福島1区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "金子恵美",
+      "name_kana": "かねこ えみ",
+      "age": 59,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "亀岡偉民",
+      "name_kana": "かめおか よしたみ",
+      "age": 69,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

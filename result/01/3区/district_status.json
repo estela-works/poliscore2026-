@@ -3,22 +3,21 @@
   "prefecture_name": "北海道",
   "district_number": 3,
   "district_name": "北海道3区",
-  "status": "completed",
+  "status": "pre",
   "is_official": false,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "荒井優",
       "name_kana": "あらい ゆう",
-      "age": 0,
-      "party": "立憲民主党",
+      "age": null,
+      "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }
@@ -26,26 +25,37 @@
     {
       "name": "高木宏壽",
       "name_kana": "たかぎ ひろひさ",
-      "age": 0,
+      "age": null,
       "party": "自由民主党",
-      "status": "前職",
-      "proportional_rank": null,
+      "status": "元職",
       "processing": {
-        "researched": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中島良樹",
+      "name_kana": "なかじま よしき",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
         "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "佐々木明美",
-      "name_kana": "ささき あけみ",
-      "age": 0,
+      "name": "円子裕子",
+      "name_kana": "まるこ ゆうこ",
+      "age": null,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
-        "researched": true,
+        "researched": false,
         "evaluated": true,
         "md_created": true,
         "card_generated": false

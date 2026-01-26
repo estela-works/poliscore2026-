@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "07",
+  "prefecture_name": "福島県",
+  "district_number": 4,
+  "district_name": "福島4区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "candidates": [
+    {
+      "name": "坂本竜太郎",
+      "name_kana": "さかもと りゅうたろう",
+      "age": 44,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "齋藤裕喜",
+      "name_kana": "さいとう ゆうき",
+      "age": 45,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "熊谷智",
+      "name_kana": "くまがい さとし",
+      "age": 44,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

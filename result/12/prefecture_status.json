@@ -3,112 +3,112 @@
   "prefecture_name": "千葉県",
   "total_districts": 14,
   "is_official": false,
-  "last_updated": "2026-01-26T01:15:57.733239",
+  "last_updated": "2026-01-26T17:38:33.957761",
   "status_summary": {
-    "none": 14,
-    "pre": 0,
+    "none": 0,
+    "pre": 14,
     "identified": 0,
     "processing": 0,
     "completed": 0
   },
-  "total_candidates": 0,
+  "total_candidates": 42,
   "processed_candidates": 0,
   "party_summary": {
-    "自由民主党": 0,
+    "自由民主党": 14,
     "立憲民主党": 0,
-    "日本維新の会": 0,
+    "日本維新の会": 2,
     "公明党": 0,
-    "日本共産党": 0,
-    "国民民主党": 0,
+    "日本共産党": 4,
+    "国民民主党": 3,
     "れいわ新選組": 0,
     "社会民主党": 0,
-    "参政党": 0,
-    "無所属": 0,
-    "その他": 0
+    "参政党": 5,
+    "無所属": 1,
+    "その他": 13
   },
   "districts": [
     {
       "district_number": 1,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 2,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 3,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 4,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 5,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 6,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 7,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 8,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 9,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 10,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 11,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 12,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 13,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 14,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "pre",
+      "total_candidates": 3,
       "processed_candidates": 0
     }
   ]

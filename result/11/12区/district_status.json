@@ -1,0 +1,43 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 12,
+  "district_name": "埼玉12区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "森田俊和",
+      "name_kana": "もりた としかず",
+      "age": 50,
+      "party": "立憲民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 103324,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "野中厚",
+      "name_kana": "のなか あつし",
+      "age": 48,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "比例復活",
+      "votes": 76395,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

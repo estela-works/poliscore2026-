@@ -1,0 +1,103 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 13,
+  "district_name": "埼玉13区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 1,
+  "candidates": [
+    {
+      "name": "橋本幹彦",
+      "name_kana": "はしもと みきひこ",
+      "age": 29,
+      "party": "国民民主党",
+      "status": "新人",
+      "result": "当選",
+      "votes": 61436,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "三ツ林裕巳",
+      "name_kana": "みつばやし ひろみ",
+      "age": null,
+      "party": "無所属",
+      "status": "前職",
+      "result": "落選",
+      "votes": 53382,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高井崇志",
+      "name_kana": "たかい たかし",
+      "age": null,
+      "party": "れいわ新選組",
+      "status": "元職",
+      "result": "比例復活",
+      "votes": 22237,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中原由棟",
+      "name_kana": "なかはら よしむね",
+      "age": 33,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "votes": 21561,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "沢口千枝子",
+      "name_kana": "さわぐち ちえこ",
+      "age": 73,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 17099,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "橋本勉",
+      "name_kana": "はしもと べん",
+      "age": null,
+      "party": "諸派",
+      "status": "新人",
+      "result": "落選",
+      "votes": 4424,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

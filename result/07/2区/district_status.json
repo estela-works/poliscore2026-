@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "07",
+  "prefecture_name": "福島県",
+  "district_number": 2,
+  "district_name": "福島2区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "candidates": [
+    {
+      "name": "玄葉光一郎",
+      "name_kana": "げんば こういちろう",
+      "age": 60,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "根本拓",
+      "name_kana": "ねもと たく",
+      "age": 38,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "丸本由美子",
+      "name_kana": "まるもと ゆみこ",
+      "age": 62,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

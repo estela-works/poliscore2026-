@@ -2,54 +2,54 @@
   "prefecture_code": "07",
   "prefecture_name": "福島県",
   "total_districts": 4,
-  "is_official": false,
-  "last_updated": "2026-01-26T01:15:57.727218",
+  "is_official": true,
+  "last_updated": "2026-01-26T17:38:33.949531",
   "status_summary": {
-    "none": 4,
+    "none": 0,
     "pre": 0,
     "identified": 0,
     "processing": 0,
-    "completed": 0
+    "completed": 4
   },
-  "total_candidates": 0,
-  "processed_candidates": 0,
+  "total_candidates": 11,
+  "processed_candidates": 11,
   "party_summary": {
-    "自由民主党": 0,
-    "立憲民主党": 0,
+    "自由民主党": 3,
+    "立憲民主党": 4,
     "日本維新の会": 0,
     "公明党": 0,
-    "日本共産党": 0,
+    "日本共産党": 3,
     "国民民主党": 0,
     "れいわ新選組": 0,
     "社会民主党": 0,
     "参政党": 0,
-    "無所属": 0,
+    "無所属": 1,
     "その他": 0
   },
   "districts": [
     {
       "district_number": 1,
-      "status": "none",
-      "total_candidates": 0,
-      "processed_candidates": 0
+      "status": "completed",
+      "total_candidates": 2,
+      "processed_candidates": 2
     },
     {
       "district_number": 2,
-      "status": "none",
-      "total_candidates": 0,
-      "processed_candidates": 0
+      "status": "completed",
+      "total_candidates": 3,
+      "processed_candidates": 3
     },
     {
       "district_number": 3,
-      "status": "none",
-      "total_candidates": 0,
-      "processed_candidates": 0
+      "status": "completed",
+      "total_candidates": 3,
+      "processed_candidates": 3
     },
     {
       "district_number": 4,
-      "status": "none",
-      "total_candidates": 0,
-      "processed_candidates": 0
+      "status": "completed",
+      "total_candidates": 3,
+      "processed_candidates": 3
     }
   ]
 }

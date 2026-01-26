@@ -1,0 +1,58 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 11,
+  "district_name": "埼玉11区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 1,
+  "candidates": [
+    {
+      "name": "小泉龍司",
+      "name_kana": "こいずみ りゅうじ",
+      "age": 72,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 91681,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "島田誠",
+      "name_kana": "しまだ まこと",
+      "age": null,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 49557,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "柿沼遥輝",
+      "name_kana": "かきぬま はるき",
+      "age": null,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 16636,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

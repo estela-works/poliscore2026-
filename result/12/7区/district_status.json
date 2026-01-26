@@ -1,0 +1,52 @@
+{
+  "prefecture_code": "12",
+  "prefecture_name": "千葉県",
+  "district_number": 7,
+  "district_name": "千葉7区",
+  "status": "pre",
+  "is_official": false,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "齋藤健",
+      "name_kana": "さいとう けん",
+      "age": null,
+      "party": "自由民主党",
+      "status": "前職",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "林田章裕",
+      "name_kana": "はやしだ あきひろ",
+      "age": null,
+      "party": "国民民主党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "川田龍平",
+      "name_kana": "かわた りゅうへい",
+      "age": null,
+      "party": "減税日本・ゆうこく連合",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

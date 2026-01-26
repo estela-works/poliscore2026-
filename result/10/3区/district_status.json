@@ -1,0 +1,43 @@
+{
+  "prefecture_code": "10",
+  "prefecture_name": "群馬県",
+  "district_number": 3,
+  "district_name": "群馬3区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "笹川博義",
+      "name_kana": "ささがわ ひろよし",
+      "age": 58,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 74930,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "長谷川嘉一",
+      "name_kana": "はせがわ かいち",
+      "age": 71,
+      "party": "立憲民主党",
+      "status": "元職",
+      "result": "比例復活",
+      "votes": 74716,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

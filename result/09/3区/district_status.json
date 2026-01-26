@@ -1,0 +1,58 @@
+{
+  "prefecture_code": "09",
+  "prefecture_name": "栃木県",
+  "district_number": 3,
+  "district_name": "栃木3区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "candidates": [
+    {
+      "name": "簗和生",
+      "name_kana": "やな かずお",
+      "age": 45,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 45546,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "渡辺真太朗",
+      "name_kana": "わたなべ しんたろう",
+      "age": 32,
+      "party": "無所属",
+      "status": "新人",
+      "result": "落選",
+      "votes": 45368,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "伊賀央",
+      "name_kana": "いが ひろし",
+      "age": 60,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 30913,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

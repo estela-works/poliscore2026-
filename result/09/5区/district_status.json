@@ -1,0 +1,73 @@
+{
+  "prefecture_code": "09",
+  "prefecture_name": "栃木県",
+  "district_number": 5,
+  "district_name": "栃木5区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-26T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 4,
+  "candidates": [
+    {
+      "name": "茂木敏充",
+      "name_kana": "もてぎ としみつ",
+      "age": 69,
+      "party": "自由民主党",
+      "status": "前職",
+      "result": "当選",
+      "votes": 99897,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岡村恵子",
+      "name_kana": "おかむら けいこ",
+      "age": 71,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 25203,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "谷古宇勘司",
+      "name_kana": "やこう かんじ",
+      "age": 74,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "votes": 20098,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "亀山陽三",
+      "name_kana": "かめやま ようぞう",
+      "age": 63,
+      "party": "無所属",
+      "status": "新人",
+      "result": "落選",
+      "votes": 13447,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

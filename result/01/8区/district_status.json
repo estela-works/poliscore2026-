@@ -3,22 +3,21 @@
   "prefecture_name": "北海道",
   "district_number": 8,
   "district_name": "北海道8区",
-  "status": "completed",
+  "status": "pre",
   "is_official": false,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "逢坂誠二",
       "name_kana": "おおさか せいじ",
       "age": 65,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }
@@ -28,25 +27,10 @@
       "name_kana": "むこうやま じゅん",
       "age": 40,
       "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
+      "status": "前職",
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "本間勝美",
-      "name_kana": "ほんま かつみ",
-      "age": 56,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }
