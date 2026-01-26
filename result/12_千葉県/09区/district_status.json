@@ -5,8 +5,8 @@
   "district_name": "千葉9区",
   "status": "pre",
   "is_official": false,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -45,6 +45,19 @@
         "researched": false,
         "evaluated": false,
         "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "前田裕介",
+      "name_kana": "",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
         "card_generated": false
       }
     }

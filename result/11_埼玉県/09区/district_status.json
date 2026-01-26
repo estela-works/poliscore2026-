@@ -13,7 +13,7 @@
       "name": "杉村慎治",
       "name_kana": "すぎむら しんじ",
       "age": 48,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "当選",
       "votes": 83107,
@@ -35,7 +35,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },

@@ -3,11 +3,11 @@
   "prefecture_name": "山形県",
   "district_number": 3,
   "district_name": "山形3区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 1,
   "candidates": [
     {
       "name": "加藤鮎子",
@@ -24,29 +24,43 @@
       }
     },
     {
-      "name": "石黒覚",
-      "name_kana": "いしぐろ さとる",
-      "age": null,
-      "party": "立憲民主党",
+      "name": "落合拓磨",
+      "name_kana": "おちあい たくま",
+      "age": 28,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "山田守",
-      "name_kana": "やまだ まもる",
-      "age": null,
-      "party": "日本共産党",
+      "name": "喜多恒介",
+      "name_kana": "きた こうすけ",
+      "age": 36,
+      "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "遠藤和史",
+      "name_kana": "えんどう かずし",
+      "age": 60,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }

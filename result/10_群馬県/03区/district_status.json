@@ -5,7 +5,7 @@
   "district_name": "群馬3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -28,7 +28,7 @@
       "name": "長谷川嘉一",
       "name_kana": "はせがわ かいち",
       "age": 71,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "元職",
       "result": "比例復活",
       "votes": 74716,

@@ -6,14 +6,14 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 2,
-  "processed_candidates": 2,
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "小沢一郎",
       "name_kana": "おざわ いちろう",
       "age": 82,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -29,6 +29,20 @@
       "age": 41,
       "party": "自由民主党",
       "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "及川泰輔",
+      "name_kana": "おいかわ たいすけ",
+      "age": 47,
+      "party": "参政党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

@@ -3,11 +3,11 @@
   "prefecture_name": "群馬県",
   "district_number": 5,
   "district_name": "群馬5区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 1,
   "candidates": [
     {
       "name": "小渕優子",
@@ -25,31 +25,16 @@
       }
     },
     {
-      "name": "中島由美子",
-      "name_kana": "なかじま ゆみこ",
-      "age": 65,
-      "party": "日本維新の会",
+      "name": "木暮智貴",
+      "name_kana": "",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
-      "result": "落選",
-      "votes": 36928,
+      "result": null,
+      "votes": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "伊藤達也",
-      "name_kana": "いとう たつや",
-      "age": 41,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 22655,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }

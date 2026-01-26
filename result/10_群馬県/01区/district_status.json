@@ -3,11 +3,11 @@
   "prefecture_name": "群馬県",
   "district_number": 1,
   "district_name": "群馬1区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
-  "processed_candidates": 3,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "中曽根康隆",
@@ -25,16 +25,16 @@
       }
     },
     {
-      "name": "白井桂子",
-      "name_kana": "しらい けいこ",
-      "age": 62,
-      "party": "立憲民主党",
+      "name": "河村正剛",
+      "name_kana": "",
+      "age": null,
+      "party": "中道改革連合",
       "status": "新人",
-      "result": "落選",
-      "votes": 56031,
+      "result": null,
+      "votes": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
+        "researched": false,
+        "evaluated": false,
         "md_created": true,
         "card_generated": false
       }

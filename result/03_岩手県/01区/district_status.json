@@ -6,14 +6,14 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "階猛",
       "name_kana": "しな たけし",
       "age": 58,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -42,6 +42,20 @@
       "name_kana": "よしだ きょうこ",
       "age": 43,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐々木大成",
+      "name_kana": "ささき たいせい",
+      "age": 47,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

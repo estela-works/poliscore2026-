@@ -6,7 +6,7 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 5,
+  "total_candidates": 7,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -28,7 +28,7 @@
       "name": "武正公一",
       "name_kana": "たけまさ こういち",
       "age": 63,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "元職",
       "result": "比例復活",
       "votes": 82134,
@@ -81,6 +81,32 @@
         "researched": false,
         "evaluated": false,
         "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "羽田一樹",
+      "name_kana": "はた かずき",
+      "age": null,
+      "party": "無所属",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "菅又士廊",
+      "name_kana": "すがまた しろう",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
         "card_generated": false
       }
     }

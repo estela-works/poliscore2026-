@@ -1,0 +1,52 @@
+{
+  "prefecture_code": "11",
+  "prefecture_name": "埼玉県",
+  "district_number": 16,
+  "district_name": "埼玉16区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "土屋品子",
+      "name_kana": "つちや しなこ",
+      "age": null,
+      "party": "自由民主党",
+      "status": "前職",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "三角そうた",
+      "name_kana": "みすみ そうた",
+      "age": null,
+      "party": "中道改革連合",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "ながほり健",
+      "name_kana": "ながほり けん",
+      "age": null,
+      "party": "日本共産党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}
