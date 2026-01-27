@@ -3,107 +3,107 @@
   "prefecture_name": "東京都",
   "district_number": 11,
   "district_name": "東京11区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 7,
-  "processed_candidates": 0,
+  "processed_candidates": 7,
   "candidates": [
     {
       "name": "阿久津幸彦",
-      "name_kana": "",
-      "age": 0,
-      "party": "中道改革連合",
+      "name_kana": "あくつゆきひこ",
+      "age": 68,
+      "party": "立憲民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "下村博文",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "しもむらはくぶん",
+      "age": 70,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "大豆生田実",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "おおまみうだみのる",
+      "age": 59,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "高沢一基",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たかざわかずもと",
+      "age": 51,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "松方恵美",
-      "name_kana": "",
+      "name_kana": "まつかたえみ",
       "age": 0,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "横手海人",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "よこてかいと",
+      "age": 29,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "桑島康文",
-      "name_kana": "",
-      "age": 0,
-      "party": "諸派",
+      "name_kana": "くわじまやすふみ",
+      "age": 64,
+      "party": "核融合党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

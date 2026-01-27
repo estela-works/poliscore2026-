@@ -3,17 +3,17 @@
   "prefecture_name": "長崎県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-27T15:34:45.771282",
+  "last_updated": "2026-01-27T18:51:32.615417",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 3,
+    "identified": 1,
     "processing": 0,
-    "completed": 0,
+    "completed": 2,
     "abolished": 0
   },
   "total_candidates": 12,
-  "processed_candidates": 0,
+  "processed_candidates": 7,
   "party_summary": {
     "自由民主党": 3,
     "立憲民主党": 0,
@@ -36,15 +36,15 @@
     },
     {
       "district_number": 2,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     }
   ]
 }

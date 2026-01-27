@@ -3,17 +3,17 @@
   "prefecture_name": "福岡県",
   "total_districts": 12,
   "is_official": true,
-  "last_updated": "2026-01-27T15:34:45.768418",
+  "last_updated": "2026-01-27T18:51:32.610701",
   "status_summary": {
     "none": 1,
     "pre": 0,
-    "identified": 11,
+    "identified": 10,
     "processing": 0,
-    "completed": 0,
+    "completed": 1,
     "abolished": 0
   },
   "total_candidates": 48,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "party_summary": {
     "自由民主党": 11,
     "立憲民主党": 1,
@@ -60,9 +60,9 @@
     },
     {
       "district_number": 6,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 7,

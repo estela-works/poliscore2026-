@@ -3,65 +3,65 @@
   "prefecture_name": "島根県",
   "district_number": 2,
   "district_name": "島根2区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "高見康裕",
       "name_kana": "たかみやすひろ",
-      "age": 45,
+      "age": 44,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "大塚聡子",
       "name_kana": "おおつかさとこ",
-      "age": 58,
+      "age": 57,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "亀谷優子",
       "name_kana": "かめたにゆうこ",
-      "age": 39,
+      "age": 38,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "倉井克幸",
       "name_kana": "くらいかつゆき",
-      "age": 43,
+      "age": 42,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
