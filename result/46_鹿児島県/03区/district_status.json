@@ -3,37 +3,37 @@
   "prefecture_name": "鹿児島県",
   "district_number": 3,
   "district_name": "鹿児島3区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T12:00:00+09:00",
   "total_candidates": 2,
-  "processed_candidates": 0,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "野間健",
       "name_kana": "のま たけし",
       "age": 66,
-      "party": "国民民主党",
+      "party": "立憲民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "小里泰弘",
       "name_kana": "おざと やすひろ",
-      "age": 67,
+      "age": 66,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

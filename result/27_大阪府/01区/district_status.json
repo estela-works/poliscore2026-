@@ -3,11 +3,11 @@
   "prefecture_name": "大阪府",
   "district_number": 1,
   "district_name": "大阪1区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T21:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "井上英孝",
@@ -17,9 +17,9 @@
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -31,37 +31,37 @@
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "竹内祥規",
+      "name": "竹内祥倫",
       "name_kana": "たけうち よしのり",
-      "age": 42,
+      "age": 43,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "宮出ちさと",
+      "name": "宮出千慧",
       "name_kana": "みやで ちさと",
       "age": 39,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

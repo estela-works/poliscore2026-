@@ -3,11 +3,11 @@
   "prefecture_name": "千葉県",
   "district_number": 4,
   "district_name": "千葉4区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T14:30:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "高橋宏",
@@ -16,9 +16,9 @@
       "party": "減税日本・ゆうこく連合",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -29,9 +29,9 @@
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -42,9 +42,9 @@
       "party": "自由民主党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -55,9 +55,9 @@
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -68,8 +68,8 @@
       "party": "日本共産党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

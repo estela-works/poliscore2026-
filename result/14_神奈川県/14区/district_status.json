@@ -3,65 +3,65 @@
   "prefecture_name": "神奈川県",
   "district_number": 14,
   "district_name": "神奈川14区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T14:30:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "赤間二郎",
-      "name_kana": "あかま じろう",
-      "age": 57,
+      "name_kana": "あかまじろう",
+      "age": 58,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "長友克洋",
-      "name_kana": "ながとも かつひろ",
-      "age": 54,
+      "name_kana": "ながともかつひろ",
+      "age": 55,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "中村圭",
-      "name_kana": "なかむら けい",
-      "age": 0,
+      "name_kana": "なかむらけい",
+      "age": 45,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "先沖仁志",
-      "name_kana": "さきおき ひとし",
-      "age": 0,
+      "name_kana": "さきおきひとし",
+      "age": 49,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

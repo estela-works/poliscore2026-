@@ -3,79 +3,79 @@
   "prefecture_name": "兵庫県",
   "district_number": 6,
   "district_name": "兵庫6区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T14:00:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "桜井周",
-      "name_kana": "さくらいしゅう",
+      "name_kana": "さくらい しゅう",
       "age": 54,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "大串正樹",
-      "name_kana": "おおぐしまさき",
-      "age": 58,
+      "name_kana": "おおぐし まさき",
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "市村浩一郎",
-      "name_kana": "いちむらこういちろう",
+      "name_kana": "いちむら こういちろう",
       "age": 60,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "伊藤正哉",
-      "name_kana": "いとうまさや",
-      "age": null,
+      "name_kana": "いとう まさや",
+      "age": 36,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "吉見秋彦",
-      "name_kana": "よしみあきひこ",
-      "age": null,
+      "name_kana": "よしみ あきひこ",
+      "age": 50,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

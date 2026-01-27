@@ -3,65 +3,65 @@
   "prefecture_name": "東京都",
   "district_number": 9,
   "district_name": "東京9区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T18:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "山岸一生",
-      "name_kana": "",
-      "age": 0,
-      "party": "中道改革連合",
+      "name_kana": "やまぎし いっせい",
+      "age": 43,
+      "party": "立憲民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "菅原一秀",
-      "name_kana": "",
-      "age": 0,
-      "party": "自由民主党",
+      "name_kana": "すがわら いっしゅう",
+      "age": 62,
+      "party": "無所属",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "薬師寺道代",
-      "name_kana": "",
-      "age": 0,
-      "party": "国民民主党",
+      "name": "大河内茂太",
+      "name_kana": "おおこうち しげた",
+      "age": 53,
+      "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "鈴木文哉",
-      "name_kana": "",
-      "age": 0,
-      "party": "参政党",
+      "name": "大津綾香",
+      "name_kana": "おおつ あやか",
+      "age": 31,
+      "party": "みんなでつくる党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

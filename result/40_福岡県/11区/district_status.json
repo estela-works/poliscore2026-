@@ -3,11 +3,11 @@
   "prefecture_name": "福岡県",
   "district_number": 11,
   "district_name": "福岡11区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T12:00:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "村上智信",
@@ -17,65 +17,65 @@
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "武田良太",
       "name_kana": "たけだりょうた",
-      "age": 56,
+      "age": 57,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "志岐玲子",
       "name_kana": "しきれいこ",
-      "age": 71,
+      "age": 72,
       "party": "社会民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "辻智之",
       "name_kana": "つじともゆき",
-      "age": null,
+      "age": 36,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "井上直生",
       "name_kana": "いのうえなおき",
-      "age": null,
+      "age": 44,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
