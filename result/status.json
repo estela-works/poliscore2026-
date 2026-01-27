@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-27T18:51:32.625591",
+  "last_updated": "2026-01-27T19:30:00.273129",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 55,
+    "completed": 78,
     "processing": 30,
-    "identified": 183,
-    "pre": 19,
+    "identified": 161,
+    "pre": 18,
     "none": 3,
     "abolished": 1,
     "total_candidates": 1125,
-    "processed_candidates": 267
+    "processed_candidates": 356
   },
   "prefectures": {
     "01": {
@@ -406,9 +406,9 @@
           "processed": 0
         },
         "2": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "3": {
           "status": "pre",
@@ -601,9 +601,9 @@
           "processed": 0
         },
         "26": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "27": {
           "status": "identified",
@@ -656,9 +656,9 @@
           "processed": 0
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "7": {
           "status": "identified",
@@ -681,9 +681,9 @@
           "processed": 0
         },
         "11": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "12": {
           "status": "identified",
@@ -711,9 +711,9 @@
           "processed": 0
         },
         "17": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "18": {
           "status": "identified",
@@ -726,9 +726,9 @@
           "processed": 0
         },
         "20": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -736,9 +736,9 @@
       "name": "新潟県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -921,9 +921,9 @@
           "processed": 0
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "7": {
           "status": "identified",
@@ -986,9 +986,9 @@
           "processed": 0
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "11": {
           "status": "identified",
@@ -1006,9 +1006,9 @@
           "processed": 0
         },
         "14": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "15": {
           "status": "identified",
@@ -1056,9 +1056,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "3": {
           "status": "identified",
@@ -1201,9 +1201,9 @@
           "processed": 0
         },
         "19": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -1216,9 +1216,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "3": {
           "status": "identified",
@@ -1251,9 +1251,9 @@
           "processed": 0
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "10": {
           "status": "identified",
@@ -1341,9 +1341,9 @@
       "name": "岡山県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -1421,9 +1421,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         }
       }
     },
@@ -1436,9 +1436,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -1491,9 +1491,9 @@
           "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -1501,9 +1501,9 @@
       "name": "福岡県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -1521,9 +1521,9 @@
           "processed": 0
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "6": {
           "status": "completed",
@@ -1581,9 +1581,9 @@
       "name": "長崎県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "completed",
@@ -1651,9 +1651,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -1691,9 +1691,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "3": {
           "status": "completed",

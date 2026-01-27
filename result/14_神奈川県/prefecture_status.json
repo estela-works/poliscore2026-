@@ -3,17 +3,17 @@
   "prefecture_name": "神奈川県",
   "total_districts": 20,
   "is_official": true,
-  "last_updated": "2026-01-27T18:51:32.554795",
+  "last_updated": "2026-01-27T19:30:00.222658",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 19,
+    "identified": 15,
     "processing": 0,
-    "completed": 1,
+    "completed": 5,
     "abolished": 0
   },
   "total_candidates": 83,
-  "processed_candidates": 3,
+  "processed_candidates": 16,
   "party_summary": {
     "自由民主党": 20,
     "立憲民主党": 1,
@@ -60,9 +60,9 @@
     },
     {
       "district_number": 6,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 7,
@@ -90,9 +90,9 @@
     },
     {
       "district_number": 11,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 12,
@@ -126,9 +126,9 @@
     },
     {
       "district_number": 17,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 18,
@@ -144,9 +144,9 @@
     },
     {
       "district_number": 20,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     }
   ]
 }

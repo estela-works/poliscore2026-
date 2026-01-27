@@ -3,17 +3,17 @@
   "prefecture_name": "宮崎県",
   "total_districts": 2,
   "is_official": true,
-  "last_updated": "2026-01-27T18:51:32.620915",
+  "last_updated": "2026-01-27T19:30:00.269802",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 2,
+    "identified": 1,
     "processing": 0,
-    "completed": 0,
+    "completed": 1,
     "abolished": 0
   },
   "total_candidates": 7,
-  "processed_candidates": 0,
+  "processed_candidates": 3,
   "party_summary": {
     "自由民主党": 2,
     "立憲民主党": 1,
@@ -36,9 +36,9 @@
     },
     {
       "district_number": 2,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     }
   ]
 }
