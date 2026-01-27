@@ -3,37 +3,37 @@
   "prefecture_name": "東京都",
   "district_number": 12,
   "district_name": "東京12区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T20:00:00+09:00",
   "total_candidates": 6,
-  "processed_candidates": 0,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "高木啓",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たかぎ けい",
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "阿部司",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "あべ つかさ",
+      "age": 42,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -45,51 +45,51 @@
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "久住勇樹",
-      "name_kana": "",
+      "name_kana": "くすみ ゆうき",
       "age": 0,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "黒石裕子",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "くろいし ゆうこ",
+      "age": 32,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "田原聖子",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たはら せいこ",
+      "age": 55,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
