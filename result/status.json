@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-27T19:30:00.273129",
+  "last_updated": "2026-01-28T02:29:57.045634",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 78,
-    "processing": 30,
-    "identified": 161,
-    "pre": 18,
+    "completed": 152,
+    "processing": 29,
+    "identified": 90,
+    "pre": 16,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1125,
-    "processed_candidates": 356
+    "total_candidates": 1120,
+    "processed_candidates": 658
   },
   "prefectures": {
     "01": {
@@ -376,9 +376,9 @@
           "processed": 2
         },
         "13": {
-          "status": "processing",
+          "status": "completed",
           "total": 7,
-          "processed": 1
+          "processed": 7
         },
         "14": {
           "status": "processing",
@@ -391,9 +391,9 @@
           "processed": 0
         },
         "16": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -401,9 +401,9 @@
       "name": "千葉県",
       "districts": {
         "1": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -416,9 +416,9 @@
           "processed": 0
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "5": {
           "status": "pre",
@@ -456,9 +456,9 @@
           "processed": 3
         },
         "12": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "13": {
           "status": "pre",
@@ -496,14 +496,14 @@
           "processed": 0
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "7": {
           "status": "identified",
@@ -511,14 +511,14 @@
           "processed": 0
         },
         "8": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "10": {
           "status": "identified",
@@ -531,9 +531,9 @@
           "processed": 7
         },
         "12": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "13": {
           "status": "completed",
@@ -546,9 +546,9 @@
           "processed": 0
         },
         "15": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "16": {
           "status": "identified",
@@ -576,9 +576,9 @@
           "processed": 0
         },
         "21": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "22": {
           "status": "identified",
@@ -616,9 +616,9 @@
           "processed": 0
         },
         "29": {
-          "status": "identified",
-          "total": 6,
-          "processed": 0
+          "status": "completed",
+          "total": 5,
+          "processed": 5
         },
         "30": {
           "status": "completed",
@@ -631,9 +631,9 @@
       "name": "神奈川県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -646,9 +646,9 @@
           "processed": 0
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "5": {
           "status": "identified",
@@ -661,9 +661,9 @@
           "processed": 4
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "8": {
           "status": "completed",
@@ -696,9 +696,9 @@
           "processed": 0
         },
         "14": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "15": {
           "status": "identified",
@@ -721,9 +721,9 @@
           "processed": 0
         },
         "19": {
-          "status": "identified",
+          "status": "completed",
           "total": 7,
-          "processed": 0
+          "processed": 7
         },
         "20": {
           "status": "completed",
@@ -741,14 +741,14 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "4": {
           "status": "identified",
@@ -771,9 +771,9 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "3": {
           "status": "identified",
@@ -786,9 +786,9 @@
       "name": "石川県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -806,9 +806,9 @@
       "name": "福井県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "identified",
@@ -821,9 +821,9 @@
       "name": "山梨県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "identified",
@@ -851,9 +851,9 @@
           "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "5": {
           "status": "identified",
@@ -866,9 +866,9 @@
       "name": "岐阜県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "2": {
           "status": "identified",
@@ -886,9 +886,9 @@
           "processed": 2
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -906,9 +906,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "identified",
@@ -926,9 +926,9 @@
           "processed": 3
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "8": {
           "status": "identified",
@@ -946,24 +946,24 @@
           "processed": 0
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "6": {
           "status": "identified",
@@ -991,9 +991,9 @@
           "processed": 3
         },
         "11": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "12": {
           "status": "identified",
@@ -1001,9 +1001,9 @@
           "processed": 0
         },
         "13": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "14": {
           "status": "completed",
@@ -1016,9 +1016,9 @@
           "processed": 0
         },
         "16": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -1026,9 +1026,9 @@
       "name": "三重県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
           "status": "identified",
@@ -1051,9 +1051,9 @@
       "name": "滋賀県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -1061,9 +1061,9 @@
           "processed": 3
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "abolished",
@@ -1076,9 +1076,9 @@
       "name": "京都府",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 7,
-          "processed": 0
+          "processed": 7
         },
         "2": {
           "status": "completed",
@@ -1086,9 +1086,9 @@
           "processed": 6
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "identified",
@@ -1111,24 +1111,24 @@
       "name": "大阪府",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "5": {
           "status": "identified",
@@ -1161,9 +1161,9 @@
           "processed": 0
         },
         "11": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "12": {
           "status": "completed",
@@ -1181,9 +1181,9 @@
           "processed": 4
         },
         "15": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "16": {
           "status": "identified",
@@ -1211,9 +1211,9 @@
       "name": "兵庫県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 7,
-          "processed": 0
+          "processed": 7
         },
         "2": {
           "status": "completed",
@@ -1221,9 +1221,9 @@
           "processed": 4
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "identified",
@@ -1231,14 +1231,14 @@
           "processed": 0
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "7": {
           "status": "identified",
@@ -1276,9 +1276,9 @@
       "name": "奈良県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -1296,9 +1296,9 @@
       "name": "和歌山県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "2": {
           "status": "identified",
@@ -1311,9 +1311,9 @@
       "name": "鳥取県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1351,9 +1351,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "4": {
           "status": "completed",
@@ -1371,9 +1371,9 @@
       "name": "広島県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 7,
-          "processed": 0
+          "processed": 7
         },
         "2": {
           "status": "completed",
@@ -1411,9 +1411,9 @@
       "name": "山口県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
           "status": "identified",
@@ -1431,9 +1431,9 @@
       "name": "徳島県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "completed",
@@ -1446,9 +1446,9 @@
       "name": "香川県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "identified",
@@ -1466,9 +1466,9 @@
       "name": "愛媛県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1506,9 +1506,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "identified",
@@ -1551,9 +1551,9 @@
           "processed": 0
         },
         "11": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "12": {
           "status": "none",
@@ -1566,14 +1566,14 @@
       "name": "佐賀県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         }
       }
     },
@@ -1601,24 +1601,24 @@
       "name": "熊本県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "4": {
-          "status": "identified",
-          "total": 5,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         }
       }
     },
@@ -1626,14 +1626,14 @@
       "name": "大分県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "3": {
           "status": "identified",
@@ -1646,9 +1646,9 @@
       "name": "宮崎県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1661,9 +1661,9 @@
       "name": "鹿児島県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
           "status": "identified",
@@ -1671,9 +1671,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "4": {
           "status": "identified",
@@ -1686,9 +1686,9 @@
       "name": "沖縄県",
       "districts": {
         "1": {
-          "status": "identified",
-          "total": 5,
-          "processed": 0
+          "status": "completed",
+          "total": 4,
+          "processed": 4
         },
         "2": {
           "status": "completed",

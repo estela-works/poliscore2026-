@@ -3,17 +3,17 @@
   "prefecture_name": "山梨県",
   "total_districts": 2,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.231450",
+  "last_updated": "2026-01-28T02:29:56.985133",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 2,
+    "identified": 1,
     "processing": 0,
-    "completed": 0,
+    "completed": 1,
     "abolished": 0
   },
   "total_candidates": 6,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "party_summary": {
     "自由民主党": 2,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 2,

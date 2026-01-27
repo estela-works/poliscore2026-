@@ -3,17 +3,17 @@
   "prefecture_name": "埼玉県",
   "total_districts": 16,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.207606",
+  "last_updated": "2026-01-28T02:29:56.957942",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 2,
-    "processing": 12,
-    "completed": 2,
+    "identified": 1,
+    "processing": 11,
+    "completed": 4,
     "abolished": 0
   },
   "total_candidates": 76,
-  "processed_candidates": 22,
+  "processed_candidates": 31,
   "party_summary": {
     "自由民主党": 17,
     "立憲民主党": 1,
@@ -102,9 +102,9 @@
     },
     {
       "district_number": 13,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 7,
-      "processed_candidates": 1
+      "processed_candidates": 7
     },
     {
       "district_number": 14,
@@ -120,9 +120,9 @@
     },
     {
       "district_number": 16,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     }
   ]
 }

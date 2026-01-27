@@ -3,17 +3,17 @@
   "prefecture_name": "岡山県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.256040",
+  "last_updated": "2026-01-28T02:29:57.020574",
   "status_summary": {
     "none": 1,
     "pre": 0,
-    "identified": 2,
+    "identified": 1,
     "processing": 0,
-    "completed": 2,
+    "completed": 3,
     "abolished": 0
   },
   "total_candidates": 15,
-  "processed_candidates": 9,
+  "processed_candidates": 11,
   "party_summary": {
     "自由民主党": 4,
     "立憲民主党": 1,
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 0
+      "processed_candidates": 2
     },
     {
       "district_number": 4,

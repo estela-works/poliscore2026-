@@ -3,17 +3,17 @@
   "prefecture_name": "広島県",
   "total_districts": 7,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.257348",
+  "last_updated": "2026-01-28T02:29:57.022723",
   "status_summary": {
     "none": 1,
     "pre": 0,
-    "identified": 4,
+    "identified": 3,
     "processing": 0,
-    "completed": 2,
+    "completed": 3,
     "abolished": 0
   },
   "total_candidates": 25,
-  "processed_candidates": 9,
+  "processed_candidates": 16,
   "party_summary": {
     "自由民主党": 6,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 7,
-      "processed_candidates": 0
+      "processed_candidates": 7
     },
     {
       "district_number": 2,

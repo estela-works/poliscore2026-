@@ -3,17 +3,17 @@
   "prefecture_name": "新潟県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.227183",
+  "last_updated": "2026-01-28T02:29:56.980289",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 3,
+    "identified": 1,
     "processing": 0,
-    "completed": 2,
+    "completed": 4,
     "abolished": 0
   },
   "total_candidates": 19,
-  "processed_candidates": 8,
+  "processed_candidates": 15,
   "party_summary": {
     "自由民主党": 5,
     "立憲民主党": 0,
@@ -36,15 +36,15 @@
     },
     {
       "district_number": 2,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 4,

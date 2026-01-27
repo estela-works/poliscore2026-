@@ -2,18 +2,18 @@
   "prefecture_code": "12",
   "prefecture_name": "千葉県",
   "total_districts": 14,
-  "is_official": false,
-  "last_updated": "2026-01-27T19:30:00.212359",
+  "is_official": true,
+  "last_updated": "2026-01-28T02:29:56.962774",
   "status_summary": {
     "none": 0,
-    "pre": 11,
-    "identified": 1,
+    "pre": 9,
+    "identified": 0,
     "processing": 0,
-    "completed": 2,
+    "completed": 5,
     "abolished": 0
   },
   "total_candidates": 52,
-  "processed_candidates": 6,
+  "processed_candidates": 17,
   "party_summary": {
     "自由民主党": 14,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "pre",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 2,
@@ -48,9 +48,9 @@
     },
     {
       "district_number": 4,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 5,
@@ -96,9 +96,9 @@
     },
     {
       "district_number": 12,
-      "status": "pre",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 13,

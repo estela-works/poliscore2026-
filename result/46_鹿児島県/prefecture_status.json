@@ -3,24 +3,24 @@
   "prefecture_name": "鹿児島県",
   "total_districts": 4,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.270459",
+  "last_updated": "2026-01-28T02:29:57.041790",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 4,
+    "identified": 2,
     "processing": 0,
-    "completed": 0,
+    "completed": 2,
     "abolished": 0
   },
   "total_candidates": 13,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "party_summary": {
     "自由民主党": 5,
-    "立憲民主党": 1,
+    "立憲民主党": 2,
     "日本維新の会": 1,
     "公明党": 0,
     "日本共産党": 1,
-    "国民民主党": 2,
+    "国民民主党": 1,
     "れいわ新選組": 0,
     "社会民主党": 1,
     "参政党": 2,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 2,
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 0
+      "processed_candidates": 2
     },
     {
       "district_number": 4,

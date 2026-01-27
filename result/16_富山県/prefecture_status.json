@@ -3,20 +3,20 @@
   "prefecture_name": "富山県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.228889",
+  "last_updated": "2026-01-28T02:29:56.982062",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 3,
+    "identified": 2,
     "processing": 0,
-    "completed": 0,
+    "completed": 1,
     "abolished": 0
   },
   "total_candidates": 10,
-  "processed_candidates": 0,
+  "processed_candidates": 2,
   "party_summary": {
     "自由民主党": 3,
-    "立憲民主党": 0,
+    "立憲民主党": 1,
     "日本維新の会": 0,
     "公明党": 0,
     "日本共産党": 2,
@@ -25,7 +25,7 @@
     "社会民主党": 0,
     "参政党": 2,
     "無所属": 0,
-    "その他": 2
+    "その他": 1
   },
   "districts": [
     {
@@ -36,9 +36,9 @@
     },
     {
       "district_number": 2,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 0
+      "processed_candidates": 2
     },
     {
       "district_number": 3,

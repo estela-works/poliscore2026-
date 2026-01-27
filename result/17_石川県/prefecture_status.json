@@ -3,17 +3,17 @@
   "prefecture_name": "石川県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00.229807",
+  "last_updated": "2026-01-28T02:29:56.983114",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 2,
+    "identified": 1,
     "processing": 0,
-    "completed": 1,
+    "completed": 2,
     "abolished": 0
   },
   "total_candidates": 10,
-  "processed_candidates": 3,
+  "processed_candidates": 8,
   "party_summary": {
     "自由民主党": 3,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 2,
