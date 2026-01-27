@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "17",
+  "prefecture_name": "石川県",
+  "district_number": 3,
+  "district_name": "石川3区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "西田昭二",
+      "name_kana": "にしだ しょうじ",
+      "age": 56,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "近藤和也",
+      "name_kana": "こんどう かずや",
+      "age": 52,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "南章治",
+      "name_kana": "みなみ しょうじ",
+      "age": 70,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

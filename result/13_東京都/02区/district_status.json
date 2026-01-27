@@ -1,0 +1,111 @@
+{
+  "prefecture_code": "13",
+  "prefecture_name": "東京都",
+  "district_number": 2,
+  "district_name": "東京2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 7,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "辻清人",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鳩山紀一郎",
+      "name_kana": "",
+      "age": 0,
+      "party": "国民民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "今村充",
+      "name_kana": "",
+      "age": 0,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "海江田悠輔",
+      "name_kana": "",
+      "age": 0,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "細野真理",
+      "name_kana": "",
+      "age": 0,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "土橋章宏",
+      "name_kana": "",
+      "age": 0,
+      "party": "チームみらい",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "天野こころ",
+      "name_kana": "",
+      "age": 0,
+      "party": "再生の道",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

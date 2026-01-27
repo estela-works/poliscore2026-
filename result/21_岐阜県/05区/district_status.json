@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "21",
+  "prefecture_name": "岐阜県",
+  "district_number": 5,
+  "district_name": "岐阜5区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "古屋圭司",
+      "name_kana": "ふるやけいじ",
+      "age": 71,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "眞野哲",
+      "name_kana": "まのさとし",
+      "age": 63,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山田良司",
+      "name_kana": "やまだりょうじ",
+      "age": 64,
+      "party": "日本維新の会",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

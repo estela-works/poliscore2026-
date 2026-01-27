@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "36",
+  "prefecture_name": "徳島県",
+  "district_number": 2,
+  "district_name": "徳島2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "山口俊一",
+      "name_kana": "やまぐちしゅんいち",
+      "age": 74,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "飯泉嘉門",
+      "name_kana": "いいずみかもん",
+      "age": 64,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "祝聡",
+      "name_kana": "ほうりさとし",
+      "age": 55,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "浜共生",
+      "name_kana": "はまともお",
+      "age": 43,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

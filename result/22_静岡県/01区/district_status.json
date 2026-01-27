@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "22",
+  "prefecture_name": "静岡県",
+  "district_number": 1,
+  "district_name": "静岡1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "上川陽子",
+      "name_kana": "かみかわ ようこ",
+      "age": 71,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高橋美穂",
+      "name_kana": "たかはし みほ",
+      "age": 59,
+      "party": "立憲民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山下洸棋",
+      "name_kana": "やました こうき",
+      "age": 33,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鈴木節子",
+      "name_kana": "すずき せつこ",
+      "age": 69,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鈴木惇弘",
+      "name_kana": "すずき あつひろ",
+      "age": 82,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

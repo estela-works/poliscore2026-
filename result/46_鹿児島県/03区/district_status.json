@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "46",
+  "prefecture_name": "鹿児島県",
+  "district_number": 3,
+  "district_name": "鹿児島3区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "野間健",
+      "name_kana": "のま たけし",
+      "age": 66,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小里泰弘",
+      "name_kana": "おざと やすひろ",
+      "age": 66,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "23",
+  "prefecture_name": "愛知県",
+  "district_number": 5,
+  "district_name": "愛知5区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "西川厚志",
+      "name_kana": "にしかわ あつし",
+      "age": 55,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "神田憲次",
+      "name_kana": "かんだ けんじ",
+      "age": 61,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岬麻紀",
+      "name_kana": "みさき まき",
+      "age": 55,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "江上博之",
+      "name_kana": "えがみ ひろゆき",
+      "age": 69,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "田中克和",
+      "name_kana": "たなか かつかず",
+      "age": 40,
+      "party": "日本保守党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

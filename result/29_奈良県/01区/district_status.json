@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "29",
+  "prefecture_name": "奈良県",
+  "district_number": 1,
+  "district_name": "奈良1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "高野敦",
+      "name_kana": "たかのあつし",
+      "age": 49,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "井上良子",
+      "name_kana": "いのうえよしこ",
+      "age": 60,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "馬淵澄夫",
+      "name_kana": "まぶちすみお",
+      "age": 64,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "林元政子",
+      "name_kana": "はやしもとまさこ",
+      "age": 50,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小林茂樹",
+      "name_kana": "こばやししげき",
+      "age": 60,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

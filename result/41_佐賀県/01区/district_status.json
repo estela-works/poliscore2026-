@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "41",
+  "prefecture_name": "佐賀県",
+  "district_number": 1,
+  "district_name": "佐賀1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "原口一博",
+      "name_kana": "はらぐち かずひろ",
+      "age": 65,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岩田和親",
+      "name_kana": "いわた かずちか",
+      "age": 51,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

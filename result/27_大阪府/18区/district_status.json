@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "27",
+  "prefecture_name": "大阪府",
+  "district_number": 18,
+  "district_name": "大阪18区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "遠藤敬",
+      "name_kana": "えんどう たかし",
+      "age": 56,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "内田孝嗣",
+      "name_kana": "うちだ たかつぐ",
+      "age": 45,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "馬場秀樹",
+      "name_kana": "ばば ひでき",
+      "age": 52,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "松岡能礼",
+      "name_kana": "まつおか よしのり",
+      "age": 30,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

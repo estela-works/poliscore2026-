@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "16",
+  "prefecture_name": "富山県",
+  "district_number": 1,
+  "district_name": "富山1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "中田宏",
+      "name_kana": "なかだ ひろし",
+      "age": 61,
+      "party": "自由民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山登志浩",
+      "name_kana": "やま としひろ",
+      "age": 46,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "青山了介",
+      "name_kana": "あおやま りょうすけ",
+      "age": 50,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "斉藤匠",
+      "name_kana": "さいとう たくみ",
+      "age": 34,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "27",
+  "prefecture_name": "大阪府",
+  "district_number": 8,
+  "district_name": "大阪8区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "漆間譲司",
+      "name_kana": "うるま じょうじ",
+      "age": 50,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高麗啓一郎",
+      "name_kana": "こうらい けいいちろう",
+      "age": 44,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平岩征樹",
+      "name_kana": "ひらいわ まさき",
+      "age": 44,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平川節代",
+      "name_kana": "ひらかわ せつよ",
+      "age": 76,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "谷浩一郎",
+      "name_kana": "たに こういちろう",
+      "age": 43,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

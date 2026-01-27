@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "27",
+  "prefecture_name": "大阪府",
+  "district_number": 5,
+  "district_name": "大阪5区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "梅村聡",
+      "name_kana": "うめむら さとし",
+      "age": 49,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "国重徹",
+      "name_kana": "くにしげ とおる",
+      "age": 49,
+      "party": "公明党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "大石あきこ",
+      "name_kana": "おおいし あきこ",
+      "age": 47,
+      "party": "れいわ新選組",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "宮本岳志",
+      "name_kana": "みやもと たけし",
+      "age": 64,
+      "party": "日本共産党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "石橋篤史",
+      "name_kana": "いしばし あつし",
+      "age": 45,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

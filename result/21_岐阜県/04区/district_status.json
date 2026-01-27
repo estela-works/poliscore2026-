@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "21",
+  "prefecture_name": "岐阜県",
+  "district_number": 4,
+  "district_name": "岐阜4区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "今井雅人",
+      "name_kana": "いまいまさと",
+      "age": 62,
+      "party": "立憲民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "金子俊平",
+      "name_kana": "かねこしゅんぺい",
+      "age": 46,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

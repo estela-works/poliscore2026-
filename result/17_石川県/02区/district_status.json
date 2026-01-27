@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "17",
+  "prefecture_name": "石川県",
+  "district_number": 2,
+  "district_name": "石川2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "佐々木紀",
+      "name_kana": "ささき はじめ",
+      "age": 51,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小山田経子",
+      "name_kana": "おやまだ つねこ",
+      "age": 47,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "坂本浩",
+      "name_kana": "さかもと ひろし",
+      "age": 61,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

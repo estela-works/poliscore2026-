@@ -1,0 +1,97 @@
+{
+  "prefecture_code": "40",
+  "prefecture_name": "福岡県",
+  "district_number": 4,
+  "district_name": "福岡4区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "宮内秀樹",
+      "name_kana": "みやうちひでき",
+      "age": 62,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "吉松源昭",
+      "name_kana": "よしまつもとあき",
+      "age": 56,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "阿部弘樹",
+      "name_kana": "あべひろき",
+      "age": 62,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "行平佳弘",
+      "name_kana": "ゆくひらよしひろ",
+      "age": 38,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "許斐亮太郎",
+      "name_kana": "このみりょうたろう",
+      "age": 50,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "宗晶子",
+      "name_kana": "むねあきこ",
+      "age": 53,
+      "party": "社会民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

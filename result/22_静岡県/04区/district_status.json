@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "22",
+  "prefecture_name": "静岡県",
+  "district_number": 4,
+  "district_name": "静岡4区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "田中健",
+      "name_kana": "たなか けん",
+      "age": 47,
+      "party": "国民民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "深澤陽一",
+      "name_kana": "ふかざわ よういち",
+      "age": 48,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

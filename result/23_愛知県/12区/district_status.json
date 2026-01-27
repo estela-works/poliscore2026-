@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "23",
+  "prefecture_name": "愛知県",
+  "district_number": 12,
+  "district_name": "愛知12区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "重徳和彦",
+      "name_kana": "しげとく かずひこ",
+      "age": 53,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "青山周平",
+      "name_kana": "あおやま しゅうへい",
+      "age": 47,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "関久一",
+      "name_kana": "せき ひさかず",
+      "age": 73,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中川博登",
+      "name_kana": "なかがわ ひろと",
+      "age": 46,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "15",
+  "prefecture_name": "新潟県",
+  "district_number": 2,
+  "district_name": "新潟2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "菊田真紀子",
+      "name_kana": "きくたまきこ",
+      "age": 56,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "国定勇人",
+      "name_kana": "くにさだはやと",
+      "age": 53,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平井えりこ",
+      "name_kana": "ひらいえりこ",
+      "age": 47,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

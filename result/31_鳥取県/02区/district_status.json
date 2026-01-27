@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "31",
+  "prefecture_name": "鳥取県",
+  "district_number": 2,
+  "district_name": "鳥取2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "赤沢亮正",
+      "name_kana": "あかざわ りょうせい",
+      "age": 63,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "湯原俊二",
+      "name_kana": "ゆはら しゅんじ",
+      "age": 61,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

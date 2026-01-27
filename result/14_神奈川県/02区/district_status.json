@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "14",
+  "prefecture_name": "神奈川県",
+  "district_number": 2,
+  "district_name": "神奈川2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "新田章文",
+      "name_kana": "にった あきふみ",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "柳家東三楼",
+      "name_kana": "やなぎや とうざぶろう",
+      "age": 0,
+      "party": "中道改革連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "片山智絵",
+      "name_kana": "かたやま ちえ",
+      "age": 0,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "並木まり子",
+      "name_kana": "なみき まりこ",
+      "age": 0,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平本幸次郎",
+      "name_kana": "ひらもと こうじろう",
+      "age": 0,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "45",
+  "prefecture_name": "宮崎県",
+  "district_number": 1,
+  "district_name": "宮崎1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "渡辺創",
+      "name_kana": "わたなべ そう",
+      "age": 47,
+      "party": "立憲民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "武井俊輔",
+      "name_kana": "たけい しゅんすけ",
+      "age": 49,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "外山斎",
+      "name_kana": "とやま いつき",
+      "age": 48,
+      "party": "日本維新の会",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "滋井祐香",
+      "name_kana": "しげい ゆか",
+      "age": 44,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

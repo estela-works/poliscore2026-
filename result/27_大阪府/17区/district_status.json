@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "27",
+  "prefecture_name": "大阪府",
+  "district_number": 17,
+  "district_name": "大阪17区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "馬場伸幸",
+      "name_kana": "ばば のぶゆき",
+      "age": 59,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岡下昌平",
+      "name_kana": "おかした しょうへい",
+      "age": 49,
+      "party": "自由民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "澤田組子",
+      "name_kana": "さわだ くみこ",
+      "age": 37,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

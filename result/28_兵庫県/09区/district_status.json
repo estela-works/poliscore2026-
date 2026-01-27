@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "28",
+  "prefecture_name": "兵庫県",
+  "district_number": 9,
+  "district_name": "兵庫9区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "西村康稔",
+      "name_kana": "にしむらやすとし",
+      "age": 62,
+      "party": "無所属",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "橋本慧悟",
+      "name_kana": "はしもとけいご",
+      "age": 35,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "加古貴一郎",
+      "name_kana": "かこきいちろう",
+      "age": 61,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "高田良信",
+      "name_kana": "たかだよしのぶ",
+      "age": 78,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "20",
+  "prefecture_name": "長野県",
+  "district_number": 5,
+  "district_name": "長野5区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "宮下一郎",
+      "name_kana": "みやした いちろう",
+      "age": 67,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "福田淳太",
+      "name_kana": "ふくだ じゅんた",
+      "age": 31,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

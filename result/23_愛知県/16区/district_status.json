@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "23",
+  "prefecture_name": "愛知県",
+  "district_number": 16,
+  "district_name": "愛知16区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "福田徹",
+      "name_kana": "ふくだ とおる",
+      "age": 42,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "松田功",
+      "name_kana": "まつだ いさお",
+      "age": 56,
+      "party": "立憲民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "犬飼明佳",
+      "name_kana": "いぬかい あきよし",
+      "age": 52,
+      "party": "公明党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "松崎省三",
+      "name_kana": "まつざき しょうぞう",
+      "age": 78,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

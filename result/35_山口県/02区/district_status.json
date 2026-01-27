@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "35",
+  "prefecture_name": "山口県",
+  "district_number": 2,
+  "district_name": "山口2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "平岡秀夫",
+      "name_kana": "ひらおか・ひでお",
+      "age": 70,
+      "party": "立憲民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岸信千世",
+      "name_kana": "きし・のぶちよ",
+      "age": 33,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

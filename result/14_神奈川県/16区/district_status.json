@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "14",
+  "prefecture_name": "神奈川県",
+  "district_number": 16,
+  "district_name": "神奈川16区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "佐藤主迪",
+      "name_kana": "さとう かずみち",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "後藤祐一",
+      "name_kana": "ごとう ゆういち",
+      "age": 56,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

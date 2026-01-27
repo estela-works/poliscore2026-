@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "28",
+  "prefecture_name": "兵庫県",
+  "district_number": 3,
+  "district_name": "兵庫3区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "関芳弘",
+      "name_kana": "せきよしひろ",
+      "age": 59,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "向山好一",
+      "name_kana": "むこうやまこういち",
+      "age": 67,
+      "party": "国民民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "和田有一朗",
+      "name_kana": "わだゆういちろう",
+      "age": 60,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "加藤健二",
+      "name_kana": "かとうけんじ",
+      "age": 64,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

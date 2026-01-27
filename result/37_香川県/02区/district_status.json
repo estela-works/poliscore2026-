@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "37",
+  "prefecture_name": "香川県",
+  "district_number": 2,
+  "district_name": "香川2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "玉木雄一郎",
+      "name_kana": "たまき ゆういちろう",
+      "age": 55,
+      "party": "国民民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "瀬戸隆一",
+      "name_kana": "せと りゅういち",
+      "age": 59,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "石田真優",
+      "name_kana": "いしだ まゆ",
+      "age": 42,
+      "party": "共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

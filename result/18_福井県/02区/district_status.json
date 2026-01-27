@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "18",
+  "prefecture_name": "福井県",
+  "district_number": 2,
+  "district_name": "福井2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "辻英之",
+      "name_kana": "つじひでゆき",
+      "age": 55,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "斉木武志",
+      "name_kana": "さいきたけし",
+      "age": 51,
+      "party": "無所属",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

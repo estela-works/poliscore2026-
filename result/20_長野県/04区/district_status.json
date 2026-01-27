@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "20",
+  "prefecture_name": "長野県",
+  "district_number": 4,
+  "district_name": "長野4区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "後藤茂之",
+      "name_kana": "ごとうしげゆき",
+      "age": 70,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "花岡明久",
+      "name_kana": "はなおかあきひさ",
+      "age": 46,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "武田良介",
+      "name_kana": "たけだりょうすけ",
+      "age": 46,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

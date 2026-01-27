@@ -1,0 +1,83 @@
+{
+  "prefecture_code": "46",
+  "prefecture_name": "鹿児島県",
+  "district_number": 2,
+  "district_name": "鹿児島2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "三反園訓",
+      "name_kana": "みたぞの さとし",
+      "age": 66,
+      "party": "無所属",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "保岡宏武",
+      "name_kana": "やすおか ひろたけ",
+      "age": 51,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "辻健太郎",
+      "name_kana": "つじ けんたろう",
+      "age": 38,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "松崎真琴",
+      "name_kana": "まつざき まこと",
+      "age": 66,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "矢竹ゆかり",
+      "name_kana": "やたけ ゆかり",
+      "age": 61,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

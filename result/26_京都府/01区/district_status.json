@@ -1,0 +1,111 @@
+{
+  "prefecture_code": "26",
+  "prefecture_name": "京都府",
+  "district_number": 1,
+  "district_name": "京都1区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 7,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "勝目康",
+      "name_kana": "かつめ やすし",
+      "age": 50,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "堀場幸子",
+      "name_kana": "ほりば さちこ",
+      "age": 45,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平竹耕三",
+      "name_kana": "ひらたけ こうぞう",
+      "age": 65,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "井坂博文",
+      "name_kana": "いさか ひろふみ",
+      "age": 68,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "安持成美",
+      "name_kana": "やすもち なるみ",
+      "age": 36,
+      "party": "れいわ新選組",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "安達悠司",
+      "name_kana": "あだち ゆうじ",
+      "age": 42,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山下博子",
+      "name_kana": "やました ひろこ",
+      "age": 77,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

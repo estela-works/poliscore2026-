@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "47",
+  "prefecture_name": "沖縄県",
+  "district_number": 2,
+  "district_name": "沖縄2区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2025-01-27T00:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "新垣邦男",
+      "name_kana": "あらかき くにお",
+      "age": 68,
+      "party": "社会民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "宮崎政久",
+      "name_kana": "みやざき まさひさ",
+      "age": 59,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "赤嶺昇",
+      "name_kana": "あかみね のぼる",
+      "age": 57,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "今野麻美",
+      "name_kana": "こんの あさみ",
+      "age": 47,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}
