@@ -3,65 +3,65 @@
   "prefecture_name": "神奈川県",
   "district_number": 6,
   "district_name": "神奈川6区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "古川直季",
       "name_kana": "ふるかわ なおき",
-      "age": 57,
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "青柳陽一郎",
       "name_kana": "あおやぎ よういちろう",
-      "age": 56,
+      "age": 55,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "塩坂源一郎",
       "name_kana": "しおさか げんいちろう",
-      "age": 0,
+      "age": 61,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "植木真理子",
       "name_kana": "うえき まりこ",
-      "age": 0,
+      "age": 74,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
