@@ -5,8 +5,8 @@
   "district_name": "高知2区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 2,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -24,9 +24,23 @@
       }
     },
     {
+      "name": "前田強",
+      "name_kana": "まえだ つよし",
+      "age": 42,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
       "name": "浜川百合子",
       "name_kana": "はまかわ ゆりこ",
-      "age": 45,
+      "age": 43,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

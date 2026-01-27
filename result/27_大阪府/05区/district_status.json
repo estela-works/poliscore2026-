@@ -6,7 +6,7 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -15,20 +15,6 @@
       "age": 49,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "国重徹",
-      "name_kana": "くにしげ とおる",
-      "age": 49,
-      "party": "公明党",
-      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,

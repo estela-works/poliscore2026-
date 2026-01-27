@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "22",
+  "prefecture_name": "静岡県",
+  "district_number": 7,
+  "district_name": "静岡7区",
+  "status": "identified",
+  "is_official": true,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 0,
+  "candidates": [
+    {
+      "name": "城内実",
+      "name_kana": "きうち みのる",
+      "age": 60,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "北野谷富子",
+      "name_kana": "きたのや ふくこ",
+      "age": 41,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "袴田サヤカ",
+      "name_kana": "はかまた さやか",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 4,
+  "total_candidates": 5,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -29,7 +29,7 @@
       "name_kana": "たけうち ちはる",
       "age": 56,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "result": "比例復活",
       "votes": 66103,
       "processing": {
@@ -62,6 +62,19 @@
       "status": "新人",
       "result": "落選",
       "votes": 14731,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中村尚子",
+      "name_kana": "なかむら なおこ",
+      "age": 60,
+      "party": "参政党",
+      "status": "新人",
       "processing": {
         "researched": false,
         "evaluated": false,

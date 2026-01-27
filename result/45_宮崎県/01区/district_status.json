@@ -5,14 +5,14 @@
   "district_name": "宮崎1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "渡辺創",
       "name_kana": "わたなべ そう",
-      "age": 47,
+      "age": 48,
       "party": "立憲民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -38,11 +38,11 @@
       }
     },
     {
-      "name": "外山斎",
-      "name_kana": "とやま いつき",
-      "age": 48,
+      "name": "横田朋大",
+      "name_kana": "よこた ともひろ",
+      "age": 37,
       "party": "日本維新の会",
-      "status": "元職",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,

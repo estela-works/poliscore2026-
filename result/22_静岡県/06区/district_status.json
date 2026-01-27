@@ -5,17 +5,17 @@
   "district_name": "静岡6区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "渡辺周",
       "name_kana": "わたなべ しゅう",
-      "age": 62,
-      "party": "立憲民主党",
+      "age": 64,
+      "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
+      "proportional_rank": 4,
       "processing": {
         "researched": false,
         "evaluated": false,
@@ -26,10 +26,10 @@
     {
       "name": "勝俣孝明",
       "name_kana": "かつまた たかあき",
-      "age": 48,
+      "age": 49,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "proportional_rank": 2,
       "processing": {
         "researched": false,
         "evaluated": false,
@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "冨谷皐介",
-      "name_kana": "とみたに こうすけ",
-      "age": 55,
-      "party": "れいわ新選組",
+      "name": "輦止保教",
+      "name_kana": "くるまど やすのり",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

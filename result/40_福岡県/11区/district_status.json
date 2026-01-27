@@ -5,8 +5,8 @@
   "district_name": "福岡11区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -14,7 +14,7 @@
       "name_kana": "むらかみとものぶ",
       "age": 55,
       "party": "日本維新の会",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -28,7 +28,7 @@
       "name_kana": "たけだりょうた",
       "age": 56,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -42,6 +42,34 @@
       "name_kana": "しきれいこ",
       "age": 71,
       "party": "社会民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "辻智之",
+      "name_kana": "つじともゆき",
+      "age": null,
+      "party": "中道改革連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "井上直生",
+      "name_kana": "いのうえなおき",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

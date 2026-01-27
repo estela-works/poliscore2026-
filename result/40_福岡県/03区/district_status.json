@@ -6,7 +6,7 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -24,11 +24,11 @@
       }
     },
     {
-      "name": "奥田ふみよ",
-      "name_kana": "おくだふみよ",
-      "age": 47,
-      "party": "れいわ新選組",
-      "status": "元職",
+      "name": "天野こう",
+      "name_kana": "あまのこう",
+      "age": 38,
+      "party": "日本維新の会",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -38,10 +38,24 @@
       }
     },
     {
-      "name": "天野こう",
-      "name_kana": "あまのこう",
-      "age": 38,
-      "party": "日本維新の会",
+      "name": "仁戸田元氣",
+      "name_kana": "にとだげんき",
+      "age": null,
+      "party": "中道改革連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "原賀瞳",
+      "name_kana": "はらがひとみ",
+      "age": null,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -6,7 +6,7 @@
   "status": "processing",
   "is_official": true,
   "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "total_candidates": 6,
   "processed_candidates": 3,
   "candidates": [
     {
@@ -81,6 +81,21 @@
         "researched": false,
         "evaluated": false,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "伊藤純子",
+      "name_kana": "いとう じゅんこ",
+      "age": null,
+      "party": "日本保守党",
+      "status": "新人",
+      "result": null,
+      "votes": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

@@ -5,14 +5,14 @@
   "district_name": "熊本3区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "坂本哲志",
-      "name_kana": "さかもとてつし",
-      "age": 73,
+      "name_kana": "さかもと てつし",
+      "age": 75,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -25,7 +25,7 @@
     },
     {
       "name": "橋村りか",
-      "name_kana": "はしむらりか",
+      "name_kana": "はしむら りか",
       "age": 53,
       "party": "社会民主党",
       "status": "新人",
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "植田貴俊",
-      "name_kana": "うえだたかとし",
-      "age": 40,
+      "name": "霍田和佳",
+      "name_kana": "つるた わか",
+      "age": 39,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

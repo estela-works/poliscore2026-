@@ -10,23 +10,9 @@
   "processed_candidates": 0,
   "candidates": [
     {
-      "name": "玉木雄一郎",
-      "name_kana": "たまき ゆういちろう",
-      "age": 55,
-      "party": "国民民主党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
       "name": "瀬戸隆一",
       "name_kana": "せと りゅういち",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -38,10 +24,24 @@
       }
     },
     {
-      "name": "石田真優",
-      "name_kana": "いしだ まゆ",
-      "age": 42,
-      "party": "共産党",
+      "name": "玉木雄一郎",
+      "name_kana": "たまき ゆういちろう",
+      "age": 56,
+      "party": "国民民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "秋山友理子",
+      "name_kana": "あきやま ゆりこ",
+      "age": 41,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

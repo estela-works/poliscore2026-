@@ -3,13 +3,14 @@
   "prefecture_name": "宮城県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-26T17:38:33.944738",
+  "last_updated": "2026-01-27T14:38:17.752488",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
     "processing": 0,
-    "completed": 5
+    "completed": 5,
+    "abolished": 0
   },
   "total_candidates": 16,
   "processed_candidates": 16,

@@ -5,14 +5,14 @@
   "district_name": "広島4区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 2,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "空本誠喜",
       "name_kana": "そらもとせいき",
-      "age": 60,
+      "age": 61,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -24,11 +24,25 @@
       }
     },
     {
-      "name": "寺田稔",
-      "name_kana": "てらだみのる",
-      "age": 66,
+      "name": "新谷正義",
+      "name_kana": "しんたにまさよし",
+      "age": 50,
       "party": "自由民主党",
       "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鍋島勢理",
+      "name_kana": "なべしませり",
+      "age": 34,
+      "party": "国民民主党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,

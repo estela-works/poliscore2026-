@@ -5,30 +5,16 @@
   "district_name": "岡山1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
-      "name": "住寄聡美",
-      "name_kana": "すみよりさとみ",
-      "age": 41,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "服部千秋",
-      "name_kana": "はっとりちあき",
-      "age": 64,
-      "party": "日本維新の会",
-      "status": "新人",
+      "name": "逢沢一郎",
+      "name_kana": "あいさわいちろう",
+      "age": 71,
+      "party": "自由民主党",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -40,8 +26,8 @@
     {
       "name": "原田謙介",
       "name_kana": "はらだけんすけ",
-      "age": 38,
-      "party": "立憲民主党",
+      "age": 39,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -52,9 +38,9 @@
       }
     },
     {
-      "name": "佐々木雄司",
-      "name_kana": "ささきゆうじ",
-      "age": 54,
+      "name": "原紘志",
+      "name_kana": "はらひろし",
+      "age": 44,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -66,11 +52,25 @@
       }
     },
     {
-      "name": "逢沢一郎",
-      "name_kana": "あいさわいちろう",
-      "age": 70,
-      "party": "自由民主党",
-      "status": "前職",
+      "name": "住寄聡美",
+      "name_kana": "すみよりさとみ",
+      "age": 42,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山本安音",
+      "name_kana": "やまもとやすね",
+      "age": 26,
+      "party": "参政党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,

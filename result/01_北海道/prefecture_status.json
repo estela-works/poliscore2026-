@@ -3,13 +3,14 @@
   "prefecture_name": "北海道",
   "total_districts": 12,
   "is_official": false,
-  "last_updated": "2026-01-26T17:38:33.940002",
+  "last_updated": "2026-01-27T14:38:17.747116",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
     "processing": 0,
-    "completed": 12
+    "completed": 12,
+    "abolished": 0
   },
   "total_candidates": 38,
   "processed_candidates": 38,

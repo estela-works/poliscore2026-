@@ -5,7 +5,7 @@
   "district_name": "福岡10区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "城井崇",
       "name_kana": "きいたかし",
       "age": 51,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "西田ちから",
-      "name_kana": "にしだちから",
-      "age": 59,
-      "party": "日本維新の会",
+      "name": "熊本要",
+      "name_kana": "くまもとかなめ",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -52,24 +52,24 @@
       }
     },
     {
-      "name": "大西啓雅",
-      "name_kana": "おおにしひろまさ",
-      "age": 51,
-      "party": "無所属",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "田代清彦",
-      "name_kana": "たしろきよひこ",
-      "age": 59,
+      "name": "古賀邦俊",
+      "name_kana": "こがくにとし",
+      "age": null,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "大石仁人",
+      "name_kana": "おおいしひとと",
+      "age": null,
+      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -6,13 +6,13 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "高見康裕",
-      "name_kana": "たかみ やすひろ",
-      "age": 44,
+      "name_kana": "たかみやすひろ",
+      "age": 45,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -25,9 +25,9 @@
     },
     {
       "name": "大塚聡子",
-      "name_kana": "おおつか さとこ",
-      "age": 57,
-      "party": "立憲民主党",
+      "name_kana": "おおつかさとこ",
+      "age": 58,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -39,9 +39,23 @@
     },
     {
       "name": "亀谷優子",
-      "name_kana": "かめたに ゆうこ",
-      "age": 38,
+      "name_kana": "かめたにゆうこ",
+      "age": 39,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "倉井克幸",
+      "name_kana": "くらいかつゆき",
+      "age": 43,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

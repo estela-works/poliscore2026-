@@ -2,59 +2,60 @@
   "prefecture_code": "20",
   "prefecture_name": "長野県",
   "total_districts": 5,
-  "is_official": false,
-  "last_updated": "2026-01-26T17:38:33.966980",
+  "is_official": true,
+  "last_updated": "2026-01-27T14:38:17.782170",
   "status_summary": {
-    "none": 5,
+    "none": 0,
     "pre": 0,
-    "identified": 0,
+    "identified": 5,
     "processing": 0,
-    "completed": 0
+    "completed": 0,
+    "abolished": 0
   },
-  "total_candidates": 0,
+  "total_candidates": 16,
   "processed_candidates": 0,
   "party_summary": {
-    "自由民主党": 0,
+    "自由民主党": 5,
     "立憲民主党": 0,
-    "日本維新の会": 0,
+    "日本維新の会": 2,
     "公明党": 0,
-    "日本共産党": 0,
-    "国民民主党": 0,
-    "れいわ新選組": 0,
+    "日本共産党": 1,
+    "国民民主党": 1,
+    "れいわ新選組": 1,
     "社会民主党": 0,
-    "参政党": 0,
+    "参政党": 2,
     "無所属": 0,
-    "その他": 0
+    "その他": 4
   },
   "districts": [
     {
       "district_number": 1,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 2,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 3,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 4,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 5,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 2,
       "processed_candidates": 0
     }
   ]

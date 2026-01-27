@@ -3,17 +3,31 @@
   "prefecture_name": "和歌山県",
   "district_number": 1,
   "district_name": "和歌山1区",
-  "status": "identified",
+  "status": "processing",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "total_candidates": 6,
   "processed_candidates": 0,
   "candidates": [
     {
-      "name": "林佑美",
-      "name_kana": "はやし ゆみ",
-      "age": 43,
-      "party": "日本維新の会",
+      "name": "林ゆみ",
+      "name_kana": "はやしゆみ",
+      "age": 44,
+      "party": "国民民主党",
+      "status": "現職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山本大地",
+      "name_kana": "やまもとだいち",
+      "age": 34,
+      "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -24,10 +38,10 @@
       }
     },
     {
-      "name": "村上賀厚",
-      "name_kana": "むらかみ のりあつ",
-      "age": 65,
-      "party": "立憲民主党",
+      "name": "浦平よしひろ",
+      "name_kana": "うらひらよしひろ",
+      "age": 54,
+      "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -38,9 +52,9 @@
       }
     },
     {
-      "name": "林元将崇",
-      "name_kana": "はやしもと まさたか",
-      "age": 26,
+      "name": "林元政子",
+      "name_kana": "はやしもとまさこ",
+      "age": 51,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -52,10 +66,10 @@
       }
     },
     {
-      "name": "山本大地",
-      "name_kana": "やまもと だいち",
-      "age": 33,
-      "party": "自由民主党",
+      "name": "要友紀子",
+      "name_kana": "かなめゆきこ",
+      "age": 49,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -66,9 +80,9 @@
       }
     },
     {
-      "name": "井本有一",
-      "name_kana": "いもと ゆういち",
-      "age": 58,
+      "name": "前ひさし",
+      "name_kana": "まえひさし",
+      "age": 69,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

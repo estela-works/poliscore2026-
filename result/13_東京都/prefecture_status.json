@@ -2,209 +2,210 @@
   "prefecture_code": "13",
   "prefecture_name": "東京都",
   "total_districts": 30,
-  "is_official": false,
-  "last_updated": "2026-01-26T17:38:33.960667",
+  "is_official": true,
+  "last_updated": "2026-01-27T14:38:17.767338",
   "status_summary": {
-    "none": 30,
+    "none": 0,
     "pre": 0,
-    "identified": 0,
+    "identified": 30,
     "processing": 0,
-    "completed": 0
+    "completed": 0,
+    "abolished": 0
   },
-  "total_candidates": 0,
+  "total_candidates": 153,
   "processed_candidates": 0,
   "party_summary": {
-    "自由民主党": 0,
+    "自由民主党": 30,
     "立憲民主党": 0,
-    "日本維新の会": 0,
+    "日本維新の会": 11,
     "公明党": 0,
-    "日本共産党": 0,
-    "国民民主党": 0,
-    "れいわ新選組": 0,
+    "日本共産党": 13,
+    "国民民主党": 27,
+    "れいわ新選組": 2,
     "社会民主党": 0,
-    "参政党": 0,
-    "無所属": 0,
-    "その他": 0
+    "参政党": 30,
+    "無所属": 3,
+    "その他": 37
   },
   "districts": [
     {
       "district_number": 1,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 2,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 7,
       "processed_candidates": 0
     },
     {
       "district_number": 3,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 4,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 5,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 6,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 7,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 8,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 9,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 10,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 11,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 7,
       "processed_candidates": 0
     },
     {
       "district_number": 12,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 13,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 14,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 15,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 16,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 17,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 7,
       "processed_candidates": 0
     },
     {
       "district_number": 18,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 19,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 20,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 21,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 22,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 3,
       "processed_candidates": 0
     },
     {
       "district_number": 23,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 24,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 25,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 5,
       "processed_candidates": 0
     },
     {
       "district_number": 26,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 27,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     },
     {
       "district_number": 28,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 29,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 6,
       "processed_candidates": 0
     },
     {
       "district_number": 30,
-      "status": "none",
-      "total_candidates": 0,
+      "status": "identified",
+      "total_candidates": 4,
       "processed_candidates": 0
     }
   ]

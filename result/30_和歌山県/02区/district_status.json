@@ -3,73 +3,31 @@
   "prefecture_name": "和歌山県",
   "district_number": 2,
   "district_name": "和歌山2区",
-  "status": "identified",
+  "status": "processing",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "total_candidates": 2,
   "processed_candidates": 0,
   "candidates": [
     {
-      "name": "楠本文郎",
-      "name_kana": "くすもと ふみろう",
-      "age": 70,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "新古祐子",
-      "name_kana": "しんこ ゆうこ",
-      "age": 52,
-      "party": "立憲民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "二階伸康",
-      "name_kana": "にかい のぶやす",
-      "age": 46,
-      "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "高橋秀彰",
-      "name_kana": "たかはし ひであき",
-      "age": 42,
-      "party": "諸派",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
       "name": "世耕弘成",
-      "name_kana": "せこう ひろしげ",
-      "age": 61,
+      "name_kana": "せこうひろしげ",
+      "age": 63,
       "party": "無所属",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "畑野よしひろ",
+      "name_kana": "はたのよしひろ",
+      "age": 65,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

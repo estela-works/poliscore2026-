@@ -5,13 +5,13 @@
   "district_name": "熊本1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "出口慎太郎",
-      "name_kana": "でぐちしんたろう",
+      "name_kana": "でぐち しんたろう",
       "age": 42,
       "party": "立憲民主党",
       "status": "新人",
@@ -25,8 +25,8 @@
     },
     {
       "name": "木原稔",
-      "name_kana": "きはらみのる",
-      "age": 55,
+      "name_kana": "きはら みのる",
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -38,10 +38,24 @@
       }
     },
     {
-      "name": "重松貴美",
-      "name_kana": "しげまつたかみ",
-      "age": 35,
+      "name": "山口誠太郎",
+      "name_kana": "やまぐち せいたろう",
+      "age": 36,
       "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鎌田聡",
+      "name_kana": "かまだ さとし",
+      "age": 61,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

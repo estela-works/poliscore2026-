@@ -5,15 +5,15 @@
   "district_name": "沖縄3区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "屋良朝博",
       "name_kana": "やら ともひろ",
-      "age": 62,
-      "party": "立憲民主党",
+      "age": 63,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -26,7 +26,7 @@
     {
       "name": "島尻安伊子",
       "name_kana": "しまじり あいこ",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "新城司",
-      "name_kana": "しんじょう つかさ",
-      "age": 46,
+      "name": "仲間暁子",
+      "name_kana": "なかま あきこ",
+      "age": 42,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

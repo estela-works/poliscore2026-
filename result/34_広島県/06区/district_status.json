@@ -5,14 +5,14 @@
   "district_name": "広島6区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "小林史明",
       "name_kana": "こばやしふみあき",
-      "age": 41,
+      "age": 42,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,10 +24,10 @@
       }
     },
     {
-      "name": "井上信也",
-      "name_kana": "いのうえしんや",
-      "age": 47,
-      "party": "立憲民主党",
+      "name": "はたともこ",
+      "name_kana": "はたともこ",
+      "age": 59,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "重村幸司",
-      "name_kana": "しげむらこうじ",
-      "age": 73,
+      "name": "高木武志",
+      "name_kana": "たかぎたけし",
+      "age": 74,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

@@ -12,7 +12,7 @@
     {
       "name": "長谷川淳二",
       "name_kana": "はせがわ じゅんじ",
-      "age": 56,
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,10 +24,10 @@
       }
     },
     {
-      "name": "越智清純",
-      "name_kana": "おち きよすみ",
-      "age": 42,
-      "party": "立憲民主党",
+      "name": "萩原旭人",
+      "name_kana": "はぎわら あきひと",
+      "age": 40,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -39,8 +39,8 @@
     },
     {
       "name": "西井直人",
-      "name_kana": "にしい なおひと",
-      "age": 67,
+      "name_kana": "にしい なおと",
+      "age": 68,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

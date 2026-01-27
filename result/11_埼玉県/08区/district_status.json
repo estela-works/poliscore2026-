@@ -6,7 +6,7 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 4,
+  "total_candidates": 5,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -29,7 +29,7 @@
       "name_kana": "いちき ともこ",
       "age": 47,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "result": "比例復活",
       "votes": 77580,
       "processing": {
@@ -62,6 +62,19 @@
       "status": "新人",
       "result": "落選",
       "votes": 20305,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岡田静佳",
+      "name_kana": "おかだ しずか",
+      "age": null,
+      "party": "無所属",
+      "status": "新人",
       "processing": {
         "researched": false,
         "evaluated": false,

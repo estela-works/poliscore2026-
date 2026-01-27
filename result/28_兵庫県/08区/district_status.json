@@ -6,23 +6,9 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 6,
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
-    {
-      "name": "中野洋昌",
-      "name_kana": "なかのひろまさ",
-      "age": 46,
-      "party": "公明党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
     {
       "name": "徳安淳子",
       "name_kana": "とくやすじゅんこ",

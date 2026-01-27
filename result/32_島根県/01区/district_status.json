@@ -6,14 +6,14 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "亀井亜紀子",
-      "name_kana": "かめい あきこ",
-      "age": 59,
-      "party": "立憲民主党",
+      "name_kana": "かめいあきこ",
+      "age": 60,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -25,10 +25,10 @@
     },
     {
       "name": "高階恵美子",
-      "name_kana": "たかがい えみこ",
-      "age": 60,
+      "name_kana": "たかがいえみこ",
+      "age": 62,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -39,9 +39,23 @@
     },
     {
       "name": "村穂江利子",
-      "name_kana": "むらほ えりこ",
-      "age": 56,
+      "name_kana": "むらほえりこ",
+      "age": 57,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "伊藤礼司",
+      "name_kana": "いとうれいじ",
+      "age": 42,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

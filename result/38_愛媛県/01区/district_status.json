@@ -12,7 +12,7 @@
     {
       "name": "塩崎彰久",
       "name_kana": "しおざき あきひさ",
-      "age": 48,
+      "age": 49,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -25,10 +25,10 @@
     },
     {
       "name": "石井智恵",
-      "name_kana": "いしい ともえ",
-      "age": 57,
+      "name_kana": "いしい ちえ",
+      "age": 58,
       "party": "国民民主党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -38,24 +38,24 @@
       }
     },
     {
-      "name": "香曽我部慶教",
-      "name_kana": "こそかべ よしみち",
-      "age": 47,
-      "party": "立憲民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "石本憲一",
-      "name_kana": "いしもと けんいち",
-      "age": 77,
+      "name": "和田宰",
+      "name_kana": "わだ さい",
+      "age": 73,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "篠藤愛",
+      "name_kana": "しのとう あい",
+      "age": 36,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

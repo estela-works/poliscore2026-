@@ -6,7 +6,7 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
+  "total_candidates": 5,
   "processed_candidates": 1,
   "candidates": [
     {
@@ -28,7 +28,7 @@
       "name": "島田誠",
       "name_kana": "しまだ まこと",
       "age": null,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "落選",
       "votes": 49557,
@@ -47,6 +47,32 @@
       "status": "新人",
       "result": "落選",
       "votes": 16636,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "布施卓人",
+      "name_kana": "ふせ たくと",
+      "age": null,
+      "party": "国民民主党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "甲斐隆",
+      "name_kana": "かい たかし",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
       "processing": {
         "researched": false,
         "evaluated": false,

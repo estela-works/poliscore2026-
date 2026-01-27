@@ -5,14 +5,14 @@
   "district_name": "長崎1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "山田博司",
-      "name_kana": "やまだひろし",
-      "age": 54,
+      "name_kana": "やまだ ひろし",
+      "age": 55,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -25,8 +25,8 @@
     },
     {
       "name": "内田隆英",
-      "name_kana": "うちだたかひで",
-      "age": 68,
+      "name_kana": "うちだ たかひで",
+      "age": 70,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "黒石隆太",
-      "name_kana": "くろいしりゅうた",
-      "age": 33,
+      "name": "松石宗平",
+      "name_kana": "まついし そうへい",
+      "age": 50,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -52,9 +52,9 @@
       }
     },
     {
-      "name": "下条博文",
-      "name_kana": "しもじょうひろふみ",
-      "age": 50,
+      "name": "浅田真澄美",
+      "name_kana": "あさだ ますみ",
+      "age": 59,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -67,8 +67,8 @@
     },
     {
       "name": "西岡秀子",
-      "name_kana": "にしおかひでこ",
-      "age": 60,
+      "name_kana": "にしおか ひでこ",
+      "age": 61,
       "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,

@@ -6,7 +6,7 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -27,7 +27,7 @@
       "name": "丸尾圭祐",
       "name_kana": "まるおけいすけ",
       "age": 44,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -42,6 +42,34 @@
       "name_kana": "やまもとたけまさ",
       "age": 48,
       "party": "日本維新の会",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "吉富景子",
+      "name_kana": "よしとみけいこ",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岩本義孝",
+      "name_kana": "いわもとよしたか",
+      "age": null,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

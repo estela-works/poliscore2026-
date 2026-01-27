@@ -5,14 +5,14 @@
   "district_name": "広島1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 7,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "岸田文雄",
       "name_kana": "きしだふみお",
-      "age": 67,
+      "age": 68,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,10 +24,10 @@
       }
     },
     {
-      "name": "平本浩一",
-      "name_kana": "ひらもとこういち",
-      "age": 58,
-      "party": "立憲民主党",
+      "name": "川田海栄",
+      "name_kana": "かわだかいえい",
+      "age": 28,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -40,8 +40,8 @@
     {
       "name": "山田肇",
       "name_kana": "やまだはじめ",
-      "age": 35,
-      "party": "日本維新の会",
+      "age": 36,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -54,7 +54,7 @@
     {
       "name": "中原剛",
       "name_kana": "なかはらつよし",
-      "age": 68,
+      "age": 69,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -67,9 +67,37 @@
     },
     {
       "name": "産原稔文",
-      "name_kana": "うぶはらとしふみ",
-      "age": 57,
+      "name_kana": "さんばらとしふみ",
+      "age": 58,
       "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "黒木貞彦",
+      "name_kana": "くろきさだひこ",
+      "age": 83,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "楾大樹",
+      "name_kana": "はんどうたいき",
+      "age": 50,
+      "party": "れいわ新選組",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

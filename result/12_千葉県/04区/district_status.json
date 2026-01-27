@@ -3,12 +3,25 @@
   "prefecture_name": "千葉県",
   "district_number": 4,
   "district_name": "千葉4区",
-  "status": "pre",
-  "is_official": false,
+  "status": "identified",
+  "is_official": true,
   "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
+    {
+      "name": "高橋宏",
+      "name_kana": "たかはし ひろし",
+      "age": null,
+      "party": "減税日本・ゆうこく連合",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
     {
       "name": "水沼秀幸",
       "name_kana": "みずぬま ひでゆき",

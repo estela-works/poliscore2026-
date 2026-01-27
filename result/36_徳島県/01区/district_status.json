@@ -5,8 +5,8 @@
   "district_name": "徳島1区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -27,9 +27,23 @@
       "name": "高橋永",
       "name_kana": "たかはしえい",
       "age": 49,
-      "party": "立憲民主党",
-      "status": "新人",
-      "proportional_rank": 1,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "吉田知代",
+      "name_kana": "よしだともよ",
+      "age": 50,
+      "party": "日本維新の会",
+      "status": "元職",
+      "proportional_rank": null,
       "processing": {
         "researched": false,
         "evaluated": false,
@@ -42,6 +56,20 @@
       "name_kana": "くぼたかゆき",
       "age": 61,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "亀井千春",
+      "name_kana": "かめいちはる",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

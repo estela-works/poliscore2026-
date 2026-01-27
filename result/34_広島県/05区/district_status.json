@@ -5,15 +5,15 @@
   "district_name": "広島5区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "佐藤公治",
       "name_kana": "さとうこうじ",
-      "age": 65,
-      "party": "立憲民主党",
+      "age": 66,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -24,11 +24,11 @@
       }
     },
     {
-      "name": "小島敏文",
-      "name_kana": "こじまとしふみ",
-      "age": 74,
+      "name": "山本深",
+      "name_kana": "やまもとふかし",
+      "age": 40,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -39,8 +39,8 @@
     },
     {
       "name": "猪原真弓",
-      "name_kana": "いはらまゆみ",
-      "age": 63,
+      "name_kana": "いのはらまゆみ",
+      "age": 65,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

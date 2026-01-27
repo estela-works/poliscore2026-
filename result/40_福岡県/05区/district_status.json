@@ -5,8 +5,8 @@
   "district_name": "福岡5区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
@@ -14,49 +14,7 @@
       "name_kana": "くりはらわたる",
       "age": 59,
       "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "堤かなめ",
-      "name_kana": "つつみかなめ",
-      "age": 64,
-      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "松尾よしみつ",
-      "name_kana": "まつおよしみつ",
-      "age": 56,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "タコス キッド",
-      "name_kana": "たこすきっど",
-      "age": 48,
-      "party": "無所属",
-      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -70,6 +28,34 @@
       "name_kana": "おかべよしたか",
       "age": 42,
       "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "川元健一",
+      "name_kana": "かわもとけんいち",
+      "age": null,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "那須敬子",
+      "name_kana": "なすけいこ",
+      "age": null,
+      "party": "社会民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

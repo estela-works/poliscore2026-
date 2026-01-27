@@ -6,7 +6,7 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 6,
+  "total_candidates": 7,
   "processed_candidates": 1,
   "candidates": [
     {
@@ -29,7 +29,7 @@
       "name_kana": "たかはし ひであき",
       "age": 61,
       "party": "日本維新の会",
-      "status": "新人",
+      "status": "前職",
       "result": "比例復活",
       "votes": 43164,
       "processing": {
@@ -94,6 +94,19 @@
         "researched": false,
         "evaluated": false,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "菅野静華",
+      "name_kana": "かんの しずか",
+      "age": 37,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

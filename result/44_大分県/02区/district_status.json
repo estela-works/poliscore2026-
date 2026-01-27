@@ -5,16 +5,16 @@
   "district_name": "大分2区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 2,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "広瀬建",
       "name_kana": "ひろせ けん",
       "age": 50,
-      "party": "無所属",
-      "status": "新人",
+      "party": "自由民主党",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -26,22 +26,8 @@
     {
       "name": "吉川元",
       "name_kana": "よしかわ はじめ",
-      "age": 58,
-      "party": "立憲民主党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "衛藤征士郎",
-      "name_kana": "えとう せいしろう",
-      "age": 83,
-      "party": "自由民主党",
+      "age": 59,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

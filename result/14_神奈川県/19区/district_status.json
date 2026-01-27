@@ -6,13 +6,13 @@
   "status": "identified",
   "is_official": true,
   "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
+  "total_candidates": 7,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "草間剛",
       "name_kana": "くさま つよし",
-      "age": 0,
+      "age": 44,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "添田勝",
       "name_kana": "そえだ まさる",
-      "age": 0,
+      "age": 48,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "深作ヘスス",
       "name_kana": "ふかさく へすす",
-      "age": 0,
+      "age": 41,
       "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -56,6 +56,48 @@
       "name_kana": "むろい かずま",
       "age": 0,
       "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐藤喬",
+      "name_kana": "さとう たかし",
+      "age": 0,
+      "party": "立憲民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "横関克弘",
+      "name_kana": "よこせき かつひろ",
+      "age": 0,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "木吉小百合",
+      "name_kana": "きよし さゆり",
+      "age": 0,
+      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

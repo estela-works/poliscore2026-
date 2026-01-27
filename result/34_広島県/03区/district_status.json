@@ -5,15 +5,15 @@
   "district_name": "広島3区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 4,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 5,
   "processed_candidates": 0,
   "candidates": [
     {
-      "name": "斉藤鉄夫",
-      "name_kana": "さいとうてつお",
-      "age": 72,
-      "party": "公明党",
+      "name": "石橋林太郎",
+      "name_kana": "いしばしりんたろう",
+      "age": 47,
+      "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -25,10 +25,10 @@
     },
     {
       "name": "東克哉",
-      "name_kana": "あずまかつや",
-      "age": 43,
-      "party": "立憲民主党",
-      "status": "新人",
+      "name_kana": "ひがしかつや",
+      "age": 44,
+      "party": "中道改革連合",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": false,
@@ -39,8 +39,8 @@
     },
     {
       "name": "玉田憲勲",
-      "name_kana": "たまだのりひろ",
-      "age": 67,
+      "name_kana": "たまだのりくに",
+      "age": 68,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
@@ -52,10 +52,24 @@
       }
     },
     {
-      "name": "高見篤己",
-      "name_kana": "たかみあつき",
-      "age": 72,
+      "name": "高松史子",
+      "name_kana": "たかまつふみこ",
+      "age": 58,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "田中淳子",
+      "name_kana": "たなかじゅんこ",
+      "age": 41,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

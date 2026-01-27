@@ -5,14 +5,14 @@
   "district_name": "熊本2区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "西野太亮",
-      "name_kana": "にしのたいすけ",
-      "age": 46,
+      "name_kana": "にしの たいすけ",
+      "age": 47,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,9 +24,9 @@
       }
     },
     {
-      "name": "近田茜",
-      "name_kana": "こんだあかね",
-      "age": 32,
+      "name": "前田智徳",
+      "name_kana": "まえだ とものり",
+      "age": 47,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "奥田木の実",
-      "name_kana": "おくだこのみ",
-      "age": 28,
+      "name": "益田牧子",
+      "name_kana": "ますだ まきこ",
+      "age": 75,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

@@ -5,15 +5,15 @@
   "district_name": "静岡3区",
   "status": "identified",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-27T00:00:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 0,
   "candidates": [
     {
       "name": "小山展弘",
       "name_kana": "こやま のぶひろ",
-      "age": 48,
-      "party": "立憲民主党",
+      "age": 50,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -26,7 +26,7 @@
     {
       "name": "山本裕三",
       "name_kana": "やまもと ゆうぞう",
-      "age": 41,
+      "age": null,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,24 +38,10 @@
       }
     },
     {
-      "name": "宮沢博行",
-      "name_kana": "みやざわ ひろゆき",
-      "age": 49,
-      "party": "無所属",
-      "status": "元職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "釜下由佳子",
-      "name_kana": "かました ゆかこ",
-      "age": 43,
-      "party": "日本維新の会",
+      "name": "中橋辰也",
+      "name_kana": "なかはし たつや",
+      "age": null,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -66,10 +52,10 @@
       }
     },
     {
-      "name": "杉村義夫",
-      "name_kana": "すぎむら よしお",
-      "age": 65,
-      "party": "無所属",
+      "name": "竹村真弓",
+      "name_kana": "たけむら まゆみ",
+      "age": null,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
