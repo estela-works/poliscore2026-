@@ -50,7 +50,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -65,7 +65,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -80,7 +80,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -112,3 +112,4 @@
     }
   ]
 }
+

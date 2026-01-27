@@ -1,4 +1,4 @@
-{
+﻿{
   "prefecture_code": "11",
   "prefecture_name": "埼玉県",
   "district_number": 4,
@@ -35,7 +35,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -50,7 +50,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -65,7 +65,7 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -78,9 +78,10 @@
       "processing": {
         "researched": false,
         "evaluated": false,
-        "md_created": false,
+        "md_created": true,
         "card_generated": false
       }
     }
   ]
 }
+

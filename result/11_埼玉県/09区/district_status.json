@@ -5,9 +5,9 @@
   "district_name": "埼玉9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "last_updated": "2026-01-27T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 1,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "杉村慎治",
@@ -48,9 +48,9 @@
       "result": "落選",
       "votes": 21680,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -63,9 +63,9 @@
       "result": "落選",
       "votes": 16293,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
