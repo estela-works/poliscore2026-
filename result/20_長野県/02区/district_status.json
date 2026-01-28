@@ -3,65 +3,53 @@
   "prefecture_name": "長野県",
   "district_number": 2,
   "district_name": "長野2区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "下条みつ",
-      "name_kana": "しもじょうみつ",
+      "name_kana": "しもじょう みつ",
       "age": 70,
-      "party": "中道改革連合",
+      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 97542,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "藤田ひかる",
-      "name_kana": "ふじたひかる",
-      "age": 35,
+      "name": "務台俊介",
+      "name_kana": "むたい しゅんすけ",
+      "age": 68,
       "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
+      "status": "前職",
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "手塚大輔",
-      "name_kana": "てづかだいすけ",
-      "age": 43,
+      "name_kana": "てづか だいすけ",
+      "age": 41,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 50961,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "竹下博善",
-      "name_kana": "たけしたひろよし",
-      "age": 43,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

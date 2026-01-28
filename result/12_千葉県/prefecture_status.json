@@ -3,20 +3,20 @@
   "prefecture_name": "千葉県",
   "total_districts": 14,
   "is_official": true,
-  "last_updated": "2026-01-28T09:43:46.314635",
+  "last_updated": "2026-01-28T10:09:59.494183",
   "status_summary": {
     "none": 0,
-    "pre": 6,
+    "pre": 4,
     "identified": 0,
     "processing": 0,
-    "completed": 8,
+    "completed": 10,
     "abolished": 0
   },
   "total_candidates": 53,
-  "processed_candidates": 30,
+  "processed_candidates": 39,
   "party_summary": {
     "自由民主党": 14,
-    "立憲民主党": 2,
+    "立憲民主党": 3,
     "日本維新の会": 2,
     "公明党": 0,
     "日本共産党": 9,
@@ -25,7 +25,7 @@
     "社会民主党": 0,
     "参政党": 9,
     "無所属": 1,
-    "その他": 13
+    "その他": 12
   },
   "districts": [
     {
@@ -60,9 +60,9 @@
     },
     {
       "district_number": 6,
-      "status": "pre",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 7,
@@ -78,9 +78,9 @@
     },
     {
       "district_number": 9,
-      "status": "pre",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 10,

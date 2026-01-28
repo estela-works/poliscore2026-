@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T09:43:46.389778",
+  "last_updated": "2026-01-28T10:09:59.568092",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 211,
+    "completed": 226,
     "processing": 28,
-    "identified": 35,
-    "pre": 13,
+    "identified": 22,
+    "pre": 11,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1115,
-    "processed_candidates": 880
+    "total_candidates": 1111,
+    "processed_candidates": 940
   },
   "prefectures": {
     "01": {
@@ -426,9 +426,9 @@
           "processed": 5
         },
         "6": {
-          "status": "pre",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "7": {
           "status": "pre",
@@ -441,9 +441,9 @@
           "processed": 4
         },
         "9": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "10": {
           "status": "pre",
@@ -556,14 +556,14 @@
           "processed": 3
         },
         "17": {
-          "status": "identified",
-          "total": 7,
-          "processed": 0
+          "status": "completed",
+          "total": 4,
+          "processed": 4
         },
         "18": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "19": {
           "status": "completed",
@@ -586,9 +586,9 @@
           "processed": 3
         },
         "23": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "24": {
           "status": "identified",
@@ -641,9 +641,9 @@
           "processed": 5
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "4": {
           "status": "completed",
@@ -706,9 +706,9 @@
           "processed": 4
         },
         "16": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "17": {
           "status": "completed",
@@ -841,9 +841,9 @@
           "processed": 3
         },
         "2": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -916,9 +916,9 @@
           "processed": 4
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "6": {
           "status": "completed",
@@ -1101,9 +1101,9 @@
           "processed": 4
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         }
       }
     },
@@ -1241,9 +1241,9 @@
           "processed": 5
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "8": {
           "status": "identified",
@@ -1281,9 +1281,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "3": {
           "status": "identified",
@@ -1416,9 +1416,9 @@
           "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1456,9 +1456,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -1531,9 +1531,9 @@
           "processed": 5
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "8": {
           "status": "completed",

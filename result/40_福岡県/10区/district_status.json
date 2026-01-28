@@ -3,79 +3,80 @@
   "prefecture_name": "福岡県",
   "district_number": 10,
   "district_name": "福岡10区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "城井崇",
-      "name_kana": "きいたかし",
+      "name_kana": "きい たかし",
       "age": 51,
-      "party": "中道改革連合",
+      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "吉村悠",
-      "name_kana": "よしむらゆう",
+      "name_kana": "よしむら ゆう",
       "age": 39,
       "party": "自由民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "熊本要",
-      "name_kana": "くまもとかなめ",
-      "age": null,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "古賀邦俊",
-      "name_kana": "こがくにとし",
-      "age": null,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "大石仁人",
-      "name_kana": "おおいしひとと",
+      "name_kana": "おおいし じんと",
       "age": null,
       "party": "無所属",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 37858,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "一ノ瀬小夜子",
+      "name_kana": "いちのせ さよこ",
+      "age": 75,
+      "party": "日本共産党",
+      "status": "新人",
+      "result": "落選",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "熊本要",
+      "name_kana": "くまもと かなめ",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "result": "落選",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

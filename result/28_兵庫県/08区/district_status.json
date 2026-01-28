@@ -3,79 +3,96 @@
   "prefecture_name": "兵庫県",
   "district_number": 8,
   "district_name": "兵庫8区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
+      "name": "中野洋昌",
+      "name_kana": "なかの ひろまさ",
+      "age": 46,
+      "party": "公明党",
+      "status": "前職",
+      "result": "当選",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
       "name": "徳安淳子",
-      "name_kana": "とくやすじゅんこ",
+      "name_kana": "とくやす じゅんこ",
       "age": 62,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "比例復活",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "小村潤",
-      "name_kana": "こむらじゅん",
+      "name_kana": "こむら じゅん",
       "age": 49,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "油谷聖一郎",
-      "name_kana": "あぶらやせいいちろう",
+      "name_kana": "あぶらたに せいいちろう",
       "age": 50,
       "party": "参政党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 13155,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "八幡オカン",
-      "name_kana": "やはたおかん",
+      "name": "やはたオカン",
+      "name_kana": "やはた おかん",
       "age": 59,
       "party": "れいわ新選組",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 12920,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "林マリアゆき",
-      "name_kana": "はやしまりあゆき",
+      "name_kana": "はやし まりあゆき",
       "age": 50,
       "party": "みんなでつくる党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 2555,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

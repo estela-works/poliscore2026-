@@ -3,20 +3,20 @@
   "prefecture_name": "神奈川県",
   "total_districts": 20,
   "is_official": true,
-  "last_updated": "2026-01-28T09:43:46.326701",
+  "last_updated": "2026-01-28T10:09:59.507139",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 4,
+    "identified": 2,
     "processing": 0,
-    "completed": 16,
+    "completed": 18,
     "abolished": 0
   },
   "total_candidates": 82,
-  "processed_candidates": 65,
+  "processed_candidates": 75,
   "party_summary": {
     "自由民主党": 20,
-    "立憲民主党": 4,
+    "立憲民主党": 5,
     "日本維新の会": 9,
     "公明党": 0,
     "日本共産党": 14,
@@ -25,7 +25,7 @@
     "社会民主党": 1,
     "参政党": 10,
     "無所属": 5,
-    "その他": 13
+    "その他": 12
   },
   "districts": [
     {
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 4,
@@ -120,9 +120,9 @@
     },
     {
       "district_number": 16,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 17,
