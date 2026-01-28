@@ -3,65 +3,84 @@
   "prefecture_name": "東京都",
   "district_number": 4,
   "district_name": "東京4区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "平将明",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たいら まさあき",
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 86773,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "井戸正枝",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "いど まさえ",
+      "age": 58,
       "party": "国民民主党",
       "status": "元職",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 51810,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "嶋悦子",
-      "name_kana": "",
-      "age": 0,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "谷川智行",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たにがわ ともゆき",
+      "age": 53,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 32909,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "石川雅俊",
+      "name_kana": "いしかわ まさとし",
+      "age": 44,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "votes": 32063,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "塩寺ゆうた",
+      "name_kana": "しおでら ゆうた",
+      "age": null,
+      "party": "参政党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 12176,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

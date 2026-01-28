@@ -3,11 +3,11 @@
   "prefecture_name": "千葉県",
   "district_number": 5,
   "district_name": "千葉5区",
-  "status": "pre",
-  "is_official": false,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-28T03:24:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "矢崎堅太郎",
@@ -16,9 +16,9 @@
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -29,9 +29,9 @@
       "party": "自由民主党",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -42,9 +42,9 @@
       "party": "国民民主党",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -55,8 +55,8 @@
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
@@ -68,8 +68,8 @@
       "party": "チームみらい",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

@@ -3,65 +3,69 @@
   "prefecture_name": "神奈川県",
   "district_number": 5,
   "district_name": "神奈川5区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "坂井学",
       "name_kana": "さかい まなぶ",
-      "age": 60,
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 80495,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "山崎誠",
       "name_kana": "やまざき まこと",
-      "age": 63,
-      "party": "中道改革連合",
+      "age": 62,
+      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "比例復活",
+      "votes": 67399,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "久坂くにえ",
-      "name_kana": "ひさか くにえ",
-      "age": 53,
+      "name_kana": "くさか くにえ",
+      "age": 51,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 33863,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "高宮美智子",
       "name_kana": "たかみや みちこ",
-      "age": 74,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 15794,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

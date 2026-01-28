@@ -3,11 +3,11 @@
   "prefecture_name": "静岡県",
   "district_number": 4,
   "district_name": "静岡4区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "田中健",
@@ -15,11 +15,12 @@
       "age": 48,
       "party": "国民民主党",
       "status": "前職",
-      "proportional_rank": 1,
+      "result": "当選",
+      "votes": 82448,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -29,25 +30,26 @@
       "age": 49,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": 2,
+      "result": "比例復活",
+      "votes": 79801,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "高田晃宏",
       "name_kana": "たかだ あきひろ",
-      "age": null,
+      "age": 50,
       "party": "参政党",
       "status": "新人",
-      "proportional_rank": 1,
+      "result": "選挙区変更",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -57,11 +59,11 @@
       "age": 56,
       "party": "れいわ新選組",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "出馬撤回の可能性",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

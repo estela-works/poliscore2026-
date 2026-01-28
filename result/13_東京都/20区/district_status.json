@@ -3,65 +3,65 @@
   "prefecture_name": "東京都",
   "district_number": 20,
   "district_name": "東京20区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T03:40:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "木原誠二",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "きはら せいじ",
+      "age": 54,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "大西健太郎",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "おおにし けんたろう",
+      "age": 45,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "掛山茂希",
-      "name_kana": "",
+      "name_kana": "かけやま しげき",
       "age": 0,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "宮本徹",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "みやもと とおる",
+      "age": 52,
       "party": "日本共産党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

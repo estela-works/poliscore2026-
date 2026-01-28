@@ -3,65 +3,69 @@
   "prefecture_name": "神奈川県",
   "district_number": 15,
   "district_name": "神奈川15区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "河野太郎",
       "name_kana": "こうの たろう",
-      "age": 63,
+      "age": 61,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 128881,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "三好諒",
-      "name_kana": "みよし りょう",
-      "age": 40,
-      "party": "れいわ新選組",
+      "name": "内海聡",
+      "name_kana": "うつみ さとる",
+      "age": 49,
+      "party": "無所属",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 39183,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "藤田修一",
+      "name_kana": "ふじた しゅういち",
+      "age": 58,
+      "party": "参政党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 23793,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "佐々木克己",
       "name_kana": "ささき かつみ",
-      "age": 70,
+      "age": 69,
       "party": "社会民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "小山善光",
-      "name_kana": "こやま よしみつ",
-      "age": 0,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

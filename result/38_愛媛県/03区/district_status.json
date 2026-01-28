@@ -3,51 +3,54 @@
   "prefecture_name": "愛媛県",
   "district_number": 3,
   "district_name": "愛媛3区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 3,
-  "processed_candidates": 0,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "長谷川淳二",
       "name_kana": "はせがわ じゅんじ",
-      "age": 57,
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "萩原旭人",
-      "name_kana": "はぎわら あきひと",
-      "age": 40,
-      "party": "中道改革連合",
+      "name": "越智清純",
+      "name_kana": "おち きよすみ",
+      "age": 42,
+      "party": "立憲民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 50702,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "西井直人",
       "name_kana": "にしい なおと",
-      "age": 68,
+      "age": 67,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 11963,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

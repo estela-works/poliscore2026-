@@ -5,16 +5,16 @@
   "district_name": "埼玉13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T20:30:00+09:00",
-  "total_candidates": 7,
-  "processed_candidates": 7,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "橋本幹彦",
       "name_kana": "はしもと みきひこ",
       "age": 29,
       "party": "国民民主党",
-      "status": "前職",
+      "status": "新人",
       "result": "当選",
       "votes": 61436,
       "processing": {
@@ -27,30 +27,30 @@
     {
       "name": "三ツ林裕巳",
       "name_kana": "みつばやし ひろみ",
-      "age": null,
-      "party": "自由民主党",
+      "age": 69,
+      "party": "無所属",
       "status": "元職",
       "result": "落選",
       "votes": 53382,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "高井崇志",
       "name_kana": "たかい たかし",
-      "age": null,
+      "age": 55,
       "party": "れいわ新選組",
-      "status": "前職",
+      "status": "元職",
       "result": "比例復活",
       "votes": 22237,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -63,9 +63,9 @@
       "result": "落選",
       "votes": 21561,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -78,9 +78,9 @@
       "result": "落選",
       "votes": 17099,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -93,22 +93,9 @@
       "result": "落選",
       "votes": 4424,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "杉山鎮夫",
-      "name_kana": "すぎやま しずお",
-      "age": 43,
-      "party": "参政党",
-      "status": "新人",
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

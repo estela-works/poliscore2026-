@@ -3,65 +3,69 @@
   "prefecture_name": "兵庫県",
   "district_number": 12,
   "district_name": "兵庫12区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "山口壮",
-      "name_kana": "やまぐちつよし",
+      "name_kana": "やまぐち つよし",
       "age": 70,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 72374,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "池畑浩太朗",
-      "name_kana": "いけはたこうたろう",
+      "name_kana": "いけはた こうたろう",
       "age": 50,
       "party": "日本維新の会",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "比例復活",
+      "votes": 56464,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "太田清幸",
-      "name_kana": "おおたきよゆき",
+      "name_kana": "おおた きよゆき",
       "age": 69,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 14006,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "山田敏良",
-      "name_kana": "やまだとしよし",
+      "name_kana": "やまだ としよし",
       "age": 69,
       "party": "無所属",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 4932,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

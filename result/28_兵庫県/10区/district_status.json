@@ -3,79 +3,84 @@
   "prefecture_name": "兵庫県",
   "district_number": 10,
   "district_name": "兵庫10区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "渡海紀三朗",
-      "name_kana": "とかいきさぶろう",
+      "name_kana": "とかい きさぶろう",
       "age": 76,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 70673,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "隠樹圭子",
-      "name_kana": "おきけいこ",
-      "age": null,
-      "party": "中道改革連合",
+      "name_kana": "おき けいこ",
+      "age": 53,
+      "party": "立憲民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 41435,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "掘井健智",
-      "name_kana": "ほりいけんじ",
+      "name_kana": "ほりい けんじ",
       "age": 57,
       "party": "日本維新の会",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 30718,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "藤原誠也",
-      "name_kana": "ふじわらせいや",
-      "age": null,
+      "name_kana": "ふじわら せいや",
+      "age": 36,
       "party": "参政党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 16128,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "吉田久美子",
-      "name_kana": "よしだくみこ",
-      "age": null,
+      "name_kana": "よしだ くみこ",
+      "age": 69,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 10528,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

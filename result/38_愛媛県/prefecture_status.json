@@ -3,20 +3,20 @@
   "prefecture_name": "愛媛県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-28T02:29:57.029561",
+  "last_updated": "2026-01-28T03:25:49.152040",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 1,
+    "identified": 0,
     "processing": 0,
-    "completed": 2,
+    "completed": 3,
     "abolished": 0
   },
   "total_candidates": 11,
-  "processed_candidates": 8,
+  "processed_candidates": 11,
   "party_summary": {
     "自由民主党": 3,
-    "立憲民主党": 0,
+    "立憲民主党": 1,
     "日本維新の会": 1,
     "公明党": 0,
     "日本共産党": 2,
@@ -25,7 +25,7 @@
     "社会民主党": 0,
     "参政党": 2,
     "無所属": 0,
-    "その他": 2
+    "その他": 1
   },
   "districts": [
     {
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     }
   ]
 }

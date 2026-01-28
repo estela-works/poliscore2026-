@@ -3,11 +3,11 @@
   "prefecture_name": "大阪府",
   "district_number": 16,
   "district_name": "大阪16区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 2,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "黒田征樹",
@@ -15,11 +15,12 @@
       "age": 44,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 68493,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -27,13 +28,29 @@
       "name": "森山浩行",
       "name_kana": "もりやま ひろゆき",
       "age": 53,
-      "party": "中道改革連合",
+      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "比例復活",
+      "votes": 55068,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山本香苗",
+      "name_kana": "やまもと かなえ",
+      "age": 53,
+      "party": "公明党",
+      "status": "新人",
+      "result": "落選",
+      "votes": 48063,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

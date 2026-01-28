@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T02:29:57.045634",
+  "last_updated": "2026-01-28T03:25:49.168226",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 152,
-    "processing": 29,
-    "identified": 90,
-    "pre": 16,
+    "completed": 175,
+    "processing": 28,
+    "identified": 69,
+    "pre": 15,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1120,
-    "processed_candidates": 658
+    "total_candidates": 1119,
+    "processed_candidates": 741
   },
   "prefectures": {
     "01": {
@@ -366,9 +366,9 @@
           "processed": 1
         },
         "11": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 1
+          "processed": 5
         },
         "12": {
           "status": "completed",
@@ -377,8 +377,8 @@
         },
         "13": {
           "status": "completed",
-          "total": 7,
-          "processed": 7
+          "total": 6,
+          "processed": 6
         },
         "14": {
           "status": "processing",
@@ -461,9 +461,9 @@
           "processed": 3
         },
         "13": {
-          "status": "pre",
-          "total": 3,
-          "processed": 0
+          "status": "completed",
+          "total": 4,
+          "processed": 4
         },
         "14": {
           "status": "pre",
@@ -506,9 +506,9 @@
           "processed": 5
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "8": {
           "status": "completed",
@@ -566,9 +566,9 @@
           "processed": 0
         },
         "19": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "20": {
           "status": "identified",
@@ -581,9 +581,9 @@
           "processed": 5
         },
         "22": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "23": {
           "status": "identified",
@@ -606,9 +606,9 @@
           "processed": 6
         },
         "27": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "28": {
           "status": "identified",
@@ -636,9 +636,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "3": {
           "status": "identified",
@@ -651,9 +651,9 @@
           "processed": 3
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "6": {
           "status": "completed",
@@ -691,9 +691,9 @@
           "processed": 0
         },
         "13": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "14": {
           "status": "completed",
@@ -751,9 +751,9 @@
           "processed": 3
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "5": {
           "status": "completed",
@@ -766,9 +766,9 @@
       "name": "富山県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -791,9 +791,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -811,9 +811,9 @@
           "processed": 4
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         }
       }
     },
@@ -911,9 +911,9 @@
           "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "5": {
           "status": "identified",
@@ -941,9 +941,9 @@
       "name": "愛知県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -966,9 +966,9 @@
           "processed": 5
         },
         "6": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "7": {
           "status": "identified",
@@ -1036,9 +1036,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "4": {
           "status": "identified",
@@ -1091,9 +1091,9 @@
           "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "5": {
           "status": "completed",
@@ -1156,9 +1156,9 @@
           "processed": 0
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "11": {
           "status": "completed",
@@ -1196,9 +1196,9 @@
           "processed": 0
         },
         "18": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "19": {
           "status": "completed",
@@ -1226,9 +1226,9 @@
           "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "5": {
           "status": "completed",
@@ -1396,9 +1396,9 @@
           "processed": 0
         },
         "6": {
-          "status": "identified",
-          "total": 3,
-          "processed": 0
+          "status": "completed",
+          "total": 2,
+          "processed": 2
         },
         "7": {
           "status": "none",
@@ -1476,9 +1476,9 @@
           "processed": 4
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },

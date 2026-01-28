@@ -3,11 +3,12 @@
   "prefecture_name": "大分県",
   "district_number": 3,
   "district_name": "大分3区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "note": "2024年衆院選の候補者は3名のみ。野中貴恵（参政党）、岩永京子（日本保守党）、平野雨龍（無所属）は2026年衆院選の候補予定者であり、2024年衆院選には出馬していない。岩屋毅は2024年10月～2025年9月まで外務大臣。",
   "candidates": [
     {
       "name": "岩屋毅",
@@ -15,11 +16,12 @@
       "age": 67,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "note": "外務大臣（石破内閣）。中国ビザ緩和問題、IR汚職関連疑惑、ハニートラップ疑惑あり",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -27,55 +29,29 @@
       "name": "小林華弥子",
       "name_kana": "こばやし かやこ",
       "age": 56,
-      "party": "中道改革連合",
+      "party": "立憲民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "note": "元由布市議14年。現職外務大臣相手に38%獲得",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "野中貴恵",
-      "name_kana": "のなか たかえ",
-      "age": 41,
-      "party": "参政党",
+      "name": "大塚光義",
+      "name_kana": "おおつか みつよし",
+      "age": 69,
+      "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "note": "元挾間町議、党地区委員長",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "岩永京子",
-      "name_kana": "いわなが きょうこ",
-      "age": 64,
-      "party": "日本保守党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "平野雨龍",
-      "name_kana": "ひらの うりゅう",
-      "age": 31,
-      "party": "無所属",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

@@ -3,93 +3,79 @@
   "prefecture_name": "神奈川県",
   "district_number": 18,
   "district_name": "神奈川18区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 6,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T00:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "山際大志郎",
       "name_kana": "やまぎわ だいしろう",
-      "age": 57,
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "比例復活",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "宗野創",
       "name_kana": "そうの はじめ",
-      "age": 33,
-      "party": "中道改革連合",
-      "status": "前職",
-      "proportional_rank": null,
+      "age": 31,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "当選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "横田光弘",
       "name_kana": "よこた みつひろ",
-      "age": 68,
+      "age": 67,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "西岡義高",
       "name_kana": "にしおか よしたか",
-      "age": 48,
+      "age": 47,
       "party": "国民民主党",
-      "status": "前職",
-      "proportional_rank": null,
+      "status": "新人",
+      "result": "比例復活",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
-      "name": "八巻陽子",
-      "name_kana": "やまき ようこ",
-      "age": 0,
+      "name": "君嶋ちか子",
+      "name_kana": "きみじま ちかこ",
+      "age": 74,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "藤田修一",
-      "name_kana": "ふじた しゅういち",
-      "age": 0,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
