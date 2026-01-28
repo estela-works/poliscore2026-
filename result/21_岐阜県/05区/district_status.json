@@ -3,16 +3,16 @@
   "prefecture_name": "岐阜県",
   "district_number": 5,
   "district_name": "岐阜5区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T12:30:00+09:00",
-  "total_candidates": 3,
+  "last_updated": "2026-01-28T17:50:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "古屋圭司",
       "name_kana": "ふるやけいじ",
-      "age": 72,
+      "age": 73,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "眞野哲",
       "name_kana": "まのさとし",
-      "age": 63,
+      "age": 64,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "山田良司",
       "name_kana": "やまだりょうじ",
-      "age": 64,
+      "age": 65,
       "party": "日本維新の会",
       "status": "元職",
       "proportional_rank": null,
@@ -48,6 +48,20 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "よしだ企貴",
+      "name_kana": "よしだ ひろき",
+      "age": 38,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }
