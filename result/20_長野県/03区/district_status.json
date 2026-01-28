@@ -5,7 +5,7 @@
   "district_name": "長野3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:22:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "神津健",
       "name_kana": "こうづたけし",
       "age": 49,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

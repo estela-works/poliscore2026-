@@ -61,9 +61,9 @@
       "party": "日本維新の会",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
