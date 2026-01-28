@@ -3,37 +3,38 @@
   "prefecture_name": "香川県",
   "district_number": 2,
   "district_name": "香川2区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 3,
-  "processed_candidates": 0,
+  "processed_candidates": 3,
+  "note": "国民民主党代表・玉木雄一郎の地元。2009年以降6連勝中。2024年11月に不倫問題発覚で役職停止処分。瀬戸隆一は玉木に6連敗も復興副大臣として政府要職。",
   "candidates": [
-    {
-      "name": "瀬戸隆一",
-      "name_kana": "せと りゅういち",
-      "age": 60,
-      "party": "自由民主党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
     {
       "name": "玉木雄一郎",
       "name_kana": "たまき ゆういちろう",
       "age": 56,
       "party": "国民民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "note": "国民民主党代表、衆院6期、2024年不倫問題で役職停止処分",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "瀬戸隆一",
+      "name_kana": "せと たかかず",
+      "age": 60,
+      "party": "自由民主党",
+      "status": "前職",
+      "note": "復興副大臣兼内閣府副大臣、衆院4期、玉木に6連敗",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -43,11 +44,11 @@
       "age": 41,
       "party": "参政党",
       "status": "新人",
-      "proportional_rank": null,
+      "note": "参政党県連事務局長、元栄養士、秋田県出身・震災後香川移住",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

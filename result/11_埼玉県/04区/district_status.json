@@ -5,8 +5,8 @@
   "district_name": "埼玉4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-28T12:05:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 1,
   "candidates": [
     {
@@ -40,21 +40,6 @@
       }
     },
     {
-      "name": "渡辺泰之",
-      "name_kana": "わたなべ やすゆき",
-      "age": 51,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 34048,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "工藤薫",
       "name_kana": "くどう かおる",
       "age": 74,
@@ -70,8 +55,8 @@
       }
     },
     {
-      "name": "伊勢田享子",
-      "name_kana": "いせだ きょうこ",
+      "name": "伊勢田みちこ",
+      "name_kana": "いせだ みちこ",
       "age": 48,
       "party": "日本維新の会",
       "status": "新人",

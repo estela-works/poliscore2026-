@@ -5,16 +5,16 @@
   "district_name": "兵庫11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T18:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
-      "name": "松本剛明",
-      "name_kana": "まつもとたけあき",
-      "age": 65,
+      "name": "山田基靖",
+      "name_kana": "やまだもとやす",
+      "age": 43,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -29,6 +29,20 @@
       "age": 39,
       "party": "日本維新の会",
       "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中原立貴",
+      "name_kana": "なかはらたつき",
+      "age": 35,
+      "party": "国民民主党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

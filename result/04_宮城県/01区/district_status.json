@@ -5,15 +5,15 @@
   "district_name": "宮城1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-28T12:50:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "岡本章子",
       "name_kana": "おかもと あきこ",
       "age": 61,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -42,6 +42,34 @@
       "name_kana": "たかはし こうじ",
       "age": 62,
       "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "ローレンス綾子",
+      "name_kana": "ろーれんす あやこ",
+      "age": 55,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中嶋廉",
+      "name_kana": "なかじま れん",
+      "age": 73,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

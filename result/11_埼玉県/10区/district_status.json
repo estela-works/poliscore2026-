@@ -5,14 +5,14 @@
   "district_name": "埼玉10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "last_updated": "2026-01-28T12:35:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 1,
   "candidates": [
     {
       "name": "坂本祐之輔",
       "name_kana": "さかもと ゆうのすけ",
-      "age": 69,
+      "age": 71,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",

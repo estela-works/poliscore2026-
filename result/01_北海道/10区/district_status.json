@@ -3,9 +3,9 @@
   "prefecture_name": "北海道",
   "district_number": 10,
   "district_name": "北海道10区",
-  "status": "pre",
-  "is_official": false,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-28T13:25:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -27,7 +27,7 @@
       "name_kana": "わたなべ こういち",
       "age": null,
       "party": "自由民主党",
-      "status": "新人",
+      "status": "元職",
       "processing": {
         "researched": false,
         "evaluated": true,

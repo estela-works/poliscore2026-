@@ -5,7 +5,7 @@
   "district_name": "岩手3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
+  "last_updated": "2026-01-28T12:25:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -26,9 +26,9 @@
     {
       "name": "藤原崇",
       "name_kana": "ふじわら たかし",
-      "age": 41,
+      "age": 42,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

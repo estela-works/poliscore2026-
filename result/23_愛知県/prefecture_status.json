@@ -3,27 +3,27 @@
   "prefecture_name": "愛知県",
   "total_districts": 16,
   "is_official": true,
-  "last_updated": "2026-01-28T10:09:59.524095",
+  "last_updated": "2026-01-28T11:11:44.772886",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 1,
+    "identified": 0,
     "processing": 0,
-    "completed": 15,
+    "completed": 16,
     "abolished": 0
   },
-  "total_candidates": 61,
-  "processed_candidates": 57,
+  "total_candidates": 62,
+  "processed_candidates": 62,
   "party_summary": {
     "自由民主党": 15,
     "立憲民主党": 3,
-    "日本維新の会": 8,
+    "日本維新の会": 7,
     "公明党": 1,
-    "日本共産党": 13,
-    "国民民主党": 4,
+    "日本共産党": 12,
+    "国民民主党": 5,
     "れいわ新選組": 1,
     "社会民主党": 1,
-    "参政党": 1,
+    "参政党": 3,
     "無所属": 1,
     "その他": 13
   },
@@ -85,8 +85,8 @@
     {
       "district_number": 10,
       "status": "completed",
-      "total_candidates": 3,
-      "processed_candidates": 3
+      "total_candidates": 5,
+      "processed_candidates": 5
     },
     {
       "district_number": 11,
@@ -96,9 +96,9 @@
     },
     {
       "district_number": 12,
-      "status": "identified",
-      "total_candidates": 4,
-      "processed_candidates": 0
+      "status": "completed",
+      "total_candidates": 3,
+      "processed_candidates": 3
     },
     {
       "district_number": 13,

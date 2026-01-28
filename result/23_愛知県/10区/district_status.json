@@ -5,16 +5,16 @@
   "district_name": "愛知10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-28T21:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "藤原規眞",
       "name_kana": "ふじわら のりまさ",
-      "age": 46,
+      "age": 47,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -26,9 +26,9 @@
     {
       "name": "若山慎司",
       "name_kana": "わかやま しんじ",
-      "age": 49,
+      "age": 52,
       "party": "自由民主党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -40,9 +40,37 @@
     {
       "name": "杉本和巳",
       "name_kana": "すぎもと かずみ",
-      "age": 64,
+      "age": 65,
       "party": "日本維新の会",
       "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "三嶋竜平",
+      "name_kana": "みしま りゅうへい",
+      "age": 47,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山内遼平",
+      "name_kana": "やまうち りょうへい",
+      "age": 29,
+      "party": "参政党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

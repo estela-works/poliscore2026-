@@ -5,15 +5,15 @@
   "district_name": "宮城2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T12:20:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "鎌田さゆり",
       "name_kana": "かまた さゆり",
-      "age": null,
-      "party": "立憲民主党",
+      "age": 61,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -26,7 +26,7 @@
     {
       "name": "渡辺勝幸",
       "name_kana": "わたなべ かつゆき",
-      "age": null,
+      "age": 50,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,9 +40,9 @@
     {
       "name": "早坂敦",
       "name_kana": "はやさか あつし",
-      "age": null,
+      "age": 54,
       "party": "日本維新の会",
-      "status": "新人",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -54,8 +54,22 @@
     {
       "name": "和田政宗",
       "name_kana": "わだ まさむね",
-      "age": null,
-      "party": "自由民主党",
+      "age": 51,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐藤りりか",
+      "name_kana": "さとう りりか",
+      "age": 25,
+      "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

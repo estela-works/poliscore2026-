@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T10:09:59.568092",
+  "last_updated": "2026-01-28T11:11:44.833674",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 226,
-    "processing": 28,
-    "identified": 22,
-    "pre": 11,
+    "completed": 252,
+    "processing": 27,
+    "identified": 1,
+    "pre": 7,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1111,
-    "processed_candidates": 940
+    "total_candidates": 1112,
+    "processed_candidates": 1050
   },
   "prefectures": {
     "01": {
@@ -107,13 +107,13 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 5,
+          "processed": 5
         },
         "2": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -127,23 +127,23 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 5,
+          "processed": 5
         },
         "2": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 5,
+          "processed": 5
         },
         "3": {
-          "status": "completed",
-          "total": 2,
-          "processed": 2
+          "status": "processing",
+          "total": 5,
+          "processed": 4
         },
         "4": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "5": {
           "status": "completed",
@@ -317,7 +317,7 @@
       "districts": {
         "1": {
           "status": "processing",
-          "total": 7,
+          "total": 4,
           "processed": 2
         },
         "2": {
@@ -332,7 +332,7 @@
         },
         "4": {
           "status": "processing",
-          "total": 5,
+          "total": 4,
           "processed": 1
         },
         "5": {
@@ -346,13 +346,13 @@
           "processed": 1
         },
         "7": {
-          "status": "processing",
-          "total": 4,
+          "status": "completed",
+          "total": 2,
           "processed": 2
         },
         "8": {
           "status": "processing",
-          "total": 5,
+          "total": 3,
           "processed": 2
         },
         "9": {
@@ -381,9 +381,9 @@
           "processed": 6
         },
         "14": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 1
+          "processed": 4
         },
         "15": {
           "status": "identified",
@@ -411,9 +411,9 @@
           "processed": 3
         },
         "3": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "completed",
@@ -431,9 +431,9 @@
           "processed": 5
         },
         "7": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "8": {
           "status": "completed",
@@ -446,9 +446,9 @@
           "processed": 4
         },
         "10": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "11": {
           "status": "completed",
@@ -466,9 +466,9 @@
           "processed": 4
         },
         "14": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -481,9 +481,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 7,
-          "processed": 0
+          "processed": 7
         },
         "3": {
           "status": "completed",
@@ -521,9 +521,9 @@
           "processed": 4
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "11": {
           "status": "completed",
@@ -541,9 +541,9 @@
           "processed": 4
         },
         "14": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "15": {
           "status": "completed",
@@ -591,9 +591,9 @@
           "processed": 4
         },
         "24": {
-          "status": "identified",
-          "total": 5,
-          "processed": 0
+          "status": "completed",
+          "total": 6,
+          "processed": 6
         },
         "25": {
           "status": "completed",
@@ -671,9 +671,9 @@
           "processed": 3
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "10": {
           "status": "completed",
@@ -686,9 +686,9 @@
           "processed": 3
         },
         "12": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 5,
+          "processed": 5
         },
         "13": {
           "status": "completed",
@@ -776,9 +776,9 @@
           "processed": 2
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -856,9 +856,9 @@
           "processed": 3
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         }
       }
     },
@@ -871,9 +871,9 @@
           "processed": 2
         },
         "2": {
-          "status": "identified",
-          "total": 3,
-          "processed": 0
+          "status": "completed",
+          "total": 5,
+          "processed": 5
         },
         "3": {
           "status": "completed",
@@ -987,8 +987,8 @@
         },
         "10": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 5,
+          "processed": 5
         },
         "11": {
           "status": "completed",
@@ -996,9 +996,9 @@
           "processed": 3
         },
         "12": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "13": {
           "status": "completed",
@@ -1097,8 +1097,8 @@
         },
         "5": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         },
         "6": {
           "status": "completed",
@@ -1151,9 +1151,9 @@
           "processed": 5
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "10": {
           "status": "completed",
@@ -1191,9 +1191,9 @@
           "processed": 3
         },
         "17": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "18": {
           "status": "completed",
@@ -1246,9 +1246,9 @@
           "processed": 5
         },
         "8": {
-          "status": "identified",
-          "total": 5,
-          "processed": 0
+          "status": "completed",
+          "total": 6,
+          "processed": 6
         },
         "9": {
           "status": "completed",
@@ -1262,8 +1262,8 @@
         },
         "11": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 5,
+          "processed": 5
         },
         "12": {
           "status": "completed",
@@ -1286,9 +1286,9 @@
           "processed": 4
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -1301,9 +1301,9 @@
           "processed": 6
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         }
       }
     },
@@ -1391,9 +1391,9 @@
           "processed": 2
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "6": {
           "status": "completed",
@@ -1451,9 +1451,9 @@
           "processed": 4
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -1516,9 +1516,9 @@
           "processed": 4
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "5": {
           "status": "completed",
@@ -1527,8 +1527,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 3,
+          "processed": 3
         },
         "7": {
           "status": "completed",
@@ -1546,9 +1546,9 @@
           "processed": 4
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "11": {
           "status": "completed",
@@ -1676,9 +1676,9 @@
           "processed": 2
         },
         "4": {
-          "status": "identified",
-          "total": 3,
-          "processed": 0
+          "status": "completed",
+          "total": 4,
+          "processed": 4
         }
       }
     },
@@ -1701,9 +1701,9 @@
           "processed": 3
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     }

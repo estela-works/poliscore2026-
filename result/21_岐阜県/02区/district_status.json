@@ -3,51 +3,79 @@
   "prefecture_name": "岐阜県",
   "district_number": 2,
   "district_name": "岐阜2区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 0,
+  "last_updated": "2026-01-28T18:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "棚橋泰文",
       "name_kana": "たなはしやすふみ",
-      "age": 61,
+      "age": 62,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "三尾圭司",
-      "name_kana": "みおけいじ",
-      "age": 48,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "伊藤あゆみ",
       "name_kana": "いとうあゆみ",
-      "age": 53,
+      "age": 55,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "塚原雅也",
+      "name_kana": "つかはらまさや",
+      "age": 34,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "唐澤理恵",
+      "name_kana": "からさわりえ",
+      "age": 63,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "野村美穂",
+      "name_kana": "のむらみほ",
+      "age": 56,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

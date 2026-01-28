@@ -5,9 +5,9 @@
   "district_name": "岩手1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T12:55:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "階猛",
@@ -56,6 +56,20 @@
       "name_kana": "ささき たいせい",
       "age": 47,
       "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小笠原勇治",
+      "name_kana": "おがさわら ゆうじ",
+      "age": 62,
+      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -3,17 +3,17 @@
   "prefecture_name": "大阪府",
   "total_districts": 19,
   "is_official": true,
-  "last_updated": "2026-01-28T10:09:59.533321",
+  "last_updated": "2026-01-28T11:11:44.785313",
   "status_summary": {
     "none": 0,
     "pre": 0,
-    "identified": 2,
+    "identified": 0,
     "processing": 0,
-    "completed": 17,
+    "completed": 19,
     "abolished": 0
   },
   "total_candidates": 74,
-  "processed_candidates": 66,
+  "processed_candidates": 74,
   "party_summary": {
     "自由民主党": 15,
     "立憲民主党": 1,
@@ -78,9 +78,9 @@
     },
     {
       "district_number": 9,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 0
+      "processed_candidates": 5
     },
     {
       "district_number": 10,
@@ -126,9 +126,9 @@
     },
     {
       "district_number": 17,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 18,

@@ -5,8 +5,8 @@
   "district_name": "埼玉1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 7,
+  "last_updated": "2026-01-28T13:00:00+09:00",
+  "total_candidates": 4,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -40,51 +40,6 @@
       }
     },
     {
-      "name": "浅野目義英",
-      "name_kana": "あさのめ よしひで",
-      "age": 66,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 19039,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "矢野由紀子",
-      "name_kana": "やの ゆきこ",
-      "age": 60,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 15106,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "三上恭平",
-      "name_kana": "みかみ きょうへい",
-      "age": 42,
-      "party": "みんなでつくる党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 4234,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "羽田一樹",
       "name_kana": "はた かずき",
       "age": null,
@@ -112,4 +67,3 @@
     }
   ]
 }
-

@@ -3,65 +3,66 @@
   "prefecture_name": "沖縄県",
   "district_number": 4,
   "district_name": "沖縄4区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "西銘恒三郎",
-      "name_kana": "にしめ こうさぶろう",
-      "age": 71,
+      "name_kana": "にしめこうさぶろう",
+      "age": 70,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "金城徹",
+      "name_kana": "きんじょうとおる",
+      "age": 71,
+      "party": "立憲民主党",
+      "status": "新人",
+      "result": "落選",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山川泰博",
+      "name_kana": "やまかわやすひろ",
+      "age": 54,
+      "party": "日本維新の会",
+      "status": "新人",
+      "result": "落選",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "山川仁",
-      "name_kana": "やまかわ ひとし",
-      "age": 51,
+      "name_kana": "やまかわひとし",
+      "age": 50,
       "party": "れいわ新選組",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "崎枝裕次",
-      "name_kana": "さきえだ ゆうじ",
-      "age": 44,
-      "party": "国民民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "当選",
+      "notes": "比例九州ブロック復活当選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "砥板芳行",
-      "name_kana": "といた よしゆき",
-      "age": 56,
-      "party": "中道改革連合",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
