@@ -3,7 +3,7 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T13:32:50.813679",
+  "last_updated": "2026-01-28T13:37:56.335464",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 290,
@@ -14,7 +14,7 @@
     "none": 3,
     "abolished": 0,
     "total_candidates": 1110,
-    "processed_candidates": 1097
+    "processed_candidates": 1098
   },
   "prefectures": {
     "01": {
@@ -946,9 +946,9 @@
           "processed": 4
         },
         "2": {
-          "status": "completed",
+          "status": "processing",
           "total": 4,
-          "processed": 4
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -961,14 +961,14 @@
           "processed": 6
         },
         "5": {
-          "status": "processing",
+          "status": "completed",
           "total": 6,
-          "processed": 5
+          "processed": 6
         },
         "6": {
           "status": "processing",
           "total": 5,
-          "processed": 2
+          "processed": 4
         },
         "7": {
           "status": "completed",
