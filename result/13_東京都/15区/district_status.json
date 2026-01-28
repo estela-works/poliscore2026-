@@ -5,13 +5,13 @@
   "district_name": "東京15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T16:30:00+09:00",
+  "last_updated": "2026-01-28T20:15:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "酒井菜摘",
-      "name_kana": "さかいなつみ",
+      "name_kana": "さかい なつみ",
       "age": 39,
       "party": "中道改革連合",
       "status": "前職",
@@ -25,7 +25,7 @@
     },
     {
       "name": "大空幸星",
-      "name_kana": "おおぞらこうき",
+      "name_kana": "おおぞら こうき",
       "age": 27,
       "party": "自由民主党",
       "status": "前職",
@@ -39,7 +39,7 @@
     },
     {
       "name": "三次由梨香",
-      "name_kana": "みつぎゆりか",
+      "name_kana": "みつぎ ゆりか",
       "age": 40,
       "party": "日本維新の会",
       "status": "新人",
@@ -53,8 +53,8 @@
     },
     {
       "name": "深見紗采",
-      "name_kana": "ふかみさあや",
-      "age": 0,
+      "name_kana": "ふかみ さあや",
+      "age": 32,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -67,8 +67,8 @@
     },
     {
       "name": "鈴木佳奈",
-      "name_kana": "すずきかな",
-      "age": 0,
+      "name_kana": "すずき かな",
+      "age": 46,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -81,7 +81,7 @@
     },
     {
       "name": "吉野敏明",
-      "name_kana": "よしのとしあき",
+      "name_kana": "よしの としあき",
       "age": 58,
       "party": "減税日本・ゆうこく連合",
       "status": "新人",

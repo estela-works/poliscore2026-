@@ -5,7 +5,7 @@
   "district_name": "埼玉6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:08.913802",
+  "last_updated": "2026-01-28T13:07:30.064708",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -28,7 +28,7 @@
       "name": "秋山もえ",
       "name_kana": "あきやま もえ",
       "age": 48,
-      "party": "日本共産党",
+      "party": "3/5",
       "status": "新人",
       "result": "落選",
       "votes": 24735,
@@ -43,7 +43,7 @@
       "name": "尾花瑛仁",
       "name_kana": "おばな あきひと",
       "age": 42,
-      "party": "自由民主党",
+      "party": "3/5",
       "status": "新人",
       "processing": {
         "researched": true,
@@ -56,7 +56,7 @@
       "name": "津田賢伯",
       "name_kana": "つだ まさのり",
       "age": 50,
-      "party": "日本維新の会",
+      "party": "3/5",
       "status": "新人",
       "processing": {
         "researched": true,
@@ -69,7 +69,7 @@
       "name": "長島美子",
       "name_kana": "ながしま よしこ",
       "age": 58,
-      "party": "参政党",
+      "party": "2/5",
       "status": "新人",
       "processing": {
         "researched": true,

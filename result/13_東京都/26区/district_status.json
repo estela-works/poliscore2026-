@@ -5,14 +5,14 @@
   "district_name": "東京26区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T12:30:00+09:00",
+  "last_updated": "2026-01-28T17:54:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "松原仁",
       "name_kana": "",
-      "age": 68,
+      "age": 69,
       "party": "無所属",
       "status": "前職",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "菅沼桂子",
       "name_kana": "",
-      "age": 0,
+      "age": 53,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "松井佳苗子",
       "name_kana": "",
-      "age": 46,
+      "age": 47,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

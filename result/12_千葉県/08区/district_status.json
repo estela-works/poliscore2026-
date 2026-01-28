@@ -5,7 +5,7 @@
   "district_name": "千葉8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.078250",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "本庄知史",
       "name_kana": "ほんじょう さとし",
       "age": 50,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
       "processing": {

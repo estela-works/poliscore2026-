@@ -5,7 +5,7 @@
   "district_name": "東京16区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.100193",
   "total_candidates": 3,
   "processed_candidates": 3,
   "note": "2024年衆院選では5人立候補との情報あり。候補者情報の一部が不正確な可能性がある。竹内知子は2026年衆院選候補予定者として確認。村上剛（参政党）は情報が確認できず。",
@@ -28,7 +28,7 @@
       "name": "柴田勝之",
       "name_kana": "しばた かつゆき",
       "age": 56,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "比例復活",
       "processing": {

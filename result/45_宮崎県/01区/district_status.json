@@ -5,7 +5,7 @@
   "district_name": "宮崎1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T18:30:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.278069",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "渡辺創",
       "name_kana": "わたなべ そう",
       "age": 48,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

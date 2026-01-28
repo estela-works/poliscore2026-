@@ -5,7 +5,7 @@
   "district_name": "神奈川20区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T14:00:00+09:00",
+  "last_updated": "2026-01-28T18:08:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "大塚小百合",
       "name_kana": "おおつか さゆり",
-      "age": 45,
+      "age": 46,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,

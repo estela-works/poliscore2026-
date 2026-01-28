@@ -5,7 +5,7 @@
   "district_name": "埼玉2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.261979",
+  "last_updated": "2026-01-28T13:07:30.060020",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -56,7 +56,7 @@
       "name": "菅野静華",
       "name_kana": "かんの しずか",
       "age": 37,
-      "party": "参政党",
+      "party": "3/5",
       "status": "新人",
       "processing": {
         "researched": true,

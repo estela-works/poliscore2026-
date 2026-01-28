@@ -5,7 +5,7 @@
   "district_name": "大阪2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T19:30:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.197559",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "守島正",
       "name_kana": "もりしま ただし",
       "age": 43,
-      "party": "日本維新の会",
+      "party": "日本維新の会→無所属・自民党推薦",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

@@ -5,14 +5,14 @@
   "district_name": "千葉4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T14:30:00+09:00",
+  "last_updated": "2026-01-28T19:48:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "高橋宏",
       "name_kana": "たかはし ひろし",
-      "age": null,
+      "age": 49,
       "party": "減税日本・ゆうこく連合",
       "status": "新人",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "水沼秀幸",
       "name_kana": "みずぬま ひでゆき",
-      "age": null,
+      "age": 35,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "鹿嶋祐介",
       "name_kana": "かしま ゆうすけ",
-      "age": null,
+      "age": 45,
       "party": "自由民主党",
       "status": "新人",
       "processing": {
@@ -51,7 +51,7 @@
     {
       "name": "工藤聖子",
       "name_kana": "くどう せいこ",
-      "age": null,
+      "age": 46,
       "party": "参政党",
       "status": "新人",
       "processing": {
@@ -63,8 +63,8 @@
     },
     {
       "name": "玉堀里衣",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "たまほり りえ",
+      "age": 38,
       "party": "日本共産党",
       "status": "新人",
       "processing": {

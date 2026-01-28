@@ -5,14 +5,14 @@
   "district_name": "兵庫6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T14:00:00+09:00",
+  "last_updated": "2026-01-28T12:47:34.334898",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "桜井周",
       "name_kana": "さくらい しゅう",
-      "age": 54,
+      "age": 55,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "大串正樹",
       "name_kana": "おおぐし まさき",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "市村浩一郎",
       "name_kana": "いちむら こういちろう",
-      "age": 60,
+      "age": 61,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -52,9 +52,9 @@
       }
     },
     {
-      "name": "伊藤正哉",
-      "name_kana": "いとう まさや",
-      "age": 36,
+      "name": "谷浩一郎",
+      "name_kana": "たに こういちろう",
+      "age": 44,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "吉見秋彦",
       "name_kana": "よしみ あきひこ",
-      "age": 50,
+      "age": 51,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

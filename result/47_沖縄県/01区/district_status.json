@@ -3,30 +3,16 @@
   "prefecture_name": "沖縄県",
   "district_number": 1,
   "district_name": "沖縄1区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T20:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T12:10:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 3,
   "candidates": [
-    {
-      "name": "赤嶺政賢",
-      "name_kana": "あかみね せいけん",
-      "age": 77,
-      "party": "日本共産党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
     {
       "name": "國場幸之助",
       "name_kana": "こくば こうのすけ",
-      "age": 52,
+      "age": 53,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -38,11 +24,11 @@
       }
     },
     {
-      "name": "下地幹郎",
-      "name_kana": "しもじ みきお",
-      "age": 63,
-      "party": "無所属",
-      "status": "元職",
+      "name": "赤嶺政賢",
+      "name_kana": "あかみね せいけん",
+      "age": 78,
+      "party": "日本共産党",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -52,9 +38,23 @@
       }
     },
     {
+      "name": "山川泰博",
+      "name_kana": "やまかわ やすひろ",
+      "age": 55,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
       "name": "和田知久",
       "name_kana": "わだ ともひさ",
-      "age": 65,
+      "age": 66,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -62,6 +62,20 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "中島万穂",
+      "name_kana": "なかじま まほ",
+      "age": 46,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

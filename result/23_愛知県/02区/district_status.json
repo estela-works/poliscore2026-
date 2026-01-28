@@ -3,16 +3,16 @@
   "prefecture_name": "愛知県",
   "district_number": 2,
   "district_name": "愛知2区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T22:30:00+09:00",
+  "last_updated": "2026-01-28T12:40:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 4,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "古川元久",
       "name_kana": "ふるかわ もとひさ",
-      "age": 58,
+      "age": 60,
       "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,37 +24,23 @@
       }
     },
     {
-      "name": "中川貴元",
-      "name_kana": "なかがわ たかもと",
-      "age": 57,
+      "name": "つじ秀樹",
+      "name_kana": "つじ ひでき",
+      "age": 50,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "室園幸志",
-      "name_kana": "むろぞの こうじ",
-      "age": 49,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     },
     {
       "name": "酒井健太朗",
       "name_kana": "さかい けんたろう",
-      "age": 38,
+      "age": 40,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -62,6 +48,20 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "梅村正",
+      "name_kana": "うめむら ただし",
+      "age": 69,
+      "party": "減税日本・ゆうこく連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

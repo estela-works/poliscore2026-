@@ -5,7 +5,7 @@
   "district_name": "東京21区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T13:30:00+09:00",
+  "last_updated": "2026-01-28T18:02:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "鈴木烈",
       "name_kana": "すずきれつ",
-      "age": null,
+      "age": 52,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "星野奈美",
       "name_kana": "ほしのなみ",
-      "age": null,
+      "age": 51,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "矢田一久",
       "name_kana": "やだかずひさ",
-      "age": null,
+      "age": 35,
       "party": "減税日本・ゆうこく連合",
       "status": "新人",
       "proportional_rank": null,

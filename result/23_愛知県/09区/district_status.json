@@ -5,7 +5,7 @@
   "district_name": "愛知9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.171318",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "岡本充功",
       "name_kana": "おかもと みつのり",
       "age": 53,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "元職",
       "result": "当選",
       "votes": 91152,

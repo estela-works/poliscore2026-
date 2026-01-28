@@ -5,13 +5,13 @@
   "district_name": "東京5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T17:30:00+09:00",
+  "last_updated": "2026-01-28T20:33:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "手塚仁雄",
-      "name_kana": "てづかよしお",
+      "name_kana": "てづか よしお",
       "age": 59,
       "party": "中道改革連合",
       "status": "前職",
@@ -25,7 +25,7 @@
     },
     {
       "name": "若宮健嗣",
-      "name_kana": "わかみやけんじ",
+      "name_kana": "わかみや けんじ",
       "age": 64,
       "party": "自由民主党",
       "status": "元職",
@@ -39,8 +39,8 @@
     },
     {
       "name": "稲葉太郎",
-      "name_kana": "いなばたろう",
-      "age": 40,
+      "name_kana": "いなば たろう",
+      "age": 41,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -53,8 +53,8 @@
     },
     {
       "name": "桑水流弓紀子",
-      "name_kana": "くわずるゆきこ",
-      "age": 0,
+      "name_kana": "くわずる ゆきこ",
+      "age": 38,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -67,8 +67,8 @@
     },
     {
       "name": "松岡登志子",
-      "name_kana": "まつおかとしこ",
-      "age": 0,
+      "name_kana": "まつおか としこ",
+      "age": 56,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

@@ -5,7 +5,7 @@
   "district_name": "千葉9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.079643",
   "total_candidates": 4,
   "processed_candidates": 4,
   "note": "前職の秋本真利（自民）が収賄容疑で逮捕・不出馬。山崎はるゆき（共産）も出馬していたが、候補者リストから漏れている可能性あり。",
@@ -14,7 +14,7 @@
       "name": "奥野総一郎",
       "name_kana": "おくの そういちろう",
       "age": 60,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
       "processing": {

@@ -5,14 +5,14 @@
   "district_name": "千葉1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T21:30:00+09:00",
+  "last_updated": "2026-01-28T12:30:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "田嶋要",
       "name_kana": "たじま かなめ",
-      "age": 63,
+      "age": 64,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "門山宏哲",
       "name_kana": "かどやま ひろあき",
-      "age": 60,
+      "age": 61,
       "party": "自由民主党",
       "status": "元職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "上田敦広",
       "name_kana": "うえだ あつひろ",
-      "age": 41,
+      "age": 42,
       "party": "参政党",
       "status": "新人",
       "processing": {

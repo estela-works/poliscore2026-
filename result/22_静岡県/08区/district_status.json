@@ -5,7 +5,7 @@
   "district_name": "静岡8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.162170",
   "total_candidates": 4,
   "processed_candidates": 4,
   "note": "候補者名を修正：村田優哉→平賀高成（日本共産党）。源馬謙太郎の政党は立憲民主党。塩谷立（元文科相）の裏金問題・離党を受けて自民は稲葉大輔を急遽擁立。",
@@ -14,7 +14,7 @@
       "name": "源馬謙太郎",
       "name_kana": "げんま けんたろう",
       "age": 51,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
       "processing": {

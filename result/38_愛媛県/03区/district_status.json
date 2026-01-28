@@ -5,7 +5,7 @@
   "district_name": "愛媛3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.252815",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -28,7 +28,7 @@
       "name": "越智清純",
       "name_kana": "おち きよすみ",
       "age": 42,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "落選",
       "votes": 50702,

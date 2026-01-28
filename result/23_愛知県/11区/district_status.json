@@ -5,29 +5,15 @@
   "district_name": "愛知11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T17:10:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-28T13:07:30.173915",
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "丹野みどり",
       "name_kana": "たんの みどり",
-      "age": 51,
-      "party": "国民民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "八木哲也",
-      "name_kana": "やぎ てつや",
-      "age": 77,
-      "party": "自由民主党",
+      "age": 52,
+      "party": "注意点",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -38,10 +24,10 @@
       }
     },
     {
-      "name": "植田和男",
-      "name_kana": "うえだ かずお",
-      "age": 75,
-      "party": "日本共産党",
+      "name": "藤沢ただもり",
+      "name_kana": "ふじさわ ただもり",
+      "age": 54,
+      "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

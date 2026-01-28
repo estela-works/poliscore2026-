@@ -3,7 +3,7 @@
   "prefecture_name": "兵庫県",
   "total_districts": 12,
   "is_official": true,
-  "last_updated": "2026-01-28T12:25:08.803254",
+  "last_updated": "2026-01-28T13:32:50.784254",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -12,20 +12,20 @@
     "completed": 12,
     "abolished": 0
   },
-  "total_candidates": 54,
-  "processed_candidates": 54,
+  "total_candidates": 56,
+  "processed_candidates": 56,
   "party_summary": {
-    "自由民主党": 10,
-    "立憲民主党": 1,
+    "自由民主党": 9,
+    "立憲民主党": 0,
     "日本維新の会": 11,
     "公明党": 1,
-    "日本共産党": 11,
+    "日本共産党": 12,
     "国民民主党": 2,
     "れいわ新選組": 1,
     "社会民主党": 0,
     "参政党": 7,
-    "無所属": 2,
-    "その他": 8
+    "無所属": 3,
+    "その他": 10
   },
   "districts": [
     {
@@ -55,8 +55,8 @@
     {
       "district_number": 5,
       "status": "completed",
-      "total_candidates": 3,
-      "processed_candidates": 3
+      "total_candidates": 5,
+      "processed_candidates": 5
     },
     {
       "district_number": 6,

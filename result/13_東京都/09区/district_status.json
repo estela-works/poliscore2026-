@@ -5,15 +5,15 @@
   "district_name": "東京9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T18:00:00+09:00",
+  "last_updated": "2026-01-28T22:35:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "山岸一生",
       "name_kana": "やまぎし いっせい",
-      "age": 43,
-      "party": "立憲民主党",
+      "age": 44,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -26,8 +26,8 @@
     {
       "name": "菅原一秀",
       "name_kana": "すがわら いっしゅう",
-      "age": 62,
-      "party": "無所属",
+      "age": 64,
+      "party": "無所属・自民党推薦",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "大河内茂太",
-      "name_kana": "おおこうち しげた",
-      "age": 53,
-      "party": "日本維新の会",
+      "name": "薬師寺みちよ",
+      "name_kana": "やくしじ みちよ",
+      "age": 61,
+      "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -52,10 +52,10 @@
       }
     },
     {
-      "name": "大津綾香",
-      "name_kana": "おおつ あやか",
-      "age": 31,
-      "party": "みんなでつくる党",
+      "name": "鈴木ふみや",
+      "name_kana": "すずき ふみや",
+      "age": 33,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -5,30 +5,16 @@
   "district_name": "東京29区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T16:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-28T22:45:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
-      "name": "岡本三成",
-      "name_kana": "おかもと みつなり",
-      "age": 59,
-      "party": "公明党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "木村剛司",
-      "name_kana": "きむら たけつか",
-      "age": 53,
-      "party": "立憲民主党",
-      "status": "元職",
+      "name": "長沢こうすけ",
+      "name_kana": "ながさわ こうすけ",
+      "age": 44,
+      "party": "自由民主党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -40,7 +26,7 @@
     {
       "name": "樽井良和",
       "name_kana": "たるい よしかず",
-      "age": 57,
+      "age": 58,
       "party": "国民民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -52,10 +38,24 @@
       }
     },
     {
-      "name": "海老澤由紀",
-      "name_kana": "えびさわ ゆき",
-      "age": 50,
-      "party": "日本維新の会",
+      "name": "木村剛司",
+      "name_kana": "きむら たけつか",
+      "age": 54,
+      "party": "中道改革連合",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小坂英二",
+      "name_kana": "こさか えいじ",
+      "age": 53,
+      "party": "日本保守党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -68,8 +68,22 @@
     {
       "name": "鈴木賢一",
       "name_kana": "すずき けんいち",
-      "age": 63,
+      "age": 64,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "堀川てつろう",
+      "name_kana": "ほりかわ てつろう",
+      "age": 25,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

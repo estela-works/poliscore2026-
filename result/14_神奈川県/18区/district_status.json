@@ -5,7 +5,7 @@
   "district_name": "神奈川18区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.130339",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -27,7 +27,7 @@
       "name": "宗野創",
       "name_kana": "そうの はじめ",
       "age": 31,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "当選",
       "processing": {

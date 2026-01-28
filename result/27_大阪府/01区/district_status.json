@@ -3,30 +3,16 @@
   "prefecture_name": "大阪府",
   "district_number": 1,
   "district_name": "大阪1区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T21:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T12:25:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 3,
   "candidates": [
-    {
-      "name": "井上英孝",
-      "name_kana": "いのうえ ひでたか",
-      "age": 53,
-      "party": "日本維新の会",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
     {
       "name": "大西宏幸",
       "name_kana": "おおにし ひろゆき",
-      "age": 57,
+      "age": 58,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -38,9 +24,37 @@
       }
     },
     {
+      "name": "井上英孝",
+      "name_kana": "いのうえ ひでたか",
+      "age": 54,
+      "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "塩野知央",
+      "name_kana": "しおの ともお",
+      "age": 47,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
       "name": "竹内祥倫",
       "name_kana": "たけうち よしのり",
-      "age": 43,
+      "age": 44,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -52,16 +66,16 @@
       }
     },
     {
-      "name": "宮出千慧",
-      "name_kana": "みやで ちさと",
-      "age": 39,
+      "name": "中村ゆき",
+      "name_kana": "なかむら ゆき",
+      "age": 44,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

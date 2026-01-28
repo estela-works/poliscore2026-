@@ -5,13 +5,13 @@
   "district_name": "大阪3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T14:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T21:00:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "東徹",
-      "name_kana": "あずまとおる",
+      "name_kana": "あずま とおる",
       "age": 59,
       "party": "日本維新の会",
       "status": "前職",
@@ -24,22 +24,8 @@
       }
     },
     {
-      "name": "萩原仁",
-      "name_kana": "はぎはらひとし",
-      "age": 57,
-      "party": "中道改革連合",
-      "status": "元職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "渡部結",
-      "name_kana": "わたなべゆい",
+      "name_kana": "わたなべ ゆい",
       "age": 44,
       "party": "日本共産党",
       "status": "新人",
@@ -52,10 +38,38 @@
       }
     },
     {
-      "name": "中條栄太郎",
-      "name_kana": "ちゅうじょうえいたろう",
-      "age": 55,
-      "party": "無所属",
+      "name": "山室たかふみ",
+      "name_kana": "やまむろ たかふみ",
+      "age": 34,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "柳本あきら",
+      "name_kana": "やなぎもと あきら",
+      "age": 52,
+      "party": "自由民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "宇都宮ゆうこ",
+      "name_kana": "うつのみや ゆうこ",
+      "age": 49,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

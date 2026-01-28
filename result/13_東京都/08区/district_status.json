@@ -5,14 +5,14 @@
   "district_name": "東京8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T13:00:00+09:00",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "last_updated": "2026-01-28T19:30:00+09:00",
+  "total_candidates": 7,
+  "processed_candidates": 7,
   "candidates": [
     {
       "name": "吉田晴美",
       "name_kana": "よしだ はるみ",
-      "age": 53,
+      "age": 54,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "門寛子",
       "name_kana": "かど ひろこ",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "森田一成",
       "name_kana": "もりた いっせい",
-      "age": 45,
+      "age": 46,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "永井漠",
       "name_kana": "ながい ばく",
-      "age": 0,
+      "age": 38,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "海保杜久麻",
       "name_kana": "かいほ とくま",
-      "age": 30,
+      "age": 31,
       "party": "れいわ新選組",
       "status": "新人",
       "proportional_rank": null,
@@ -84,6 +84,20 @@
       "name_kana": "おおたに しろう",
       "age": 62,
       "party": "日本保守党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "藤原ゆきひろ",
+      "name_kana": "ふじわら ゆきひろ",
+      "age": 92,
+      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

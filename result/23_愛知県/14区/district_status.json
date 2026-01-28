@@ -5,7 +5,7 @@
   "district_name": "愛知14区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T13:00:00+09:00",
+  "last_updated": "2026-01-28T19:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -24,11 +24,11 @@
       }
     },
     {
-      "name": "田中克典",
-      "name_kana": "たなか かつのり",
-      "age": 47,
+      "name": "おおたけりえ",
+      "name_kana": "おおたけ りえ",
+      "age": 48,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "野沢康幸",
-      "name_kana": "のざわ やすゆき",
-      "age": 33,
+      "name": "あさお大輔",
+      "name_kana": "あさお だいすけ",
+      "age": 55,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

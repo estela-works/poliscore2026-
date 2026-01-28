@@ -5,14 +5,28 @@
   "district_name": "愛知3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T17:00:00+09:00",
+  "last_updated": "2026-01-28T23:00:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
+      "name": "皆川雅一",
+      "name_kana": "みながわ まさかず",
+      "age": 44,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
       "name": "近藤昭一",
       "name_kana": "こんどう しょういち",
-      "age": 66,
+      "age": 67,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +40,7 @@
     {
       "name": "水野良彦",
       "name_kana": "みずの よしひこ",
-      "age": 50,
+      "age": 52,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,11 +52,11 @@
       }
     },
     {
-      "name": "皆川雅一",
-      "name_kana": "みながわ まさかず",
-      "age": 43,
-      "party": "日本維新の会",
-      "status": "新人",
+      "name": "平岩まさき",
+      "name_kana": "ひらいわ まさき",
+      "age": 46,
+      "party": "減税日本・ゆうこく連合",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -52,24 +66,10 @@
       }
     },
     {
-      "name": "杉本純子",
-      "name_kana": "すぎもと じゅんこ",
-      "age": 47,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "大橋享",
-      "name_kana": "おおはし とおる",
-      "age": 59,
-      "party": "日本保守党",
+      "name": "柴田たみお",
+      "name_kana": "しばた たみお",
+      "age": 60,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

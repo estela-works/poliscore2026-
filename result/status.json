@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T12:25:08.869386",
+  "last_updated": "2026-01-28T13:32:50.813679",
   "summary": {
     "total_prefectures": 47,
-    "total_districts": 291,
-    "completed": 284,
-    "processing": 3,
+    "total_districts": 290,
+    "completed": 279,
+    "processing": 8,
     "identified": 0,
     "pre": 0,
     "none": 3,
-    "abolished": 1,
-    "total_candidates": 1103,
-    "processed_candidates": 1100
+    "abolished": 0,
+    "total_candidates": 1110,
+    "processed_candidates": 1097
   },
   "prefectures": {
     "01": {
@@ -512,8 +512,8 @@
         },
         "8": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 7,
+          "processed": 7
         },
         "9": {
           "status": "completed",
@@ -617,8 +617,8 @@
         },
         "29": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 6,
+          "processed": 6
         },
         "30": {
           "status": "completed",
@@ -722,8 +722,8 @@
         },
         "19": {
           "status": "completed",
-          "total": 7,
-          "processed": 7
+          "total": 4,
+          "processed": 4
         },
         "20": {
           "status": "completed",
@@ -887,8 +887,8 @@
         },
         "5": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 4,
+          "processed": 4
         }
       }
     },
@@ -957,18 +957,18 @@
         },
         "4": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 6,
+          "processed": 6
         },
         "5": {
-          "status": "completed",
-          "total": 5,
+          "status": "processing",
+          "total": 6,
           "processed": 5
         },
         "6": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
+          "status": "processing",
+          "total": 5,
+          "processed": 2
         },
         "7": {
           "status": "completed",
@@ -992,8 +992,8 @@
         },
         "11": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "12": {
           "status": "completed",
@@ -1064,11 +1064,6 @@
           "status": "completed",
           "total": 6,
           "processed": 6
-        },
-        "4": {
-          "status": "abolished",
-          "total": 0,
-          "processed": 0
         }
       }
     },
@@ -1111,9 +1106,9 @@
       "name": "大阪府",
       "districts": {
         "1": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
+          "status": "processing",
+          "total": 5,
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -1122,8 +1117,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 5,
+          "processed": 5
         },
         "4": {
           "status": "completed",
@@ -1176,14 +1171,14 @@
           "processed": 4
         },
         "14": {
+          "status": "completed",
+          "total": 3,
+          "processed": 3
+        },
+        "15": {
           "status": "processing",
           "total": 3,
           "processed": 2
-        },
-        "15": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
         },
         "16": {
           "status": "completed",
@@ -1197,8 +1192,8 @@
         },
         "18": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "19": {
           "status": "completed",
@@ -1232,8 +1227,8 @@
         },
         "5": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 5,
+          "processed": 5
         },
         "6": {
           "status": "completed",
@@ -1506,9 +1501,9 @@
           "processed": 5
         },
         "2": {
-          "status": "completed",
-          "total": 3,
-          "processed": 3
+          "status": "processing",
+          "total": 4,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1637,8 +1632,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 4,
+          "processed": 4
         }
       }
     },
@@ -1686,9 +1681,9 @@
       "name": "沖縄県",
       "districts": {
         "1": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
+          "status": "processing",
+          "total": 5,
+          "processed": 3
         },
         "2": {
           "status": "completed",

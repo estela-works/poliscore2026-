@@ -5,30 +5,16 @@
   "district_name": "兵庫3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T23:00:00+09:00",
+  "last_updated": "2026-01-28T12:45:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
-      "name": "関芳弘",
-      "name_kana": "せき よしひろ",
-      "age": 59,
-      "party": "自由民主党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "向山好一",
       "name_kana": "むこうやま こういち",
-      "age": 67,
+      "age": 68,
       "party": "国民民主党",
-      "status": "元職",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -40,8 +26,22 @@
     {
       "name": "和田有一朗",
       "name_kana": "わだ ゆういちろう",
-      "age": 60,
+      "age": 61,
       "party": "日本維新の会",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "関芳弘",
+      "name_kana": "せき よしひろ",
+      "age": 60,
+      "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -54,7 +54,7 @@
     {
       "name": "加藤健二",
       "name_kana": "かとう けんじ",
-      "age": 64,
+      "age": 66,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

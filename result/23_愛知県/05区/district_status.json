@@ -5,15 +5,29 @@
   "district_name": "愛知5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T17:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-28T23:05:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
-      "name": "西川厚志",
-      "name_kana": "にしかわ あつし",
-      "age": 55,
-      "party": "立憲民主党",
+      "name": "神田憲次",
+      "name_kana": "かんだ けんじ",
+      "age": 62,
+      "party": "自由民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "渡辺あいり",
+      "name_kana": "わたなべ あいり",
+      "age": 43,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -24,10 +38,10 @@
       }
     },
     {
-      "name": "神田憲次",
-      "name_kana": "かんだ けんじ",
-      "age": 61,
-      "party": "自由民主党",
+      "name": "西川厚志",
+      "name_kana": "にしかわ あつし",
+      "age": 56,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -38,11 +52,25 @@
       }
     },
     {
-      "name": "岬麻紀",
-      "name_kana": "みさき まき",
-      "age": 55,
-      "party": "日本維新の会",
-      "status": "前職",
+      "name": "田中克和",
+      "name_kana": "たなか かつよし",
+      "age": 41,
+      "party": "日本保守党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岡本やすひろ",
+      "name_kana": "おかもと やすひろ",
+      "age": 43,
+      "party": "自由民主党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -54,22 +82,8 @@
     {
       "name": "江上博之",
       "name_kana": "えがみ ひろゆき",
-      "age": 69,
+      "age": 71,
       "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "田中克和",
-      "name_kana": "たなか かつかず",
-      "age": 40,
-      "party": "日本保守党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

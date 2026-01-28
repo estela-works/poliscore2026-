@@ -5,7 +5,7 @@
   "district_name": "京都6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.194580",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "山井和則",
       "name_kana": "やまのい かずのり",
       "age": 62,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
       "votes": 97542,

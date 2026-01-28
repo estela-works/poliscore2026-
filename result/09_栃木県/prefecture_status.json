@@ -3,7 +3,7 @@
   "prefecture_name": "栃木県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-28T12:25:08.679751",
+  "last_updated": "2026-01-28T13:32:50.731494",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -24,8 +24,8 @@
     "れいわ新選組": 0,
     "社会民主党": 0,
     "参政党": 3,
-    "無所属": 2,
-    "その他": 4
+    "無所属": 1,
+    "その他": 5
   },
   "districts": [
     {

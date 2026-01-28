@@ -5,7 +5,7 @@
   "district_name": "神奈川5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.118915",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -28,7 +28,7 @@
       "name": "山崎誠",
       "name_kana": "やまざき まこと",
       "age": 62,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "前職",
       "result": "比例復活",
       "votes": 67399,

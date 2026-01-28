@@ -5,14 +5,14 @@
   "district_name": "大分2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T16:00:00+09:00",
+  "last_updated": "2026-01-28T20:10:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "広瀬建",
-      "name_kana": "ひろせけん",
-      "age": 51,
+      "name_kana": "ひろせ けん",
+      "age": 52,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,

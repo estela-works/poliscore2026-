@@ -5,7 +5,7 @@
   "district_name": "熊本4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T19:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.273162",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -41,7 +41,7 @@
       "name": "笹本由紀子",
       "name_kana": "ささもと ゆきこ",
       "age": 59,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

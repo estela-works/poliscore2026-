@@ -5,7 +5,7 @@
   "district_name": "埼玉13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.069354",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -28,7 +28,7 @@
       "name": "三ツ林裕巳",
       "name_kana": "みつばやし ひろみ",
       "age": 69,
-      "party": "無所属",
+      "party": "無所属・自由民主党系",
       "status": "元職",
       "result": "落選",
       "votes": 53382,

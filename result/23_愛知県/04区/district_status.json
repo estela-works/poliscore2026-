@@ -5,13 +5,13 @@
   "district_name": "愛知4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T15:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-28T22:30:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "牧義夫",
-      "name_kana": "まきよしお",
+      "name_kana": "まき よしお",
       "age": 68,
       "party": "中道改革連合",
       "status": "前職",
@@ -25,7 +25,7 @@
     },
     {
       "name": "工藤彰三",
-      "name_kana": "くどうしょうぞう",
+      "name_kana": "くどう しょうぞう",
       "age": 61,
       "party": "自由民主党",
       "status": "前職",
@@ -38,23 +38,9 @@
       }
     },
     {
-      "name": "麻生知沙",
-      "name_kana": "あそうちさ",
-      "age": 48,
-      "party": "日本保守党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "中田千代",
-      "name_kana": "なかたちよ",
-      "age": 57,
+      "name_kana": "なかた ちよ",
+      "age": 58,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -66,10 +52,38 @@
       }
     },
     {
+      "name": "志村やすひろ",
+      "name_kana": "しむら やすひろ",
+      "age": 53,
+      "party": "減税日本・ゆうこく連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
       "name": "高橋祐介",
-      "name_kana": "たかはしゆうすけ",
+      "name_kana": "たかはし ゆうすけ",
       "age": 47,
       "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "魚住かな",
+      "name_kana": "うおずみ かな",
+      "age": 43,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

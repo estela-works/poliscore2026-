@@ -5,14 +5,14 @@
   "district_name": "神奈川14区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T14:30:00+09:00",
+  "last_updated": "2026-01-28T20:30:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "赤間二郎",
-      "name_kana": "あかまじろう",
-      "age": 58,
+      "name_kana": "あかま じろう",
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -24,8 +24,8 @@
       }
     },
     {
-      "name": "長友克洋",
-      "name_kana": "ながともかつひろ",
+      "name": "長友よしひろ",
+      "name_kana": "ながとも よしひろ",
       "age": 55,
       "party": "中道改革連合",
       "status": "前職",

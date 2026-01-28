@@ -5,7 +5,7 @@
   "district_name": "奈良2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:07:30.226497",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -42,7 +42,7 @@
       "name": "尾崎充典",
       "name_kana": "おざき みつのり",
       "age": 63,
-      "party": "立憲民主党",
+      "party": "中道改革連合",
       "status": "新人",
       "result": "落選",
       "processing": {
