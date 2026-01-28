@@ -3,11 +3,11 @@
   "prefecture_name": "宮崎県",
   "district_number": 1,
   "district_name": "宮崎1区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.278069",
+  "last_updated": "2026-01-28T23:42:00.000000",
   "total_candidates": 4,
-  "processed_candidates": 4,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "渡辺創",
@@ -26,9 +26,9 @@
     {
       "name": "武井俊輔",
       "name_kana": "たけい しゅんすけ",
-      "age": 49,
+      "age": 50,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -40,7 +40,7 @@
     {
       "name": "横田朋大",
       "name_kana": "よこた ともひろ",
-      "age": 37,
+      "age": 38,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -52,16 +52,16 @@
       }
     },
     {
-      "name": "滋井祐香",
-      "name_kana": "しげい ゆか",
-      "age": 44,
+      "name": "滋井邦晃",
+      "name_kana": "しげい くにあき",
+      "age": 43,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

@@ -56,15 +56,15 @@
     },
     {
       "name": "平野雨龍",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "ひらの うりゅう",
+      "age": 31,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },

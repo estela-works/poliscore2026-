@@ -3,11 +3,11 @@
   "prefecture_name": "岡山県",
   "district_number": 2,
   "district_name": "岡山2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:50:38.452449",
+  "last_updated": "2026-01-28T17:38:09.876536",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "山下貴司",

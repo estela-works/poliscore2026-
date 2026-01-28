@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T17:35:58.220412",
+  "last_updated": "2026-01-28T17:51:04.518314",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 292,
-    "completed": 268,
-    "processing": 21,
+    "completed": 265,
+    "processing": 24,
     "identified": 0,
     "pre": 0,
     "none": 3,
     "abolished": 0,
-    "total_candidates": 1115,
-    "processed_candidates": 1079
+    "total_candidates": 1118,
+    "processed_candidates": 1078
   },
   "prefectures": {
     "01": {
@@ -181,9 +181,9 @@
           "processed": 3
         },
         "2": {
-          "status": "completed",
+          "status": "processing",
           "total": 3,
-          "processed": 3
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -691,8 +691,8 @@
           "processed": 3
         },
         "12": {
-          "status": "completed",
-          "total": 2,
+          "status": "processing",
+          "total": 4,
           "processed": 2
         },
         "13": {
@@ -1346,9 +1346,9 @@
           "processed": 5
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         },
         "3": {
           "status": "completed",
@@ -1421,8 +1421,8 @@
           "processed": 2
         },
         "3": {
-          "status": "completed",
-          "total": 5,
+          "status": "processing",
+          "total": 6,
           "processed": 5
         }
       }
@@ -1646,9 +1646,9 @@
       "name": "宮崎県",
       "districts": {
         "1": {
-          "status": "completed",
+          "status": "processing",
           "total": 4,
-          "processed": 4
+          "processed": 3
         },
         "2": {
           "status": "completed",
