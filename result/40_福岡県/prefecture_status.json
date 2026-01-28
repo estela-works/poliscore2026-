@@ -3,28 +3,28 @@
   "prefecture_name": "福岡県",
   "total_districts": 12,
   "is_official": true,
-  "last_updated": "2026-01-28T03:25:49.154113",
+  "last_updated": "2026-01-28T09:43:46.378013",
   "status_summary": {
     "none": 1,
     "pre": 0,
-    "identified": 6,
+    "identified": 3,
     "processing": 0,
-    "completed": 5,
+    "completed": 8,
     "abolished": 0
   },
   "total_candidates": 47,
-  "processed_candidates": 22,
+  "processed_candidates": 33,
   "party_summary": {
-    "自由民主党": 11,
+    "自由民主党": 10,
     "立憲民主党": 1,
     "日本維新の会": 6,
     "公明党": 0,
     "日本共産党": 6,
-    "国民民主党": 4,
+    "国民民主党": 3,
     "れいわ新選組": 0,
     "社会民主党": 3,
-    "参政党": 7,
-    "無所属": 4,
+    "参政党": 8,
+    "無所属": 5,
     "その他": 5
   },
   "districts": [
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 4,
@@ -72,15 +72,15 @@
     },
     {
       "district_number": 8,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 0
+      "processed_candidates": 3
     },
     {
       "district_number": 9,
-      "status": "identified",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 0
+      "processed_candidates": 4
     },
     {
       "district_number": 10,

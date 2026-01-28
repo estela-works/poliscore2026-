@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T03:25:49.168226",
+  "last_updated": "2026-01-28T09:43:46.389778",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 175,
+    "completed": 211,
     "processing": 28,
-    "identified": 69,
-    "pre": 15,
+    "identified": 35,
+    "pre": 13,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1119,
-    "processed_candidates": 741
+    "total_candidates": 1115,
+    "processed_candidates": 880
   },
   "prefectures": {
     "01": {
@@ -421,9 +421,9 @@
           "processed": 5
         },
         "5": {
-          "status": "pre",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "6": {
           "status": "pre",
@@ -436,9 +436,9 @@
           "processed": 0
         },
         "8": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "9": {
           "status": "pre",
@@ -476,9 +476,9 @@
       "name": "東京都",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "2": {
           "status": "identified",
@@ -491,9 +491,9 @@
           "processed": 5
         },
         "4": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 5,
+          "processed": 5
         },
         "5": {
           "status": "completed",
@@ -551,9 +551,9 @@
           "processed": 6
         },
         "16": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "17": {
           "status": "identified",
@@ -571,9 +571,9 @@
           "processed": 5
         },
         "20": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "21": {
           "status": "completed",
@@ -596,9 +596,9 @@
           "processed": 0
         },
         "25": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "26": {
           "status": "completed",
@@ -611,9 +611,9 @@
           "processed": 4
         },
         "28": {
-          "status": "identified",
+          "status": "completed",
           "total": 6,
-          "processed": 0
+          "processed": 6
         },
         "29": {
           "status": "completed",
@@ -676,9 +676,9 @@
           "processed": 0
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "11": {
           "status": "completed",
@@ -701,9 +701,9 @@
           "processed": 4
         },
         "15": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "16": {
           "status": "identified",
@@ -716,9 +716,9 @@
           "processed": 3
         },
         "18": {
-          "status": "identified",
-          "total": 6,
-          "processed": 0
+          "status": "completed",
+          "total": 5,
+          "processed": 5
         },
         "19": {
           "status": "completed",
@@ -826,9 +826,9 @@
           "processed": 4
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 2,
-          "processed": 0
+          "processed": 2
         }
       }
     },
@@ -876,9 +876,9 @@
           "processed": 0
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "4": {
           "status": "completed",
@@ -896,14 +896,14 @@
       "name": "静岡県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -931,9 +931,9 @@
           "processed": 3
         },
         "8": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -971,19 +971,19 @@
           "processed": 4
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "8": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "10": {
           "status": "completed",
@@ -1011,9 +1011,9 @@
           "processed": 3
         },
         "15": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "16": {
           "status": "completed",
@@ -1031,9 +1031,9 @@
           "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "3": {
           "status": "completed",
@@ -1041,9 +1041,9 @@
           "processed": 3
         },
         "4": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         }
       }
     },
@@ -1131,9 +1131,9 @@
           "processed": 5
         },
         "5": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "6": {
           "status": "completed",
@@ -1141,9 +1141,9 @@
           "processed": 4
         },
         "7": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "8": {
           "status": "completed",
@@ -1171,9 +1171,9 @@
           "processed": 3
         },
         "13": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "14": {
           "status": "completed",
@@ -1186,9 +1186,9 @@
           "processed": 4
         },
         "16": {
-          "status": "identified",
-          "total": 2,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "17": {
           "status": "identified",
@@ -1256,9 +1256,9 @@
           "processed": 4
         },
         "10": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "11": {
           "status": "completed",
@@ -1266,9 +1266,9 @@
           "processed": 4
         },
         "12": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         }
       }
     },
@@ -1326,9 +1326,9 @@
       "name": "島根県",
       "districts": {
         "1": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1346,9 +1346,9 @@
           "processed": 5
         },
         "2": {
-          "status": "identified",
-          "total": 4,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -1386,9 +1386,9 @@
           "processed": 5
         },
         "4": {
-          "status": "identified",
-          "total": 3,
-          "processed": 0
+          "status": "completed",
+          "total": 2,
+          "processed": 2
         },
         "5": {
           "status": "identified",
@@ -1511,9 +1511,9 @@
           "processed": 3
         },
         "3": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "4": {
           "status": "identified",
@@ -1536,14 +1536,14 @@
           "processed": 0
         },
         "8": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "9": {
-          "status": "identified",
+          "status": "completed",
           "total": 4,
-          "processed": 0
+          "processed": 4
         },
         "10": {
           "status": "identified",
@@ -1636,9 +1636,9 @@
           "processed": 2
         },
         "3": {
-          "status": "identified",
-          "total": 5,
-          "processed": 0
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         }
       }
     },
@@ -1666,9 +1666,9 @@
           "processed": 3
         },
         "2": {
-          "status": "identified",
+          "status": "completed",
           "total": 5,
-          "processed": 0
+          "processed": 5
         },
         "3": {
           "status": "completed",

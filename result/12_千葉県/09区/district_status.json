@@ -3,60 +3,67 @@
   "prefecture_name": "千葉県",
   "district_number": 9,
   "district_name": "千葉9区",
-  "status": "pre",
-  "is_official": false,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 0,
+  "processed_candidates": 4,
+  "note": "前職の秋本真利（自民）が収賄容疑で逮捕・不出馬。山崎はるゆき（共産）も出馬していたが、候補者リストから漏れている可能性あり。",
   "candidates": [
     {
       "name": "奥野総一郎",
       "name_kana": "おくの そういちろう",
-      "age": null,
-      "party": "中道改革連合",
+      "age": 60,
+      "party": "立憲民主党",
       "status": "前職",
+      "result": "当選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "田宮寿人",
       "name_kana": "たみや ひさと",
-      "age": null,
+      "age": 35,
       "party": "自由民主党",
       "status": "新人",
+      "result": "落選",
+      "note": "元財務省職員、元首相秘書官付",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "田沼隆志",
       "name_kana": "たぬま たかし",
-      "age": null,
+      "age": 48,
       "party": "日本維新の会",
       "status": "元職",
+      "result": "落選",
+      "note": "元衆議院議員、現千葉県議",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "前田裕介",
-      "name_kana": "",
+      "name_kana": "まえだ ゆうすけ",
       "age": null,
       "party": "参政党",
       "status": "新人",
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
