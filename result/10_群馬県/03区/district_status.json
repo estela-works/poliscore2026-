@@ -5,14 +5,14 @@
   "district_name": "群馬3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:36:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "笹川博義",
       "name_kana": "ささがわ ひろよし",
-      "age": 58,
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "長谷川嘉一",
       "name_kana": "はせがわ かいち",
-      "age": 71,
+      "age": 73,
       "party": "中道改革連合",
       "status": "前職",
       "result": "比例復活",

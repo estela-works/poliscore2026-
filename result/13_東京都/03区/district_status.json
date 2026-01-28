@@ -5,14 +5,14 @@
   "district_name": "東京3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:30:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "石原宏高",
       "name_kana": "",
-      "age": 60,
+      "age": 61,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "阿部祐美子",
       "name_kana": "",
-      "age": 60,
+      "age": 61,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "石崎徹",
       "name_kana": "",
-      "age": 41,
+      "age": 42,
       "party": "日本維新の会",
       "status": "元職",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "植木洋貴",
       "name_kana": "",
-      "age": 42,
+      "age": 43,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

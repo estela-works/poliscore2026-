@@ -5,14 +5,14 @@
   "district_name": "東京30区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:28:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "五十嵐衣里",
       "name_kana": "いがらしえり",
-      "age": 40,
+      "age": 42,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "長島昭久",
       "name_kana": "ながしまあきひさ",
-      "age": 62,
+      "age": 63,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "川上竜世",
       "name_kana": "かわかみりゅうせい",
-      "age": 0,
+      "age": 28,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "寿玲子",
       "name_kana": "ことぶきれいこ",
-      "age": 0,
+      "age": 42,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
