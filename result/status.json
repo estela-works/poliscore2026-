@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T12:10:27.226099",
+  "last_updated": "2026-01-28T12:25:08.869386",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 279,
-    "processing": 8,
+    "completed": 284,
+    "processing": 3,
     "identified": 0,
     "pre": 0,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1105,
-    "processed_candidates": 1094
+    "total_candidates": 1103,
+    "processed_candidates": 1100
   },
   "prefectures": {
     "01": {
@@ -276,9 +276,9 @@
           "processed": 2
         },
         "5": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         }
       }
     },
@@ -331,14 +331,14 @@
           "processed": 3
         },
         "4": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         },
         "5": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "6": {
           "status": "completed",
@@ -1146,9 +1146,9 @@
           "processed": 4
         },
         "8": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 3
+          "processed": 5
         },
         "9": {
           "status": "completed",
@@ -1161,14 +1161,14 @@
           "processed": 3
         },
         "11": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 2
+          "processed": 5
         },
         "12": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         },
         "13": {
           "status": "completed",
@@ -1176,9 +1176,9 @@
           "processed": 4
         },
         "14": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
+          "status": "processing",
+          "total": 3,
+          "processed": 2
         },
         "15": {
           "status": "completed",
@@ -1587,8 +1587,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",

@@ -5,14 +5,14 @@
   "district_name": "福岡11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T12:00:00+09:00",
+  "last_updated": "2026-01-28T17:48:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "村上智信",
       "name_kana": "むらかみとものぶ",
-      "age": 55,
+      "age": 56,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,

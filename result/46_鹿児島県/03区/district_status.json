@@ -5,15 +5,15 @@
   "district_name": "鹿児島3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T12:00:00+09:00",
+  "last_updated": "2026-01-28T17:46:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "野間健",
       "name_kana": "のま たけし",
-      "age": 66,
-      "party": "立憲民主党",
+      "age": 67,
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -26,9 +26,9 @@
     {
       "name": "小里泰弘",
       "name_kana": "おざと やすひろ",
-      "age": 66,
+      "age": 67,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
