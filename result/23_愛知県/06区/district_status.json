@@ -3,11 +3,11 @@
   "prefecture_name": "愛知県",
   "district_number": 6,
   "district_name": "愛知6区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:37:50.888452",
+  "last_updated": "2026-01-28T23:25:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 4,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "大西雅人",
