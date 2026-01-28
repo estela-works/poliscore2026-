@@ -3,17 +3,17 @@
   "prefecture_name": "京都府",
   "total_districts": 6,
   "is_official": true,
-  "last_updated": "2026-01-28T11:13:04.645806",
+  "last_updated": "2026-01-28T12:07:04.879287",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 0,
-    "completed": 6,
+    "processing": 1,
+    "completed": 5,
     "abolished": 0
   },
   "total_candidates": 27,
-  "processed_candidates": 27,
+  "processed_candidates": 23,
   "party_summary": {
     "自由民主党": 6,
     "立憲民主党": 2,
@@ -21,11 +21,11 @@
     "公明党": 0,
     "日本共産党": 6,
     "国民民主党": 0,
-    "れいわ新選組": 1,
+    "れいわ新選組": 2,
     "社会民主党": 0,
-    "参政党": 3,
-    "無所属": 4,
-    "その他": 2
+    "参政党": 2,
+    "無所属": 2,
+    "その他": 4
   },
   "districts": [
     {
@@ -36,9 +36,9 @@
     },
     {
       "district_number": 2,
-      "status": "completed",
+      "status": "processing",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 2
     },
     {
       "district_number": 3,

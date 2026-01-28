@@ -3,17 +3,17 @@
   "prefecture_name": "山形県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-28T11:13:04.587880",
+  "last_updated": "2026-01-28T12:07:04.834657",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 2,
-    "completed": 1,
+    "processing": 0,
+    "completed": 3,
     "abolished": 0
   },
   "total_candidates": 10,
-  "processed_candidates": 5,
+  "processed_candidates": 10,
   "party_summary": {
     "自由民主党": 3,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 1
+      "processed_candidates": 3
     },
     {
       "district_number": 2,
@@ -42,9 +42,9 @@
     },
     {
       "district_number": 3,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 1
+      "processed_candidates": 4
     }
   ]
 }

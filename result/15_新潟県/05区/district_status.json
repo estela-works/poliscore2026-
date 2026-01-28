@@ -3,9 +3,9 @@
   "prefecture_name": "新潟県",
   "district_number": 5,
   "district_name": "新潟5区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:12:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [

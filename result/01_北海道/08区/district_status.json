@@ -5,7 +5,7 @@
   "district_name": "北海道8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:40:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.237307",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -16,8 +16,8 @@
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
@@ -29,8 +29,8 @@
       "party": "自由民主党",
       "status": "前職",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

@@ -5,18 +5,17 @@
   "district_name": "埼玉9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T11:45:36.265467",
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "杉村慎治",
       "name_kana": "すぎむら しんじ",
-      "age": 48,
+      "age": 49,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "当選",
-      "votes": 83107,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,41 +26,10 @@
     {
       "name": "大塚拓",
       "name_kana": "おおつか たく",
-      "age": 51,
+      "age": 52,
       "party": "自由民主党",
       "status": "元職",
-      "result": "落選",
-      "votes": 78811,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "近藤秀将",
-      "name_kana": "こんどう ひでまさ",
-      "age": 46,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 21680,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "猪股嘉直",
-      "name_kana": "いのまた よしなお",
-      "age": 70,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 16293,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

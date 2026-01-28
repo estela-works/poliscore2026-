@@ -3,9 +3,9 @@
   "prefecture_name": "広島県",
   "district_number": 2,
   "district_name": "広島2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T15:20:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [

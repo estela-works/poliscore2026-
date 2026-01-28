@@ -3,7 +3,7 @@
   "prefecture_name": "岐阜県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-28T11:13:04.633507",
+  "last_updated": "2026-01-28T12:07:04.868667",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -12,8 +12,8 @@
     "completed": 5,
     "abolished": 0
   },
-  "total_candidates": 15,
-  "processed_candidates": 15,
+  "total_candidates": 16,
+  "processed_candidates": 16,
   "party_summary": {
     "自由民主党": 5,
     "立憲民主党": 0,
@@ -23,7 +23,7 @@
     "国民民主党": 2,
     "れいわ新選組": 1,
     "社会民主党": 0,
-    "参政党": 1,
+    "参政党": 2,
     "無所属": 2,
     "その他": 2
   },
@@ -49,8 +49,8 @@
     {
       "district_number": 4,
       "status": "completed",
-      "total_candidates": 2,
-      "processed_candidates": 2
+      "total_candidates": 3,
+      "processed_candidates": 3
     },
     {
       "district_number": 5,

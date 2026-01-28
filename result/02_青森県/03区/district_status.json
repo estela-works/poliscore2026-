@@ -3,11 +3,11 @@
   "prefecture_name": "青森県",
   "district_number": 3,
   "district_name": "青森3区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.243004",
   "total_candidates": 3,
-  "processed_candidates": 2,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "木村次郎",
@@ -45,8 +45,8 @@
       "status": "現職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

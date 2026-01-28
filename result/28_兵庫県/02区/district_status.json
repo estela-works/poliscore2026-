@@ -5,16 +5,16 @@
   "district_name": "兵庫2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:00:00.000000",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "阿部圭史",
-      "name_kana": "あべけいし",
-      "age": 38,
+      "name_kana": "あべ けいし",
+      "age": 39,
       "party": "日本維新の会",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,8 +25,8 @@
     },
     {
       "name": "船川治郎",
-      "name_kana": "ふなかわじろう",
-      "age": 57,
+      "name_kana": "ふなかわ じろう",
+      "age": 58,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -38,10 +38,10 @@
       }
     },
     {
-      "name": "武内由美子",
-      "name_kana": "たけうちゆみこ",
-      "age": 64,
-      "party": "日本共産党",
+      "name": "坊やすなが",
+      "name_kana": "ぼう やすなが",
+      "age": 58,
+      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -52,10 +52,10 @@
       }
     },
     {
-      "name": "瀬尾英志",
-      "name_kana": "せおひでし",
-      "age": 39,
-      "party": "参政党",
+      "name": "いむらひろこ",
+      "name_kana": "いむら ひろこ",
+      "age": 79,
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

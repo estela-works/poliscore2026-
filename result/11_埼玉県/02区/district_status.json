@@ -5,9 +5,9 @@
   "district_name": "埼玉2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 7,
-  "processed_candidates": 1,
+  "last_updated": "2026-01-28T11:45:36.261979",
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "新藤義孝",
@@ -33,53 +33,8 @@
       "result": "比例復活",
       "votes": 43164,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "松浦玄嗣",
-      "name_kana": "まつうら げんじ",
-      "age": 52,
-      "party": "立憲民主党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 34327,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "奥田智子",
-      "name_kana": "おくだ ともこ",
-      "age": 55,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 23317,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "津村大作",
-      "name_kana": "つむら だいさく",
-      "age": 50,
-      "party": "川口自警団",
-      "status": "新人",
-      "result": "落選",
-      "votes": 9348,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
@@ -91,8 +46,8 @@
       "party": "国民民主党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
@@ -104,12 +59,11 @@
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
     }
   ]
 }
-

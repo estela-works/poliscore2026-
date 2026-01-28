@@ -5,13 +5,13 @@
   "district_name": "兵庫1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 7,
-  "processed_candidates": 7,
+  "last_updated": "2026-01-28T11:57:55.549159",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "井坂信彦",
-      "name_kana": "いさかのぶひこ",
+      "name_kana": "いさか のぶひこ",
       "age": 50,
       "party": "中道改革連合",
       "status": "前職",
@@ -25,10 +25,10 @@
     },
     {
       "name": "盛山正仁",
-      "name_kana": "もりやままさひと",
+      "name_kana": "もりやま まさひと",
       "age": 70,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -39,10 +39,10 @@
     },
     {
       "name": "一谷勇一郎",
-      "name_kana": "いちたにゆういちろう",
+      "name_kana": "いちたに ゆういちろう",
       "age": 49,
       "party": "日本維新の会",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -53,7 +53,7 @@
     },
     {
       "name": "藤末浩美",
-      "name_kana": "ふじすえひろみ",
+      "name_kana": "ふじすえ ひろみ",
       "age": 65,
       "party": "日本共産党",
       "status": "新人",
@@ -66,38 +66,10 @@
       }
     },
     {
-      "name": "山岡智美",
-      "name_kana": "やまおかともみ",
-      "age": 51,
+      "name": "原やすひこ",
+      "name_kana": "はら やすひこ",
+      "age": null,
       "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "木原功仁哉",
-      "name_kana": "きはらくにや",
-      "age": 40,
-      "party": "無所属",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "木島洋嗣",
-      "name_kana": "きじまひろつぐ",
-      "age": 49,
-      "party": "無所属",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

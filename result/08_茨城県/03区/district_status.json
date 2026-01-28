@@ -1,0 +1,69 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "茨城県",
+  "district_number": 3,
+  "district_name": "茨城県3区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-28T11:33:00.040981",
+  "total_candidates": 4,
+  "processed_candidates": 4,
+  "candidates": [
+    {
+      "name": "加川裕美",
+      "name_kana": "",
+      "age": 0,
+      "party": "れいわ新選組",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "斎藤真衣",
+      "name_kana": "",
+      "age": 0,
+      "party": "参政党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "梶岡博樹",
+      "name_kana": "",
+      "age": 0,
+      "party": "中道改革連合",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "葉梨康弘",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

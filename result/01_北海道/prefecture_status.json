@@ -2,8 +2,8 @@
   "prefecture_code": "01",
   "prefecture_name": "北海道",
   "total_districts": 12,
-  "is_official": false,
-  "last_updated": "2026-01-28T11:13:04.577932",
+  "is_official": true,
+  "last_updated": "2026-01-28T12:07:04.824766",
   "status_summary": {
     "none": 0,
     "pre": 0,

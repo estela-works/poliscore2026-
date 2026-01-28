@@ -3,17 +3,17 @@
   "prefecture_name": "秋田県",
   "total_districts": 2,
   "is_official": true,
-  "last_updated": "2026-01-28T11:13:04.586909",
+  "last_updated": "2026-01-28T12:07:04.833790",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 1,
-    "completed": 1,
+    "processing": 0,
+    "completed": 2,
     "abolished": 0
   },
   "total_candidates": 8,
-  "processed_candidates": 5,
+  "processed_candidates": 8,
   "party_summary": {
     "自由民主党": 2,
     "立憲民主党": 0,
@@ -30,9 +30,9 @@
   "districts": [
     {
       "district_number": 1,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 3
+      "processed_candidates": 6
     },
     {
       "district_number": 2,

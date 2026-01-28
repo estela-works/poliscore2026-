@@ -3,9 +3,9 @@
   "prefecture_name": "京都府",
   "district_number": 2,
   "district_name": "京都2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T12:45:00.000000",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -28,7 +28,7 @@
       "name_kana": "ほりかわ あきこ",
       "age": 38,
       "party": "日本共産党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "佐野英志",
-      "name_kana": "さの えいじ",
-      "age": 37,
+      "name": "フジタ洋司",
+      "name_kana": "ふじた ようじ",
+      "age": 46,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -52,10 +52,10 @@
       }
     },
     {
-      "name": "小松広明",
-      "name_kana": "こまつ ひろあき",
-      "age": 41,
-      "party": "参政党",
+      "name": "辻村ちひろ",
+      "name_kana": "つじむら ちひろ",
+      "age": 58,
+      "party": "れいわ新選組",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -66,10 +66,10 @@
       }
     },
     {
-      "name": "本田裕典",
-      "name_kana": "ほんだ ひろのり",
-      "age": 32,
-      "party": "無所属",
+      "name": "河野有里子",
+      "name_kana": "かわの ゆりこ",
+      "age": 28,
+      "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -80,10 +80,10 @@
       }
     },
     {
-      "name": "弘田哲雄",
-      "name_kana": "ひろた てつお",
-      "age": 75,
-      "party": "無所属",
+      "name": "酒井ゆうすけ",
+      "name_kana": "さかい ゆうすけ",
+      "age": 28,
+      "party": "チームみらい",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -5,14 +5,14 @@
   "district_name": "東京13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:16:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "土田慎",
       "name_kana": "",
-      "age": 34,
+      "age": 35,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "森洋介",
       "name_kana": "",
-      "age": 30,
+      "age": 31,
       "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "加地敏子",
       "name_kana": "",
-      "age": 0,
+      "age": 50,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "沢田真吾",
       "name_kana": "",
-      "age": 39,
+      "age": 40,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

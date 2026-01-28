@@ -5,9 +5,9 @@
   "district_name": "埼玉1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:00:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.261237",
   "total_candidates": 4,
-  "processed_candidates": 2,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "村井英樹",
@@ -46,8 +46,8 @@
       "party": "無所属",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }
@@ -59,8 +59,8 @@
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

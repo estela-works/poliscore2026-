@@ -5,14 +5,14 @@
   "district_name": "長野1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:14:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "篠原孝",
       "name_kana": "しのはらたかし",
-      "age": 76,
+      "age": 77,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "若林健太",
       "name_kana": "わかばやしけんた",
-      "age": 60,
+      "age": 62,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "若狹清史",
       "name_kana": "わかさきよし",
-      "age": 44,
+      "age": 45,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,

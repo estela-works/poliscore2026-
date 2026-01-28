@@ -3,11 +3,11 @@
   "prefecture_name": "栃木県",
   "district_number": 4,
   "district_name": "栃木4区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.256298",
   "total_candidates": 2,
-  "processed_candidates": 1,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "藤岡隆雄",
@@ -33,8 +33,8 @@
       "result": "",
       "votes": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

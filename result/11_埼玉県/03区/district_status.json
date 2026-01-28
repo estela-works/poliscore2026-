@@ -5,9 +5,9 @@
   "district_name": "埼玉3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:50:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.262628",
   "total_candidates": 3,
-  "processed_candidates": 2,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "黄川田仁志",
@@ -46,8 +46,8 @@
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

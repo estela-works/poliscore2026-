@@ -5,14 +5,14 @@
   "district_name": "岡山1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:10:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "逢沢一郎",
       "name_kana": "あいさわいちろう",
-      "age": 70,
+      "age": 71,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "原田謙介",
       "name_kana": "はらだけんすけ",
-      "age": 38,
+      "age": 39,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "住寄聡美",
       "name_kana": "すみよりさとみ",
-      "age": 41,
+      "age": 42,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

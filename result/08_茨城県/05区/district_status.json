@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "茨城県",
+  "district_number": 5,
+  "district_name": "茨城県5区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-28T11:33:00.378038",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "浅野哲",
+      "name_kana": "",
+      "age": 0,
+      "party": "国民民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鈴木拓海",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

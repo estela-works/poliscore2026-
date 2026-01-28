@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "茨城県",
+  "district_number": 4,
+  "district_name": "茨城県4区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-28T11:33:00.203736",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "吉田翔",
+      "name_kana": "",
+      "age": 0,
+      "party": "日本共産党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "梶山弘志",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

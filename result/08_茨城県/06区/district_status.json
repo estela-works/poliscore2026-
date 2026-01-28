@@ -1,0 +1,55 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "茨城県",
+  "district_number": 6,
+  "district_name": "茨城県6区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-28T11:33:00.550146",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "candidates": [
+    {
+      "name": "中村吉男",
+      "name_kana": "",
+      "age": 0,
+      "party": "無所属",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "国光文乃",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "青山大人",
+      "name_kana": "",
+      "age": 0,
+      "party": "無所属",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

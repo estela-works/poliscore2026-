@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "08",
+  "prefecture_name": "茨城県",
+  "district_number": 7,
+  "district_name": "茨城県7区",
+  "status": "completed",
+  "is_official": false,
+  "last_updated": "2026-01-28T11:33:00.715565",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "中村勇太",
+      "name_kana": "",
+      "age": 0,
+      "party": "無所属",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "永岡桂子",
+      "name_kana": "",
+      "age": 0,
+      "party": "自由民主党",
+      "status": "",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

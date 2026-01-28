@@ -3,16 +3,16 @@
   "prefecture_name": "大阪府",
   "district_number": 8,
   "district_name": "大阪8区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T12:00:26.468263",
   "total_candidates": 5,
-  "processed_candidates": 5,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "漆間譲司",
       "name_kana": "うるま じょうじ",
-      "age": 50,
+      "age": 51,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -26,22 +26,8 @@
     {
       "name": "高麗啓一郎",
       "name_kana": "こうらい けいいちろう",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "平岩征樹",
-      "name_kana": "ひらいわ まさき",
-      "age": 44,
-      "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
@@ -54,7 +40,7 @@
     {
       "name": "平川節代",
       "name_kana": "ひらかわ せつよ",
-      "age": 76,
+      "age": 77,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -66,16 +52,30 @@
       }
     },
     {
-      "name": "谷浩一郎",
-      "name_kana": "たに こういちろう",
-      "age": 43,
+      "name": "さかきばら美礼",
+      "name_kana": "さかきばら みれい",
+      "age": 49,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐藤じゅん",
+      "name_kana": "さとう じゅん",
+      "age": 50,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

@@ -3,11 +3,11 @@
   "prefecture_name": "群馬県",
   "district_number": 5,
   "district_name": "群馬5区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T11:45:36.260139",
   "total_candidates": 2,
-  "processed_candidates": 1,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "小渕優子",
@@ -33,8 +33,8 @@
       "result": null,
       "votes": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
+        "researched": true,
+        "evaluated": true,
         "md_created": true,
         "card_generated": false
       }

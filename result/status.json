@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T11:13:04.688155",
+  "last_updated": "2026-01-28T12:07:04.910667",
   "summary": {
     "total_prefectures": 47,
     "total_districts": 291,
-    "completed": 252,
-    "processing": 27,
-    "identified": 1,
-    "pre": 7,
+    "completed": 277,
+    "processing": 10,
+    "identified": 0,
+    "pre": 0,
     "none": 3,
     "abolished": 1,
-    "total_candidates": 1110,
-    "processed_candidates": 1050
+    "total_candidates": 1105,
+    "processed_candidates": 1088
   },
   "prefectures": {
     "01": {
@@ -86,19 +86,19 @@
       "name": "青森県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 2
+          "processed": 4
         },
         "3": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         }
       }
     },
@@ -156,9 +156,9 @@
       "name": "秋田県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 6,
-          "processed": 3
+          "processed": 6
         },
         "2": {
           "status": "completed",
@@ -171,9 +171,9 @@
       "name": "山形県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 1
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -181,9 +181,9 @@
           "processed": 3
         },
         "3": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 1
+          "processed": 4
         }
       }
     },
@@ -191,24 +191,24 @@
       "name": "福島県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 1
+          "processed": 3
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 3
+          "processed": 5
         },
         "3": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "4": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 3
+          "processed": 4
         }
       }
     },
@@ -216,37 +216,37 @@
       "name": "茨城県",
       "districts": {
         "1": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
           "processed": 4
         },
         "2": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
           "processed": 4
         },
         "3": {
-          "status": "pre",
+          "status": "completed",
           "total": 4,
           "processed": 4
         },
         "4": {
-          "status": "pre",
+          "status": "completed",
           "total": 2,
           "processed": 2
         },
         "5": {
-          "status": "pre",
+          "status": "completed",
           "total": 2,
           "processed": 2
         },
         "6": {
-          "status": "pre",
+          "status": "completed",
           "total": 3,
           "processed": 3
         },
         "7": {
-          "status": "pre",
+          "status": "completed",
           "total": 2,
           "processed": 2
         }
@@ -256,14 +256,14 @@
       "name": "栃木県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 6,
-          "processed": 3
+          "processed": 6
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -271,14 +271,14 @@
           "processed": 3
         },
         "4": {
-          "status": "processing",
+          "status": "completed",
           "total": 2,
-          "processed": 1
+          "processed": 2
         },
         "5": {
           "status": "processing",
-          "total": 3,
-          "processed": 2
+          "total": 4,
+          "processed": 3
         }
       }
     },
@@ -286,14 +286,14 @@
       "name": "群馬県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 6,
-          "processed": 3
+          "processed": 6
         },
         "3": {
           "status": "completed",
@@ -301,14 +301,14 @@
           "processed": 2
         },
         "4": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 2
+          "processed": 4
         },
         "5": {
-          "status": "processing",
+          "status": "completed",
           "total": 2,
-          "processed": 1
+          "processed": 2
         }
       }
     },
@@ -316,34 +316,34 @@
       "name": "埼玉県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 2
+          "processed": 4
         },
         "2": {
-          "status": "processing",
-          "total": 7,
-          "processed": 1
+          "status": "completed",
+          "total": 4,
+          "processed": 4
         },
         "3": {
-          "status": "processing",
-          "total": 5,
-          "processed": 2
+          "status": "completed",
+          "total": 3,
+          "processed": 3
         },
         "4": {
           "status": "processing",
           "total": 4,
-          "processed": 1
+          "processed": 3
         },
         "5": {
           "status": "processing",
-          "total": 6,
-          "processed": 1
+          "total": 3,
+          "processed": 2
         },
         "6": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 1
+          "processed": 5
         },
         "7": {
           "status": "completed",
@@ -357,13 +357,13 @@
         },
         "9": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         },
         "10": {
-          "status": "processing",
+          "status": "completed",
           "total": 2,
-          "processed": 1
+          "processed": 2
         },
         "11": {
           "status": "completed",
@@ -386,9 +386,9 @@
           "processed": 4
         },
         "15": {
-          "status": "identified",
+          "status": "completed",
           "total": 3,
-          "processed": 0
+          "processed": 3
         },
         "16": {
           "status": "completed",
@@ -492,8 +492,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 6,
+          "processed": 6
         },
         "5": {
           "status": "completed",
@@ -657,8 +657,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         },
         "7": {
           "status": "completed",
@@ -667,8 +667,8 @@
         },
         "8": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "9": {
           "status": "completed",
@@ -882,8 +882,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 2,
-          "processed": 2
+          "total": 3,
+          "processed": 3
         },
         "5": {
           "status": "completed",
@@ -1062,8 +1062,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 6,
+          "processed": 6
         },
         "4": {
           "status": "abolished",
@@ -1081,9 +1081,9 @@
           "processed": 7
         },
         "2": {
-          "status": "completed",
+          "status": "processing",
           "total": 6,
-          "processed": 6
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1137,8 +1137,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 5,
+          "processed": 5
         },
         "7": {
           "status": "completed",
@@ -1146,9 +1146,9 @@
           "processed": 4
         },
         "8": {
-          "status": "completed",
+          "status": "processing",
           "total": 5,
-          "processed": 5
+          "processed": 3
         },
         "9": {
           "status": "completed",
@@ -1161,13 +1161,13 @@
           "processed": 3
         },
         "11": {
-          "status": "completed",
-          "total": 3,
-          "processed": 3
+          "status": "processing",
+          "total": 5,
+          "processed": 2
         },
         "12": {
-          "status": "completed",
-          "total": 3,
+          "status": "processing",
+          "total": 4,
           "processed": 3
         },
         "13": {
@@ -1202,8 +1202,8 @@
         },
         "19": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 5,
+          "processed": 5
         }
       }
     },
@@ -1212,13 +1212,13 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 7,
-          "processed": 7
+          "total": 5,
+          "processed": 5
         },
         "2": {
-          "status": "completed",
+          "status": "processing",
           "total": 4,
-          "processed": 4
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1297,8 +1297,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 7,
+          "processed": 7
         },
         "2": {
           "status": "completed",
@@ -1472,8 +1472,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -1592,8 +1592,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         }
       }
     },
