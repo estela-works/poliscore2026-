@@ -1,12 +1,12 @@
-﻿{
+{
   "prefecture_code": "11",
   "prefecture_name": "埼玉県",
   "district_number": 3,
   "district_name": "埼玉3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-28T13:50:00+09:00",
+  "total_candidates": 3,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -40,36 +40,6 @@
       }
     },
     {
-      "name": "石川隆美",
-      "name_kana": "いしかわ たかみ",
-      "age": null,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 24442,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "馬場浩",
-      "name_kana": "ばば ひろし",
-      "age": null,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 14731,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "中村尚子",
       "name_kana": "なかむら なおこ",
       "age": 60,
@@ -84,4 +54,3 @@
     }
   ]
 }
-

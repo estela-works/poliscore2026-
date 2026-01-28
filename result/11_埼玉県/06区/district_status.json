@@ -5,8 +5,8 @@
   "district_name": "埼玉6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-26T00:00:00+09:00",
-  "total_candidates": 7,
+  "last_updated": "2026-01-28T13:30:00+09:00",
+  "total_candidates": 5,
   "processed_candidates": 1,
   "candidates": [
     {
@@ -25,21 +25,6 @@
       }
     },
     {
-      "name": "中根一幸",
-      "name_kana": "なかね かずゆき",
-      "age": 55,
-      "party": "無所属",
-      "status": "前職",
-      "result": "落選",
-      "votes": 50425,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "秋山もえ",
       "name_kana": "あきやま もえ",
       "age": 48,
@@ -47,21 +32,6 @@
       "status": "新人",
       "result": "落選",
       "votes": 24735,
-      "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "細谷美恵子",
-      "name_kana": "ほそや みえこ",
-      "age": 64,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 24341,
       "processing": {
         "researched": false,
         "evaluated": false,
