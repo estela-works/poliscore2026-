@@ -5,14 +5,14 @@
   "district_name": "滋賀3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:30:00.000000",
+  "last_updated": "2026-01-28T20:09:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "武村展英",
       "name_kana": "たけむら のぶひで",
-      "age": 52,
+      "age": 54,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "出路真吾",
       "name_kana": "でじ しんご",
-      "age": 41,
+      "age": 43,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "北野裕子",
       "name_kana": "きたの ゆうこ",
-      "age": 39,
+      "age": 40,
       "party": "参政党",
       "status": "前職",
       "proportional_rank": null,

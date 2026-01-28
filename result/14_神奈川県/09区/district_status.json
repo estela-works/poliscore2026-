@@ -5,7 +5,7 @@
   "district_name": "神奈川9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:45:00+09:00",
+  "last_updated": "2026-01-28T20:35:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -40,7 +40,7 @@
     {
       "name": "赤石博子",
       "name_kana": "あかいし ひろこ",
-      "age": 0,
+      "age": 65,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

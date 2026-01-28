@@ -3,19 +3,18 @@
   "prefecture_name": "東京都",
   "district_number": 16,
   "district_name": "東京16区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.100193",
-  "total_candidates": 3,
+  "last_updated": "2026-01-28T16:40:24.759468",
+  "total_candidates": 4,
   "processed_candidates": 3,
-  "note": "2024年衆院選では5人立候補との情報あり。候補者情報の一部が不正確な可能性がある。竹内知子は2026年衆院選候補予定者として確認。村上剛（参政党）は情報が確認できず。",
   "candidates": [
     {
       "name": "大西洋平",
       "name_kana": "おおにし ようへい",
-      "age": 46,
+      "age": 48,
       "party": "自由民主党",
-      "status": "新人",
+      "status": "前職",
       "result": "当選",
       "processing": {
         "researched": true,
@@ -27,9 +26,9 @@
     {
       "name": "柴田勝之",
       "name_kana": "しばた かつゆき",
-      "age": 56,
+      "age": 57,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "result": "比例復活",
       "processing": {
         "researched": true,
@@ -41,15 +40,27 @@
     {
       "name": "竹内知子",
       "name_kana": "たけうち ともこ",
-      "age": 44,
+      "age": 45,
       "party": "国民民主党",
       "status": "新人",
       "result": "落選",
-      "note": "2026年衆院選候補予定者として活動中。2024年出馬の確認は取れず。",
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "村上剛",
+      "name_kana": "むらかみ つよし",
+      "age": 44,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

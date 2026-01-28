@@ -5,29 +5,29 @@
   "district_name": "埼玉13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.069354",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-29T02:30:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "橋本幹彦",
       "name_kana": "はしもと みきひこ",
-      "age": 29,
+      "age": 30,
       "party": "国民民主党",
-      "status": "新人",
+      "status": "前職",
       "result": "当選",
       "votes": 61436,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "三ツ林裕巳",
       "name_kana": "みつばやし ひろみ",
-      "age": 69,
+      "age": 70,
       "party": "無所属・自由民主党系",
       "status": "元職",
       "result": "落選",
@@ -36,28 +36,28 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "高井崇志",
       "name_kana": "たかい たかし",
-      "age": 55,
+      "age": 56,
       "party": "れいわ新選組",
-      "status": "元職",
+      "status": "前職",
       "result": "比例復活",
       "votes": 22237,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "沢口千枝子",
       "name_kana": "さわぐち ちえこ",
-      "age": 73,
+      "age": 75,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",
@@ -66,7 +66,21 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "杉山鎮夫",
+      "name_kana": "すぎやま しずお",
+      "age": 43,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     }
   ]

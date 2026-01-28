@@ -5,13 +5,13 @@
   "district_name": "兵庫3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:45:00+09:00",
+  "last_updated": "2026-01-28T20:50:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "向山好一",
-      "name_kana": "むこうやま こういち",
+      "name_kana": "むこやま こういち",
       "age": 68,
       "party": "国民民主党",
       "status": "前職",

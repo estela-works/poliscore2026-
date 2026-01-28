@@ -5,18 +5,17 @@
   "district_name": "千葉9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.079643",
+  "last_updated": "2026-01-28T20:55:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
-  "note": "前職の秋本真利（自民）が収賄容疑で逮捕・不出馬。山崎はるゆき（共産）も出馬していたが、候補者リストから漏れている可能性あり。",
   "candidates": [
     {
       "name": "奥野総一郎",
       "name_kana": "おくの そういちろう",
-      "age": 60,
+      "age": 61,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "当選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +26,10 @@
     {
       "name": "田宮寿人",
       "name_kana": "たみや ひさと",
-      "age": 35,
+      "age": 36,
       "party": "自由民主党",
       "status": "新人",
-      "result": "落選",
-      "note": "元財務省職員、元首相秘書官付",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -42,11 +40,10 @@
     {
       "name": "田沼隆志",
       "name_kana": "たぬま たかし",
-      "age": 48,
+      "age": 50,
       "party": "日本維新の会",
       "status": "元職",
-      "result": "落選",
-      "note": "元衆議院議員、現千葉県議",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -57,10 +54,10 @@
     {
       "name": "前田裕介",
       "name_kana": "まえだ ゆうすけ",
-      "age": null,
+      "age": 51,
       "party": "参政党",
       "status": "新人",
-      "result": "落選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

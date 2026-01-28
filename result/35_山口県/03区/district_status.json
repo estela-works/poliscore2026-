@@ -3,10 +3,10 @@
   "prefecture_name": "山口県",
   "district_number": 3,
   "district_name": "山口3区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T15:10:00+09:00",
-  "total_candidates": 5,
+  "last_updated": "2026-01-28T17:36:38.943270",
+  "total_candidates": 6,
   "processed_candidates": 5,
   "candidates": [
     {
@@ -76,6 +76,20 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐々木信夫",
+      "name_kana": "",
+      "age": 0,
+      "party": "諸派",
+      "status": "新",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

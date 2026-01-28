@@ -5,14 +5,14 @@
   "district_name": "兵庫1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:57:55.549159",
+  "last_updated": "2026-01-28T20:13:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "井坂信彦",
       "name_kana": "いさか のぶひこ",
-      "age": 50,
+      "age": 51,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "盛山正仁",
       "name_kana": "もりやま まさひと",
-      "age": 70,
+      "age": 72,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "一谷勇一郎",
       "name_kana": "いちたに ゆういちろう",
-      "age": 49,
+      "age": 51,
       "party": "日本維新の会",
       "status": "元職",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "原やすひこ",
       "name_kana": "はら やすひこ",
-      "age": null,
+      "age": 43,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

@@ -5,14 +5,14 @@
   "district_name": "埼玉8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:40:00+09:00",
+  "last_updated": "2026-01-28T20:03:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "柴山昌彦",
       "name_kana": "しばやま まさひこ",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "市来伴子",
       "name_kana": "いちき ともこ",
-      "age": 47,
+      "age": 48,
       "party": "中道改革連合",
       "status": "前職",
       "result": "比例復活",

@@ -5,7 +5,7 @@
   "district_name": "神奈川3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.116960",
+  "last_updated": "2026-01-28T23:55:00.000000",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -38,7 +38,7 @@
     {
       "name": "二宮研",
       "name_kana": "にのみや けん",
-      "age": 49,
+      "age": 50,
       "party": "国民民主党",
       "status": "新人",
       "processing": {

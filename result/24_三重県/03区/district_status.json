@@ -5,9 +5,9 @@
   "district_name": "三重3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.184030",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-29T02:15:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "石原正敬",
@@ -20,7 +20,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
@@ -34,7 +34,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
@@ -49,7 +49,35 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "きぬがさ民子",
+      "name_kana": "きぬがさ たみこ",
+      "age": 63,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
+      }
+    },
+    {
+      "name": "新谷めぐみ",
+      "name_kana": "しんたに めぐみ",
+      "age": 44,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     }
   ]

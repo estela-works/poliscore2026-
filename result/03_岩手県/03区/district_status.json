@@ -5,14 +5,14 @@
   "district_name": "岩手3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:25:00+09:00",
+  "last_updated": "2026-01-28T19:59:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "小沢一郎",
       "name_kana": "おざわ いちろう",
-      "age": 82,
+      "age": 83,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,

@@ -5,14 +5,14 @@
   "district_name": "東京22区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:20:00+09:00",
+  "last_updated": "2026-01-28T18:10:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "山花郁夫",
       "name_kana": "やまはないくお",
-      "age": 58,
+      "age": 59,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "伊藤達也",
       "name_kana": "いとうたつや",
-      "age": 63,
+      "age": 64,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,

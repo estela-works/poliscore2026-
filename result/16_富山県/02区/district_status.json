@@ -5,14 +5,14 @@
   "district_name": "富山2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.138847",
+  "last_updated": "2026-01-28T21:25:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "上田英俊",
       "name_kana": "うえだ えいしゅん",
-      "age": 59,
+      "age": 61,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,

@@ -3,17 +3,17 @@
   "prefecture_name": "東京都",
   "total_districts": 30,
   "is_official": true,
-  "last_updated": "2026-01-28T16:20:15.832848",
+  "last_updated": "2026-01-28T17:35:58.144323",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 1,
-    "completed": 29,
+    "processing": 3,
+    "completed": 27,
     "abolished": 0
   },
-  "total_candidates": 150,
-  "processed_candidates": 146,
+  "total_candidates": 151,
+  "processed_candidates": 144,
   "party_summary": {
     "自由民主党": 28,
     "立憲民主党": 0,
@@ -23,7 +23,7 @@
     "国民民主党": 27,
     "れいわ新選組": 2,
     "社会民主党": 0,
-    "参政党": 29,
+    "参政党": 30,
     "無所属": 3,
     "その他": 37
   },
@@ -120,8 +120,8 @@
     },
     {
       "district_number": 16,
-      "status": "completed",
-      "total_candidates": 3,
+      "status": "processing",
+      "total_candidates": 4,
       "processed_candidates": 3
     },
     {
@@ -192,9 +192,9 @@
     },
     {
       "district_number": 28,
-      "status": "completed",
+      "status": "processing",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 4
     },
     {
       "district_number": 29,

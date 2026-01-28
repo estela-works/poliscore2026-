@@ -3,7 +3,7 @@
   "prefecture_name": "三重県",
   "total_districts": 4,
   "is_official": true,
-  "last_updated": "2026-01-28T16:20:15.890372",
+  "last_updated": "2026-01-28T17:35:58.175278",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -12,18 +12,18 @@
     "completed": 4,
     "abolished": 0
   },
-  "total_candidates": 11,
-  "processed_candidates": 11,
+  "total_candidates": 14,
+  "processed_candidates": 14,
   "party_summary": {
     "自由民主党": 4,
     "立憲民主党": 0,
     "日本維新の会": 1,
     "公明党": 0,
-    "日本共産党": 2,
-    "国民民主党": 0,
+    "日本共産党": 3,
+    "国民民主党": 1,
     "れいわ新選組": 0,
     "社会民主党": 0,
-    "参政党": 1,
+    "参政党": 2,
     "無所属": 0,
     "その他": 3
   },
@@ -43,14 +43,14 @@
     {
       "district_number": 3,
       "status": "completed",
-      "total_candidates": 3,
-      "processed_candidates": 3
+      "total_candidates": 5,
+      "processed_candidates": 5
     },
     {
       "district_number": 4,
       "status": "completed",
-      "total_candidates": 2,
-      "processed_candidates": 2
+      "total_candidates": 3,
+      "processed_candidates": 3
     }
   ]
 }

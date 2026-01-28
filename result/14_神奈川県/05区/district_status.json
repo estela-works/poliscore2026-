@@ -5,14 +5,14 @@
   "district_name": "神奈川5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.118915",
+  "last_updated": "2026-01-28T21:20:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "坂井学",
       "name_kana": "さかい まなぶ",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "山崎誠",
       "name_kana": "やまざき まこと",
-      "age": 62,
+      "age": 63,
       "party": "中道改革連合",
       "status": "前職",
       "result": "比例復活",
@@ -42,7 +42,7 @@
     {
       "name": "久坂くにえ",
       "name_kana": "くさか くにえ",
-      "age": 51,
+      "age": 53,
       "party": "日本維新の会",
       "status": "新人",
       "result": "落選",
@@ -57,7 +57,7 @@
     {
       "name": "高宮美智子",
       "name_kana": "たかみや みちこ",
-      "age": 72,
+      "age": 73,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",

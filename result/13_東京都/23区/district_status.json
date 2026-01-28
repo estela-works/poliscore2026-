@@ -5,14 +5,14 @@
   "district_name": "東京23区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.106022",
+  "last_updated": "2026-01-28T20:17:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "伊藤俊輔",
       "name_kana": "いとう しゅんすけ",
-      "age": 45,
+      "age": 46,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
@@ -26,7 +26,7 @@
     {
       "name": "川松真一朗",
       "name_kana": "かわまつ しんいちろう",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
       "status": "新人",
       "result": "比例復活",
@@ -40,7 +40,7 @@
     {
       "name": "舟見裕貴",
       "name_kana": "ふなみ ゆうき",
-      "age": null,
+      "age": 40,
       "party": "参政党",
       "status": "新人",
       "result": "落選",
@@ -54,7 +54,7 @@
     {
       "name": "池川友一",
       "name_kana": "いけがわ ともかず",
-      "age": null,
+      "age": 40,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",

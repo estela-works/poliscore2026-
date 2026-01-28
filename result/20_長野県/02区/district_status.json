@@ -3,10 +3,10 @@
   "prefecture_name": "長野県",
   "district_number": 2,
   "district_name": "長野2区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.146581",
-  "total_candidates": 2,
+  "last_updated": "2026-01-28T16:50:38.449707",
+  "total_candidates": 4,
   "processed_candidates": 2,
   "candidates": [
     {
@@ -27,11 +27,37 @@
     {
       "name": "手塚大輔",
       "name_kana": "てづか だいすけ",
-      "age": 41,
+      "age": 43,
       "party": "日本維新の会",
       "status": "新人",
       "result": "落選",
       "votes": 50961,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "竹下博善",
+      "name_kana": "たけした ひろよし",
+      "age": 42,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "藤田ひかる",
+      "name_kana": "ふじた ひかる",
+      "age": 35,
+      "party": "自由民主党",
+      "status": "新人",
       "processing": {
         "researched": true,
         "evaluated": true,

@@ -5,9 +5,9 @@
   "district_name": "三重4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.185295",
-  "total_candidates": 2,
-  "processed_candidates": 2,
+  "last_updated": "2026-01-29T01:45:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "鈴木英敬",
@@ -20,7 +20,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
@@ -34,7 +34,21 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "藤田大助",
+      "name_kana": "ふじた だいすけ",
+      "age": 49,
+      "party": "国民民主党",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     }
   ]

@@ -3,21 +3,20 @@
   "prefecture_name": "神奈川県",
   "district_number": 12,
   "district_name": "神奈川12区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.125652",
-  "total_candidates": 2,
+  "last_updated": "2026-01-28T23:40:00.000000",
+  "total_candidates": 4,
   "processed_candidates": 2,
   "note": "小児科医・阿部知子vs元産経記者・星野剛士の因縁対決。2017年以降阿部が4連勝、星野は比例復活。阿部は小選挙区最年長当選者（76歳）。",
   "candidates": [
     {
       "name": "阿部知子",
       "name_kana": "あべ ともこ",
-      "age": 76,
+      "age": 77,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "当選",
-      "note": "小児科医、衆院9期、原発ゼロの会事務局長、小選挙区最年長当選者",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -28,15 +27,42 @@
     {
       "name": "星野剛士",
       "name_kana": "ほしの つよし",
-      "age": 61,
+      "age": 62,
       "party": "自由民主党",
       "status": "前職",
-      "result": "比例復活",
-      "note": "元産経新聞記者、元内閣府副大臣、2017年以降小選挙区4連敗",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "沼上常生",
+      "name_kana": "ぬまかみ つねお",
+      "age": 67,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "菊竹進",
+      "name_kana": "きくたけ すすむ",
+      "age": 53,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

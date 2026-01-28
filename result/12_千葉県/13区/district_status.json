@@ -5,18 +5,17 @@
   "district_name": "千葉13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.082492",
+  "last_updated": "2026-01-28T21:05:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "松本尚",
       "name_kana": "まつもと ひさし",
-      "age": 62,
+      "age": 63,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
-      "votes": 96024,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +26,10 @@
     {
       "name": "宮川伸",
       "name_kana": "みやかわ しん",
-      "age": 54,
+      "age": 55,
       "party": "中道改革連合",
-      "status": "元職",
-      "result": "比例復活",
-      "votes": 92501,
+      "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -42,11 +40,10 @@
     {
       "name": "中谷めぐ",
       "name_kana": "なかや めぐ",
-      "age": 43,
+      "age": 44,
       "party": "参政党",
       "status": "新人",
-      "result": "落選",
-      "votes": 19582,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

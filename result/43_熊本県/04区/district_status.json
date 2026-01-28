@@ -3,16 +3,16 @@
   "prefecture_name": "熊本県",
   "district_number": 4,
   "district_name": "熊本4区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.273162",
-  "total_candidates": 2,
+  "last_updated": "2026-01-28T23:35:00.000000",
+  "total_candidates": 5,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "金子恭之",
       "name_kana": "かねこ やすし",
-      "age": 63,
+      "age": 64,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "矢上雅義",
       "name_kana": "やがみ まさよし",
-      "age": 64,
+      "age": 65,
       "party": "日本維新の会",
       "status": "元職",
       "proportional_rank": null,
@@ -34,6 +34,48 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "上田至",
+      "name_kana": "うえだ いたる",
+      "age": 49,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "植田貴俊",
+      "name_kana": "うえだ たかとし",
+      "age": 41,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "本村久美子",
+      "name_kana": "もとむら くみこ",
+      "age": 68,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

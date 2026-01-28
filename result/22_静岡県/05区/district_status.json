@@ -3,20 +3,19 @@
   "prefecture_name": "静岡県",
   "district_number": 5,
   "district_name": "静岡5区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.159428",
+  "last_updated": "2026-01-28T16:45:32.620311",
   "total_candidates": 3,
-  "processed_candidates": 3,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "細野豪志",
       "name_kana": "ほその ごうし",
-      "age": 53,
+      "age": 54,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
-      "votes": 140000,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -25,27 +24,26 @@
       }
     },
     {
-      "name": "外山和之",
-      "name_kana": "とやま かずゆき",
-      "age": 60,
+      "name": "中村正善",
+      "name_kana": "なかむら まさよし",
+      "age": 67,
       "party": "中道改革連合",
       "status": "新人",
-      "result": "落選",
+      "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     },
     {
       "name": "下山一美",
       "name_kana": "しもやま かずみ",
-      "age": 71,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
-      "result": "落選",
-      "votes": 15605,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

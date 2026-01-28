@@ -3,16 +3,16 @@
   "prefecture_name": "福岡県",
   "district_number": 10,
   "district_name": "福岡10区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.264709",
+  "last_updated": "2026-01-28T23:45:00.000000",
   "total_candidates": 5,
-  "processed_candidates": 5,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "城井崇",
       "name_kana": "きい たかし",
-      "age": 51,
+      "age": 52,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
@@ -26,7 +26,7 @@
     {
       "name": "吉村悠",
       "name_kana": "よしむら ゆう",
-      "age": 39,
+      "age": 40,
       "party": "自由民主党",
       "status": "新人",
       "result": "落選",
@@ -40,7 +40,7 @@
     {
       "name": "大石仁人",
       "name_kana": "おおいし じんと",
-      "age": null,
+      "age": 40,
       "party": "無所属",
       "status": "新人",
       "result": "落選",
@@ -53,23 +53,22 @@
       }
     },
     {
-      "name": "一ノ瀬小夜子",
-      "name_kana": "いちのせ さよこ",
-      "age": 75,
+      "name": "古賀邦俊",
+      "name_kana": "こが くにとし",
+      "age": 71,
       "party": "日本共産党",
       "status": "新人",
-      "result": "落選",
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     },
     {
       "name": "熊本要",
       "name_kana": "くまもと かなめ",
-      "age": null,
+      "age": 28,
       "party": "参政党",
       "status": "新人",
       "result": "落選",

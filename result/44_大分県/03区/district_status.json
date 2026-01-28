@@ -3,10 +3,10 @@
   "prefecture_name": "大分県",
   "district_number": 3,
   "district_name": "大分3区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:27:40.680522",
-  "total_candidates": 3,
+  "last_updated": "2026-01-28T16:42:59.250336",
+  "total_candidates": 5,
   "processed_candidates": 3,
   "note": "2024年衆院選の候補者は3名のみ。野中貴恵（参政党）、岩永京子（日本保守党）、平野雨龍（無所属）は2026年衆院選の候補予定者であり、2024年衆院選には出馬していない。岩屋毅は2024年10月～2025年9月まで外務大臣。",
   "candidates": [
@@ -40,7 +40,7 @@
         "card_generated": false
       }
     },
-        {
+    {
       "name": "岩永京子",
       "name_kana": "いわなが きょうこ",
       "age": 64,
@@ -51,6 +51,34 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "平野雨龍",
+      "name_kana": "",
+      "age": 0,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "野中貴恵",
+      "name_kana": "",
+      "age": 0,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

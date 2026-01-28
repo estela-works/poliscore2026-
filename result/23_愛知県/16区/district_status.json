@@ -3,18 +3,18 @@
   "prefecture_name": "愛知県",
   "district_number": 16,
   "district_name": "愛知16区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.180777",
-  "total_candidates": 2,
+  "last_updated": "2026-01-28T23:32:00.000000",
+  "total_candidates": 5,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "福田徹",
-      "name_kana": "ふくた とおる",
-      "age": 42,
+      "name_kana": "ふくだ とおる",
+      "age": 43,
       "party": "国民民主党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -26,14 +26,56 @@
     {
       "name": "松田功",
       "name_kana": "まつだ いさお",
-      "age": 56,
+      "age": 58,
       "party": "中道改革連合",
-      "status": "元職",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "山下しずお",
+      "name_kana": "やました しずお",
+      "age": 50,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "前田ゆうきち",
+      "name_kana": "まえだ ゆうきち",
+      "age": 66,
+      "party": "減税日本・ゆうこく連合",
+      "status": "元職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "渡辺のぶえ",
+      "name_kana": "わたなべ のぶえ",
+      "age": 42,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

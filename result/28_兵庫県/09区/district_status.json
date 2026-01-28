@@ -3,11 +3,11 @@
   "prefecture_name": "兵庫県",
   "district_number": 9,
   "district_name": "兵庫9区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.218349",
+  "last_updated": "2026-01-28T17:30:47.242065",
   "total_candidates": 4,
-  "processed_candidates": 4,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "西村康稔",
@@ -38,30 +38,30 @@
       }
     },
     {
-      "name": "伊藤かずたか",
+      "name": "伊藤和貴",
       "name_kana": "いとう かずたか",
       "age": 73,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     },
     {
-      "name": "山寺たかひと",
+      "name": "山寺崇仁",
       "name_kana": "やまでら たかひと",
       "age": 53,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

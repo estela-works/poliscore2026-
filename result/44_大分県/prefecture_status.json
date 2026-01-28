@@ -3,16 +3,16 @@
   "prefecture_name": "大分県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-28T16:20:15.946456",
+  "last_updated": "2026-01-28T17:35:58.211232",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 0,
-    "completed": 3,
+    "processing": 1,
+    "completed": 2,
     "abolished": 0
   },
-  "total_candidates": 10,
+  "total_candidates": 12,
   "processed_candidates": 10,
   "party_summary": {
     "自由民主党": 3,
@@ -23,8 +23,8 @@
     "国民民主党": 1,
     "れいわ新選組": 0,
     "社会民主党": 0,
-    "参政党": 1,
-    "無所属": 1,
+    "参政党": 2,
+    "無所属": 2,
     "その他": 3
   },
   "districts": [
@@ -42,8 +42,8 @@
     },
     {
       "district_number": 3,
-      "status": "completed",
-      "total_candidates": 3,
+      "status": "processing",
+      "total_candidates": 5,
       "processed_candidates": 3
     }
   ]

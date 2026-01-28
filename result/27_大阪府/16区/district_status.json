@@ -3,20 +3,19 @@
   "prefecture_name": "大阪府",
   "district_number": 16,
   "district_name": "大阪16区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.207635",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-28T17:35:12.517652",
+  "total_candidates": 4,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "黒田征樹",
       "name_kana": "くろだ まさき",
-      "age": 44,
+      "age": 46,
       "party": "日本維新の会",
-      "status": "新人",
-      "result": "当選",
-      "votes": 68493,
+      "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +26,10 @@
     {
       "name": "森山浩行",
       "name_kana": "もりやま ひろゆき",
-      "age": 53,
+      "age": 54,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "比例復活",
-      "votes": 55068,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -40,17 +38,30 @@
       }
     },
     {
-      "name": "山本香苗",
-      "name_kana": "やまもと かなえ",
-      "age": 53,
-      "party": "公明党",
+      "name": "葉田治央",
+      "name_kana": "はだ はるひさ",
+      "age": 46,
+      "party": "自由民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": 48063,
+      "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "池上和日子",
+      "name_kana": "いけがみ わかこ",
+      "age": 41,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

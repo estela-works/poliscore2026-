@@ -5,29 +5,29 @@
   "district_name": "愛知9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.171318",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-29T02:45:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "岡本充功",
       "name_kana": "おかもと みつのり",
-      "age": 53,
+      "age": 54,
       "party": "中道改革連合",
-      "status": "元職",
+      "status": "前職",
       "result": "当選",
       "votes": 91152,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "長坂康正",
       "name_kana": "ながさか やすまさ",
-      "age": 67,
+      "age": 68,
       "party": "自由民主党",
       "status": "前職",
       "result": "比例復活",
@@ -36,22 +36,47 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "伊藤恵子",
       "name_kana": "いとう けいこ",
-      "age": 71,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",
-      "votes": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "浦上奈々",
+      "name_kana": "うらかみ なな",
+      "age": 25,
+      "party": "日本維新の会",
+      "status": "新人",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
+      }
+    },
+    {
+      "name": "加藤泰稚",
+      "name_kana": "かとう たいち",
+      "age": 27,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     }
   ]

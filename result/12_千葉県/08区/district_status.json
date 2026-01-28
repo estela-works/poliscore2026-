@@ -5,17 +5,17 @@
   "district_name": "千葉8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.078250",
+  "last_updated": "2026-01-28T20:45:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "本庄知史",
       "name_kana": "ほんじょう さとし",
-      "age": 50,
+      "age": 51,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "当選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -26,11 +26,10 @@
     {
       "name": "松本泉",
       "name_kana": "まつもと いずみ",
-      "age": 42,
+      "age": 44,
       "party": "自由民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": 59070,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -41,10 +40,10 @@
     {
       "name": "石塚貞通",
       "name_kana": "いしづか さだみち",
-      "age": 57,
+      "age": 58,
       "party": "日本維新の会",
       "status": "新人",
-      "result": "落選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -55,10 +54,10 @@
     {
       "name": "宮本寛之",
       "name_kana": "みやもと ひろゆき",
-      "age": null,
+      "age": 41,
       "party": "参政党",
       "status": "新人",
-      "result": "落選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

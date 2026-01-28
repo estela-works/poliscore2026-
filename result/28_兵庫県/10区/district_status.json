@@ -3,16 +3,16 @@
   "prefecture_name": "兵庫県",
   "district_number": 10,
   "district_name": "兵庫10区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.220680",
+  "last_updated": "2026-01-28T16:45:32.622256",
   "total_candidates": 5,
-  "processed_candidates": 5,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "渡海紀三朗",
       "name_kana": "とかい きさぶろう",
-      "age": 76,
+      "age": 77,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "隠樹圭子",
       "name_kana": "おき けいこ",
-      "age": 53,
+      "age": 54,
       "party": "中道改革連合",
       "status": "新人",
       "result": "落選",
@@ -42,9 +42,9 @@
     {
       "name": "掘井健智",
       "name_kana": "ほりい けんじ",
-      "age": 57,
+      "age": 59,
       "party": "日本維新の会",
-      "status": "前職",
+      "status": "元職",
       "result": "落選",
       "votes": 30718,
       "processing": {
@@ -57,7 +57,7 @@
     {
       "name": "藤原誠也",
       "name_kana": "ふじわら せいや",
-      "age": 36,
+      "age": 37,
       "party": "参政党",
       "status": "新人",
       "result": "落選",
@@ -70,17 +70,15 @@
       }
     },
     {
-      "name": "吉田久美子",
-      "name_kana": "よしだ くみこ",
-      "age": 69,
+      "name": "奥田ふみよ",
+      "name_kana": "おくだ ふみよ",
+      "age": 60,
       "party": "日本共産党",
       "status": "新人",
-      "result": "落選",
-      "votes": 10528,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

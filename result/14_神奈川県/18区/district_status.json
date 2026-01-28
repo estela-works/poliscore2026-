@@ -3,16 +3,16 @@
   "prefecture_name": "神奈川県",
   "district_number": 18,
   "district_name": "神奈川18区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.130339",
-  "total_candidates": 4,
+  "last_updated": "2026-01-28T16:40:24.763019",
+  "total_candidates": 6,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "山際大志郎",
       "name_kana": "やまぎわ だいしろう",
-      "age": 56,
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
       "result": "比例復活",
@@ -26,9 +26,9 @@
     {
       "name": "宗野創",
       "name_kana": "そうの はじめ",
-      "age": 31,
+      "age": 33,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "result": "当選",
       "processing": {
         "researched": true,
@@ -40,7 +40,7 @@
     {
       "name": "横田光弘",
       "name_kana": "よこた みつひろ",
-      "age": 67,
+      "age": 68,
       "party": "日本維新の会",
       "status": "新人",
       "result": "落選",
@@ -54,14 +54,40 @@
     {
       "name": "西岡義高",
       "name_kana": "にしおか よしたか",
-      "age": 47,
+      "age": 48,
       "party": "国民民主党",
-      "status": "新人",
+      "status": "前職",
       "result": "比例復活",
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "八巻陽子",
+      "name_kana": "やまき ようこ",
+      "age": 52,
+      "party": "日本共産党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "藤田修一",
+      "name_kana": "ふじた しゅういち",
+      "age": 59,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }
