@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:07:30.130339",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "山際大志郎",
@@ -58,20 +58,6 @@
       "party": "国民民主党",
       "status": "新人",
       "result": "比例復活",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "君嶋ちか子",
-      "name_kana": "きみじま ちかこ",
-      "age": 74,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
       "processing": {
         "researched": true,
         "evaluated": true,

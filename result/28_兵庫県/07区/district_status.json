@@ -5,14 +5,14 @@
   "district_name": "兵庫7区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T10:00:00+09:00",
+  "last_updated": "2026-01-28T22:30:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "山田賢司",
       "name_kana": "やまだけんじ",
-      "age": 58,
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -20,13 +20,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "三木圭恵",
       "name_kana": "みきけえ",
-      "age": 58,
+      "age": 59,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -34,13 +34,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "岡田悟",
       "name_kana": "おかださとる",
-      "age": 40,
+      "age": 42,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -48,13 +48,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
-      "name": "上田幸子",
-      "name_kana": "うえださちこ",
-      "age": 76,
+      "name": "平野貞雄",
+      "name_kana": "ひらのさだお",
+      "age": 69,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -62,13 +62,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
-      "name": "浜本幸博",
-      "name_kana": "はまもとゆきひろ",
-      "age": 60,
+      "name": "酒井遼",
+      "name_kana": "さかいりょう",
+      "age": 25,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -76,7 +76,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     }
   ]

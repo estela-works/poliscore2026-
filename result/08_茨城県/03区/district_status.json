@@ -4,17 +4,17 @@
   "district_number": 3,
   "district_name": "茨城県3区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:33:00.040981",
+  "is_official": true,
+  "last_updated": "2026-01-28T18:59:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "加川裕美",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "かがわ ゆみ",
+      "age": 61,
       "party": "れいわ新選組",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,10 +25,10 @@
     },
     {
       "name": "斎藤真衣",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "さいとう まい",
+      "age": 35,
       "party": "参政党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -39,10 +39,10 @@
     },
     {
       "name": "梶岡博樹",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "かじおか ひろき",
+      "age": 48,
       "party": "中道改革連合",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -53,10 +53,10 @@
     },
     {
       "name": "葉梨康弘",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "はなし やすひろ",
+      "age": 66,
       "party": "自由民主党",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

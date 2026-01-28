@@ -4,17 +4,17 @@
   "district_number": 5,
   "district_name": "茨城県5区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:33:00.378038",
+  "is_official": true,
+  "last_updated": "2026-01-28T18:53:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "浅野哲",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "あさの さとし",
+      "age": 43,
       "party": "国民民主党",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,10 +25,10 @@
     },
     {
       "name": "鈴木拓海",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "すずき たくみ",
+      "age": 46,
       "party": "自由民主党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

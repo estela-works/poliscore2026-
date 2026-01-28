@@ -4,17 +4,18 @@
   "district_number": 6,
   "district_name": "千葉6区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "is_official": true,
+  "last_updated": "2026-01-28T12:40:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "安藤淳子",
       "name_kana": "あんどう じゅんこ",
-      "age": null,
+      "age": 49,
       "party": "中道改革連合",
       "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -25,9 +26,10 @@
     {
       "name": "渡辺博道",
       "name_kana": "わたなべ ひろみち",
-      "age": null,
+      "age": 75,
       "party": "自由民主党",
       "status": "元職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -38,9 +40,10 @@
     {
       "name": "武藤雄大",
       "name_kana": "むとう ゆうだい",
-      "age": null,
+      "age": 33,
       "party": "国民民主党",
       "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -50,10 +53,11 @@
     },
     {
       "name": "出羽幹子",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "でわ みきこ",
+      "age": 59,
       "party": "参政党",
       "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -63,10 +67,11 @@
     },
     {
       "name": "浦野真",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "うらの まこと",
+      "age": 36,
       "party": "日本共産党",
       "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

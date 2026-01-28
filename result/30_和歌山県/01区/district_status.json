@@ -5,13 +5,13 @@
   "district_name": "和歌山1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:47:25.587007",
+  "last_updated": "2026-01-28T23:45:00+09:00",
   "total_candidates": 7,
   "processed_candidates": 7,
   "candidates": [
     {
       "name": "林ゆみ",
-      "name_kana": "はやしゆみ",
+      "name_kana": "はやし ゆみ",
       "age": 44,
       "party": "国民民主党",
       "status": "前職",
@@ -20,12 +20,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "山本大地",
-      "name_kana": "やまもとだいち",
+      "name_kana": "やまもと だいち",
       "age": 34,
       "party": "自由民主党",
       "status": "前職",
@@ -34,12 +34,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "浦平よしひろ",
-      "name_kana": "うらひらよしひろ",
+      "name_kana": "うらひら よしひろ",
       "age": 54,
       "party": "日本維新の会",
       "status": "新人",
@@ -48,12 +48,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "林元政子",
-      "name_kana": "はやしもとまさこ",
+      "name_kana": "はやしもと まさこ",
       "age": 51,
       "party": "参政党",
       "status": "新人",
@@ -62,12 +62,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "要友紀子",
-      "name_kana": "かなめゆきこ",
+      "name_kana": "かなめ ゆきこ",
       "age": 49,
       "party": "中道改革連合",
       "status": "新人",
@@ -76,12 +76,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "前ひさし",
-      "name_kana": "まえひさし",
+      "name_kana": "まえ ひさし",
       "age": 69,
       "party": "日本共産党",
       "status": "新人",
@@ -90,13 +90,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "正司武",
       "name_kana": "しょうじ たけし",
-      "age": null,
+      "age": 75,
       "party": "心の党",
       "status": "新人",
       "proportional_rank": null,
@@ -104,7 +104,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     }
   ]

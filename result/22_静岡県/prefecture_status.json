@@ -3,7 +3,7 @@
   "prefecture_name": "静岡県",
   "total_districts": 8,
   "is_official": true,
-  "last_updated": "2026-01-28T13:37:56.280994",
+  "last_updated": "2026-01-28T16:20:15.877325",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -12,8 +12,8 @@
     "completed": 8,
     "abolished": 0
   },
-  "total_candidates": 27,
-  "processed_candidates": 27,
+  "total_candidates": 26,
+  "processed_candidates": 26,
   "party_summary": {
     "自由民主党": 8,
     "立憲民主党": 0,
@@ -23,7 +23,7 @@
     "国民民主党": 3,
     "れいわ新選組": 1,
     "社会民主党": 0,
-    "参政党": 6,
+    "参政党": 5,
     "無所属": 0,
     "その他": 5
   },
@@ -37,8 +37,8 @@
     {
       "district_number": 2,
       "status": "completed",
-      "total_candidates": 3,
-      "processed_candidates": 3
+      "total_candidates": 2,
+      "processed_candidates": 2
     },
     {
       "district_number": 3,

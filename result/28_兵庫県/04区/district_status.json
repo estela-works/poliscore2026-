@@ -5,14 +5,14 @@
   "district_name": "兵庫4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-29T02:30:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "藤井比早之",
       "name_kana": "ふじいひさゆき",
-      "age": 53,
+      "age": 54,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -20,13 +20,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
-      "name": "飯田まお",
-      "name_kana": "いいだまお",
-      "age": null,
+      "name": "中山高志",
+      "name_kana": "なかやまたかし",
+      "age": 54,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -38,23 +38,9 @@
       }
     },
     {
-      "name": "赤木正幸",
-      "name_kana": "あかぎまさゆき",
-      "age": 49,
-      "party": "日本維新の会",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "日比優子",
       "name_kana": "ひびゆうこ",
-      "age": 65,
+      "age": 66,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -62,7 +48,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     }
   ]

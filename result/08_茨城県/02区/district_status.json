@@ -2,19 +2,19 @@
   "prefecture_code": "08",
   "prefecture_name": "茨城県",
   "district_number": 2,
-  "district_name": "茨城県2区",
+  "district_name": "茨城2区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:32:59.885637",
+  "is_official": true,
+  "last_updated": "2026-01-28T17:45:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
-      "name": "宮内匠",
-      "name_kana": "",
-      "age": 0,
-      "party": "参政党",
-      "status": "",
+      "name": "額賀福志郎",
+      "name_kana": "ぬかが ふくしろう",
+      "age": 82,
+      "party": "自由民主党",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,10 +25,10 @@
     },
     {
       "name": "小沼巧",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "おぬま たくみ",
+      "age": 40,
       "party": "中道改革連合",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -39,10 +39,10 @@
     },
     {
       "name": "谷川祐一",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たにかわ ゆういち",
+      "age": 50,
       "party": "国民民主党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -52,11 +52,11 @@
       }
     },
     {
-      "name": "額賀福志郎",
-      "name_kana": "",
-      "age": 0,
-      "party": "自由民主党",
-      "status": "",
+      "name": "宮内匠",
+      "name_kana": "みやうち たくみ",
+      "age": 30,
+      "party": "参政党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:07:30.273162",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "金子恭之",
@@ -29,20 +29,6 @@
       "age": 64,
       "party": "日本維新の会",
       "status": "元職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "笹本由紀子",
-      "name_kana": "ささもと ゆきこ",
-      "age": 59,
-      "party": "中道改革連合",
-      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

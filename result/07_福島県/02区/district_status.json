@@ -5,7 +5,7 @@
   "district_name": "福島2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.249764",
+  "last_updated": "2026-01-28T19:31:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -28,7 +28,7 @@
       "name_kana": "ねもと たく",
       "age": 38,
       "party": "自由民主党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

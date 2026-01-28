@@ -5,7 +5,7 @@
   "district_name": "愛知10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.172834",
+  "last_updated": "2026-01-28T13:48:01.642375",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "藤原規眞",
       "name_kana": "ふじわら のりまさ",
       "age": 47,
-      "party": "注意点",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -27,7 +27,7 @@
       "name": "若山慎司",
       "name_kana": "わかやま しんじ",
       "age": 52,
-      "party": "注意点",
+      "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -41,7 +41,7 @@
       "name": "杉本和巳",
       "name_kana": "すぎもと かずみ",
       "age": 65,
-      "party": "注意点",
+      "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

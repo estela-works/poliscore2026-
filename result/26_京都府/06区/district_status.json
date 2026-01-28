@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:07:30.194580",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "山井和則",
@@ -32,34 +32,6 @@
       "status": "新人",
       "result": "落選",
       "votes": 65152,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "中嶋秀樹",
-      "name_kana": "なかじま ひでき",
-      "age": 53,
-      "party": "日本維新の会",
-      "status": "前職",
-      "result": "落選",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "安藤裕",
-      "name_kana": "あんどう ひろし",
-      "age": 59,
-      "party": "参政党",
-      "status": "元職",
-      "result": "落選",
       "processing": {
         "researched": true,
         "evaluated": true,

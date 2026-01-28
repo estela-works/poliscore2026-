@@ -5,14 +5,14 @@
   "district_name": "東京27区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:22:00+09:00",
+  "last_updated": "2026-01-28T17:35:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "長妻昭",
       "name_kana": "ながつま あきら",
-      "age": 64,
+      "age": 65,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "黒崎祐一",
       "name_kana": "くろさき ゆういち",
-      "age": 48,
+      "age": 49,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "須山卓知",
       "name_kana": "すやま たかし",
-      "age": 0,
+      "age": 45,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "小笠原愛子",
       "name_kana": "おがさわら あいこ",
-      "age": 0,
+      "age": 37,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

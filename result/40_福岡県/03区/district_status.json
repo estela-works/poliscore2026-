@@ -5,17 +5,16 @@
   "district_name": "福岡3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T04:15:00+09:00",
+  "last_updated": "2026-01-28T16:35:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "古賀篤",
-      "name_kana": "こがあつし",
-      "age": 52,
+      "name_kana": "こが あつし",
+      "age": 53,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -24,12 +23,11 @@
       }
     },
     {
-      "name": "天野こう",
-      "name_kana": "あまのこう",
-      "age": 38,
+      "name": "天野浩",
+      "name_kana": "あまの ひろし",
+      "age": 39,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -39,11 +37,10 @@
     },
     {
       "name": "仁戸田元氣",
-      "name_kana": "にとだげんき",
-      "age": 44,
+      "name_kana": "にとだ げんき",
+      "age": 46,
       "party": "中道改革連合",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -53,11 +50,10 @@
     },
     {
       "name": "原賀瞳",
-      "name_kana": "はらがひとみ",
-      "age": 0,
+      "name_kana": "はらが ひとみ",
+      "age": 29,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

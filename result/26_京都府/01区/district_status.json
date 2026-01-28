@@ -5,14 +5,15 @@
   "district_name": "京都1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:00:00+09:00",
-  "total_candidates": 7,
-  "processed_candidates": 7,
+  "last_updated": "2026-01-29T05:30:00+09:00",
+  "total_candidates": 8,
+  "processed_candidates": 8,
+  "note": "候補者追加：谷口青人(参政党)、桂隆俊(国民民主党)、鎌野敏徳(日本共産党)、佐々木隆吏(日本維新の会)、浜田聡(諸派)を追加。",
   "candidates": [
     {
       "name": "勝目康",
       "name_kana": "かつめ やすし",
-      "age": 50,
+      "age": 51,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +27,7 @@
     {
       "name": "堀場幸子",
       "name_kana": "ほりば さちこ",
-      "age": 45,
+      "age": 46,
       "party": "チームみらい",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +41,7 @@
     {
       "name": "平竹耕三",
       "name_kana": "ひらたけ こうぞう",
-      "age": 65,
+      "age": 67,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -52,37 +53,9 @@
       }
     },
     {
-      "name": "井坂博文",
-      "name_kana": "いさか ひろふみ",
-      "age": 68,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "安持成美",
-      "name_kana": "やすもち なるみ",
-      "age": 36,
-      "party": "れいわ新選組",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "安達悠司",
-      "name_kana": "あだち ゆうじ",
-      "age": 42,
+      "name": "谷口青人",
+      "name_kana": "たにぐち はると",
+      "age": 47,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -94,10 +67,52 @@
       }
     },
     {
-      "name": "山下博子",
-      "name_kana": "やました ひろこ",
-      "age": 77,
-      "party": "無所属",
+      "name": "桂隆俊",
+      "name_kana": "かつら たかとし",
+      "age": 53,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鎌野敏徳",
+      "name_kana": "かまの としのり",
+      "age": 61,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "佐々木隆吏",
+      "name_kana": "ささき りゅうり",
+      "age": 43,
+      "party": "日本維新の会",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "浜田聡",
+      "name_kana": "はまだ さとし",
+      "age": 48,
+      "party": "日本自由党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

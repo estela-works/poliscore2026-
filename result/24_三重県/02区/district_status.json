@@ -5,42 +5,14 @@
   "district_name": "三重2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-29T00:45:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
-    {
-      "name": "山本里香",
-      "name_kana": "やまもと さとか",
-      "age": 66,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "下野幸助",
-      "name_kana": "しもの こうすけ",
-      "age": 47,
-      "party": "中道改革連合",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
     {
       "name": "川崎秀人",
       "name_kana": "かわさき ひでと",
-      "age": 42,
+      "age": 44,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -52,10 +24,24 @@
       }
     },
     {
-      "name": "森口あゆみ",
-      "name_kana": "もりぐち あゆみ",
-      "age": 59,
-      "party": "日本維新の会",
+      "name": "下野幸助",
+      "name_kana": "しもの こうすけ",
+      "age": 49,
+      "party": "中道改革連合",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "水谷ゆきやす",
+      "name_kana": "みずたに ゆきやす",
+      "age": 52,
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:07:30.082492",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "松本尚",
@@ -47,21 +47,6 @@
       "status": "新人",
       "result": "落選",
       "votes": 19582,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "柏崎すえと",
-      "name_kana": "かしわざき すえと",
-      "age": 77,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 11287,
       "processing": {
         "researched": true,
         "evaluated": true,

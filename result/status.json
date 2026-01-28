@@ -3,18 +3,18 @@
     "name": "第51回衆議院議員総選挙",
     "date": "2026-02-08"
   },
-  "last_updated": "2026-01-28T13:37:56.335464",
+  "last_updated": "2026-01-28T16:20:15.956466",
   "summary": {
     "total_prefectures": 47,
-    "total_districts": 290,
-    "completed": 279,
-    "processing": 8,
+    "total_districts": 292,
+    "completed": 287,
+    "processing": 2,
     "identified": 0,
     "pre": 0,
     "none": 3,
     "abolished": 0,
-    "total_candidates": 1110,
-    "processed_candidates": 1098
+    "total_candidates": 1083,
+    "processed_candidates": 1078
   },
   "prefectures": {
     "01": {
@@ -136,8 +136,8 @@
           "processed": 5
         },
         "3": {
-          "status": "processing",
-          "total": 5,
+          "status": "completed",
+          "total": 4,
           "processed": 4
         },
         "4": {
@@ -161,6 +161,11 @@
           "processed": 6
         },
         "2": {
+          "status": "completed",
+          "total": 2,
+          "processed": 2
+        },
+        "3": {
           "status": "completed",
           "total": 2,
           "processed": 2
@@ -242,8 +247,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 5,
+          "processed": 5
         },
         "7": {
           "status": "completed",
@@ -272,8 +277,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 2,
-          "processed": 2
+          "total": 4,
+          "processed": 4
         },
         "5": {
           "status": "completed",
@@ -351,9 +356,9 @@
           "processed": 2
         },
         "8": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "9": {
           "status": "completed",
@@ -377,8 +382,8 @@
         },
         "13": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 4,
+          "processed": 4
         },
         "14": {
           "status": "completed",
@@ -387,8 +392,8 @@
         },
         "15": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "16": {
           "status": "completed",
@@ -462,8 +467,8 @@
         },
         "13": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "14": {
           "status": "completed",
@@ -492,8 +497,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 4,
+          "processed": 4
         },
         "5": {
           "status": "completed",
@@ -556,9 +561,9 @@
           "processed": 3
         },
         "17": {
-          "status": "completed",
-          "total": 4,
-          "processed": 4
+          "status": "processing",
+          "total": 7,
+          "processed": 3
         },
         "18": {
           "status": "completed",
@@ -592,8 +597,8 @@
         },
         "24": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 2,
+          "processed": 2
         },
         "25": {
           "status": "completed",
@@ -632,8 +637,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 3,
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -662,8 +667,8 @@
         },
         "7": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         },
         "8": {
           "status": "completed",
@@ -687,8 +692,8 @@
         },
         "12": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 2,
+          "processed": 2
         },
         "13": {
           "status": "completed",
@@ -707,8 +712,8 @@
         },
         "16": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 2,
+          "processed": 2
         },
         "17": {
           "status": "completed",
@@ -717,8 +722,8 @@
         },
         "18": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 4,
+          "processed": 4
         },
         "19": {
           "status": "completed",
@@ -842,8 +847,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -867,8 +872,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 2,
-          "processed": 2
+          "total": 4,
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -877,8 +882,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 4,
+          "processed": 4
         },
         "4": {
           "status": "completed",
@@ -902,8 +907,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -946,9 +951,9 @@
           "processed": 4
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 2
+          "processed": 4
         },
         "3": {
           "status": "completed",
@@ -966,9 +971,9 @@
           "processed": 6
         },
         "6": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 4
+          "processed": 5
         },
         "7": {
           "status": "completed",
@@ -1012,13 +1017,13 @@
         },
         "15": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 6,
+          "processed": 6
         },
         "16": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         }
       }
     },
@@ -1032,8 +1037,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -1042,8 +1047,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         }
       }
     },
@@ -1052,8 +1057,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 4,
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1072,8 +1077,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 7,
-          "processed": 7
+          "total": 8,
+          "processed": 8
         },
         "2": {
           "status": "completed",
@@ -1082,13 +1087,13 @@
         },
         "3": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "4": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "5": {
           "status": "completed",
@@ -1097,8 +1102,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 3,
+          "processed": 3
         }
       }
     },
@@ -1106,14 +1111,14 @@
       "name": "大阪府",
       "districts": {
         "1": {
-          "status": "processing",
-          "total": 5,
-          "processed": 3
-        },
-        "2": {
           "status": "completed",
           "total": 5,
           "processed": 5
+        },
+        "2": {
+          "status": "completed",
+          "total": 2,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1122,13 +1127,13 @@
         },
         "4": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 6,
+          "processed": 6
         },
         "5": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 6,
+          "processed": 6
         },
         "6": {
           "status": "completed",
@@ -1147,12 +1152,12 @@
         },
         "9": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 3,
+          "processed": 3
         },
         "10": {
-          "status": "completed",
-          "total": 3,
+          "status": "processing",
+          "total": 4,
           "processed": 3
         },
         "11": {
@@ -1167,8 +1172,8 @@
         },
         "13": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 6,
+          "processed": 6
         },
         "14": {
           "status": "completed",
@@ -1176,9 +1181,9 @@
           "processed": 3
         },
         "15": {
-          "status": "processing",
+          "status": "completed",
           "total": 3,
-          "processed": 2
+          "processed": 3
         },
         "16": {
           "status": "completed",
@@ -1187,8 +1192,8 @@
         },
         "17": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 1,
+          "processed": 1
         },
         "18": {
           "status": "completed",
@@ -1222,8 +1227,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "5": {
           "status": "completed",
@@ -1242,8 +1247,8 @@
         },
         "8": {
           "status": "completed",
-          "total": 6,
-          "processed": 6
+          "total": 5,
+          "processed": 5
         },
         "9": {
           "status": "completed",
@@ -1262,8 +1267,8 @@
         },
         "12": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         }
       }
     },
@@ -1277,8 +1282,8 @@
         },
         "2": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 2,
+          "processed": 2
         },
         "3": {
           "status": "completed",
@@ -1382,8 +1387,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 2,
-          "processed": 2
+          "total": 3,
+          "processed": 3
         },
         "5": {
           "status": "completed",
@@ -1392,8 +1397,8 @@
         },
         "6": {
           "status": "completed",
-          "total": 2,
-          "processed": 2
+          "total": 3,
+          "processed": 3
         },
         "7": {
           "status": "none",
@@ -1427,8 +1432,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 4,
+          "processed": 4
         },
         "2": {
           "status": "completed",
@@ -1501,9 +1506,9 @@
           "processed": 5
         },
         "2": {
-          "status": "processing",
+          "status": "completed",
           "total": 4,
-          "processed": 2
+          "processed": 4
         },
         "3": {
           "status": "completed",
@@ -1527,8 +1532,8 @@
         },
         "7": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "8": {
           "status": "completed",
@@ -1597,8 +1602,8 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         },
         "2": {
           "status": "completed",
@@ -1612,8 +1617,8 @@
         },
         "4": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         }
       }
     },
@@ -1632,8 +1637,8 @@
         },
         "3": {
           "status": "completed",
-          "total": 4,
-          "processed": 4
+          "total": 3,
+          "processed": 3
         }
       }
     },
@@ -1649,6 +1654,11 @@
           "status": "completed",
           "total": 3,
           "processed": 3
+        },
+        "3": {
+          "status": "completed",
+          "total": 2,
+          "processed": 2
         }
       }
     },
@@ -1657,13 +1667,13 @@
       "districts": {
         "1": {
           "status": "completed",
-          "total": 3,
-          "processed": 3
+          "total": 2,
+          "processed": 2
         },
         "2": {
           "status": "completed",
-          "total": 5,
-          "processed": 5
+          "total": 3,
+          "processed": 3
         },
         "3": {
           "status": "completed",
@@ -1681,9 +1691,9 @@
       "name": "沖縄県",
       "districts": {
         "1": {
-          "status": "processing",
+          "status": "completed",
           "total": 5,
-          "processed": 3
+          "processed": 5
         },
         "2": {
           "status": "completed",

@@ -5,31 +5,17 @@
   "district_name": "兵庫8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "last_updated": "2026-01-29T01:30:00+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
-    {
-      "name": "中野洋昌",
-      "name_kana": "なかの ひろまさ",
-      "age": 46,
-      "party": "公明党",
-      "status": "前職",
-      "result": "当選",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
     {
       "name": "徳安淳子",
       "name_kana": "とくやす じゅんこ",
       "age": 62,
       "party": "日本維新の会",
-      "status": "新人",
-      "result": "比例復活",
+      "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -38,12 +24,40 @@
       }
     },
     {
-      "name": "小村潤",
-      "name_kana": "こむら じゅん",
-      "age": 49,
+      "name": "青山繁晴",
+      "name_kana": "あおやま しげはる",
+      "age": 73,
+      "party": "自由民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "弘川欣絵",
+      "name_kana": "ひろかわ よしえ",
+      "age": 50,
+      "party": "中道改革連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "板東正恵",
+      "name_kana": "ばんどう まさえ",
+      "age": 45,
       "party": "日本共産党",
       "status": "新人",
-      "result": "落選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -52,43 +66,12 @@
       }
     },
     {
-      "name": "油谷聖一郎",
-      "name_kana": "あぶらたに せいいちろう",
-      "age": 50,
-      "party": "参政党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 13155,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "やはたオカン",
-      "name_kana": "やはた おかん",
-      "age": 59,
+      "name": "長谷川羽衣子",
+      "name_kana": "はせがわ ういこ",
+      "age": 44,
       "party": "れいわ新選組",
       "status": "新人",
-      "result": "落選",
-      "votes": 12920,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "林マリアゆき",
-      "name_kana": "はやし まりあゆき",
-      "age": 50,
-      "party": "みんなでつくる党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 2555,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

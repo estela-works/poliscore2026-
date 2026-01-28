@@ -5,14 +5,14 @@
   "district_name": "滋賀1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T06:00:00+09:00",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "last_updated": "2026-01-28T22:00:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "斎藤アレックス",
-      "name_kana": "さいとう あれっくす",
-      "age": 39,
+      "name_kana": "さいとうあれっくす",
+      "age": 40,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -20,13 +20,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "大岡敏孝",
-      "name_kana": "おおおか としたか",
-      "age": 52,
+      "name_kana": "おおおかとしたか",
+      "age": 53,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -34,13 +34,27 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "河井昭成",
+      "name_kana": "かわいあきなり",
+      "age": 52,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     },
     {
       "name": "黄野瀬明子",
-      "name_kana": "きのせ あきこ",
-      "age": 41,
+      "name_kana": "きのせあきこ",
+      "age": 42,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -48,7 +62,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     }
   ]

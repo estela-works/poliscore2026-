@@ -5,14 +5,14 @@
   "district_name": "千葉5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:24:00+09:00",
+  "last_updated": "2026-01-28T17:11:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "矢崎堅太郎",
       "name_kana": "やざき けんたろう",
-      "age": null,
+      "age": 58,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -24,8 +24,8 @@
     },
     {
       "name": "英利アルフィヤ",
-      "name_kana": "えいり あるふぃや",
-      "age": null,
+      "name_kana": "えり あるふぃや",
+      "age": 37,
       "party": "自由民主党",
       "status": "前職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "岡野純子",
       "name_kana": "おかの じゅんこ",
-      "age": null,
+      "age": 47,
       "party": "国民民主党",
       "status": "前職",
       "processing": {
@@ -50,8 +50,8 @@
     },
     {
       "name": "宮路純一",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "みやじ じゅんいち",
+      "age": 36,
       "party": "参政党",
       "status": "新人",
       "processing": {
@@ -63,8 +63,8 @@
     },
     {
       "name": "小林修平",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "こばやし しゅうへい",
+      "age": 35,
       "party": "チームみらい",
       "status": "新人",
       "processing": {

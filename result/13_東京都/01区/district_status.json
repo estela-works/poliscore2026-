@@ -5,14 +5,14 @@
   "district_name": "東京1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T23:05:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "海江田万里",
       "name_kana": "かいえだ ばんり",
-      "age": 75,
+      "age": 76,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "吉川里奈",
       "name_kana": "よしかわ りな",
-      "age": 37,
+      "age": 38,
       "party": "参政党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "山田美樹",
       "name_kana": "やまだ みき",
-      "age": 50,
+      "age": 51,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "春山明日香",
       "name_kana": "はるやま あすか",
-      "age": 0,
+      "age": 51,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,

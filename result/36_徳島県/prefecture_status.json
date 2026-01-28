@@ -3,7 +3,7 @@
   "prefecture_name": "徳島県",
   "total_districts": 2,
   "is_official": true,
-  "last_updated": "2026-01-28T13:37:56.315880",
+  "last_updated": "2026-01-28T16:20:15.927408",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -12,14 +12,14 @@
     "completed": 2,
     "abolished": 0
   },
-  "total_candidates": 9,
-  "processed_candidates": 9,
+  "total_candidates": 8,
+  "processed_candidates": 8,
   "party_summary": {
     "自由民主党": 2,
     "立憲民主党": 0,
     "日本維新の会": 1,
     "公明党": 0,
-    "日本共産党": 2,
+    "日本共産党": 1,
     "国民民主党": 1,
     "れいわ新選組": 0,
     "社会民主党": 0,
@@ -31,8 +31,8 @@
     {
       "district_number": 1,
       "status": "completed",
-      "total_candidates": 5,
-      "processed_candidates": 5
+      "total_candidates": 4,
+      "processed_candidates": 4
     },
     {
       "district_number": 2,

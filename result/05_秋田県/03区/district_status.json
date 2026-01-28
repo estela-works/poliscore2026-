@@ -1,0 +1,41 @@
+{
+  "prefecture_code": "05",
+  "prefecture_name": "秋田県",
+  "district_number": 3,
+  "district_name": "秋田3区",
+  "status": "completed",
+  "is_official": true,
+  "last_updated": "2026-01-29T02:00:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "candidates": [
+    {
+      "name": "村岡敏英",
+      "name_kana": "むらおか としひで",
+      "age": 65,
+      "party": "国民民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "御法川信英",
+      "name_kana": "みのりかわ のぶひで",
+      "age": 61,
+      "party": "自由民主党",
+      "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    }
+  ]
+}

@@ -5,17 +5,16 @@
   "district_name": "三重1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T01:30:00+09:00",
+  "last_updated": "2026-01-28T16:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "出口洋介",
       "name_kana": "でぐち ようすけ",
-      "age": 35,
+      "age": 36,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -26,10 +25,9 @@
     {
       "name": "田村憲久",
       "name_kana": "たむら のりひさ",
-      "age": 59,
+      "age": 61,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -40,10 +38,9 @@
     {
       "name": "福森和歌子",
       "name_kana": "ふくもり わかこ",
-      "age": 54,
+      "age": 56,
       "party": "中道改革連合",
-      "status": "新人",
-      "proportional_rank": null,
+      "status": "前職",
       "processing": {
         "researched": true,
         "evaluated": true,

@@ -5,7 +5,7 @@
   "district_name": "東京25区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-28T13:45:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -54,7 +54,7 @@
     {
       "name": "宗像久敬",
       "name_kana": "むなかた ひさたか",
-      "age": 0,
+      "age": 47,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "木村奈美",
       "name_kana": "きむら なみ",
-      "age": 0,
+      "age": 51,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

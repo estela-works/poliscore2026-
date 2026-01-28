@@ -3,11 +3,11 @@
   "prefecture_name": "奈良県",
   "district_number": 2,
   "district_name": "奈良2区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.226497",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T15:39:53.483609",
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "高市早苗",
@@ -24,35 +24,7 @@
         "card_generated": false
       }
     },
-    {
-      "name": "服部知佳",
-      "name_kana": "はっとり ちか",
-      "age": 42,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "尾崎充典",
-      "name_kana": "おざき みつのり",
-      "age": 63,
-      "party": "中道改革連合",
-      "status": "新人",
-      "result": "落選",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
+        {
       "name": "池田英子",
       "name_kana": "いけだ えいこ",
       "age": 58,

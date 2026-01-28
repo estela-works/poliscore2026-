@@ -5,17 +5,16 @@
   "district_name": "東京7区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:10:00+09:00",
+  "last_updated": "2026-01-28T15:35:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "松尾明弘",
       "name_kana": "まつお あきひろ",
-      "age": 50,
+      "age": 51,
       "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -26,10 +25,9 @@
     {
       "name": "丸川珠代",
       "name_kana": "まるかわ たまよ",
-      "age": 54,
+      "age": 55,
       "party": "自由民主党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -40,10 +38,9 @@
     {
       "name": "渡邉泰之",
       "name_kana": "わたなべ やすゆき",
-      "age": 52,
+      "age": 53,
       "party": "日本維新の会",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -54,10 +51,9 @@
     {
       "name": "入江伸子",
       "name_kana": "いりえ のぶこ",
-      "age": 0,
+      "age": 63,
       "party": "国民民主党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -68,10 +64,9 @@
     {
       "name": "石川友梨香",
       "name_kana": "いしかわ ゆりか",
-      "age": 28,
+      "age": 29,
       "party": "参政党",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -82,10 +77,9 @@
     {
       "name": "峰島侑也",
       "name_kana": "みねしま ゆうや",
-      "age": 34,
+      "age": 35,
       "party": "チームみらい",
       "status": "新人",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

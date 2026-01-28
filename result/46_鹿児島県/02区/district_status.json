@@ -5,9 +5,10 @@
   "district_name": "鹿児島2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-29T05:00:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
+  "note": "候補者修正：保岡宏武は比例九州ブロック単独候補で選挙区不出馬。辻健太郎（維新）、矢竹ゆかり（参政）は2026年衆院選鹿児島2区には立候補していない。正しい参政党候補は高橋徳美。",
   "candidates": [
     {
       "name": "三反園訓",
@@ -24,37 +25,9 @@
       }
     },
     {
-      "name": "保岡宏武",
-      "name_kana": "やすおか ひろたけ",
-      "age": 51,
-      "party": "自由民主党",
-      "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "辻健太郎",
-      "name_kana": "つじ けんたろう",
-      "age": 38,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "松崎真琴",
       "name_kana": "まつざき まこと",
-      "age": 66,
+      "age": 67,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -66,9 +39,9 @@
       }
     },
     {
-      "name": "矢竹ゆかり",
-      "name_kana": "やたけ ゆかり",
-      "age": 61,
+      "name": "高橋徳美",
+      "name_kana": "たかはし とくみ",
+      "age": 56,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

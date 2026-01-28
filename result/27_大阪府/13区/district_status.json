@@ -5,18 +5,16 @@
   "district_name": "大阪13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-29T02:45:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "岩谷良平",
       "name_kana": "いわたに りょうへい",
-      "age": 44,
+      "age": 45,
       "party": "日本維新の会",
       "status": "前職",
-      "result": "当選",
-      "votes": 79898,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +25,9 @@
     {
       "name": "宗清皇一",
       "name_kana": "むねきよ こういち",
-      "age": 54,
+      "age": 55,
       "party": "自由民主党",
-      "status": "前職",
-      "result": "落選",
-      "votes": null,
+      "status": "元職",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -42,11 +38,9 @@
     {
       "name": "八幡愛",
       "name_kana": "やはた あい",
-      "age": 37,
+      "age": 38,
       "party": "れいわ新選組",
-      "status": "新人",
-      "result": "比例復活",
-      "votes": 22480,
+      "status": "前職",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -57,11 +51,35 @@
     {
       "name": "宝井照美",
       "name_kana": "たからい てるみ",
-      "age": 60,
+      "age": 62,
       "party": "日本共産党",
       "status": "新人",
-      "result": "落選",
-      "votes": 18657,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "本多平直",
+      "name_kana": "ほんだ ひらなお",
+      "age": 61,
+      "party": "中道改革連合",
+      "status": "元職",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "立岡昭是",
+      "name_kana": "たておか あきよし",
+      "age": 32,
+      "party": "参政党",
+      "status": "新人",
       "processing": {
         "researched": true,
         "evaluated": true,

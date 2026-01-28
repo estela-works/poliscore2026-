@@ -5,73 +5,68 @@
   "district_name": "奈良1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T02:00:00+09:00",
+  "last_updated": "2026-01-29T05:00:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
-      "name": "高野敦",
-      "name_kana": "たかのあつし",
-      "age": 49,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "井上良子",
-      "name_kana": "いのうえよしこ",
-      "age": 60,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "馬淵澄夫",
-      "name_kana": "まぶちすみお",
-      "age": 64,
+      "name_kana": "まぶち すみお",
+      "age": 65,
       "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "林元政子",
-      "name_kana": "はやしもとまさこ",
-      "age": 50,
-      "party": "参政党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "小林茂樹",
-      "name_kana": "こばやししげき",
-      "age": 60,
+      "name_kana": "こばやし しげき",
+      "age": 61,
       "party": "自由民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
+      }
+    },
+    {
+      "name": "黒川洋司",
+      "name_kana": "くろかわ ようじ",
+      "age": 54,
+      "party": "参政党",
+      "status": "新人",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "谷川和広",
+      "name_kana": "たにがわ かずひろ",
+      "age": 47,
+      "party": "日本共産党",
+      "status": "新人",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "杉本葵",
+      "name_kana": "すぎもと あおい",
+      "age": 34,
+      "party": "国民民主党",
+      "status": "新人",
       "processing": {
         "researched": true,
         "evaluated": true,

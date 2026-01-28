@@ -5,14 +5,14 @@
   "district_name": "山形3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.247713",
+  "last_updated": "2026-01-28T17:40:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "加藤鮎子",
       "name_kana": "かとう あゆこ",
-      "age": null,
+      "age": 46,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,

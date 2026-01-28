@@ -5,14 +5,14 @@
   "district_name": "北海道3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.232043",
+  "last_updated": "2026-01-28T17:15:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "荒井優",
-      "name_kana": "あらい ゆう",
-      "age": null,
+      "name_kana": "あらい ゆたか",
+      "age": 50,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "高木宏壽",
       "name_kana": "たかぎ ひろひさ",
-      "age": null,
+      "age": 65,
       "party": "自由民主党",
       "status": "元職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "中島良樹",
       "name_kana": "なかじま よしき",
-      "age": null,
+      "age": 47,
       "party": "参政党",
       "status": "新人",
       "processing": {
@@ -51,7 +51,7 @@
     {
       "name": "円子裕子",
       "name_kana": "まるこ ゆうこ",
-      "age": null,
+      "age": 62,
       "party": "日本共産党",
       "status": "新人",
       "processing": {

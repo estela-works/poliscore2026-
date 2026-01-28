@@ -5,9 +5,9 @@
   "district_name": "東京4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.275147",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "last_updated": "2026-01-28T19:27:00+09:00",
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "平将明",
@@ -54,37 +54,7 @@
         "card_generated": false
       }
     },
-    {
-      "name": "石川雅俊",
-      "name_kana": "いしかわ まさとし",
-      "age": 44,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 32063,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "塩寺ゆうた",
-      "name_kana": "しおでら ゆうた",
-      "age": null,
-      "party": "参政党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 12176,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
+            {
       "name": "嶋悦子",
       "name_kana": "",
       "age": 0,

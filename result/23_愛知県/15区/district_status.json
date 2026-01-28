@@ -5,14 +5,15 @@
   "district_name": "愛知15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:35:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-29T05:30:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
+  "note": "候補者を修正：高木繁(日本共産党)は2026年衆院選に立候補していない。鈴木勝裕(参政党)、竹上裕子(ゆうこく)を追加。",
   "candidates": [
     {
       "name": "根本幸典",
       "name_kana": "ねもと ゆきのり",
-      "age": 59,
+      "age": 60,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +27,7 @@
     {
       "name": "関健一郎",
       "name_kana": "せき けんいちろう",
-      "age": 46,
+      "age": 47,
       "party": "日本維新の会",
       "status": "元職",
       "proportional_rank": null,
@@ -40,9 +41,9 @@
     {
       "name": "小山千帆",
       "name_kana": "こやま ちほ",
-      "age": 49,
+      "age": 50,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -54,7 +55,7 @@
     {
       "name": "辻恵",
       "name_kana": "つじ めぐむ",
-      "age": 76,
+      "age": 77,
       "party": "れいわ新選組",
       "status": "元職",
       "proportional_rank": null,
@@ -66,11 +67,25 @@
       }
     },
     {
-      "name": "高木繁",
-      "name_kana": "たかぎ しげる",
-      "age": 74,
-      "party": "日本共産党",
+      "name": "鈴木勝裕",
+      "name_kana": "すずき かつひろ",
+      "age": 39,
+      "party": "参政党",
       "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "竹上裕子",
+      "name_kana": "たけうえ ゆうこ",
+      "age": 65,
+      "party": "減税日本・ゆうこく連合",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:27:40.680522",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "note": "2024年衆院選の候補者は3名のみ。野中貴恵（参政党）、岩永京子（日本保守党）、平野雨龍（無所属）は2026年衆院選の候補予定者であり、2024年衆院選には出馬していない。岩屋毅は2024年10月～2025年9月まで外務大臣。",
   "candidates": [
     {
@@ -40,22 +40,7 @@
         "card_generated": false
       }
     },
-    {
-      "name": "大塚光義",
-      "name_kana": "おおつか みつよし",
-      "age": 69,
-      "party": "日本共産党",
-      "status": "新人",
-      "result": "落選",
-      "note": "元挾間町議、党地区委員長",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
+        {
       "name": "岩永京子",
       "name_kana": "いわなが きょうこ",
       "age": 64,

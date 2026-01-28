@@ -5,16 +5,16 @@
   "district_name": "福島4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.251570",
+  "last_updated": "2026-01-28T19:13:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "坂本竜太郎",
       "name_kana": "さかもと りゅうたろう",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -26,9 +26,9 @@
     {
       "name": "齋藤裕喜",
       "name_kana": "さいとう ゆうき",
-      "age": 45,
+      "age": 46,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -40,7 +40,7 @@
     {
       "name": "熊谷智",
       "name_kana": "くまがい さとし",
-      "age": 44,
+      "age": 46,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "山口洋太",
       "name_kana": "やまぐち ようた",
-      "age": null,
+      "age": 35,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,

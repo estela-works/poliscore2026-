@@ -5,18 +5,17 @@
   "district_name": "香川3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-29T04:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
-  "note": "候補者名を修正：川崎智光（国民民主党）は誤り。実際の候補者は笹井孝志（日本共産党）。香川3区に国民民主党候補者は出馬していない。",
+  "note": "候補者名を修正：笹井孝志（日本共産党）は誤り。正しい候補者は川崎智光（国民民主党）。",
   "candidates": [
     {
       "name": "大野敬太郎",
       "name_kana": "おおの けいたろう",
-      "age": 56,
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,10 +26,9 @@
     {
       "name": "細川修平",
       "name_kana": "ほそかわ しゅうへい",
-      "age": 50,
+      "age": 51,
       "party": "日本維新の会",
       "status": "新人",
-      "result": "落選",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -39,13 +37,11 @@
       }
     },
     {
-      "name": "笹井孝志",
-      "name_kana": "ささい たかし",
-      "age": 71,
-      "party": "日本共産党",
+      "name": "川崎智光",
+      "name_kana": "かわさき ともみつ",
+      "age": 44,
+      "party": "国民民主党",
       "status": "新人",
-      "result": "落選",
-      "note": "公開情報が極めて限られている",
       "processing": {
         "researched": true,
         "evaluated": true,

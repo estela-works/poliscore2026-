@@ -5,16 +5,16 @@
   "district_name": "青森3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.243004",
+  "last_updated": "2026-01-28T19:09:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "木村次郎",
       "name_kana": "きむら じろう",
-      "age": 56,
+      "age": 58,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -26,9 +26,9 @@
     {
       "name": "岡田華子",
       "name_kana": "おかだ はなこ",
-      "age": null,
+      "age": 45,
       "party": "中道改革連合",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -39,10 +39,10 @@
     },
     {
       "name": "佐原若子",
-      "name_kana": "",
+      "name_kana": "さはら わかこ",
       "age": 72,
       "party": "れいわ新選組",
-      "status": "現職",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

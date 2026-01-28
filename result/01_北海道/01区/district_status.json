@@ -5,14 +5,14 @@
   "district_name": "北海道1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.229980",
+  "last_updated": "2026-01-28T17:10:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "道下大樹",
       "name_kana": "みちした だいき",
-      "age": 48,
+      "age": 50,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -24,8 +24,8 @@
     },
     {
       "name": "臼木秀剛",
-      "name_kana": "うすき ひでたか",
-      "age": null,
+      "name_kana": "うすき ひでたけ",
+      "age": 44,
       "party": "国民民主党",
       "status": "前職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "加藤貴弘",
       "name_kana": "かとう たかひろ",
-      "age": 41,
+      "age": 43,
       "party": "自由民主党",
       "status": "新人",
       "processing": {
@@ -50,8 +50,8 @@
     },
     {
       "name": "加納千津子",
-      "name_kana": "かのう ちづこ",
-      "age": null,
+      "name_kana": "かのう ちずこ",
+      "age": 50,
       "party": "参政党",
       "status": "新人",
       "processing": {
@@ -63,8 +63,8 @@
     },
     {
       "name": "森英士",
-      "name_kana": "もり えいじ",
-      "age": null,
+      "name_kana": "もり つねと",
+      "age": 48,
       "party": "日本共産党",
       "status": "新人",
       "processing": {

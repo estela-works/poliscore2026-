@@ -6,8 +6,8 @@
   "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-28T13:07:30.069354",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "橋本幹彦",
@@ -55,21 +55,6 @@
       }
     },
     {
-      "name": "中原由棟",
-      "name_kana": "なかはら よしむね",
-      "age": 33,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "votes": 21561,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "沢口千枝子",
       "name_kana": "さわぐち ちえこ",
       "age": 73,
@@ -77,21 +62,6 @@
       "status": "新人",
       "result": "落選",
       "votes": 17099,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "橋本勉",
-      "name_kana": "はしもと べん",
-      "age": null,
-      "party": "諸派",
-      "status": "新人",
-      "result": "落選",
-      "votes": 4424,
       "processing": {
         "researched": true,
         "evaluated": true,

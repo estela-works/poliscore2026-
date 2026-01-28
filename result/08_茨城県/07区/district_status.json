@@ -4,17 +4,17 @@
   "district_number": 7,
   "district_name": "茨城県7区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:33:00.715565",
+  "is_official": true,
+  "last_updated": "2026-01-28T18:55:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "中村勇太",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "なかむら はやと",
+      "age": 39,
       "party": "無所属",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,10 +25,10 @@
     },
     {
       "name": "永岡桂子",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "ながおか けいこ",
+      "age": 72,
       "party": "自由民主党",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

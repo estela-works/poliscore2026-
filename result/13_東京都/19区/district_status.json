@@ -5,14 +5,14 @@
   "district_name": "東京19区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:15:00+09:00",
+  "last_updated": "2026-01-28T17:55:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "末松義規",
       "name_kana": "すえまつ よしのり",
-      "age": 68,
+      "age": 69,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "松本洋平",
       "name_kana": "まつもと ようへい",
-      "age": 51,
+      "age": 52,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "諏訪玲子",
       "name_kana": "すわ れいこ",
-      "age": 0,
+      "age": 42,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "一ノ瀬陽子",
       "name_kana": "いちのせ ようこ",
-      "age": 0,
+      "age": 46,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "井手重美津子",
       "name_kana": "いでしげ みつこ",
-      "age": 61,
+      "age": 62,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

@@ -5,7 +5,7 @@
   "district_name": "愛知13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.177533",
+  "last_updated": "2026-01-28T13:48:01.647490",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "大西健介",
       "name_kana": "おおにし けんすけ",
       "age": 54,
-      "party": "注意点",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -27,7 +27,7 @@
       "name": "石井拓",
       "name_kana": "いしい たく",
       "age": 60,
-      "party": "注意点",
+      "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
@@ -41,7 +41,7 @@
       "name": "牛田清博",
       "name_kana": "うしだ きよひろ",
       "age": 67,
-      "party": "注意点",
+      "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

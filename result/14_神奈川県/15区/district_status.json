@@ -5,18 +5,18 @@
   "district_name": "神奈川15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-29T04:30:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
+  "note": "候補者を修正：内海聡、藤田修一は2024年選挙の候補者。三好りょう、小山よしみつを追加。",
   "candidates": [
     {
       "name": "河野太郎",
       "name_kana": "こうの たろう",
-      "age": 61,
+      "age": 63,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
-      "votes": 128881,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -25,28 +25,12 @@
       }
     },
     {
-      "name": "内海聡",
-      "name_kana": "うつみ さとる",
-      "age": 49,
-      "party": "無所属",
+      "name": "三好りょう",
+      "name_kana": "みよし りょう",
+      "age": 40,
+      "party": "れいわ新選組",
       "status": "新人",
-      "result": "落選",
-      "votes": 39183,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "藤田修一",
-      "name_kana": "ふじた しゅういち",
-      "age": 58,
-      "party": "参政党",
-      "status": "新人",
-      "result": "落選",
-      "votes": 23793,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -57,11 +41,24 @@
     {
       "name": "佐々木克己",
       "name_kana": "ささき かつみ",
-      "age": 69,
+      "age": 70,
       "party": "社会民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": null,
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小山よしみつ",
+      "name_kana": "こやま よしみつ",
+      "age": 53,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

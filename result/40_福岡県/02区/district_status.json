@@ -3,11 +3,11 @@
   "prefecture_name": "福岡県",
   "district_number": 2,
   "district_name": "福岡2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T20:35:00+09:00",
+  "last_updated": "2026-01-28T13:45:44.194478",
   "total_candidates": 4,
-  "processed_candidates": 2,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "木下としゆき",
@@ -17,9 +17,9 @@
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -59,9 +59,9 @@
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

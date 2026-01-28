@@ -2,53 +2,81 @@
   "prefecture_code": "08",
   "prefecture_name": "茨城県",
   "district_number": 6,
-  "district_name": "茨城県6区",
+  "district_name": "茨城6区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:33:00.550146",
-  "total_candidates": 3,
-  "processed_candidates": 3,
+  "is_official": true,
+  "last_updated": "2026-01-28T16:00:10.769568",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
-      "name": "中村吉男",
-      "name_kana": "",
-      "age": 0,
-      "party": "無所属",
-      "status": "",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "国光文乃",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "くにみつあやの",
+      "age": 46,
       "party": "自由民主党",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "青山大人",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "あおやまやまと",
+      "age": 47,
       "party": "無所属",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
+      }
+    },
+    {
+      "name": "中村吉男",
+      "name_kana": "なかむらよしお",
+      "age": 55,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
+      }
+    },
+    {
+      "name": "稲葉英樹",
+      "name_kana": "いなばひでき",
+      "age": 58,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
+      }
+    },
+    {
+      "name": "堀越麻紀",
+      "name_kana": "ほりこしまき",
+      "age": 53,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": true
       }
     }
   ]

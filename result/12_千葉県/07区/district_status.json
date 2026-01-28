@@ -5,17 +5,17 @@
   "district_name": "千葉7区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
+  "last_updated": "2026-01-29T00:15:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "齋藤健",
       "name_kana": "さいとう けん",
-      "age": 65,
+      "age": 66,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -24,13 +24,12 @@
       }
     },
     {
-      "name": "平戸航太",
-      "name_kana": "ひらど こうた",
-      "age": 37,
+      "name": "林田あきひろ",
+      "name_kana": "はやしだ あきひろ",
+      "age": 50,
       "party": "国民民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": 51749,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -39,13 +38,12 @@
       }
     },
     {
-      "name": "とくますきよ子",
-      "name_kana": "とくます きよこ",
-      "age": 71,
-      "party": "日本共産党",
+      "name": "川田龍平",
+      "name_kana": "かわだ りゅうへい",
+      "age": 50,
+      "party": "減税日本・ゆうこく連合",
       "status": "新人",
-      "result": "落選",
-      "votes": 18127,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

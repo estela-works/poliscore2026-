@@ -5,7 +5,7 @@
   "district_name": "愛知12区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.175583",
+  "last_updated": "2026-01-28T13:48:01.645227",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "重徳和彦",
       "name_kana": "しげとく かずひこ",
       "age": 54,
-      "party": "注意点",
+      "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
       "processing": {
@@ -27,8 +27,8 @@
       "name": "青山周平",
       "name_kana": "あおやま しゅうへい",
       "age": 48,
-      "party": "注意点",
-      "status": "前職",
+      "party": "自由民主党",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -41,7 +41,7 @@
       "name": "中川博登",
       "name_kana": "なかがわ ひろと",
       "age": 47,
-      "party": "注意点",
+      "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

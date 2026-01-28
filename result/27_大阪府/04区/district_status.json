@@ -5,9 +5,9 @@
   "district_name": "大阪4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-28T14:23:34.818016",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "美延映夫",
@@ -38,11 +38,11 @@
       }
     },
     {
-      "name": "清水忠史",
-      "name_kana": "しみず ただし",
-      "age": 56,
+      "name": "山田みのり",
+      "name_kana": "やまだ みのり",
+      "age": 49,
       "party": "日本共産党",
-      "status": "元職",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -52,9 +52,9 @@
       }
     },
     {
-      "name": "黒川洋司",
-      "name_kana": "くろかわ ようじ",
-      "age": 52,
+      "name": "藤田美季",
+      "name_kana": "ふじた みき",
+      "age": 59,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -66,10 +66,24 @@
       }
     },
     {
-      "name": "寺川幸生栄",
-      "name_kana": "てらかわ こうせい",
-      "age": 62,
-      "party": "無所属",
+      "name": "橋口和矢",
+      "name_kana": "はしぐち かずや",
+      "age": 56,
+      "party": "無所属連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "岡本忠志",
+      "name_kana": "おかもと ただし",
+      "age": 58,
+      "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

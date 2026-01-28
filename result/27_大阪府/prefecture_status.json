@@ -3,42 +3,42 @@
   "prefecture_name": "大阪府",
   "total_districts": 19,
   "is_official": true,
-  "last_updated": "2026-01-28T13:37:56.294898",
+  "last_updated": "2026-01-28T16:20:15.896492",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 2,
-    "completed": 17,
+    "processing": 1,
+    "completed": 18,
     "abolished": 0
   },
-  "total_candidates": 79,
-  "processed_candidates": 76,
+  "total_candidates": 78,
+  "processed_candidates": 77,
   "party_summary": {
-    "自由民主党": 17,
+    "自由民主党": 16,
     "立憲民主党": 0,
     "日本維新の会": 18,
     "公明党": 1,
-    "日本共産党": 16,
-    "国民民主党": 2,
+    "日本共産党": 15,
+    "国民民主党": 4,
     "れいわ新選組": 2,
     "社会民主党": 1,
     "参政党": 11,
-    "無所属": 3,
-    "その他": 8
+    "無所属": 1,
+    "その他": 9
   },
   "districts": [
     {
       "district_number": 1,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 3
+      "processed_candidates": 5
     },
     {
       "district_number": 2,
       "status": "completed",
-      "total_candidates": 5,
-      "processed_candidates": 5
+      "total_candidates": 2,
+      "processed_candidates": 2
     },
     {
       "district_number": 3,
@@ -49,14 +49,14 @@
     {
       "district_number": 4,
       "status": "completed",
-      "total_candidates": 5,
-      "processed_candidates": 5
+      "total_candidates": 6,
+      "processed_candidates": 6
     },
     {
       "district_number": 5,
       "status": "completed",
-      "total_candidates": 4,
-      "processed_candidates": 4
+      "total_candidates": 6,
+      "processed_candidates": 6
     },
     {
       "district_number": 6,
@@ -79,13 +79,13 @@
     {
       "district_number": 9,
       "status": "completed",
-      "total_candidates": 5,
-      "processed_candidates": 5
+      "total_candidates": 3,
+      "processed_candidates": 3
     },
     {
       "district_number": 10,
-      "status": "completed",
-      "total_candidates": 3,
+      "status": "processing",
+      "total_candidates": 4,
       "processed_candidates": 3
     },
     {
@@ -103,8 +103,8 @@
     {
       "district_number": 13,
       "status": "completed",
-      "total_candidates": 4,
-      "processed_candidates": 4
+      "total_candidates": 6,
+      "processed_candidates": 6
     },
     {
       "district_number": 14,
@@ -114,9 +114,9 @@
     },
     {
       "district_number": 15,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 2
+      "processed_candidates": 3
     },
     {
       "district_number": 16,
@@ -127,8 +127,8 @@
     {
       "district_number": 17,
       "status": "completed",
-      "total_candidates": 3,
-      "processed_candidates": 3
+      "total_candidates": 1,
+      "processed_candidates": 1
     },
     {
       "district_number": 18,

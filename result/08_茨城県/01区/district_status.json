@@ -4,17 +4,17 @@
   "district_number": 1,
   "district_name": "茨城県1区",
   "status": "completed",
-  "is_official": false,
-  "last_updated": "2026-01-28T11:32:59.733663",
+  "is_official": true,
+  "last_updated": "2026-01-28T18:45:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "大内久美子",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "おおうち くみこ",
+      "age": 76,
       "party": "日本共産党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -25,10 +25,10 @@
     },
     {
       "name": "川端絢美",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "かわばた あやみ",
+      "age": 42,
       "party": "参政党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -39,10 +39,10 @@
     },
     {
       "name": "田所嘉徳",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たどころ よしのり",
+      "age": 72,
       "party": "自由民主党",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -53,10 +53,10 @@
     },
     {
       "name": "福島伸享",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "ふくしま のぶゆき",
+      "age": 55,
       "party": "無所属",
-      "status": "",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

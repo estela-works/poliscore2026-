@@ -3,16 +3,16 @@
   "prefecture_name": "宮城県",
   "total_districts": 5,
   "is_official": true,
-  "last_updated": "2026-01-28T13:37:56.232418",
+  "last_updated": "2026-01-28T16:20:15.791663",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 1,
-    "completed": 4,
+    "processing": 0,
+    "completed": 5,
     "abolished": 0
   },
-  "total_candidates": 21,
+  "total_candidates": 20,
   "processed_candidates": 20,
   "party_summary": {
     "自由民主党": 5,
@@ -24,7 +24,7 @@
     "れいわ新選組": 0,
     "社会民主党": 0,
     "参政党": 4,
-    "無所属": 2,
+    "無所属": 1,
     "その他": 5
   },
   "districts": [
@@ -42,8 +42,8 @@
     },
     {
       "district_number": 3,
-      "status": "processing",
-      "total_candidates": 5,
+      "status": "completed",
+      "total_candidates": 4,
       "processed_candidates": 4
     },
     {

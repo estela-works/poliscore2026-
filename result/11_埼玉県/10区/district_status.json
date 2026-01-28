@@ -5,7 +5,7 @@
   "district_name": "埼玉10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.266064",
+  "last_updated": "2026-01-28T18:25:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -15,8 +15,6 @@
       "age": 71,
       "party": "中道改革連合",
       "status": "前職",
-      "result": "当選",
-      "votes": 97591,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +25,9 @@
     {
       "name": "山口晋",
       "name_kana": "やまぐち すすむ",
-      "age": null,
+      "age": 42,
       "party": "自由民主党",
       "status": "元職",
-      "result": "落選",
-      "votes": 67764,
       "processing": {
         "researched": true,
         "evaluated": true,

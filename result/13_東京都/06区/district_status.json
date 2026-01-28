@@ -5,13 +5,13 @@
   "district_name": "東京6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T08:00:00+09:00",
+  "last_updated": "2026-01-28T15:50:08.677455",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "落合貴之",
-      "name_kana": "おちあい たかゆき",
+      "name_kana": "おちあいたかゆき",
       "age": 46,
       "party": "中道改革連合",
       "status": "前職",
@@ -20,12 +20,12 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "畦元将吾",
-      "name_kana": "あぜもと しょうご",
+      "name_kana": "あぜもとしょうご",
       "age": 67,
       "party": "自由民主党",
       "status": "元職",
@@ -34,13 +34,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "丸山勝己",
-      "name_kana": "まるやま かつき",
-      "age": null,
+      "name_kana": "まるやまかつき",
+      "age": 58,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -48,13 +48,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "島村直輝",
-      "name_kana": "しまむら なおき",
-      "age": null,
+      "name_kana": "しまむらなおき",
+      "age": 46,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -62,13 +62,13 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "福村康広",
-      "name_kana": "ふくむら やすひろ",
-      "age": null,
+      "name_kana": "ふくむらやすひろ",
+      "age": 69,
       "party": "諸派",
       "status": "新人",
       "proportional_rank": null,
@@ -76,7 +76,7 @@
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     }
   ]

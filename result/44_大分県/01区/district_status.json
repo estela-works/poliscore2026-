@@ -5,7 +5,7 @@
   "district_name": "大分1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:15:00+09:00",
+  "last_updated": "2026-01-28T16:45:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "衛藤博昭",
       "name_kana": "えとう ひろあき",
-      "age": 44,
+      "age": 46,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "山下魁",
       "name_kana": "やました かい",
-      "age": 47,
+      "age": 49,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

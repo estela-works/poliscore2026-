@@ -5,14 +5,14 @@
   "district_name": "北海道10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.238860",
+  "last_updated": "2026-01-28T17:30:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "神谷裕",
       "name_kana": "かみや ひろし",
-      "age": null,
+      "age": 57,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "渡邊孝一",
       "name_kana": "わたなべ こういち",
-      "age": null,
+      "age": 68,
       "party": "自由民主党",
       "status": "元職",
       "processing": {

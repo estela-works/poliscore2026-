@@ -5,14 +5,14 @@
   "district_name": "北海道8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:45:36.237307",
+  "last_updated": "2026-01-28T17:25:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "逢坂誠二",
       "name_kana": "おおさか せいじ",
-      "age": 65,
+      "age": 66,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "向山淳",
       "name_kana": "むこうやま じゅん",
-      "age": 40,
+      "age": 42,
       "party": "自由民主党",
       "status": "前職",
       "processing": {

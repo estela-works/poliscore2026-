@@ -5,14 +5,14 @@
   "district_name": "東京20区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T03:40:00+09:00",
+  "last_updated": "2026-01-28T17:50:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "木原誠二",
       "name_kana": "きはら せいじ",
-      "age": 54,
+      "age": 55,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "大西健太郎",
       "name_kana": "おおにし けんたろう",
-      "age": 45,
+      "age": 47,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "掛山茂希",
       "name_kana": "かけやま しげき",
-      "age": 0,
+      "age": 38,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "宮本徹",
       "name_kana": "みやもと とおる",
-      "age": 52,
+      "age": 54,
       "party": "日本共産党",
       "status": "元職",
       "proportional_rank": null,

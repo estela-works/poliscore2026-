@@ -5,7 +5,7 @@
   "district_name": "熊本2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T23:00:00+09:00",
+  "last_updated": "2026-01-29T02:00:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -24,9 +24,9 @@
       }
     },
     {
-      "name": "近田茜",
-      "name_kana": "こんだ あかね",
-      "age": 32,
+      "name": "前田智徳",
+      "name_kana": "まえだ とものり",
+      "age": 47,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,9 +38,9 @@
       }
     },
     {
-      "name": "奥田木の実",
-      "name_kana": "おくだ このみ",
-      "age": 28,
+      "name": "益田牧子",
+      "name_kana": "ますだ まきこ",
+      "age": 75,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

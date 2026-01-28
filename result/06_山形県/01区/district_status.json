@@ -5,7 +5,7 @@
   "district_name": "山形1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T11:43:49.628050",
+  "last_updated": "2026-01-28T17:50:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "原田和広",
       "name_kana": "はらだ かずひろ",
-      "age": 51,
+      "age": 52,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,

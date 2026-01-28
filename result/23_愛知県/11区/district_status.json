@@ -5,7 +5,7 @@
   "district_name": "愛知11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.173915",
+  "last_updated": "2026-01-28T13:48:01.643808",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "丹野みどり",
       "name_kana": "たんの みどり",
       "age": 52,
-      "party": "注意点",
+      "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

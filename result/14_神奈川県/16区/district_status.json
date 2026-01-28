@@ -5,9 +5,10 @@
   "district_name": "神奈川16区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-28T17:03:00+09:00",
+  "total_candidates": 2,
+  "processed_candidates": 2,
+  "note": "与野党一騎打ち選挙区。候補者修正：伊左次美江、山本瑞恵、吉村勝男は2026年衆院選では立候補していない。",
   "candidates": [
     {
       "name": "佐藤主迪",
@@ -29,48 +30,6 @@
       "age": 56,
       "party": "中道改革連合",
       "status": "前職",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "伊左次美江",
-      "name_kana": "いさじ みえ",
-      "age": 63,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "山本瑞恵",
-      "name_kana": "やまもと みずえ",
-      "age": 57,
-      "party": "日本共産党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "吉村勝男",
-      "name_kana": "よしむら かつお",
-      "age": 69,
-      "party": "無所属",
-      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

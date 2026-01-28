@@ -3,20 +3,19 @@
   "prefecture_name": "東京都",
   "district_number": 17,
   "district_name": "東京17区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T14:03:18.658153",
+  "total_candidates": 7,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "平沢勝栄",
       "name_kana": "ひらさわ かつえい",
-      "age": 79,
+      "age": 80,
       "party": "無所属",
       "status": "前職",
-      "result": "当選",
-      "votes": 64495,
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -27,11 +26,10 @@
     {
       "name": "円より子",
       "name_kana": "まどか よりこ",
-      "age": 77,
+      "age": 78,
       "party": "国民民主党",
-      "status": "元職",
-      "result": "比例復活",
-      "votes": 51975,
+      "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -42,11 +40,10 @@
     {
       "name": "猪口幸子",
       "name_kana": "いのくち さちこ",
-      "age": 68,
+      "age": 69,
       "party": "日本維新の会",
-      "status": "新人",
-      "result": "比例復活",
-      "votes": 42420,
+      "status": "前職",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -55,13 +52,54 @@
       }
     },
     {
-      "name": "新井杉生",
-      "name_kana": "あらい すぎお",
-      "age": 65,
-      "party": "日本共産党",
+      "name": "反田まり",
+      "name_kana": "そりた まり",
+      "age": 45,
+      "party": "中道改革連合",
       "status": "新人",
-      "result": "落選",
-      "votes": 26564,
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "鈴木しんじ",
+      "name_kana": "すずき しんじ",
+      "age": 54,
+      "party": "未来進歩党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "長谷川たかこ",
+      "name_kana": "はせがわ たかこ",
+      "age": 52,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "杉浦しんいちろう",
+      "name_kana": "すぎうら しんいちろう",
+      "age": 29,
+      "party": "参政党",
+      "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

@@ -5,75 +5,42 @@
   "district_name": "大阪9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 5,
-  "processed_candidates": 5,
+  "last_updated": "2026-01-29T01:15:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "萩原佳",
       "name_kana": "はぎはら けい",
-      "age": 47,
+      "age": 48,
       "party": "日本維新の会",
-      "status": "新人",
-      "result": "当選",
+      "status": "前職",
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
       "name": "東田淳平",
       "name_kana": "ひがしだ じゅんぺい",
-      "age": 41,
+      "age": 43,
       "party": "自由民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": 62170,
       "processing": {
         "researched": true,
         "evaluated": true,
         "md_created": true,
-        "card_generated": false
+        "card_generated": true
       }
     },
     {
-      "name": "長崎由美子",
-      "name_kana": "ながさき ゆみこ",
-      "age": 68,
+      "name": "西尾慧吾",
+      "name_kana": "にしお けいご",
+      "age": 27,
       "party": "社会民主党",
       "status": "新人",
-      "result": "落選",
-      "votes": 27617,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "片岡真",
-      "name_kana": "かたおか まこと",
-      "age": 33,
-      "party": "参政党",
-      "status": "新人",
-      "result": "落選",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "磯部和哉",
-      "name_kana": "いそべ かずや",
-      "age": 52,
-      "party": "無所属",
-      "status": "新人",
-      "result": "落選",
       "processing": {
         "researched": true,
         "evaluated": true,

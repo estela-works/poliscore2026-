@@ -5,16 +5,16 @@
   "district_name": "大阪5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-29T02:15:00+09:00",
+  "total_candidates": 6,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "梅村聡",
       "name_kana": "うめむら さとし",
       "age": 49,
       "party": "日本維新の会",
-      "status": "新人",
+      "status": "前職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -38,11 +38,11 @@
       }
     },
     {
-      "name": "宮本岳志",
-      "name_kana": "みやもと たけし",
-      "age": 65,
+      "name": "湊隆介",
+      "name_kana": "みなと りゅうすけ",
+      "age": null,
       "party": "日本共産党",
-      "status": "前職",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -52,11 +52,39 @@
       }
     },
     {
-      "name": "石橋篤史",
-      "name_kana": "いしばし あつし",
-      "age": 45,
+      "name": "松山恵子",
+      "name_kana": "まつやま けいこ",
+      "age": null,
       "party": "参政党",
       "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "前田英倫",
+      "name_kana": "まえだ ひでのり",
+      "age": 50,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "杉田水脈",
+      "name_kana": "すぎた みお",
+      "age": 58,
+      "party": "自由民主党",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,

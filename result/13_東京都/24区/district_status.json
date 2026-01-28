@@ -5,64 +5,19 @@
   "district_name": "東京24区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:07:30.107676",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "last_updated": "2026-01-28T13:54:09.994274",
+  "total_candidates": 2,
+  "processed_candidates": 2,
   "note": "裏金問題の象徴的選挙区。萩生田光一は裏金2,728万円で自民非公認・無所属出馬も7選。有田芳生は統一教会キラーとして約7,500票差まで迫るも比例復活。",
   "candidates": [
     {
       "name": "萩生田光一",
       "name_kana": "はぎうだ こういち",
       "age": 61,
-      "party": "無所属→自由民主党",
+      "party": "自由民主党",
       "status": "前職",
       "result": "当選",
       "note": "裏金2,728万円不記載、統一教会問題。2025年自民復党・幹事長代行就任",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "有田芳生",
-      "name_kana": "ありた よしふ",
-      "age": 72,
-      "party": "中道改革連合",
-      "status": "新人",
-      "result": "比例復活",
-      "note": "元参議院議員2期、ジャーナリスト、統一教会問題の専門家",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "浦川祐輔",
-      "name_kana": "うらかわ ゆうすけ",
-      "age": 31,
-      "party": "国民民主党",
-      "status": "新人",
-      "result": "落選",
-      "note": "弁護士、弁護士法人エッグ代表、早稲田・慶應法科大学院",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "佐藤由美",
-      "name_kana": "さとう ゆみ",
-      "age": 52,
-      "party": "日本維新の会",
-      "status": "新人",
-      "result": "落選",
-      "note": "元都議、国民民主→教育無償化→維新と所属変更、英ブリストル大院",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -78,21 +33,6 @@
       "status": "新人",
       "result": "落選",
       "note": "会社員、米国カレッジ卒",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "畑尻文夫",
-      "name_kana": "はたじり あやお",
-      "age": 69,
-      "party": "無所属",
-      "status": "新人",
-      "result": "落選",
-      "note": "元学習塾経営、腐敗政治撤廃を訴え",
       "processing": {
         "researched": true,
         "evaluated": true,
