@@ -5,7 +5,7 @@
   "district_name": "東京14区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:25:00+09:00",
+  "last_updated": "2026-01-28T19:53:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "櫛渕万里",
       "name_kana": "くしぶち まり",
-      "age": 57,
+      "age": 58,
       "party": "れいわ新選組",
       "status": "前職",
       "proportional_rank": null,
