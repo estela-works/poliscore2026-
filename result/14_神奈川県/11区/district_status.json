@@ -3,16 +3,16 @@
   "prefecture_name": "神奈川県",
   "district_number": 11,
   "district_name": "神奈川11区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T17:20:00+09:00",
   "total_candidates": 3,
-  "processed_candidates": 3,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "小泉進次郎",
       "name_kana": "こいずみ しんじろう",
-      "age": 43,
+      "age": 44,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "為壮稔",
       "name_kana": "ためそう みのる",
-      "age": 71,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -38,16 +38,16 @@
       }
     },
     {
-      "name": "初鹿野裕樹",
-      "name_kana": "はじかの ゆうき",
-      "age": 47,
+      "name": "前林こうへい",
+      "name_kana": "まえばやし こうへい",
+      "age": 40,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }

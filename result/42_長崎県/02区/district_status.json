@@ -5,14 +5,14 @@
   "district_name": "長崎2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T17:18:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "加藤竜祥",
       "name_kana": "かとう りゅうしょう",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "山田勝彦",
       "name_kana": "やまだ かつひこ",
-      "age": 45,
+      "age": 46,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "高木聡子",
       "name_kana": "たかき さとこ",
-      "age": 42,
+      "age": 44,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -51,19 +51,5 @@
         "card_generated": false
       }
     },
-    {
-      "name": "横田朋大",
-      "name_kana": "よこた ともひろ",
-      "age": 37,
-      "party": "日本維新の会",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    }
   ]
 }

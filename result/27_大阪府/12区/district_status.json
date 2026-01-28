@@ -3,11 +3,11 @@
   "prefecture_name": "大阪府",
   "district_number": 12,
   "district_name": "大阪12区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T12:05:26.436884",
+  "last_updated": "2026-01-28T13:15:00.000000",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "藤田文武",
@@ -54,14 +54,14 @@
     {
       "name": "樽床伸二",
       "name_kana": "たるとこ しんじ",
-      "age": null,
+      "age": 66,
       "party": "中道改革連合",
       "status": "元職",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
