@@ -3,16 +3,16 @@
   "prefecture_name": "大阪府",
   "district_number": 14,
   "district_name": "大阪14区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-27T00:00:00+09:00",
-  "total_candidates": 4,
-  "processed_candidates": 4,
+  "last_updated": "2026-01-28T17:40:00+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 2,
   "candidates": [
     {
       "name": "青柳仁士",
       "name_kana": "あおやぎ ひとし",
-      "age": 45,
+      "age": 47,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -24,23 +24,9 @@
       }
     },
     {
-      "name": "塩川憲史",
-      "name_kana": "しおかわ けんし",
-      "age": 35,
-      "party": "自由民主党",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
       "name": "内藤耕一",
       "name_kana": "ないとう こういち",
-      "age": 50,
+      "age": 51,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -52,16 +38,16 @@
       }
     },
     {
-      "name": "酒井らんな",
-      "name_kana": "さかい らんな",
-      "age": 30,
-      "party": "参政党",
+      "name": "おだちもとゆき",
+      "name_kana": "おだち もとゆき",
+      "age": 62,
+      "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
+        "researched": false,
+        "evaluated": false,
+        "md_created": false,
         "card_generated": false
       }
     }
