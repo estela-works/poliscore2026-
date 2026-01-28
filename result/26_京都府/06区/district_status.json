@@ -3,23 +3,24 @@
   "prefecture_name": "京都府",
   "district_number": 6,
   "district_name": "京都6区",
-  "status": "identified",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2025-01-27T00:00:00+09:00",
+  "last_updated": "2026-01-28T00:00:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 0,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "山井和則",
       "name_kana": "やまのい かずのり",
       "age": 62,
-      "party": "中道改革連合",
+      "party": "立憲民主党",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "当選",
+      "votes": 97542,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -29,11 +30,12 @@
       "age": 44,
       "party": "自由民主党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
+      "votes": 65152,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -43,11 +45,11 @@
       "age": 53,
       "party": "日本維新の会",
       "status": "前職",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -57,11 +59,11 @@
       "age": 59,
       "party": "参政党",
       "status": "元職",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -71,11 +73,11 @@
       "age": 38,
       "party": "日本共産党",
       "status": "新人",
-      "proportional_rank": null,
+      "result": "落選",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }
