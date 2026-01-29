@@ -3,9 +3,10 @@
   "prefecture_name": "神奈川県",
   "district_number": 4,
   "district_name": "神奈川4区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-29T20:05:57+09:00",
+  "last_updated": "2026-01-30T16:44:00+09:00",
+  "note": "早稲田夕季.mdの読み方を「ゆうき」→「ゆき」に修正が必要",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [

@@ -5,7 +5,7 @@
   "district_name": "兵庫11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:02:42+09:00",
+  "last_updated": "2026-01-30T16:27:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -103,7 +103,7 @@
     },
     {
       "name": "苦瓜一成",
-      "name_kana": "にがうりいっせい",
+      "name_kana": "にがうりかずしげ",
       "age": 72,
       "party": "日本共産党",
       "status": "新人",

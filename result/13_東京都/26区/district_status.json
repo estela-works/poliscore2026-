@@ -5,13 +5,13 @@
   "district_name": "東京26区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:53:12+09:00",
+  "last_updated": "2026-01-30T16:31:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "松原仁",
-      "name_kana": "",
+      "name_kana": "まつばら じん",
       "age": 69,
       "party": "無所属",
       "status": "前職",
@@ -34,7 +34,7 @@
     },
     {
       "name": "今岡植",
-      "name_kana": "",
+      "name_kana": "いまおか うえき",
       "age": 37,
       "party": "自由民主党",
       "status": "新人",
@@ -57,7 +57,7 @@
     },
     {
       "name": "坂元悠紀",
-      "name_kana": "",
+      "name_kana": "さかもと ゆうき",
       "age": 45,
       "party": "国民民主党",
       "status": "新人",
@@ -80,7 +80,7 @@
     },
     {
       "name": "菅沼桂子",
-      "name_kana": "",
+      "name_kana": "すがぬま けいこ",
       "age": 53,
       "party": "参政党",
       "status": "新人",
@@ -103,7 +103,7 @@
     },
     {
       "name": "松井佳苗子",
-      "name_kana": "",
+      "name_kana": "まつい かなえこ",
       "age": 47,
       "party": "日本共産党",
       "status": "新人",
@@ -126,7 +126,7 @@
     },
     {
       "name": "宇佐美登",
-      "name_kana": "",
+      "name_kana": "うさみ のぼる",
       "age": 58,
       "party": "チームみらい",
       "status": "元職",

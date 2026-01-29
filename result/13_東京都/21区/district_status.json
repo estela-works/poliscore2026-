@@ -5,7 +5,7 @@
   "district_name": "東京21区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:02:16+09:00",
+  "last_updated": "2026-01-30T16:34:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -103,8 +103,8 @@
     },
     {
       "name": "矢田一久",
-      "name_kana": "やだかずひさ",
-      "age": 34,
+      "name_kana": "やたかずひさ",
+      "age": 35,
       "party": "減税日本・ゆうこく連合",
       "status": "新人",
       "proportional_rank": null,

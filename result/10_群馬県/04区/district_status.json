@@ -5,7 +5,7 @@
   "district_name": "群馬4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:04:37+09:00",
+  "last_updated": "2026-01-30T16:32:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -25,7 +25,7 @@
     {
       "name": "山田博規",
       "name_kana": "やまだ ひろき",
-      "age": 66,
+      "age": 67,
       "party": "中道改革連合",
       "status": "新人",
       "processing": {
