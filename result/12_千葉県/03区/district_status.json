@@ -5,7 +5,8 @@
   "district_name": "千葉3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:30:27+09:00",
+  "last_updated": "2026-01-30T13:49:00+09:00",
+  "note": "渡部公美子.mdの読み方を「わたべ くみこ」→「わたなべ くみこ」に修正が必要",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -80,7 +81,7 @@
     },
     {
       "name": "渡部公美子",
-      "name_kana": "わたべ くみこ",
+      "name_kana": "わたなべ くみこ",
       "age": 42,
       "party": "日本共産党",
       "status": "新人",

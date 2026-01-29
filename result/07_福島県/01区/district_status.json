@@ -5,7 +5,7 @@
   "district_name": "福島1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:49:34+09:00",
+  "last_updated": "2026-01-30T15:54:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -48,7 +48,7 @@
     },
     {
       "name": "亀岡偉一",
-      "name_kana": "かめおかいいち",
+      "name_kana": "かめおかよしかず",
       "age": 37,
       "party": "無所属",
       "status": "新人",

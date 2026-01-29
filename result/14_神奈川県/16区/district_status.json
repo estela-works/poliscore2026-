@@ -5,14 +5,14 @@
   "district_name": "神奈川16区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:31:25+09:00",
+  "last_updated": "2026-01-30T14:50:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
-  "note": "与野党一騎打ち選挙区。候補者修正：伊左次美江、山本瑞恵、吉村勝男は2026年衆院選では立候補していない。",
+  "note": "佐藤主迪.mdの読み方を「さとう かずみち」→「さとう まさし」に修正が必要",
   "candidates": [
     {
       "name": "佐藤主迪",
-      "name_kana": "さとう かずみち",
+      "name_kana": "さとう まさし",
       "age": 31,
       "party": "自由民主党",
       "status": "新人",

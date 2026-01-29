@@ -5,7 +5,7 @@
   "district_name": "沖縄2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:48:41+09:00",
+  "last_updated": "2026-01-30T15:34:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "吉田悠里",
-      "name_kana": "よしだ ゆり",
+      "name_kana": "よしだ ゆうり",
       "age": 40,
       "party": "参政党",
       "status": "新人",

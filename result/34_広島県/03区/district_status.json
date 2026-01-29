@@ -5,7 +5,7 @@
   "district_name": "広島3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:30:08+09:00",
+  "last_updated": "2026-01-30T13:20:29+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "東克哉",
-      "name_kana": "ひがしかつや",
+      "name_kana": "あずまかつや",
       "age": 44,
       "party": "中道改革連合",
       "status": "前職",
@@ -57,8 +57,8 @@
     },
     {
       "name": "玉田憲勲",
-      "name_kana": "たまだのりくに",
-      "age": 67,
+      "name_kana": "たまだのりたか",
+      "age": 68,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,

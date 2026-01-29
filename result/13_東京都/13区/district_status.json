@@ -5,13 +5,14 @@
   "district_name": "東京13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:38:26+09:00",
+  "last_updated": "2026-01-30T14:16:00+09:00",
+  "note": "土田慎.md・森洋介.md・加地敏子.md・沢田真吾.mdの読み方を追記が必要",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "土田慎",
-      "name_kana": "",
+      "name_kana": "つちだ しん",
       "age": 35,
       "party": "自由民主党",
       "status": "前職",
@@ -34,7 +35,7 @@
     },
     {
       "name": "森洋介",
-      "name_kana": "",
+      "name_kana": "もり ようすけ",
       "age": 31,
       "party": "国民民主党",
       "status": "前職",
@@ -57,7 +58,7 @@
     },
     {
       "name": "加地敏子",
-      "name_kana": "",
+      "name_kana": "かじ としこ",
       "age": 50,
       "party": "参政党",
       "status": "新人",
@@ -80,7 +81,7 @@
     },
     {
       "name": "沢田真吾",
-      "name_kana": "",
+      "name_kana": "さわだ しんご",
       "age": 40,
       "party": "日本共産党",
       "status": "新人",

@@ -5,10 +5,10 @@
   "district_name": "京都1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:23:40+09:00",
+  "last_updated": "2026-01-30T14:07:00+09:00",
   "total_candidates": 8,
   "processed_candidates": 8,
-  "note": "候補者追加：谷口青人(参政党)、桂隆俊(国民民主党)、鎌野敏徳(日本共産党)、佐々木隆吏(日本維新の会)、浜田聡(諸派)を追加。",
+  "note": "堀場幸子.mdのステータスを「前職」→「元職」、谷口青人.mdの読み方を「はると」→「あおひと」、佐々木隆吏.mdの読み方を「りゅうり」→「たかし」、浜田聡.mdの党派を「日本自由党」→「諸派」に修正が必要",
   "candidates": [
     {
       "name": "勝目康",
@@ -38,7 +38,7 @@
       "name_kana": "ほりば さちこ",
       "age": 46,
       "party": "チームみらい",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -81,7 +81,7 @@
     },
     {
       "name": "谷口青人",
-      "name_kana": "たにぐち はると",
+      "name_kana": "たにぐち あおひと",
       "age": 47,
       "party": "参政党",
       "status": "新人",
@@ -150,7 +150,7 @@
     },
     {
       "name": "佐々木隆吏",
-      "name_kana": "ささき りゅうり",
+      "name_kana": "ささき たかし",
       "age": 43,
       "party": "日本維新の会",
       "status": "新人",

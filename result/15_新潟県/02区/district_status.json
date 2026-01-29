@@ -5,7 +5,7 @@
   "district_name": "新潟2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:43:48+09:00",
+  "last_updated": "2026-01-30T14:42:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "国定勇人",
-      "name_kana": "くにさだはやと",
+      "name_kana": "くにさだいさと",
       "age": 53,
       "party": "自由民主党",
       "status": "前職",

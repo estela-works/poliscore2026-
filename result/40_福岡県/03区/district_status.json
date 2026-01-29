@@ -5,7 +5,7 @@
   "district_name": "福岡3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:28:12+09:00",
+  "last_updated": "2026-01-30T15:20:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "天野浩",
-      "name_kana": "あまの ひろし",
+      "name_kana": "あまの こう",
       "age": 39,
       "party": "日本維新の会",
       "status": "新人",
@@ -55,7 +55,7 @@
     },
     {
       "name": "仁戸田元氣",
-      "name_kana": "にとだ げんき",
+      "name_kana": "にえだ げんき",
       "age": 46,
       "party": "中道改革連合",
       "status": "新人",

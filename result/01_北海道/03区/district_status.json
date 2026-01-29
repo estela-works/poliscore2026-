@@ -5,7 +5,7 @@
   "district_name": "北海道3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:41:28+09:00",
+  "last_updated": "2026-01-30T14:40:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -55,7 +55,7 @@
     },
     {
       "name": "中島良樹",
-      "name_kana": "なかじま よしき",
+      "name_kana": "なかしま よしき",
       "age": 47,
       "party": "参政党",
       "status": "新人",

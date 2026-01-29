@@ -5,14 +5,14 @@
   "district_name": "埼玉16区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:26:52+09:00",
+  "last_updated": "2026-01-30T13:37:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "土屋品子",
       "name_kana": "つちや しなこ",
-      "age": 73,
+      "age": 74,
       "party": "自由民主党",
       "status": "前職",
       "processing": {
