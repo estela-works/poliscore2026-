@@ -5,7 +5,7 @@
   "district_name": "福岡2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T18:57:32+09:00",
+  "last_updated": "2026-01-30T12:48:34+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -21,6 +21,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 21
       }
     },
     {
@@ -35,6 +44,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
       }
     },
     {
@@ -49,6 +67,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
       }
     },
     {
@@ -63,6 +90,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 16
       }
     }
   ]

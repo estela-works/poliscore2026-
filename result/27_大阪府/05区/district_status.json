@@ -5,14 +5,14 @@
   "district_name": "大阪5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T02:15:00+09:00",
+  "last_updated": "2026-01-29T12:43:32.284618",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "梅村聡",
       "name_kana": "うめむら さとし",
-      "age": 49,
+      "age": 50,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -21,12 +21,21 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 24
       }
     },
     {
       "name": "大石あきこ",
       "name_kana": "おおいし あきこ",
-      "age": 47,
+      "age": 48,
       "party": "れいわ新選組",
       "status": "前職",
       "proportional_rank": null,
@@ -35,12 +44,21 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
       }
     },
     {
       "name": "湊隆介",
       "name_kana": "みなと りゅうすけ",
-      "age": null,
+      "age": 42,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -49,12 +67,21 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 11
       }
     },
     {
       "name": "松山恵子",
       "name_kana": "まつやま けいこ",
-      "age": null,
+      "age": 52,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -63,12 +90,21 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 11
       }
     },
     {
       "name": "前田英倫",
       "name_kana": "まえだ ひでのり",
-      "age": 50,
+      "age": 51,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -77,6 +113,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 13
       }
     },
     {
@@ -91,6 +136,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 1,
+        "consistency": 3,
+        "ethics": 1,
+        "total": 11
       }
     }
   ]

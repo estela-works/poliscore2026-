@@ -21,6 +21,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
       }
     },
     {
@@ -35,6 +44,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 1,
+        "ethics": 3,
+        "total": 16
       }
     },
     {
@@ -49,6 +67,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 10
       }
     },
     {
@@ -63,6 +90,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 13
       }
     }
   ]

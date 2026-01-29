@@ -5,7 +5,7 @@
   "district_name": "埼玉15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T11:00:54.615973",
+  "last_updated": "2026-01-30T12:28:44+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -20,6 +20,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 16
       }
     },
     {
@@ -33,6 +42,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
       }
     },
     {
@@ -47,6 +65,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 18
       }
     },
     {
@@ -61,6 +88,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 8
       }
     }
   ]

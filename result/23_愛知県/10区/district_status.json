@@ -5,7 +5,7 @@
   "district_name": "愛知10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T18:58:45+09:00",
+  "last_updated": "2026-01-30T12:44:13+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -21,6 +21,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 12
       }
     },
     {
@@ -35,6 +44,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 11
       }
     },
     {
@@ -49,6 +67,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 13
       }
     },
     {
@@ -63,6 +90,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 12
       }
     },
     {
@@ -77,6 +113,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 9
       }
     }
   ]

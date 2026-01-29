@@ -22,6 +22,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
       }
     },
     {
@@ -36,6 +45,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 20
       }
     }
   ]

@@ -5,7 +5,7 @@
   "district_name": "京都6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T12:13:26.199237",
+  "last_updated": "2026-01-30T12:52:34+09:00",
   "note": "園崎弘道.mdの年齢が44歳となっているが、選挙時点（2026年2月8日）では45歳が正しい。1980年3月23日生まれのため。",
   "total_candidates": 4,
   "processed_candidates": 4,
@@ -23,6 +23,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 28
       }
     },
     {
@@ -38,6 +47,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
       }
     },
     {
@@ -52,6 +70,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 12
       }
     },
     {
@@ -66,6 +93,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 1,
+        "total": 9
       }
     }
   ]

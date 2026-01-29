@@ -5,7 +5,7 @@
   "district_name": "栃木3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:06:43+09:00",
+  "last_updated": "2026-01-30T12:47:27+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -22,6 +22,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 1,
+        "consistency": 4,
+        "ethics": 1,
+        "total": 18
       }
     },
     {
@@ -37,6 +46,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 17
       }
     },
     {
@@ -52,6 +70,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
       }
     }
   ]

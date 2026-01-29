@@ -49,6 +49,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
       }
     }
   ]

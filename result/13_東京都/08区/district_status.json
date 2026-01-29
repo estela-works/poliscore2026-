@@ -21,6 +21,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 21
       }
     },
     {
@@ -35,6 +44,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 20
       }
     },
     {
@@ -49,6 +67,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 9
       }
     },
     {
@@ -63,6 +90,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 9
       }
     },
     {
@@ -77,6 +113,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 13
       }
     },
     {
@@ -91,6 +136,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 13
       }
     },
     {
@@ -105,6 +159,15 @@
         "evaluated": true,
         "md_created": true,
         "card_generated": false
+      },
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 8
       }
     }
   ]
