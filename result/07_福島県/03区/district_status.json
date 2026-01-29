@@ -5,8 +5,7 @@
   "district_name": "福島3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:46:34.350571",
-  "note": "金山屯.mdの読みを「かなやま たむろ」→「かなやま じゅん」に修正が必要",
+  "last_updated": "2026-01-30T19:02:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -40,7 +39,7 @@
     },
     {
       "name": "金山屯",
-      "name_kana": "かなやま たむろ",
+      "name_kana": "かなやま じゅん",
       "age": 85,
       "party": "無所属",
       "status": "新人",

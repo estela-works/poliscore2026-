@@ -5,7 +5,7 @@
   "district_name": "広島5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T22:08:00+09:00",
+  "last_updated": "2026-01-30T18:22:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "山本深",
-      "name_kana": "やまもとふかし",
+      "name_kana": "やまもと しん",
       "age": 40,
       "party": "自由民主党",
       "status": "新人",

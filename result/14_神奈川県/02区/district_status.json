@@ -5,13 +5,13 @@
   "district_name": "神奈川2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T23:32:30+09:00",
+  "last_updated": "2026-01-30T20:04:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "新田章文",
-      "name_kana": "にった あきふみ",
+      "name_kana": "にった しょうぶん",
       "age": 44,
       "party": "自由民主党",
       "status": "新人",

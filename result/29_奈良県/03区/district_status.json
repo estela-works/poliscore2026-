@@ -5,7 +5,7 @@
   "district_name": "奈良3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T23:52:00+09:00",
+  "last_updated": "2026-01-30T20:25:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -77,7 +77,7 @@
     },
     {
       "name": "八木宏昌",
-      "name_kana": "やぎひろまさ",
+      "name_kana": "やぎ ひろあき",
       "age": 65,
       "party": "無所属",
       "status": "新人",

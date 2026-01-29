@@ -5,7 +5,7 @@
   "district_name": "神奈川10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T23:25:00+09:00",
+  "last_updated": "2026-01-30T19:24:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -80,7 +80,7 @@
     },
     {
       "name": "中野智裕",
-      "name_kana": "なかの ともひろ",
+      "name_kana": "なかの としひろ",
       "age": 67,
       "party": "日本共産党",
       "status": "新人",

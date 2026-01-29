@@ -5,7 +5,7 @@
   "district_name": "埼玉11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T23:41:30+09:00",
+  "last_updated": "2026-01-30T20:23:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -83,7 +83,7 @@
     },
     {
       "name": "布施卓人",
-      "name_kana": "ふせ たくと",
+      "name_kana": "ふせ たかひと",
       "age": 48,
       "party": "国民民主党",
       "status": "新人",

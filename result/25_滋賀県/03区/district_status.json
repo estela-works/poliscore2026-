@@ -5,7 +5,7 @@
   "district_name": "滋賀3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T22:23:00+09:00",
+  "last_updated": "2026-01-30T18:29:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -103,7 +103,7 @@
     },
     {
       "name": "安持なるみ",
-      "name_kana": "あもち なるみ",
+      "name_kana": "やすもち なるみ",
       "age": 37,
       "party": "れいわ新選組",
       "status": "新人",

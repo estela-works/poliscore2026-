@@ -5,7 +5,7 @@
   "district_name": "秋田1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T22:21:30+09:00",
+  "last_updated": "2026-01-30T18:52:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "鈴木知",
-      "name_kana": "すずき さとる",
+      "name_kana": "すずき さとし",
       "age": 49,
       "party": "日本共産党",
       "status": "新人",

@@ -5,7 +5,7 @@
   "district_name": "新潟1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T22:17:00+09:00",
+  "last_updated": "2026-01-30T18:50:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "内山航",
-      "name_kana": "うちやまわたる",
+      "name_kana": "うちやま こう",
       "age": 44,
       "party": "自由民主党",
       "status": "新人",

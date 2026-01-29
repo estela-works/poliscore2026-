@@ -5,14 +5,14 @@
   "district_name": "兵庫8区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T11:52:56+09:00",
+  "last_updated": "2026-01-30T20:26:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "徳安淳子",
       "name_kana": "とくやす じゅんこ",
-      "age": 62,
+      "age": 64,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,

@@ -5,13 +5,13 @@
   "district_name": "山口1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T11:43:18+09:00",
+  "last_updated": "2026-01-30T20:27:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "高村正大",
-      "name_kana": "たかむら・まさひろ",
+      "name_kana": "こうむら まさひろ",
       "age": 55,
       "party": "自由民主党",
       "status": "前職",

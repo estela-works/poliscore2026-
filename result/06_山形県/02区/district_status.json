@@ -5,7 +5,7 @@
   "district_name": "山形2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T11:33:07+09:00",
+  "last_updated": "2026-01-30T20:06:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "岩本康嗣",
-      "name_kana": "いわもと やすつぐ",
+      "name_kana": "いわもと こうじ",
       "age": 60,
       "party": "日本共産党",
       "status": "新人",

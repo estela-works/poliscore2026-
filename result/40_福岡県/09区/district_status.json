@@ -5,10 +5,9 @@
   "district_name": "福岡9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:46:34.413530",
+  "last_updated": "2026-01-30T18:21:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
-  "note": "三原朝利.mdの読みを「みはら ともとし」→「みはら あさと」に修正が必要",
   "candidates": [
     {
       "name": "緒方林太郎",
@@ -34,7 +33,7 @@
     },
     {
       "name": "三原朝利",
-      "name_kana": "みはら ともとし",
+      "name_kana": "みはら あさと",
       "age": 48,
       "party": "自由民主党",
       "status": "新人",

@@ -5,7 +5,7 @@
   "district_name": "福島2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T22:26:00+09:00",
+  "last_updated": "2026-01-30T18:30:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -53,7 +53,7 @@
     },
     {
       "name": "大山里幸子",
-      "name_kana": "おおやまり さちこ",
+      "name_kana": "おおやま りさこ",
       "age": 52,
       "party": "参政党",
       "status": "新人",

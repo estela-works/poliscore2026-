@@ -5,7 +5,7 @@
   "district_name": "愛知13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T23:18:30+09:00",
+  "last_updated": "2026-01-30T20:05:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "牛田清博",
-      "name_kana": "うしだ きよひろ",
+      "name_kana": "うした きよひろ",
       "age": 67,
       "party": "日本共産党",
       "status": "新人",

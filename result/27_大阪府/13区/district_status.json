@@ -5,7 +5,7 @@
   "district_name": "大阪13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T11:52:12+09:00",
+  "last_updated": "2026-01-30T20:16:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -76,7 +76,7 @@
       }
     },
     {
-      "name": "宝井照美",
+      "name": "宝井晃美",
       "name_kana": "たからい てるみ",
       "age": 62,
       "party": "日本共産党",
@@ -121,7 +121,7 @@
     },
     {
       "name": "立岡昭是",
-      "name_kana": "たておか あきよし",
+      "name_kana": "たつおか あきつな",
       "age": 32,
       "party": "参政党",
       "status": "新人",

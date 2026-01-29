@@ -5,8 +5,7 @@
   "district_name": "茨城6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:46:34.353416",
-  "note": "中村吉男.mdの読みを「なかむら よしお」→「なかむら きちお」に修正が必要",
+  "last_updated": "2026-01-30T18:37:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -40,7 +39,7 @@
     },
     {
       "name": "中村吉男",
-      "name_kana": "なかむらよしお",
+      "name_kana": "なかむら きちお",
       "age": 55,
       "party": "無所属",
       "status": "新人",
