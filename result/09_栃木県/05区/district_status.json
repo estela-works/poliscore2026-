@@ -5,14 +5,14 @@
   "district_name": "栃木5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:00:00.000000",
+  "last_updated": "2026-01-29T23:15:30+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "茂木敏充",
       "name_kana": "もてぎ としみつ",
-      "age": 69,
+      "age": 70,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "岡村恵子",
       "name_kana": "おかむら けいこ",
-      "age": 71,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "寺田和史",
       "name_kana": "てらだ かずふみ",
-      "age": 46,
+      "age": 47,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,

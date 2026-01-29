@@ -3,11 +3,11 @@
   "prefecture_name": "福岡県",
   "district_number": 10,
   "district_name": "福岡10区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T23:45:00.000000",
+  "last_updated": "2026-01-29T06:45:00+09:00",
   "total_candidates": 5,
-  "processed_candidates": 4,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "城井崇",
@@ -59,9 +59,9 @@
       "party": "日本共産党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },

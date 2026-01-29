@@ -5,14 +5,14 @@
   "district_name": "大阪4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:23:34.818016",
+  "last_updated": "2026-01-29T23:53:30+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "美延映夫",
       "name_kana": "みのべ てるお",
-      "age": 63,
+      "age": 64,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "中山泰秀",
       "name_kana": "なかやま やすひで",
-      "age": 54,
+      "age": 55,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,

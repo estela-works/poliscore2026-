@@ -3,11 +3,11 @@
   "prefecture_name": "鹿児島県",
   "district_number": 1,
   "district_name": "鹿児島1区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:20:14.458602",
-  "total_candidates": 2,
-  "processed_candidates": 2,
+  "last_updated": "2026-01-29T03:30:00.000000",
+  "total_candidates": 4,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "川内博史",
@@ -29,6 +29,34 @@
       "age": 46,
       "party": "自由民主党",
       "status": "前職",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "小山慎之介",
+      "name_kana": "こやま しんのすけ",
+      "age": 42,
+      "party": "日本共産党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "牧野俊一",
+      "name_kana": "まきの しゅんいち",
+      "age": 40,
+      "party": "参政党",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

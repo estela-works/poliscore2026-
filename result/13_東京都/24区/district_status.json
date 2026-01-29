@@ -5,15 +5,15 @@
   "district_name": "東京24区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:54:09.994274",
-  "total_candidates": 2,
-  "processed_candidates": 2,
+  "last_updated": "2026-01-29T20:32:34+09:00",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "note": "裏金問題の象徴的選挙区。萩生田光一は裏金2,728万円で自民非公認・無所属出馬も7選。有田芳生は統一教会キラーとして約7,500票差まで迫るも比例復活。",
   "candidates": [
     {
       "name": "萩生田光一",
       "name_kana": "はぎうだ こういち",
-      "age": 61,
+      "age": 62,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -28,11 +28,53 @@
     {
       "name": "与倉さゆり",
       "name_kana": "よくら さゆり",
-      "age": 40,
+      "age": 41,
       "party": "参政党",
       "status": "新人",
       "result": "落選",
       "note": "会社員、米国カレッジ卒",
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "細貝悠",
+      "name_kana": "ほそがい ゆう",
+      "age": 32,
+      "party": "中道改革連合",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "細屋椋",
+      "name_kana": "ほそや りょう",
+      "age": 30,
+      "party": "国民民主党",
+      "status": "新人",
+      "proportional_rank": null,
+      "processing": {
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
+        "card_generated": false
+      }
+    },
+    {
+      "name": "深田萌絵",
+      "name_kana": "ふかだ もえ",
+      "age": 47,
+      "party": "無所属",
+      "status": "新人",
+      "proportional_rank": null,
       "processing": {
         "researched": true,
         "evaluated": true,

@@ -5,7 +5,7 @@
   "district_name": "徳島2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:45:00+09:00",
+  "last_updated": "2026-01-29T19:03:33+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -54,7 +54,7 @@
     {
       "name": "浜共生",
       "name_kana": "はまともお",
-      "age": 43,
+      "age": 44,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

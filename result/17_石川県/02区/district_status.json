@@ -5,7 +5,7 @@
   "district_name": "石川2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:25:00+09:00",
+  "last_updated": "2026-01-29T19:36:33+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "坂本浩",
       "name_kana": "さかもと ひろし",
-      "age": 61,
+      "age": 62,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

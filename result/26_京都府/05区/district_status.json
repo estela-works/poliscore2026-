@@ -5,14 +5,14 @@
   "district_name": "京都5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:39:00+09:00",
+  "last_updated": "2026-01-29T21:51:30+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "本田太郎",
       "name_kana": "ほんだ たろう",
-      "age": 51,
+      "age": 52,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "山内健",
       "name_kana": "やまうち けん",
-      "age": 57,
+      "age": 58,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

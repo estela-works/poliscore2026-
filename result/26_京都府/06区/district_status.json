@@ -3,16 +3,16 @@
   "prefecture_name": "京都府",
   "district_number": 6,
   "district_name": "京都6区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:32:23.241951",
+  "last_updated": "2026-01-29T06:45:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "山井和則",
       "name_kana": "やまのい かずのり",
-      "age": 62,
+      "age": 64,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "園崎弘道",
       "name_kana": "そのざき ひろみち",
-      "age": 44,
+      "age": 45,
       "party": "自由民主党",
       "status": "新人",
       "result": "落選",
@@ -42,7 +42,7 @@
     {
       "name": "上條亮一",
       "name_kana": "かみじょう りょういち",
-      "age": 38,
+      "age": 39,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",

@@ -5,14 +5,14 @@
   "district_name": "群馬2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:48:01.566089",
+  "last_updated": "2026-01-29T23:29:30+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "井野俊郎",
       "name_kana": "いの としろう",
-      "age": 44,
+      "age": 46,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "石関貴史",
       "name_kana": "いしぜき たかし",
-      "age": 52,
+      "age": 53,
       "party": "無所属",
       "status": "元職",
       "result": "落選",
@@ -42,7 +42,7 @@
     {
       "name": "高橋保",
       "name_kana": "たかはし たもつ",
-      "age": 67,
+      "age": 68,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",
@@ -56,8 +56,8 @@
     },
     {
       "name": "原和隆",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "はら かずたか",
+      "age": 56,
       "party": "国民民主党",
       "status": "新人",
       "result": null,
@@ -71,8 +71,8 @@
     },
     {
       "name": "熊井戸園子",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "くまいど そのこ",
+      "age": 57,
       "party": "参政党",
       "status": "新人",
       "result": null,

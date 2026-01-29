@@ -3,11 +3,11 @@
   "prefecture_name": "長野県",
   "district_number": 2,
   "district_name": "長野2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:50:38.449707",
+  "last_updated": "2026-01-29T20:54:57+09:00",
   "total_candidates": 4,
-  "processed_candidates": 2,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "下条みつ",
@@ -42,7 +42,7 @@
     {
       "name": "竹下博善",
       "name_kana": "たけした ひろよし",
-      "age": 42,
+      "age": 43,
       "party": "参政党",
       "status": "新人",
       "processing": {

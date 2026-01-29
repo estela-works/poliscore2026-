@@ -3,11 +3,11 @@
   "prefecture_name": "山形県",
   "district_number": 2,
   "district_name": "山形2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T00:00:00.000000",
+  "last_updated": "2026-01-29T00:10:00.000000",
   "total_candidates": 3,
-  "processed_candidates": 2,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "鈴木憲和",
@@ -38,16 +38,16 @@
       }
     },
     {
-      "name": "岩本孝司",
-      "name_kana": "いわもと こうじ",
+      "name": "岩本康嗣",
+      "name_kana": "いわもと やすつぐ",
       "age": 60,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

@@ -3,16 +3,16 @@
   "prefecture_name": "大阪府",
   "district_number": 2,
   "district_name": "大阪2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:44:49.355721",
+  "last_updated": "2026-01-29T20:48:47+09:00",
   "total_candidates": 4,
-  "processed_candidates": 2,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "守島正",
       "name_kana": "もりしま ただし",
-      "age": 43,
+      "age": 44,
       "party": "無所属",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "小川陽太",
       "name_kana": "おがわ ようた",
-      "age": 47,
+      "age": 48,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -39,29 +39,29 @@
     },
     {
       "name": "高見亮",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "たかみ りょう",
+      "age": 47,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
     {
       "name": "石橋篤史",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "いしばし あつし",
+      "age": 47,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

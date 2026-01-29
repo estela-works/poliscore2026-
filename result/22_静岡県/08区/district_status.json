@@ -3,11 +3,11 @@
   "prefecture_name": "静岡県",
   "district_number": 8,
   "district_name": "静岡8区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:50:38.450655",
+  "last_updated": "2026-01-29T06:45:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "note": "塩谷立（元文科相）の裏金問題・離党を受けて自民は稲葉大輔を急遽擁立。",
   "candidates": [
     {

@@ -5,13 +5,13 @@
   "district_name": "神奈川13区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:04:00+09:00",
+  "last_updated": "2026-01-29T19:40:30+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "太栄志",
-      "name_kana": "たい えいじ",
+      "name_kana": "ふとり ひでし",
       "age": 48,
       "party": "中道改革連合",
       "status": "前職",

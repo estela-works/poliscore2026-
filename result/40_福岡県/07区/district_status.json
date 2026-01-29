@@ -5,14 +5,14 @@
   "district_name": "福岡7区",
   "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T16:15:13.523407",
+  "last_updated": "2026-01-29T19:20:52+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "藤丸敏",
       "name_kana": "ふじまるさとし",
-      "age": 64,
+      "age": 66,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -25,8 +25,8 @@
     },
     {
       "name": "亀田晃尚",
-      "name_kana": "かめだあきなお",
-      "age": 43,
+      "name_kana": "かめだあきひさ",
+      "age": 54,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,

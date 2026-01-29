@@ -5,14 +5,14 @@
   "district_name": "埼玉4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:48:01.572936",
+  "last_updated": "2026-01-29T23:20:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "穂坂泰",
       "name_kana": "ほさか やすし",
-      "age": 50,
+      "age": 51,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "岸田光広",
       "name_kana": "きしだ みつひろ",
-      "age": 57,
+      "age": 58,
       "party": "国民民主党",
       "status": "前職",
       "result": "比例復活",
@@ -42,7 +42,7 @@
     {
       "name": "工藤薫",
       "name_kana": "くどう かおる",
-      "age": 74,
+      "age": 76,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",
@@ -55,15 +55,15 @@
       }
     },
     {
-      "name": "伊勢田みちこ",
-      "name_kana": "いせだ みちこ",
+      "name": "伊勢田享子",
+      "name_kana": "いせだ きょうこ",
       "age": 48,
       "party": "日本維新の会",
       "status": "新人",
       "processing": {
         "researched": true,
         "evaluated": true,
-        "md_created": true,
+        "md_created": false,
         "card_generated": false
       }
     }

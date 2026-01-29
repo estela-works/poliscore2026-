@@ -5,14 +5,14 @@
   "district_name": "埼玉5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:45:00.000000",
+  "last_updated": "2026-01-29T19:16:40+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "枝野幸男",
       "name_kana": "えだの ゆきお",
-      "age": 60,
+      "age": 61,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "井原ゆたか",
       "name_kana": "いはら ゆたか",
-      "age": null,
+      "age": 43,
       "party": "自由民主党",
       "status": "新人",
       "processing": {

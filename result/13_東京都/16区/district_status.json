@@ -3,11 +3,11 @@
   "prefecture_name": "東京都",
   "district_number": 16,
   "district_name": "東京16区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:40:24.759468",
+  "last_updated": "2026-01-29T20:31:47+09:00",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "大西洋平",
@@ -53,14 +53,14 @@
     },
     {
       "name": "村上剛",
-      "name_kana": "むらかみ つよし",
+      "name_kana": "むらかみ たけし",
       "age": 44,
       "party": "参政党",
       "status": "新人",
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     }

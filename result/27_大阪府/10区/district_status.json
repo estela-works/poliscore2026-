@@ -3,11 +3,11 @@
   "prefecture_name": "大阪府",
   "district_number": 10,
   "district_name": "大阪10区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T23:02:00+09:00",
+  "last_updated": "2026-01-29T06:45:00+09:00",
   "total_candidates": 4,
-  "processed_candidates": 3,
+  "processed_candidates": 4,
   "candidates": [
     {
       "name": "池下卓",

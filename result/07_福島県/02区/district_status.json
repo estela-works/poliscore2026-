@@ -5,14 +5,14 @@
   "district_name": "福島2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:31:00+09:00",
+  "last_updated": "2026-01-29T22:26:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "玄葉光一郎",
       "name_kana": "げんば こういちろう",
-      "age": 60,
+      "age": 61,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "根本拓",
       "name_kana": "ねもと たく",
-      "age": 38,
+      "age": 39,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "丸本由美子",
       "name_kana": "まるもと ゆみこ",
-      "age": 62,
+      "age": 63,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "大山里幸子",
       "name_kana": "おおやまり さちこ",
-      "age": null,
+      "age": 52,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "遠藤雄大",
       "name_kana": "えんどう ゆうだい",
-      "age": null,
+      "age": 41,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,

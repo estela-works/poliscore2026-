@@ -5,7 +5,7 @@
   "district_name": "高知1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:54:10.155917",
+  "last_updated": "2026-01-29T21:47:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -26,7 +26,7 @@
     {
       "name": "田所裕介",
       "name_kana": "たどころ ゆうすけ",
-      "age": null,
+      "age": 45,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,

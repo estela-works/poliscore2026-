@@ -5,14 +5,14 @@
   "district_name": "埼玉15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:50:38.697567",
+  "last_updated": "2026-01-29T19:36:49+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "田中良生",
       "name_kana": "たなか りょうせい",
-      "age": null,
+      "age": 62,
       "party": "自由民主党",
       "status": "前職",
       "processing": {
@@ -23,9 +23,9 @@
       }
     },
     {
-      "name": "おやまだ経子",
+      "name": "小山田経子",
       "name_kana": "おやまだ けいこ",
-      "age": null,
+      "age": 47,
       "party": "中道改革連合",
       "status": "新人",
       "processing": {
@@ -37,8 +37,8 @@
     },
     {
       "name": "南原竜樹",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "なんばら たつき",
+      "age": 65,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,
@@ -51,9 +51,9 @@
     },
     {
       "name": "藤川広明",
-      "name_kana": "",
-      "age": 0,
-      "party": "日本改革党",
+      "name_kana": "ふじかわ ひろあき",
+      "age": 53,
+      "party": "日本大和党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

@@ -5,7 +5,7 @@
   "district_name": "静岡4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:50:00+09:00",
+  "last_updated": "2026-01-29T23:17:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -42,7 +42,7 @@
     {
       "name": "高田晃宏",
       "name_kana": "たかだ あきひろ",
-      "age": 50,
+      "age": 51,
       "party": "参政党",
       "status": "新人",
       "result": "選挙区変更",

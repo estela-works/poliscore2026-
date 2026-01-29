@@ -5,7 +5,7 @@
   "district_name": "栃木2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:25:00+09:00",
+  "last_updated": "2026-01-29T21:31:59+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -27,7 +27,7 @@
     {
       "name": "五十嵐清",
       "name_kana": "いがらし きよし",
-      "age": 55,
+      "age": 54,
       "party": "自由民主党",
       "status": "前職",
       "result": "",

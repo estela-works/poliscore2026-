@@ -5,7 +5,7 @@
   "district_name": "大阪14区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T15:00:00.000000",
+  "last_updated": "2026-01-29T19:12:08+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -38,7 +38,7 @@
       }
     },
     {
-      "name": "おだちもとゆき",
+      "name": "尾立源幸",
       "name_kana": "おだち もとゆき",
       "age": 62,
       "party": "自由民主党",

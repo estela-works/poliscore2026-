@@ -5,7 +5,7 @@
   "district_name": "東京9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T22:35:00+09:00",
+  "last_updated": "2026-01-29T21:18:19+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -27,7 +27,7 @@
       "name": "菅原一秀",
       "name_kana": "すがわら いっしゅう",
       "age": 64,
-      "party": "無所属・自民党推薦",
+      "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {

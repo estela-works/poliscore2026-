@@ -5,14 +5,14 @@
   "district_name": "岡山4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:05:00+09:00",
+  "last_updated": "2026-01-29T19:17:48+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "橋本岳",
       "name_kana": "はしもとがく",
-      "age": 52,
+      "age": 51,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,

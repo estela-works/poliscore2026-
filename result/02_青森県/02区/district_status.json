@@ -5,14 +5,14 @@
   "district_name": "青森2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:19:00+09:00",
+  "last_updated": "2026-01-29T21:36:34+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "神田潤一",
       "name_kana": "かんだ じゅんいち",
-      "age": 54,
+      "age": 55,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "金濱亨",
       "name_kana": "かねはま あきら",
-      "age": null,
+      "age": 37,
       "party": "国民民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -39,8 +39,8 @@
     },
     {
       "name": "松尾和彦",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "まつお かずひこ",
+      "age": 62,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -53,8 +53,8 @@
     },
     {
       "name": "久保将",
-      "name_kana": "",
-      "age": null,
+      "name_kana": "くぼ しょう",
+      "age": 71,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

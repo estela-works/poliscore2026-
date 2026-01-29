@@ -5,14 +5,14 @@
   "district_name": "栃木1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:48:01.562263",
+  "last_updated": "2026-01-29T23:34:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
     {
       "name": "船田元",
       "name_kana": "ふなだ はじめ",
-      "age": 71,
+      "age": 72,
       "party": "自由民主党",
       "status": "前職",
       "result": "",
@@ -42,7 +42,7 @@
     {
       "name": "柏倉祐司",
       "name_kana": "かしわくら ゆうじ",
-      "age": 55,
+      "age": 56,
       "party": "日本維新の会",
       "status": "元職",
       "result": "",
@@ -57,7 +57,7 @@
     {
       "name": "青木弘",
       "name_kana": "あおき ひろし",
-      "age": 63,
+      "age": 65,
       "party": "日本共産党",
       "status": "新人",
       "result": "",

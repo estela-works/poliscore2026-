@@ -3,17 +3,17 @@
   "prefecture_name": "沖縄県",
   "total_districts": 4,
   "is_official": true,
-  "last_updated": "2026-01-28T17:51:04.515144",
+  "last_updated": "2026-01-28T21:34:53.565017",
   "status_summary": {
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 1,
-    "completed": 3,
+    "processing": 0,
+    "completed": 4,
     "abolished": 0
   },
   "total_candidates": 17,
-  "processed_candidates": 15,
+  "processed_candidates": 17,
   "party_summary": {
     "自由民主党": 4,
     "立憲民主党": 0,
@@ -48,9 +48,9 @@
     },
     {
       "district_number": 4,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 2
+      "processed_candidates": 4
     }
   ]
 }

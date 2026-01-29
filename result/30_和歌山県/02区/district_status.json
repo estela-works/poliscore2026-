@@ -5,7 +5,7 @@
   "district_name": "和歌山2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:05:00+09:00",
+  "last_updated": "2026-01-29T19:38:55+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -24,7 +24,7 @@
       }
     },
     {
-      "name": "畑野よしひろ",
+      "name": "畑野良弘",
       "name_kana": "はたの よしひろ",
       "age": 65,
       "party": "日本共産党",

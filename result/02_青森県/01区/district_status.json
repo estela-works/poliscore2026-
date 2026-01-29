@@ -5,14 +5,14 @@
   "district_name": "青森1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:35:00+09:00",
+  "last_updated": "2026-01-29T19:44:36+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "津島淳",
       "name_kana": "つしま じゅん",
-      "age": 58,
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "升田世喜男",
       "name_kana": "ますた せきお",
-      "age": 67,
+      "age": 68,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "斎藤美緒",
       "name_kana": "さいとう みお",
-      "age": 44,
+      "age": 45,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

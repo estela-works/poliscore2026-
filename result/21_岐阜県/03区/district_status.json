@@ -5,14 +5,14 @@
   "district_name": "岐阜3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:37:44.560438",
+  "last_updated": "2026-01-29T19:49:04+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "武藤容治",
       "name_kana": "むとうようじ",
-      "age": 69,
+      "age": 70,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "仙田晃宏",
       "name_kana": "せんだあきひろ",
-      "age": 42,
+      "age": 43,
       "party": "国民民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "阪口直人",
       "name_kana": "さかぐちなおと",
-      "age": 61,
+      "age": 62,
       "party": "れいわ新選組",
       "status": "前職",
       "proportional_rank": null,

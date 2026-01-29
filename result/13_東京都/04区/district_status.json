@@ -5,14 +5,14 @@
   "district_name": "東京4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:27:00+09:00",
+  "last_updated": "2026-01-29T21:29:18+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "平将明",
       "name_kana": "たいら まさあき",
-      "age": 57,
+      "age": 58,
       "party": "自由民主党",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "井戸正枝",
       "name_kana": "いど まさえ",
-      "age": 58,
+      "age": 60,
       "party": "国民民主党",
       "status": "元職",
       "result": "落選",
@@ -42,7 +42,7 @@
     {
       "name": "谷川智行",
       "name_kana": "たにがわ ともゆき",
-      "age": 53,
+      "age": 54,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",
@@ -56,10 +56,10 @@
     },
             {
       "name": "嶋悦子",
-      "name_kana": "",
-      "age": 0,
+      "name_kana": "しま えつこ",
+      "age": 45,
       "party": "参政党",
-      "status": "",
+      "status": "新人",
       "proportional_rank": null,
       "processing": {
         "researched": true,

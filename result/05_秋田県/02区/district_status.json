@@ -5,14 +5,14 @@
   "district_name": "秋田2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T15:52:00+09:00",
+  "last_updated": "2026-01-29T19:32:18+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "緑川貴士",
       "name_kana": "みどりかわ たかし",
-      "age": null,
+      "age": 41,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "福原淳嗣",
       "name_kana": "ふくはら じゅんじ",
-      "age": null,
+      "age": 58,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,

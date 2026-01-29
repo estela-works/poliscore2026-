@@ -5,7 +5,7 @@
   "district_name": "長野3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:22:00+09:00",
+  "last_updated": "2026-01-29T19:44:39+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "仁科裕貴",
-      "name_kana": "にしなゆうき",
+      "name_kana": "にしなひろき",
       "age": 28,
       "party": "参政党",
       "status": "新人",
@@ -53,7 +53,7 @@
     },
     {
       "name": "山口孝司",
-      "name_kana": "やまぐちたかし",
+      "name_kana": "やまぐちこうじ",
       "age": 61,
       "party": "れいわ新選組",
       "status": "新人",

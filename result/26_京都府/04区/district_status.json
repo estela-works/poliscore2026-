@@ -5,7 +5,7 @@
   "district_name": "京都4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:08:19.673880",
+  "last_updated": "2026-01-29T19:01:02+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "北神圭朗",
       "name_kana": "きたがみ けいろう",
       "age": 59,
-      "party": "無所属",
+      "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
       "processing": {

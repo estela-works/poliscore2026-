@@ -5,14 +5,14 @@
   "district_name": "福島1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:40:00+09:00",
+  "last_updated": "2026-01-29T19:49:34+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "金子恵美",
       "name_kana": "かねこ えみ",
-      "age": 59,
+      "age": 60,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "西山尚利",
       "name_kana": "にしやま なおとし",
-      "age": null,
+      "age": 60,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,

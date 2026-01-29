@@ -3,11 +3,11 @@
   "prefecture_name": "東京都",
   "district_number": 28,
   "district_name": "東京28区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T16:45:32.618420",
+  "last_updated": "2026-01-29T01:20:00.000000",
   "total_candidates": 6,
-  "processed_candidates": 4,
+  "processed_candidates": 6,
   "candidates": [
     {
       "name": "高松智之",
@@ -59,9 +59,9 @@
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },
@@ -73,9 +73,9 @@
       "status": "新人",
       "proportional_rank": null,
       "processing": {
-        "researched": false,
-        "evaluated": false,
-        "md_created": false,
+        "researched": true,
+        "evaluated": true,
+        "md_created": true,
         "card_generated": false
       }
     },

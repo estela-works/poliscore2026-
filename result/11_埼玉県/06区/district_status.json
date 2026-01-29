@@ -5,14 +5,14 @@
   "district_name": "埼玉6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:48:01.574744",
+  "last_updated": "2026-01-29T21:10:57+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "大島敦",
       "name_kana": "おおしま あつし",
-      "age": 67,
+      "age": 69,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",
@@ -27,7 +27,7 @@
     {
       "name": "秋山もえ",
       "name_kana": "あきやま もえ",
-      "age": 48,
+      "age": 49,
       "party": "日本共産党",
       "status": "新人",
       "result": "落選",

@@ -5,14 +5,14 @@
   "district_name": "北海道5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:03:00+09:00",
+  "last_updated": "2026-01-29T21:15:42+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "池田真紀",
       "name_kana": "いけだ まき",
-      "age": 49,
+      "age": 53,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "和田義明",
       "name_kana": "わだ よしあき",
-      "age": null,
+      "age": 54,
       "party": "自由民主党",
       "status": "元職",
       "processing": {

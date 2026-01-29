@@ -5,14 +5,14 @@
   "district_name": "神奈川7区",
   "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-28T16:05:11.489702",
+  "last_updated": "2026-01-29T19:23:16+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
     {
       "name": "鈴木馨祐",
       "name_kana": "すずき けいすけ",
-      "age": 47,
+      "age": 48,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "中谷一馬",
       "name_kana": "なかたに かずま",
-      "age": 41,
+      "age": 42,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,

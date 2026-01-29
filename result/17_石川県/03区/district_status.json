@@ -5,14 +5,14 @@
   "district_name": "石川3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:40:00+09:00",
+  "last_updated": "2026-01-29T19:05:10+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "西田昭二",
       "name_kana": "にしだ しょうじ",
-      "age": 55,
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "近藤和也",
       "name_kana": "こんどう かずや",
-      "age": 51,
+      "age": 52,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "南章治",
       "name_kana": "みなみ しょうじ",
-      "age": 69,
+      "age": 70,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

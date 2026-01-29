@@ -5,14 +5,14 @@
   "district_name": "広島4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T17:38:44.474930",
+  "last_updated": "2026-01-29T19:50:20+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "空本誠喜",
       "name_kana": "そらもと せいき",
-      "age": 60,
+      "age": 61,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,

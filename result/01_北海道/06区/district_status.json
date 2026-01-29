@@ -5,14 +5,14 @@
   "district_name": "北海道6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T18:57:00+09:00",
+  "last_updated": "2026-01-29T20:50:40+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "東国幹",
       "name_kana": "あずま くによし",
-      "age": 56,
+      "age": 57,
       "party": "自由民主党",
       "status": "前職",
       "processing": {
@@ -25,7 +25,7 @@
     {
       "name": "西川将人",
       "name_kana": "にしかわ まさひと",
-      "age": 55,
+      "age": 57,
       "party": "中道改革連合",
       "status": "前職",
       "processing": {
@@ -38,7 +38,7 @@
     {
       "name": "荻生和敏",
       "name_kana": "おぎう かずとし",
-      "age": null,
+      "age": 76,
       "party": "日本共産党",
       "status": "新人",
       "processing": {

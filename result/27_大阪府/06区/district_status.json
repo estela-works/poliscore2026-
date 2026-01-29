@@ -5,14 +5,14 @@
   "district_name": "大阪6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:29:00+09:00",
+  "last_updated": "2026-01-29T21:45:49+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "西田薫",
       "name_kana": "にしだ かおる",
-      "age": 57,
+      "age": 58,
       "party": "日本維新の会",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "月足まいこ",
       "name_kana": "つきあし まいこ",
-      "age": 33,
+      "age": 35,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "永井まさし",
       "name_kana": "ながい まさし",
-      "age": null,
+      "age": 48,
       "party": "自由民主党",
       "status": "新人",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "亀井あつし",
       "name_kana": "かめい あつし",
-      "age": null,
+      "age": 68,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "阪本洋三",
       "name_kana": "さかもと ようぞう",
-      "age": null,
+      "age": 64,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,

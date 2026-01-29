@@ -5,19 +5,16 @@
   "district_name": "福岡4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:54:10.163105",
-  "total_candidates": 6,
-  "processed_candidates": 6,
-  "note": "保守分裂選挙。自民県議の吉松源昭が宮内秀樹に対抗して無所属出馬。阿部弘樹は2025年9月に維新を離党・除名後、自民会派入り。",
+  "last_updated": "2026-01-29T20:53:24+09:00",
+  "total_candidates": 3,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "宮内秀樹",
       "name_kana": "みやうち ひでき",
-      "age": 62,
+      "age": 63,
       "party": "自由民主党",
       "status": "前職",
-      "result": "当選",
-      "note": "裏金問題（二階派161万円不記載）、統一教会関連イベント出席、線香代問題",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -28,26 +25,9 @@
     {
       "name": "許斐亮太郎",
       "name_kana": "このみ りょうたろう",
-      "age": 50,
+      "age": 52,
       "party": "国民民主党",
-      "status": "新人",
-      "result": "比例復活",
-      "note": "元NHKカメラマン25年",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "阿部弘樹",
-      "name_kana": "あべ ひろき",
-      "age": 63,
-      "party": "無所属",
       "status": "前職",
-      "result": "比例復活",
-      "note": "精神科医・医学博士。2025年9月維新離党・除名、11月自民会派入り",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -56,43 +36,11 @@
       }
     },
     {
-      "name": "吉松源昭",
-      "name_kana": "よしまつ もとあき",
-      "age": 56,
-      "party": "無所属",
-      "status": "新人",
-      "result": "落選",
-      "note": "元自民党県議、宮内との11年越しの因縁。衆院選後県議補選で復帰",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "宗晶子",
-      "name_kana": "そう あきこ",
-      "age": 53,
-      "party": "社会民主党",
-      "status": "新人",
-      "result": "落選",
-      "note": "元築上町議2期、社民党県副代表",
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "行平佳弘",
-      "name_kana": "ゆきひら よしひろ",
-      "age": 38,
+      "name": "原田祐一",
+      "name_kana": "はらだ ゆういち",
+      "age": 52,
       "party": "参政党",
       "status": "新人",
-      "result": "落選",
-      "note": "元財務省主税局・国税局職員13年",
       "processing": {
         "researched": true,
         "evaluated": true,

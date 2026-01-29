@@ -5,14 +5,14 @@
   "district_name": "栃木3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T15:35:00+09:00",
+  "last_updated": "2026-01-29T19:06:43+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "簗和生",
       "name_kana": "やな かずお",
-      "age": 45,
+      "age": 46,
       "party": "自由民主党",
       "status": "前職",
       "result": "",
@@ -27,7 +27,7 @@
     {
       "name": "渡辺真太朗",
       "name_kana": "わたなべ しんたろう",
-      "age": 32,
+      "age": 33,
       "party": "無所属",
       "status": "新人",
       "result": "",
@@ -42,7 +42,7 @@
     {
       "name": "伊賀央",
       "name_kana": "いが ひろし",
-      "age": 60,
+      "age": 61,
       "party": "中道改革連合",
       "status": "新人",
       "result": "",

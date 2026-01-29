@@ -5,7 +5,7 @@
   "district_name": "兵庫11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T18:00:00+09:00",
+  "last_updated": "2026-01-29T20:02:42+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -26,9 +26,9 @@
     {
       "name": "住吉寛紀",
       "name_kana": "すみよしひろき",
-      "age": 39,
+      "age": 41,
       "party": "日本維新の会",
-      "status": "前職",
+      "status": "元職",
       "proportional_rank": null,
       "processing": {
         "researched": true,
@@ -54,7 +54,7 @@
     {
       "name": "山下聖",
       "name_kana": "やましたさとし",
-      "age": 39,
+      "age": 41,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -68,7 +68,7 @@
     {
       "name": "苦瓜一成",
       "name_kana": "にがうりいっせい",
-      "age": 71,
+      "age": 72,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

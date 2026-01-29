@@ -5,14 +5,14 @@
   "district_name": "福島3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T19:15:00+09:00",
+  "last_updated": "2026-01-29T21:54:30+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "小熊慎司",
       "name_kana": "おぐま しんじ",
-      "age": 56,
+      "age": 57,
       "party": "中道改革連合",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "上杉謙太郎",
       "name_kana": "うえすぎ けんたろう",
-      "age": 49,
+      "age": 50,
       "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "金山屯",
       "name_kana": "かなやま たむろ",
-      "age": null,
+      "age": 85,
       "party": "無所属",
       "status": "新人",
       "proportional_rank": null,

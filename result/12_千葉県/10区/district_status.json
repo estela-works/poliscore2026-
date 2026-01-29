@@ -5,14 +5,14 @@
   "district_name": "千葉10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T18:34:00+09:00",
+  "last_updated": "2026-01-29T20:30:26+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
     {
       "name": "小池正昭",
       "name_kana": "こいけ まさあき",
-      "age": 58,
+      "age": 59,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "田村理江",
       "name_kana": "たむら りえ",
-      "age": null,
+      "age": 35,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,

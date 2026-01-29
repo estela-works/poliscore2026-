@@ -5,16 +5,16 @@
   "district_name": "三重3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T02:15:00+09:00",
+  "last_updated": "2026-01-29T21:08:08+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "石原正敬",
       "name_kana": "いしはら まさたか",
-      "age": 52,
+      "age": 54,
       "party": "自由民主党",
-      "status": "前職",
+      "status": "元職",
       "result": "落選",
       "processing": {
         "researched": true,
@@ -26,8 +26,8 @@
     {
       "name": "伊藤昌志",
       "name_kana": "いとう まさし",
-      "age": 54,
-      "party": "日本維新の会",
+      "age": 56,
+      "party": "日本保守党",
       "status": "新人",
       "result": "落選",
       "processing": {
@@ -40,7 +40,7 @@
     {
       "name": "岡田克也",
       "name_kana": "おかだ かつや",
-      "age": 71,
+      "age": 72,
       "party": "中道改革連合",
       "status": "前職",
       "result": "当選",

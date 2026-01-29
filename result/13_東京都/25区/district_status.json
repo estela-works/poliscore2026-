@@ -5,14 +5,14 @@
   "district_name": "東京25区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T13:45:00+09:00",
+  "last_updated": "2026-01-29T23:37:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "井上信治",
       "name_kana": "いのうえ しんじ",
-      "age": 55,
+      "age": 56,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -26,7 +26,7 @@
     {
       "name": "依田花蓮",
       "name_kana": "よだ かれん",
-      "age": 52,
+      "age": 54,
       "party": "中道改革連合",
       "status": "新人",
       "proportional_rank": null,
@@ -40,7 +40,7 @@
     {
       "name": "宮崎太朗",
       "name_kana": "みやざき たろう",
-      "age": 44,
+      "age": 45,
       "party": "日本維新の会",
       "status": "新人",
       "proportional_rank": null,

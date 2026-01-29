@@ -5,14 +5,14 @@
   "district_name": "東京10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T14:03:18.651372",
+  "last_updated": "2026-01-29T21:27:26+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "鈴木隼人",
       "name_kana": "すずき はやと",
-      "age": 47,
+      "age": 48,
       "party": "自由民主党",
       "status": "前職",
       "proportional_rank": null,
@@ -54,7 +54,7 @@
     {
       "name": "安田伸",
       "name_kana": "やすだ しん",
-      "age": 53,
+      "age": 55,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,
@@ -69,7 +69,7 @@
       "name": "小山徹",
       "name_kana": "こやま とおる",
       "age": 50,
-      "party": "諸派",
+      "party": "一番星",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
