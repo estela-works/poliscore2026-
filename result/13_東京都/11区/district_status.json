@@ -5,7 +5,7 @@
   "district_name": "東京11区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:20:02+09:00",
+  "last_updated": "2026-01-29T11:00:54.633603",
   "total_candidates": 7,
   "processed_candidates": 7,
   "candidates": [
@@ -97,7 +97,7 @@
       "name": "桑島康文",
       "name_kana": "くわじまやすふみ",
       "age": 64,
-      "party": "核融合党",
+      "party": "諸派",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

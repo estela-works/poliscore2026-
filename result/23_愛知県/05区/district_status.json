@@ -5,7 +5,7 @@
   "district_name": "愛知5区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:13:22+09:00",
+  "last_updated": "2026-01-29T11:00:54.686909",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -13,7 +13,7 @@
       "name": "神田憲次",
       "name_kana": "かんだ けんじ",
       "age": 62,
-      "party": "無所属",
+      "party": "自由民主党",
       "status": "元職",
       "proportional_rank": null,
       "processing": {

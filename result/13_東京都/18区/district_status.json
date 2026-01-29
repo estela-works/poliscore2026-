@@ -5,7 +5,7 @@
   "district_name": "東京18区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:21:47+09:00",
+  "last_updated": "2026-01-29T11:00:54.640162",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -69,7 +69,7 @@
       "name": "吉田綾",
       "name_kana": "よしだ あや",
       "age": 40,
-      "party": "再生の道",
+      "party": "諸派",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

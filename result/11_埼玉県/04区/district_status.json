@@ -3,11 +3,11 @@
   "prefecture_name": "埼玉県",
   "district_number": 4,
   "district_name": "埼玉4区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-29T23:20:00+09:00",
+  "last_updated": "2026-01-29T11:00:54.390094",
   "total_candidates": 4,
-  "processed_candidates": 4,
+  "processed_candidates": 3,
   "candidates": [
     {
       "name": "穂坂泰",

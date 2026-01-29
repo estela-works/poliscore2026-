@@ -5,7 +5,7 @@
   "district_name": "埼玉15区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:36:49+09:00",
+  "last_updated": "2026-01-29T11:00:54.615973",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -53,7 +53,7 @@
       "name": "藤川広明",
       "name_kana": "ふじかわ ひろあき",
       "age": 53,
-      "party": "日本大和党",
+      "party": "日本改革党",
       "status": "新人",
       "proportional_rank": null,
       "processing": {
