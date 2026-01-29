@@ -5,7 +5,7 @@
   "district_name": "愛媛1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:19:33+09:00",
+  "last_updated": "2026-01-30T13:05:24+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "石井智恵",
-      "name_kana": "いしい ちえ",
+      "name_kana": "いしい ともえ",
       "age": 58,
       "party": "国民民主党",
       "status": "前職",
@@ -57,7 +57,7 @@
     },
     {
       "name": "和田宰",
-      "name_kana": "わだ さい",
+      "name_kana": "わだ つかさ",
       "age": 73,
       "party": "日本共産党",
       "status": "新人",

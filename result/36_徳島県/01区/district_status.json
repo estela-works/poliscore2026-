@@ -3,9 +3,10 @@
   "prefecture_name": "徳島県",
   "district_number": 1,
   "district_name": "徳島1区",
-  "status": "completed",
+  "status": "processing",
   "is_official": true,
-  "last_updated": "2026-01-29T19:21:40+09:00",
+  "last_updated": "2026-01-30T13:17:23+09:00",
+  "note": "高橋永.mdの読み方を「たかはし ひさし」→「たかはしえい」に修正が必要",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -33,7 +34,7 @@
     },
     {
       "name": "高橋永",
-      "name_kana": "たかはし ひさし",
+      "name_kana": "たかはし えい",
       "age": 50,
       "party": "中道改革連合",
       "status": "前職",

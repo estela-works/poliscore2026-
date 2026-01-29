@@ -5,7 +5,7 @@
   "district_name": "福岡1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:07:51+09:00",
+  "last_updated": "2026-01-29T13:15:03.474668",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "山本剛正",
-      "name_kana": "やまもとたけまさ",
+      "name_kana": "やまもとごうせい",
       "age": 54,
       "party": "日本維新の会",
       "status": "元職",
@@ -81,7 +81,7 @@
     {
       "name": "吉富景子",
       "name_kana": "よしとみけいこ",
-      "age": null,
+      "age": 37,
       "party": "参政党",
       "status": "新人",
       "proportional_rank": null,

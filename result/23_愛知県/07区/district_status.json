@@ -5,7 +5,7 @@
   "district_name": "愛知7区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:24:21+09:00",
+  "last_updated": "2026-01-30T13:15:29+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -14,7 +14,7 @@
       "name_kana": "ひの さりあ",
       "age": 38,
       "party": "国民民主党",
-      "status": "現職",
+      "status": "前職",
       "processing": {
         "researched": true,
         "evaluated": true,
@@ -56,7 +56,7 @@
     {
       "name": "鈴木弘一",
       "name_kana": "すずき こういち",
-      "age": 49,
+      "age": 51,
       "party": "日本共産党",
       "status": "新人",
       "processing": {

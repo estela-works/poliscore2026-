@@ -3,10 +3,9 @@
   "prefecture_name": "愛知県",
   "district_number": 5,
   "district_name": "愛知5区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
   "last_updated": "2026-01-30T12:54:12+09:00",
-  "note": "神田憲次.mdの党派を「自由民主党」→「無所属」に修正が必要",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
