@@ -5,13 +5,13 @@
   "district_name": "茨城県3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:56:49+09:00",
+  "last_updated": "2026-01-30T17:17:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
     {
       "name": "加川裕美",
-      "name_kana": "かがわ ゆみ",
+      "name_kana": "かがわ ゆうみ",
       "age": 61,
       "party": "れいわ新選組",
       "status": "新人",

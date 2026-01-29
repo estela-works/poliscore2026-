@@ -5,10 +5,10 @@
   "district_name": "福岡9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:26:14+09:00",
+  "last_updated": "2026-01-29T21:46:34.413530",
   "total_candidates": 4,
   "processed_candidates": 4,
-  "note": "候補者修正：山本直緒美（参政党）は2026年衆院選では立候補していない。大塚弘尊（国民民主党）を追加。三原朝利は自民党公認。",
+  "note": "三原朝利.mdの読みを「みはら ともとし」→「みはら あさと」に修正が必要",
   "candidates": [
     {
       "name": "緒方林太郎",

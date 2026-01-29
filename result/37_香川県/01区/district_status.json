@@ -5,7 +5,7 @@
   "district_name": "香川1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:43:49+09:00",
+  "last_updated": "2026-01-30T17:00:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -57,7 +57,7 @@
     },
     {
       "name": "長尾真希",
-      "name_kana": "ながお まき",
+      "name_kana": "ながお まさき",
       "age": 37,
       "party": "日本共産党",
       "status": "新人",

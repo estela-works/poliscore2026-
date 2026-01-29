@@ -5,7 +5,7 @@
   "district_name": "埼玉1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:40:09+09:00",
+  "last_updated": "2026-01-30T17:30:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -59,7 +59,7 @@
     },
     {
       "name": "羽田一樹",
-      "name_kana": "はた かずき",
+      "name_kana": "はねだ かずき",
       "age": 37,
       "party": "無所属",
       "status": "新人",

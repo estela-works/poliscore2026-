@@ -5,7 +5,7 @@
   "district_name": "青森3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:56:00+09:00",
+  "last_updated": "2026-01-30T18:01:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "佐原若子",
-      "name_kana": "さはら わかこ",
+      "name_kana": "さわら わかこ",
       "age": 72,
       "party": "れいわ新選組",
       "status": "前職",

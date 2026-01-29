@@ -3,10 +3,9 @@
   "prefecture_name": "京都府",
   "district_number": 2,
   "district_name": "京都2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T16:42:00+09:00",
-  "note": "河野有里子.mdの読みを「かわの ゆりこ」→「こうの ゆりこ」に修正が必要",
+  "last_updated": "2026-01-30T17:29:00+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -104,7 +103,7 @@
     },
     {
       "name": "河野有里子",
-      "name_kana": "かわの ゆりこ",
+      "name_kana": "こうの ゆりこ",
       "age": 28,
       "party": "中道改革連合",
       "status": "新人",

@@ -5,7 +5,7 @@
   "district_name": "福島4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:23:26+09:00",
+  "last_updated": "2026-01-30T17:35:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -39,7 +39,7 @@
     },
     {
       "name": "熊谷智",
-      "name_kana": "くまがい さとし",
+      "name_kana": "くまがい とも",
       "age": 46,
       "party": "日本共産党",
       "status": "新人",

@@ -5,7 +5,7 @@
   "district_name": "大阪6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:45:49+09:00",
+  "last_updated": "2026-01-30T17:34:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -103,7 +103,7 @@
     },
     {
       "name": "阪本洋三",
-      "name_kana": "さかもと ようぞう",
+      "name_kana": "さかもと ひろみ",
       "age": 64,
       "party": "中道改革連合",
       "status": "新人",

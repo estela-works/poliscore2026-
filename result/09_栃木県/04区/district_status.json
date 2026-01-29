@@ -5,7 +5,7 @@
   "district_name": "栃木4区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:37:34+09:00",
+  "last_updated": "2026-01-30T16:50:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -35,7 +35,7 @@
     },
     {
       "name": "石坂太",
-      "name_kana": "いしざか ふとし",
+      "name_kana": "いしざか まさる",
       "age": 45,
       "party": "自由民主党",
       "status": "新人",

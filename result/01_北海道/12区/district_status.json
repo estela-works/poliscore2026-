@@ -5,7 +5,7 @@
   "district_name": "北海道12区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:09:35+09:00",
+  "last_updated": "2026-01-30T17:13:00+09:00",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -33,7 +33,7 @@
     },
     {
       "name": "川原田英世",
-      "name_kana": "かわはらだ ひでよ",
+      "name_kana": "かわはらだ えいせい",
       "age": 43,
       "party": "中道改革連合",
       "status": "前職",

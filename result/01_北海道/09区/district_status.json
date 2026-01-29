@@ -5,7 +5,7 @@
   "district_name": "北海道9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:14:37+09:00",
+  "last_updated": "2026-01-30T17:26:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -77,7 +77,7 @@
     },
     {
       "name": "立野広志",
-      "name_kana": "たての ひろし",
+      "name_kana": "たつの ひろし",
       "age": 68,
       "party": "日本共産党",
       "status": "新人",

@@ -5,13 +5,13 @@
   "district_name": "愛知16区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T20:35:15+09:00",
+  "last_updated": "2026-01-30T16:46:00+09:00",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
     {
       "name": "福田徹",
-      "name_kana": "ふくだ とおる",
+      "name_kana": "ふくた とおる",
       "age": 43,
       "party": "国民民主党",
       "status": "前職",

@@ -46,13 +46,13 @@
         "card_generated": false
       },
       "scores": {
-        "issue_identification": 1,
-        "solution_design": 1,
-        "execution": 1,
-        "accountability": 1,
-        "consistency": 2,
-        "ethics": 2,
-        "total": 8
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 19
       }
     },
     {

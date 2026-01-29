@@ -5,7 +5,7 @@
   "district_name": "大阪12区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T21:04:11+09:00",
+  "last_updated": "2026-01-30T17:03:00+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -34,7 +34,7 @@
     },
     {
       "name": "北川晋平",
-      "name_kana": "きたがわ しんぺい",
+      "name_kana": "きたかわ しんぺい",
       "age": 38,
       "party": "自由民主党",
       "status": "新人",

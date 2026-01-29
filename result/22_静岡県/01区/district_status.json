@@ -5,8 +5,7 @@
   "district_name": "静岡1区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T14:10:14.014903",
-  "note": "鈴木節子.mdの年齢を70歳→71歳に修正が必要",
+  "last_updated": "2026-01-30T17:12:00+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -59,7 +58,7 @@
     {
       "name": "鈴木節子",
       "name_kana": "すずき せつこ",
-      "age": 70,
+      "age": 71,
       "party": "日本共産党",
       "status": "新人",
       "proportional_rank": null,
