@@ -5,7 +5,8 @@
   "district_name": "東京10区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T11:00:54.631469",
+  "last_updated": "2026-01-30T12:19:33+09:00",
+  "note": "小山徹.mdの党派が「諸派」となっている場合、正確には「一番星」に修正が必要。",
   "total_candidates": 5,
   "processed_candidates": 5,
   "candidates": [
@@ -69,7 +70,7 @@
       "name": "小山徹",
       "name_kana": "こやま とおる",
       "age": 50,
-      "party": "諸派",
+      "party": "一番星",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

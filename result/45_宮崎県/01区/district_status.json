@@ -3,9 +3,9 @@
   "prefecture_name": "宮崎県",
   "district_number": 1,
   "district_name": "宮崎1区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T23:42:00.000000",
+  "last_updated": "2026-01-29T12:01:49.693157",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [

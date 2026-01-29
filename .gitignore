@@ -7,3 +7,7 @@
 
 # .gitignore自体も追跡
 !.gitignore
+
+# data/politician_evaluation_criteria.md を追跡
+!data/
+!data/politician_evaluation_criteria.md

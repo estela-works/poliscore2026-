@@ -8,12 +8,12 @@
     "none": 0,
     "pre": 0,
     "identified": 0,
-    "processing": 1,
-    "completed": 15,
+    "processing": 0,
+    "completed": 16,
     "abolished": 0
   },
   "total_candidates": 55,
-  "processed_candidates": 54,
+  "processed_candidates": 55,
   "party_summary": {
     "自由民主党": 15,
     "立憲民主党": 0,
@@ -48,9 +48,9 @@
     },
     {
       "district_number": 4,
-      "status": "processing",
+      "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 3
+      "processed_candidates": 4
     },
     {
       "district_number": 5,

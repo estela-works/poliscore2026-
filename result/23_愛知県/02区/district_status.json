@@ -5,7 +5,7 @@
   "district_name": "愛知2区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-28T23:40:00+09:00",
+  "last_updated": "2026-01-30T11:46:07+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -52,7 +52,7 @@
       }
     },
     {
-      "name": "梅村正",
+      "name": "梅村忠司",
       "name_kana": "うめむら ただし",
       "age": 69,
       "party": "減税日本・ゆうこく連合",

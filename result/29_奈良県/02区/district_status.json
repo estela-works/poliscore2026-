@@ -3,9 +3,9 @@
   "prefecture_name": "奈良県",
   "district_number": 2,
   "district_name": "奈良2区",
-  "status": "processing",
+  "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T19:19:35+09:00",
+  "last_updated": "2026-01-29T12:01:49.671988",
   "total_candidates": 2,
   "processed_candidates": 2,
   "candidates": [
@@ -24,7 +24,7 @@
         "card_generated": false
       }
     },
-        {
+    {
       "name": "池田英子",
       "name_kana": "いけだ えいこ",
       "age": 59,

@@ -5,9 +5,9 @@
   "district_name": "山口3区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T06:45:00+09:00",
-  "total_candidates": 6,
-  "processed_candidates": 6,
+  "last_updated": "2026-01-29T12:08:17.506129",
+  "total_candidates": 5,
+  "processed_candidates": 5,
   "candidates": [
     {
       "name": "林芳正",
@@ -70,20 +70,6 @@
       "name_kana": "しのだ・ともひろ",
       "age": 56,
       "party": "中道改革連合",
-      "status": "新人",
-      "proportional_rank": null,
-      "processing": {
-        "researched": true,
-        "evaluated": true,
-        "md_created": true,
-        "card_generated": false
-      }
-    },
-    {
-      "name": "佐々木信夫",
-      "name_kana": "ささき・ただお",
-      "age": 87,
-      "party": "諸派",
       "status": "新人",
       "proportional_rank": null,
       "processing": {

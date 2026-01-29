@@ -5,7 +5,8 @@
   "district_name": "京都6区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-29T06:45:00+09:00",
+  "last_updated": "2026-01-29T12:13:26.199237",
+  "note": "園崎弘道.mdの年齢が44歳となっているが、選挙時点（2026年2月8日）では45歳が正しい。1980年3月23日生まれのため。",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -26,7 +27,7 @@
     },
     {
       "name": "園崎弘道",
-      "name_kana": "そのざき ひろみち",
+      "name_kana": "そのさき ひろみち",
       "age": 45,
       "party": "自由民主党",
       "status": "新人",
