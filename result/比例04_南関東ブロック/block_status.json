@@ -1,0 +1,69 @@
+{
+  "block_code": "04",
+  "block_name": "南関東ブロック",
+  "seats": 22,
+  "prefectures": [
+    "千葉県",
+    "神奈川県",
+    "山梨県"
+  ],
+  "last_updated": "2026-01-31T13:55:10+09:00",
+  "total_candidates": 103,
+  "parties": {
+    "自由民主党": {
+      "total_candidates": 35,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "中道改革連合": {
+      "total_candidates": 31,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "国民民主党": {
+      "total_candidates": 9,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本維新の会": {
+      "total_candidates": 8,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本共産党": {
+      "total_candidates": 3,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "れいわ新選組": {
+      "total_candidates": 3,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "参政党": {
+      "total_candidates": 6,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "社会民主党": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本保守党": {
+      "total_candidates": 2,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "チームみらい": {
+      "total_candidates": 3,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "減税日本・ゆうこく連合": {
+      "total_candidates": 2,
+      "processed_candidates": 0,
+      "meibo_created": true
+    }
+  }
+}

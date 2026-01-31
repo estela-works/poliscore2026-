@@ -1,0 +1,60 @@
+{
+  "block_code": "10",
+  "block_name": "四国ブロック",
+  "seats": 6,
+  "prefectures": [
+    "徳島県",
+    "香川県",
+    "愛媛県",
+    "高知県"
+  ],
+  "last_updated": "2026-01-31T13:55:10+09:00",
+  "total_candidates": 33,
+  "parties": {
+    "自由民主党": {
+      "total_candidates": 15,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "中道改革連合": {
+      "total_candidates": 6,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "国民民主党": {
+      "total_candidates": 4,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本維新の会": {
+      "total_candidates": 2,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本共産党": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "れいわ新選組": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "参政党": {
+      "total_candidates": 2,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "社会民主党": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本保守党": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    }
+  }
+}

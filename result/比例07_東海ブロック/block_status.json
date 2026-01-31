@@ -1,0 +1,70 @@
+{
+  "block_code": "07",
+  "block_name": "東海ブロック",
+  "seats": 21,
+  "prefectures": [
+    "岐阜県",
+    "静岡県",
+    "愛知県",
+    "三重県"
+  ],
+  "last_updated": "2026-01-31T13:55:10+09:00",
+  "total_candidates": 109,
+  "parties": {
+    "自由民主党": {
+      "total_candidates": 39,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "中道改革連合": {
+      "total_candidates": 26,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "国民民主党": {
+      "total_candidates": 12,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本維新の会": {
+      "total_candidates": 6,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本共産党": {
+      "total_candidates": 2,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "れいわ新選組": {
+      "total_candidates": 4,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "参政党": {
+      "total_candidates": 7,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "社会民主党": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "日本保守党": {
+      "total_candidates": 3,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "チームみらい": {
+      "total_candidates": 1,
+      "processed_candidates": 0,
+      "meibo_created": true
+    },
+    "減税日本・ゆうこく連合": {
+      "total_candidates": 8,
+      "processed_candidates": 0,
+      "meibo_created": true
+    }
+  }
+}
