@@ -5,7 +5,7 @@
   "district_name": "東京29区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T19:08:00+09:00",
+  "last_updated": "2026-01-31T14:31:10.893837+09:00",
   "total_candidates": 6,
   "processed_candidates": 6,
   "candidates": [
@@ -30,6 +30,50 @@
         "consistency": 3,
         "ethics": 3,
         "total": 18
+      },
+      "prediction": {
+        "rank": 1,
+        "total_score": 54.0,
+        "result": "△ 接戦",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 30,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 78.0,
+            "weight": 0.25,
+            "reason": "自由民主党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 60.0,
+            "weight": 0.13,
+            "reason": "total=18/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 95,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "自由民主党への追い風・票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
       }
     },
     {
@@ -53,6 +97,50 @@
         "consistency": 2,
         "ethics": 4,
         "total": 14
+      },
+      "prediction": {
+        "rank": 2,
+        "total_score": 50.4,
+        "result": "△ 接戦",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 45,
+            "weight": 0.31,
+            "reason": "元職"
+          },
+          "party_wind": {
+            "score": 41.8,
+            "weight": 0.25,
+            "reason": "国民民主党(無風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 46.7,
+            "weight": 0.13,
+            "reason": "total=14/30"
+          },
+          "incumbency": {
+            "score": 45,
+            "weight": 0.13,
+            "reason": "元職"
+          },
+          "vote_split": {
+            "score": 90,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "票の集中が強み"
       }
     },
     {
@@ -76,6 +164,50 @@
         "consistency": 1,
         "ethics": 2,
         "total": 11
+      },
+      "prediction": {
+        "rank": 3,
+        "total_score": 45.2,
+        "result": "▲ やや劣勢",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 45,
+            "weight": 0.31,
+            "reason": "元職"
+          },
+          "party_wind": {
+            "score": 46.8,
+            "weight": 0.25,
+            "reason": "中道改革連合(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 36.7,
+            "weight": 0.13,
+            "reason": "total=11/30"
+          },
+          "incumbency": {
+            "score": 45,
+            "weight": 0.13,
+            "reason": "元職"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "個人評価が低いが課題"
       }
     },
     {
@@ -99,6 +231,50 @@
         "consistency": 4,
         "ethics": 3,
         "total": 22
+      },
+      "prediction": {
+        "rank": 4,
+        "total_score": 43.6,
+        "result": "▲ やや劣勢",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 30,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 47.8,
+            "weight": 0.25,
+            "reason": "日本保守党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 73.3,
+            "weight": 0.13,
+            "reason": "total=22/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 60,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "高い個人評価が強み。選挙実績が乏しい・新人のハンデが課題"
       }
     },
     {
@@ -122,6 +298,50 @@
         "consistency": 2,
         "ethics": 2,
         "total": 8
+      },
+      "prediction": {
+        "rank": 6,
+        "total_score": 28.3,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 28.5,
+            "weight": 0.25,
+            "reason": "日本共産党(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 26.7,
+            "weight": 0.13,
+            "reason": "total=8/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "選挙実績が乏しい・日本共産党への逆風・個人評価が低い・新人のハンデが課題"
       }
     },
     {
@@ -145,7 +365,64 @@
         "consistency": 2,
         "ethics": 2,
         "total": 8
+      },
+      "prediction": {
+        "rank": 5,
+        "total_score": 35.5,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 52.2,
+            "weight": 0.25,
+            "reason": "参政党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 26.7,
+            "weight": 0.13,
+            "reason": "total=8/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 60,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "選挙実績が乏しい・個人評価が低い・新人のハンデが課題"
       }
     }
-  ]
+  ],
+  "prediction": {
+    "last_predicted": "2026-01-31T14:31:10.893837+09:00",
+    "competitiveness": "大接戦",
+    "predicted_winner": "長沢こうすけ",
+    "predicted_winner_party": "自由民主党",
+    "confidence": "低",
+    "search_sources": [],
+    "search_summary": {
+      "previous_election": "候補者ステータスと個人評価から推定",
+      "media_forecast": "報道情勢なし（重み再配分で対応）",
+      "local_factors": "地盤情報なし（デフォルト値使用）"
+    }
+  }
 }

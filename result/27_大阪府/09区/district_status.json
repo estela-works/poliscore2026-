@@ -5,7 +5,7 @@
   "district_name": "大阪9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T20:19:00+09:00",
+  "last_updated": "2026-01-31T14:31:11.034233+09:00",
   "total_candidates": 3,
   "processed_candidates": 3,
   "candidates": [
@@ -29,6 +29,50 @@
         "consistency": 4,
         "ethics": 4,
         "total": 26
+      },
+      "prediction": {
+        "rank": 1,
+        "total_score": 75.7,
+        "result": "◎ 当選有力",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 88,
+            "weight": 0.31,
+            "reason": "前回当選（小選挙区の可能性高）"
+          },
+          "party_wind": {
+            "score": 58.2,
+            "weight": 0.25,
+            "reason": "日本維新の会(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 86.7,
+            "weight": 0.13,
+            "reason": "total=26/30"
+          },
+          "incumbency": {
+            "score": 75,
+            "weight": 0.13,
+            "reason": "前職"
+          },
+          "vote_split": {
+            "score": 80,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "前回実績の優位・日本維新の会への追い風・高い個人評価・現職の優位性・票の集中が強み"
       }
     },
     {
@@ -51,6 +95,50 @@
         "consistency": 4,
         "ethics": 4,
         "total": 23
+      },
+      "prediction": {
+        "rank": 2,
+        "total_score": 54.2,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 30,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 78.0,
+            "weight": 0.25,
+            "reason": "自由民主党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 76.7,
+            "weight": 0.13,
+            "reason": "total=23/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 80,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "自由民主党への追い風・高い個人評価・票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
       }
     },
     {
@@ -73,7 +161,64 @@
         "consistency": 3,
         "ethics": 3,
         "total": 14
+      },
+      "prediction": {
+        "rank": 3,
+        "total_score": 34.5,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 27.4,
+            "weight": 0.25,
+            "reason": "社会民主党(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 46.7,
+            "weight": 0.13,
+            "reason": "total=14/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 80,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "票の集中が強み。選挙実績が乏しい・社会民主党への逆風・新人のハンデが課題"
       }
     }
-  ]
+  ],
+  "prediction": {
+    "last_predicted": "2026-01-31T14:31:11.034233+09:00",
+    "competitiveness": "安定",
+    "predicted_winner": "萩原佳",
+    "predicted_winner_party": "日本維新の会",
+    "confidence": "中",
+    "search_sources": [],
+    "search_summary": {
+      "previous_election": "候補者ステータスと個人評価から推定",
+      "media_forecast": "報道情勢なし（重み再配分で対応）",
+      "local_factors": "地盤情報なし（デフォルト値使用）"
+    }
+  }
 }

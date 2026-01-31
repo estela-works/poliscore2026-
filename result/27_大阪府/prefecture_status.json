@@ -3,7 +3,7 @@
   "prefecture_name": "大阪府",
   "total_districts": 19,
   "is_official": true,
-  "last_updated": "2026-01-29T11:24:58.434569",
+  "last_updated": "2026-01-31T14:42:57.775205+09:00",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -32,115 +32,229 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "井上英孝",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 62.5,
+      "competitiveness": "やや接戦",
+      "confidence": "低"
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "守島正",
+      "predicted_winner_party": "無所属",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 59.9,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "東徹",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 75.7,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     },
     {
       "district_number": 4,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 6,
+      "predicted_winner": "美延映夫",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "△ 接戦",
+      "predicted_winner_score": 59.0,
+      "competitiveness": "大接戦",
+      "confidence": "低"
     },
     {
       "district_number": 5,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 6,
+      "predicted_winner": "梅村聡",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 72.2,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     },
     {
       "district_number": 6,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "西田薫",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 63.3,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     },
     {
       "district_number": 7,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "奥下剛光",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "△ 接戦",
+      "predicted_winner_score": 65.9,
+      "competitiveness": "大接戦",
+      "confidence": "低"
     },
     {
       "district_number": 8,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "漆間譲司",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 65.8,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 9,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3
+      "processed_candidates": 3,
+      "predicted_winner": "萩原佳",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 75.7,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 10,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "尾辻かな子",
+      "predicted_winner_party": "中道改革連合",
+      "predicted_winner_result": "△ 接戦",
+      "predicted_winner_score": 68.2,
+      "competitiveness": "大接戦",
+      "confidence": "低"
     },
     {
       "district_number": 11,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "中司宏",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 75.2,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 12,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "藤田文武",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 68.1,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 13,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 6,
+      "predicted_winner": "岩谷良平",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 76.5,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 14,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3
+      "processed_candidates": 3,
+      "predicted_winner": "青柳仁士",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 70.1,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 15,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3
+      "processed_candidates": 3,
+      "predicted_winner": "島田智明",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 79.1,
+      "competitiveness": "やや接戦",
+      "confidence": "低"
     },
     {
       "district_number": 16,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "森山浩行",
+      "predicted_winner_party": "中道改革連合",
+      "predicted_winner_result": "△ 接戦",
+      "predicted_winner_score": 73.3,
+      "competitiveness": "大接戦",
+      "confidence": "低"
     },
     {
       "district_number": 17,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "馬場伸幸",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 69.7,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 18,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3
+      "processed_candidates": 3,
+      "predicted_winner": "遠藤敬",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 70.6,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 19,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "伊東信久",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 71.9,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     }
   ]
 }

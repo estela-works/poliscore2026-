@@ -3,7 +3,7 @@
   "prefecture_name": "京都府",
   "total_districts": 6,
   "is_official": true,
-  "last_updated": "2026-01-29T11:24:58.432997",
+  "last_updated": "2026-01-31T14:42:57.769495+09:00",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -32,37 +32,73 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 8,
-      "processed_candidates": 8
+      "processed_candidates": 8,
+      "predicted_winner": "勝目康",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 76.8,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6
+      "processed_candidates": 6,
+      "predicted_winner": "前原誠司",
+      "predicted_winner_party": "日本維新の会",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 67.7,
+      "competitiveness": "やや接戦",
+      "confidence": "中"
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "泉健太",
+      "predicted_winner_party": "中道改革連合",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 69.4,
+      "competitiveness": "やや接戦",
+      "confidence": "低"
     },
     {
       "district_number": 4,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2
+      "processed_candidates": 2,
+      "predicted_winner": "北神圭朗",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 74.0,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 5,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2
+      "processed_candidates": 2,
+      "predicted_winner": "本田太郎",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 70.7,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 6,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "山井和則",
+      "predicted_winner_party": "中道改革連合",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 70.7,
+      "competitiveness": "安定",
+      "confidence": "中"
     }
   ]
 }

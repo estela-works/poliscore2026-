@@ -5,7 +5,7 @@
   "district_name": "神奈川12区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T20:18:00+09:00",
+  "last_updated": "2026-01-31T14:31:10.914170+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "note": "小児科医・阿部知子vs元産経記者・星野剛士の因縁対決。2017年以降阿部が4連勝、星野は比例復活。阿部は小選挙区最年長当選者（76歳）。",
@@ -31,6 +31,50 @@
         "consistency": 4,
         "ethics": 4,
         "total": 24
+      },
+      "prediction": {
+        "rank": 2,
+        "total_score": 68.9,
+        "result": "▲ やや劣勢",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 91,
+            "weight": 0.31,
+            "reason": "前回当選（小選挙区の可能性高）"
+          },
+          "party_wind": {
+            "score": 46.8,
+            "weight": 0.25,
+            "reason": "中道改革連合(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 80.0,
+            "weight": 0.13,
+            "reason": "total=24/30"
+          },
+          "incumbency": {
+            "score": 75,
+            "weight": 0.13,
+            "reason": "前職"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "前回実績の優位・高い個人評価・現職の優位性が強み"
       }
     },
     {
@@ -54,6 +98,50 @@
         "consistency": 3,
         "ethics": 3,
         "total": 18
+      },
+      "prediction": {
+        "rank": 1,
+        "total_score": 76.0,
+        "result": "○ 当選予想",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 78,
+            "weight": 0.31,
+            "reason": "前回当選（小選挙区当選推定）"
+          },
+          "party_wind": {
+            "score": 78.0,
+            "weight": 0.25,
+            "reason": "自由民主党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 60.0,
+            "weight": 0.13,
+            "reason": "total=18/30"
+          },
+          "incumbency": {
+            "score": 75,
+            "weight": 0.13,
+            "reason": "前職"
+          },
+          "vote_split": {
+            "score": 95,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "前回実績の優位・自由民主党への追い風・現職の優位性・票の集中が強み"
       }
     },
     {
@@ -77,6 +165,50 @@
         "consistency": 2,
         "ethics": 2,
         "total": 11
+      },
+      "prediction": {
+        "rank": 4,
+        "total_score": 29.6,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 28.5,
+            "weight": 0.25,
+            "reason": "日本共産党(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 36.7,
+            "weight": 0.13,
+            "reason": "total=11/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "選挙実績が乏しい・日本共産党への逆風・個人評価が低い・新人のハンデが課題"
       }
     },
     {
@@ -100,7 +232,64 @@
         "consistency": 1,
         "ethics": 1,
         "total": 8
+      },
+      "prediction": {
+        "rank": 3,
+        "total_score": 34.0,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 35.8,
+            "weight": 0.25,
+            "reason": "無所属(無風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 26.7,
+            "weight": 0.13,
+            "reason": "total=8/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 80,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "票の集中が強み。選挙実績が乏しい・個人評価が低い・新人のハンデが課題"
       }
     }
-  ]
+  ],
+  "prediction": {
+    "last_predicted": "2026-01-31T14:31:10.914170+09:00",
+    "competitiveness": "やや接戦",
+    "predicted_winner": "星野剛士",
+    "predicted_winner_party": "自由民主党",
+    "confidence": "低",
+    "search_sources": [],
+    "search_summary": {
+      "previous_election": "候補者ステータスと個人評価から推定",
+      "media_forecast": "報道情勢なし（重み再配分で対応）",
+      "local_factors": "地盤情報なし（デフォルト値使用）"
+    }
+  }
 }

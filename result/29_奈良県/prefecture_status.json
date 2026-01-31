@@ -3,7 +3,7 @@
   "prefecture_name": "奈良県",
   "total_districts": 3,
   "is_official": true,
-  "last_updated": "2026-01-29T11:24:58.441815",
+  "last_updated": "2026-01-31T14:42:57.782345+09:00",
   "status_summary": {
     "none": 0,
     "pre": 0,
@@ -32,19 +32,37 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5
+      "processed_candidates": 5,
+      "predicted_winner": "小林茂樹",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "○ 当選予想",
+      "predicted_winner_score": 76.4,
+      "competitiveness": "やや接戦",
+      "confidence": "低"
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2
+      "processed_candidates": 2,
+      "predicted_winner": "高市早苗",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 78.7,
+      "competitiveness": "安定",
+      "confidence": "中"
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4
+      "processed_candidates": 4,
+      "predicted_winner": "田野瀬太道",
+      "predicted_winner_party": "自由民主党",
+      "predicted_winner_result": "◎ 当選有力",
+      "predicted_winner_score": 71.1,
+      "competitiveness": "安定",
+      "confidence": "中"
     }
   ]
 }

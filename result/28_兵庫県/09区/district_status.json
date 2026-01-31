@@ -5,7 +5,7 @@
   "district_name": "兵庫9区",
   "status": "completed",
   "is_official": true,
-  "last_updated": "2026-01-30T20:31:00+09:00",
+  "last_updated": "2026-01-31T14:31:11.064701+09:00",
   "total_candidates": 4,
   "processed_candidates": 4,
   "candidates": [
@@ -30,6 +30,50 @@
         "consistency": 2,
         "ethics": 1,
         "total": 17
+      },
+      "prediction": {
+        "rank": 1,
+        "total_score": 73.1,
+        "result": "○ 当選予想",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 70,
+            "weight": 0.31,
+            "reason": "前回当選（比例復活の可能性あり）"
+          },
+          "party_wind": {
+            "score": 78.0,
+            "weight": 0.25,
+            "reason": "自由民主党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 56.7,
+            "weight": 0.13,
+            "reason": "total=17/30"
+          },
+          "incumbency": {
+            "score": 75,
+            "weight": 0.13,
+            "reason": "前職"
+          },
+          "vote_split": {
+            "score": 95,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "前回実績の優位・自由民主党への追い風・現職の優位性・票の集中が強み"
       }
     },
     {
@@ -53,6 +97,50 @@
         "consistency": 3,
         "ethics": 4,
         "total": 18
+      },
+      "prediction": {
+        "rank": 2,
+        "total_score": 63.9,
+        "result": "▲ やや劣勢",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 83,
+            "weight": 0.31,
+            "reason": "前回当選（小選挙区当選推定）"
+          },
+          "party_wind": {
+            "score": 46.8,
+            "weight": 0.25,
+            "reason": "中道改革連合(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 60.0,
+            "weight": 0.13,
+            "reason": "total=18/30"
+          },
+          "incumbency": {
+            "score": 75,
+            "weight": 0.13,
+            "reason": "前職"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "前回実績の優位・現職の優位性が強み"
       }
     },
     {
@@ -76,6 +164,50 @@
         "consistency": 2,
         "ethics": 2,
         "total": 10
+      },
+      "prediction": {
+        "rank": 4,
+        "total_score": 29.2,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 28.5,
+            "weight": 0.25,
+            "reason": "日本共産党(逆風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 33.3,
+            "weight": 0.13,
+            "reason": "total=10/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 50,
+            "weight": 0.13,
+            "reason": "同ブロック2人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "選挙実績が乏しい・日本共産党への逆風・個人評価が低い・新人のハンデが課題"
       }
     },
     {
@@ -99,7 +231,64 @@
         "consistency": 2,
         "ethics": 2,
         "total": 14
+      },
+      "prediction": {
+        "rank": 3,
+        "total_score": 42.0,
+        "result": "× 厳しい",
+        "proportional_note": null,
+        "factors": {
+          "previous_result": {
+            "score": 20,
+            "weight": 0.31,
+            "reason": "新人"
+          },
+          "party_wind": {
+            "score": 52.2,
+            "weight": 0.25,
+            "reason": "参政党(追い風)"
+          },
+          "media_forecast": {
+            "score": null,
+            "weight": 0,
+            "reason": "情勢報道データなし（重み再配分）"
+          },
+          "personal_score": {
+            "score": 46.7,
+            "weight": 0.13,
+            "reason": "total=14/30"
+          },
+          "incumbency": {
+            "score": 20,
+            "weight": 0.13,
+            "reason": "新人"
+          },
+          "vote_split": {
+            "score": 90,
+            "weight": 0.13,
+            "reason": "同ブロック1人"
+          },
+          "local_base": {
+            "score": 40,
+            "weight": 0.06,
+            "reason": "地盤情報なし（デフォルト）"
+          }
+        },
+        "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
       }
     }
-  ]
+  ],
+  "prediction": {
+    "last_predicted": "2026-01-31T14:31:11.064701+09:00",
+    "competitiveness": "やや接戦",
+    "predicted_winner": "西村康稔",
+    "predicted_winner_party": "自由民主党",
+    "confidence": "低",
+    "search_sources": [],
+    "search_summary": {
+      "previous_election": "候補者ステータスと個人評価から推定",
+      "media_forecast": "報道情勢なし（重み再配分で対応）",
+      "local_factors": "地盤情報なし（デフォルト値使用）"
+    }
+  }
 }
