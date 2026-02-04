@@ -32,241 +32,121 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "篠原豪",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 72.0,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "新田章文",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 48.7,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "中西健治",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 80.2,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 5
     },
     {
       "district_number": 4,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "早稲田夕季",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 69.1,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 5,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "坂井学",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 76.8,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 4
     },
     {
       "district_number": 6,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2,
-      "predicted_winner": "古川直季",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 74.5,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 2
     },
     {
       "district_number": 7,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2,
-      "predicted_winner": "中谷一馬",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "△ 接戦",
-      "predicted_winner_score": 73.3,
-      "competitiveness": "大接戦",
-      "confidence": "低"
+      "processed_candidates": 2
     },
     {
       "district_number": 8,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2,
-      "predicted_winner": "三谷英弘",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 74.9,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 2
     },
     {
       "district_number": 9,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "笠浩史",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 64.7,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 10,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "田中和徳",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 75.3,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     },
     {
       "district_number": 11,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "小泉進次郎",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 70.3,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 12,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "星野剛士",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 76.0,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 4
     },
     {
       "district_number": 13,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "太栄志",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 68.6,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 14,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "赤間二郎",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 80.6,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 4
     },
     {
       "district_number": 15,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "河野太郎",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 80.2,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 4
     },
     {
       "district_number": 16,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2,
-      "predicted_winner": "後藤祐一",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 67.8,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 2
     },
     {
       "district_number": 17,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "牧島かれん",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 74.0,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 3
     },
     {
       "district_number": 18,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6,
-      "predicted_winner": "山際大志郎",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 68.7,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 6
     },
     {
       "district_number": 19,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "草間剛",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 79.1,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 4
     },
     {
       "district_number": 20,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "大塚小百合",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 72.4,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     }
   ]
 }

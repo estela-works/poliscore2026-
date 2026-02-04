@@ -6,12 +6,12 @@
   "last_updated": "2026-01-29T11:24:58.465747",
   "summary": {
     "total_prefectures": 47,
-    "total_districts": 292,
+    "total_districts": 290,
     "completed": 289,
     "processing": 0,
     "identified": 0,
     "pre": 0,
-    "none": 3,
+    "none": 1,
     "abolished": 0,
     "total_candidates": 1119,
     "processed_candidates": 1119
@@ -1399,11 +1399,6 @@
           "status": "completed",
           "total": 3,
           "processed": 3
-        },
-        "7": {
-          "status": "none",
-          "total": 0,
-          "processed": 0
         }
       }
     },
@@ -1554,11 +1549,6 @@
           "status": "completed",
           "total": 5,
           "processed": 5
-        },
-        "12": {
-          "status": "none",
-          "total": 0,
-          "processed": 0
         }
       }
     },

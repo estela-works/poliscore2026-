@@ -1,0 +1,5529 @@
+{
+  "description": "各選挙区の最高評価スコア（6項目合計）",
+  "election": "2026年衆議院選挙",
+  "scoring": {
+    "max_per_item": 5,
+    "items": 6,
+    "max_total": 30
+  },
+  "total_districts": 289,
+  "districts": [
+    {
+      "district_name": "北海道1区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 1,
+      "top_candidate": "道下大樹",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "北海道2区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 2,
+      "top_candidate": "平岡大介",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "北海道3区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 3,
+      "top_candidate": "荒井優",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "北海道4区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 4,
+      "top_candidate": "大築紅葉",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "北海道5区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 5,
+      "top_candidate": "池田真紀",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "北海道6区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 6,
+      "top_candidate": "西川将人",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "北海道7区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 7,
+      "top_candidate": "篠田奈保子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "北海道8区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 8,
+      "top_candidate": "逢坂誠二",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "北海道9区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 9,
+      "top_candidate": "立野広志",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "北海道10区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 10,
+      "top_candidate": "神谷裕",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "北海道11区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 11,
+      "top_candidate": "石川香織",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "北海道12区",
+      "prefecture_code": "01",
+      "prefecture_name": "北海道",
+      "district_number": 12,
+      "top_candidate": "武部新",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "青森1区",
+      "prefecture_code": "02",
+      "prefecture_name": "青森県",
+      "district_number": 1,
+      "top_candidate": "加藤勉",
+      "party": "参政党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "青森2区",
+      "prefecture_code": "02",
+      "prefecture_name": "青森県",
+      "district_number": 2,
+      "top_candidate": "松尾和彦",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "青森3区",
+      "prefecture_code": "02",
+      "prefecture_name": "青森県",
+      "district_number": 3,
+      "top_candidate": "佐原若子",
+      "party": "れいわ新選組",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "岩手1区",
+      "prefecture_code": "03",
+      "prefecture_name": "岩手県",
+      "district_number": 1,
+      "top_candidate": "佐々木大成",
+      "party": "参政党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 13
+      },
+      "highest_total": 13
+    },
+    {
+      "district_name": "岩手2区",
+      "prefecture_code": "03",
+      "prefecture_name": "岩手県",
+      "district_number": 2,
+      "top_candidate": "鈴木俊一",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "岩手3区",
+      "prefecture_code": "03",
+      "prefecture_name": "岩手県",
+      "district_number": 3,
+      "top_candidate": "及川泰輔",
+      "party": "参政党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "宮城1区",
+      "prefecture_code": "04",
+      "prefecture_name": "宮城県",
+      "district_number": 1,
+      "top_candidate": "岡本章子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "宮城2区",
+      "prefecture_code": "04",
+      "prefecture_name": "宮城県",
+      "district_number": 2,
+      "top_candidate": "渡辺勝幸",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "宮城3区",
+      "prefecture_code": "04",
+      "prefecture_name": "宮城県",
+      "district_number": 3,
+      "top_candidate": "西村明宏",
+      "party": "自由民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 1,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "宮城4区",
+      "prefecture_code": "04",
+      "prefecture_name": "宮城県",
+      "district_number": 4,
+      "top_candidate": "安住淳",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "宮城5区",
+      "prefecture_code": "04",
+      "prefecture_name": "宮城県",
+      "district_number": 5,
+      "top_candidate": "小野寺五典",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "秋田1区",
+      "prefecture_code": "05",
+      "prefecture_name": "秋田県",
+      "district_number": 1,
+      "top_candidate": "早川周作",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 1,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "秋田2区",
+      "prefecture_code": "05",
+      "prefecture_name": "秋田県",
+      "district_number": 2,
+      "top_candidate": "福原淳嗣",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "秋田3区",
+      "prefecture_code": "05",
+      "prefecture_name": "秋田県",
+      "district_number": 3,
+      "top_candidate": "御法川信英",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "山形1区",
+      "prefecture_code": "06",
+      "prefecture_name": "山形県",
+      "district_number": 1,
+      "top_candidate": "遠藤寛明",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "山形2区",
+      "prefecture_code": "06",
+      "prefecture_name": "山形県",
+      "district_number": 2,
+      "top_candidate": "岩本康嗣",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 11
+      },
+      "highest_total": 11
+    },
+    {
+      "district_name": "山形3区",
+      "prefecture_code": "06",
+      "prefecture_name": "山形県",
+      "district_number": 3,
+      "top_candidate": "喜多恒介",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "福島1区",
+      "prefecture_code": "07",
+      "prefecture_name": "福島県",
+      "district_number": 1,
+      "top_candidate": "西山尚利",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "福島2区",
+      "prefecture_code": "07",
+      "prefecture_name": "福島県",
+      "district_number": 2,
+      "top_candidate": "遠藤雄大",
+      "party": "無所属",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "福島3区",
+      "prefecture_code": "07",
+      "prefecture_name": "福島県",
+      "district_number": 3,
+      "top_candidate": "金山屯",
+      "party": "無所属",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 1,
+        "solution_design": 1,
+        "execution": 1,
+        "accountability": 1,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 8
+      },
+      "highest_total": 8
+    },
+    {
+      "district_name": "福島4区",
+      "prefecture_code": "07",
+      "prefecture_name": "福島県",
+      "district_number": 4,
+      "top_candidate": "山口洋太",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "茨城県1区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 1,
+      "top_candidate": "大内久美子",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "茨城2区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 2,
+      "top_candidate": "小沼巧",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "茨城県3区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 3,
+      "top_candidate": "斎藤真衣",
+      "party": "参政党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "茨城4区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 4,
+      "top_candidate": "梶山弘志",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "茨城県5区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 5,
+      "top_candidate": "鈴木拓海",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "茨城6区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 6,
+      "top_candidate": "中村吉男",
+      "party": "無所属",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "茨城県7区",
+      "prefecture_code": "08",
+      "prefecture_name": "茨城県",
+      "district_number": 7,
+      "top_candidate": "永岡桂子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "栃木1区",
+      "prefecture_code": "09",
+      "prefecture_name": "栃木県",
+      "district_number": 1,
+      "top_candidate": "柏倉祐司",
+      "party": "日本維新の会",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 1,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "栃木2区",
+      "prefecture_code": "09",
+      "prefecture_name": "栃木県",
+      "district_number": 2,
+      "top_candidate": "福田昭夫",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "栃木3区",
+      "prefecture_code": "09",
+      "prefecture_name": "栃木県",
+      "district_number": 3,
+      "top_candidate": "簗和生",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 1,
+        "consistency": 4,
+        "ethics": 1,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "栃木4区",
+      "prefecture_code": "09",
+      "prefecture_name": "栃木県",
+      "district_number": 4,
+      "top_candidate": "藤岡隆雄",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "栃木5区",
+      "prefecture_code": "09",
+      "prefecture_name": "栃木県",
+      "district_number": 5,
+      "top_candidate": "茂木敏充",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "群馬1区",
+      "prefecture_code": "10",
+      "prefecture_name": "群馬県",
+      "district_number": 1,
+      "top_candidate": "店橋世津子",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "群馬2区",
+      "prefecture_code": "10",
+      "prefecture_name": "群馬県",
+      "district_number": 2,
+      "top_candidate": "伊藤純子",
+      "party": "日本保守党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 12
+      },
+      "highest_total": 12
+    },
+    {
+      "district_name": "群馬3区",
+      "prefecture_code": "10",
+      "prefecture_name": "群馬県",
+      "district_number": 3,
+      "top_candidate": "笹川博義",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "群馬4区",
+      "prefecture_code": "10",
+      "prefecture_name": "群馬県",
+      "district_number": 4,
+      "top_candidate": "福田達夫",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "群馬5区",
+      "prefecture_code": "10",
+      "prefecture_name": "群馬県",
+      "district_number": 5,
+      "top_candidate": "小渕優子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 1,
+        "consistency": 4,
+        "ethics": 1,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "埼玉1区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 1,
+      "top_candidate": "村井英樹",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "埼玉2区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 2,
+      "top_candidate": "新藤義孝",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "埼玉3区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 3,
+      "top_candidate": "黄川田仁志",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "埼玉4区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 4,
+      "top_candidate": "穂坂泰",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "埼玉5区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 5,
+      "top_candidate": "枝野幸男",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 5,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "埼玉6区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 6,
+      "top_candidate": "大島敦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "埼玉7区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 7,
+      "top_candidate": "小宮山泰子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "埼玉8区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 8,
+      "top_candidate": "岡田静佳",
+      "party": "無所属",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "埼玉9区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 9,
+      "top_candidate": "杉村慎治",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "埼玉10区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 10,
+      "top_candidate": "坂本祐之輔",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "埼玉11区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 11,
+      "top_candidate": "小泉龍司",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "埼玉12区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 12,
+      "top_candidate": "野中厚",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "埼玉13区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 13,
+      "top_candidate": "橋本幹彦",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "埼玉14区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 14,
+      "top_candidate": "鈴木義弘",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "埼玉15区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 15,
+      "top_candidate": "南原竜樹",
+      "party": "日本維新の会",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "埼玉16区",
+      "prefecture_code": "11",
+      "prefecture_name": "埼玉県",
+      "district_number": 16,
+      "top_candidate": "土屋品子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "千葉1区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 1,
+      "top_candidate": "田嶋要",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "千葉2区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 2,
+      "top_candidate": "小林鷹之",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "千葉3区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 3,
+      "top_candidate": "岡島一正",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "千葉4区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 4,
+      "top_candidate": "水沼秀幸",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "千葉5区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 5,
+      "top_candidate": "英利アルフィヤ",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 5,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "千葉6区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 6,
+      "top_candidate": "安藤淳子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "千葉7区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 7,
+      "top_candidate": "齋藤健",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "千葉8区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 8,
+      "top_candidate": "本庄知史",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "千葉9区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 9,
+      "top_candidate": "奥野総一郎",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "千葉10区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 10,
+      "top_candidate": "小池正昭",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "千葉11区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 11,
+      "top_candidate": "森英介",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "千葉12区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 12,
+      "top_candidate": "浜田靖一",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 3,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "千葉13区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 13,
+      "top_candidate": "松本尚",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "千葉14区",
+      "prefecture_code": "12",
+      "prefecture_name": "千葉県",
+      "district_number": 14,
+      "top_candidate": "野田佳彦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "東京1区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 1,
+      "top_candidate": "海江田万里",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "東京2区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 2,
+      "top_candidate": "鳩山紀一郎",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "東京3区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 3,
+      "top_candidate": "阿部祐美子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "東京4区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 4,
+      "top_candidate": "平将明",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "東京5区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 5,
+      "top_candidate": "稲葉太郎",
+      "party": "日本維新の会",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "東京6区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 6,
+      "top_candidate": "落合貴之",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "東京7区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 7,
+      "top_candidate": "松尾明弘",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "東京8区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 8,
+      "top_candidate": "吉田晴美",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "東京9区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 9,
+      "top_candidate": "山岸一生",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "東京10区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 10,
+      "top_candidate": "鈴木隼人",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "東京11区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 11,
+      "top_candidate": "阿久津幸彦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "東京12区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 12,
+      "top_candidate": "阿部司",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "東京13区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 13,
+      "top_candidate": "森洋介",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "東京14区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 14,
+      "top_candidate": "松島みどり",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "東京15区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 15,
+      "top_candidate": "酒井菜摘",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "東京16区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 16,
+      "top_candidate": "柴田勝之",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "東京17区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 17,
+      "top_candidate": "円より子",
+      "party": "無所属",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "東京18区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 18,
+      "top_candidate": "松下玲子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "東京19区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 19,
+      "top_candidate": "末松義規",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "東京20区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 20,
+      "top_candidate": "宮本徹",
+      "party": "日本共産党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 5,
+        "consistency": 5,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "東京21区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 21,
+      "top_candidate": "鈴木烈",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "東京22区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 22,
+      "top_candidate": "山花郁夫",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "東京23区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 23,
+      "top_candidate": "池川友一",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "東京24区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 24,
+      "top_candidate": "萩生田光一",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 1,
+        "consistency": 3,
+        "ethics": 1,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "東京25区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 25,
+      "top_candidate": "井上信治",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "東京26区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 26,
+      "top_candidate": "松原仁",
+      "party": "無所属",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "東京27区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 27,
+      "top_candidate": "長妻昭",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 5,
+        "consistency": 5,
+        "ethics": 5,
+        "total": 28
+      },
+      "highest_total": 28
+    },
+    {
+      "district_name": "東京28区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 28,
+      "top_candidate": "安藤高夫",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "東京29区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 29,
+      "top_candidate": "小坂英二",
+      "party": "日本保守党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "東京30区",
+      "prefecture_code": "13",
+      "prefecture_name": "東京都",
+      "district_number": 30,
+      "top_candidate": "五十嵐衣里",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "神奈川1区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 1,
+      "top_candidate": "丸尾南都子",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "神奈川2区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 2,
+      "top_candidate": "並木まり子",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "神奈川3区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 3,
+      "top_candidate": "中西健治",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "神奈川4区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 4,
+      "top_candidate": "早稲田夕季",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "神奈川5区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 5,
+      "top_candidate": "久坂くにえ",
+      "party": "日本維新の会",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "神奈川6区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 6,
+      "top_candidate": "青柳陽一郎",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "神奈川7区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 7,
+      "top_candidate": "中谷一馬",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "神奈川8区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 8,
+      "top_candidate": "三谷英弘",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "神奈川9区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 9,
+      "top_candidate": "笠浩史",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "神奈川10区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 10,
+      "top_candidate": "田中和徳",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "神奈川11区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 11,
+      "top_candidate": "為壮稔",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "神奈川12区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 12,
+      "top_candidate": "阿部知子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "神奈川13区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 13,
+      "top_candidate": "太栄志",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "神奈川14区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 14,
+      "top_candidate": "赤間二郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "神奈川15区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 15,
+      "top_candidate": "河野太郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "神奈川16区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 16,
+      "top_candidate": "後藤祐一",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "神奈川17区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 17,
+      "top_candidate": "佐々木奈保美",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "神奈川18区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 18,
+      "top_candidate": "宗野創",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "神奈川19区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 19,
+      "top_candidate": "草間剛",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "神奈川20区",
+      "prefecture_code": "14",
+      "prefecture_name": "神奈川県",
+      "district_number": 20,
+      "top_candidate": "大塚小百合",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "新潟1区",
+      "prefecture_code": "15",
+      "prefecture_name": "新潟県",
+      "district_number": 1,
+      "top_candidate": "西村智奈美",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "新潟2区",
+      "prefecture_code": "15",
+      "prefecture_name": "新潟県",
+      "district_number": 2,
+      "top_candidate": "国定勇人",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "新潟3区",
+      "prefecture_code": "15",
+      "prefecture_name": "新潟県",
+      "district_number": 3,
+      "top_candidate": "斎藤洋明",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "新潟4区",
+      "prefecture_code": "15",
+      "prefecture_name": "新潟県",
+      "district_number": 4,
+      "top_candidate": "野村泰暉",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "新潟5区",
+      "prefecture_code": "15",
+      "prefecture_name": "新潟県",
+      "district_number": 5,
+      "top_candidate": "高鳥修一",
+      "party": "自由民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "富山1区",
+      "prefecture_code": "16",
+      "prefecture_name": "富山県",
+      "district_number": 1,
+      "top_candidate": "中田宏",
+      "party": "自由民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 1,
+        "ethics": 2,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "富山2区",
+      "prefecture_code": "16",
+      "prefecture_name": "富山県",
+      "district_number": 2,
+      "top_candidate": "上田英俊",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "富山3区",
+      "prefecture_code": "16",
+      "prefecture_name": "富山県",
+      "district_number": 3,
+      "top_candidate": "橘慶一郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "石川1区",
+      "prefecture_code": "17",
+      "prefecture_name": "石川県",
+      "district_number": 1,
+      "top_candidate": "小森卓郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "石川2区",
+      "prefecture_code": "17",
+      "prefecture_name": "石川県",
+      "district_number": 2,
+      "top_candidate": "佐々木紀",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "石川3区",
+      "prefecture_code": "17",
+      "prefecture_name": "石川県",
+      "district_number": 3,
+      "top_candidate": "近藤和也",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "福井1区",
+      "prefecture_code": "18",
+      "prefecture_name": "福井県",
+      "district_number": 1,
+      "top_candidate": "山中俊祐",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "福井2区",
+      "prefecture_code": "18",
+      "prefecture_name": "福井県",
+      "district_number": 2,
+      "top_candidate": "辻英之",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "山梨1区",
+      "prefecture_code": "19",
+      "prefecture_name": "山梨県",
+      "district_number": 1,
+      "top_candidate": "中島克仁",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "山梨2区",
+      "prefecture_code": "19",
+      "prefecture_name": "山梨県",
+      "district_number": 2,
+      "top_candidate": "堀内詔子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "長野1区",
+      "prefecture_code": "20",
+      "prefecture_name": "長野県",
+      "district_number": 1,
+      "top_candidate": "篠原孝",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 2,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "長野2区",
+      "prefecture_code": "20",
+      "prefecture_name": "長野県",
+      "district_number": 2,
+      "top_candidate": "下条みつ",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "長野3区",
+      "prefecture_code": "20",
+      "prefecture_name": "長野県",
+      "district_number": 3,
+      "top_candidate": "神津健",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "長野4区",
+      "prefecture_code": "20",
+      "prefecture_name": "長野県",
+      "district_number": 4,
+      "top_candidate": "武田良介",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "長野5区",
+      "prefecture_code": "20",
+      "prefecture_name": "長野県",
+      "district_number": 5,
+      "top_candidate": "宮下一郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "岐阜1区",
+      "prefecture_code": "21",
+      "prefecture_name": "岐阜県",
+      "district_number": 1,
+      "top_candidate": "野田聖子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "岐阜2区",
+      "prefecture_code": "21",
+      "prefecture_name": "岐阜県",
+      "district_number": 2,
+      "top_candidate": "野村美穂",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "岐阜3区",
+      "prefecture_code": "21",
+      "prefecture_name": "岐阜県",
+      "district_number": 3,
+      "top_candidate": "武藤容治",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "岐阜4区",
+      "prefecture_code": "21",
+      "prefecture_name": "岐阜県",
+      "district_number": 4,
+      "top_candidate": "加藤ともひろ",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "岐阜5区",
+      "prefecture_code": "21",
+      "prefecture_name": "岐阜県",
+      "district_number": 5,
+      "top_candidate": "眞野哲",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "静岡1区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 1,
+      "top_candidate": "上川陽子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "静岡2区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 2,
+      "top_candidate": "井林辰憲",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "静岡3区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 3,
+      "top_candidate": "小山展弘",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "静岡4区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 4,
+      "top_candidate": "田中健",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "静岡5区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 5,
+      "top_candidate": "細野豪志",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 1,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "静岡6区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 6,
+      "top_candidate": "渡辺周",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "静岡7区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 7,
+      "top_candidate": "城内実",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "静岡8区",
+      "prefecture_code": "22",
+      "prefecture_name": "静岡県",
+      "district_number": 8,
+      "top_candidate": "源馬謙太郎",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "愛知1区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 1,
+      "top_candidate": "吉田統彦",
+      "party": "中道改革連合",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "愛知2区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 2,
+      "top_candidate": "古川元久",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "愛知3区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 3,
+      "top_candidate": "近藤昭一",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "愛知4区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 4,
+      "top_candidate": "牧義夫",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "愛知5区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 5,
+      "top_candidate": "西川厚志",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "愛知6区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 6,
+      "top_candidate": "丹羽秀樹",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "愛知7区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 7,
+      "top_candidate": "日野紗里亜",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "愛知8区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 8,
+      "top_candidate": "伴野豊",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "愛知9区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 9,
+      "top_candidate": "岡本充功",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "愛知10区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 10,
+      "top_candidate": "杉本和巳",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 13
+      },
+      "highest_total": 13
+    },
+    {
+      "district_name": "愛知11区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 11,
+      "top_candidate": "藤沢ただもり",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "愛知12区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 12,
+      "top_candidate": "重徳和彦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "愛知13区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 13,
+      "top_candidate": "大西健介",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "愛知14区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 14,
+      "top_candidate": "今枝宗一郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "愛知15区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 15,
+      "top_candidate": "根本幸典",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 1,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "愛知16区",
+      "prefecture_code": "23",
+      "prefecture_name": "愛知県",
+      "district_number": 16,
+      "top_candidate": "福田徹",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "三重1区",
+      "prefecture_code": "24",
+      "prefecture_name": "三重県",
+      "district_number": 1,
+      "top_candidate": "田村憲久",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "三重2区",
+      "prefecture_code": "24",
+      "prefecture_name": "三重県",
+      "district_number": 2,
+      "top_candidate": "下野幸助",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "三重3区",
+      "prefecture_code": "24",
+      "prefecture_name": "三重県",
+      "district_number": 3,
+      "top_candidate": "岡田克也",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "三重4区",
+      "prefecture_code": "24",
+      "prefecture_name": "三重県",
+      "district_number": 4,
+      "top_candidate": "鈴木英敬",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "滋賀1区",
+      "prefecture_code": "25",
+      "prefecture_name": "滋賀県",
+      "district_number": 1,
+      "top_candidate": "斎藤アレックス",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "滋賀2区",
+      "prefecture_code": "25",
+      "prefecture_name": "滋賀県",
+      "district_number": 2,
+      "top_candidate": "平尾道雄",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "滋賀3区",
+      "prefecture_code": "25",
+      "prefecture_name": "滋賀県",
+      "district_number": 3,
+      "top_candidate": "武村展英",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "京都1区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 1,
+      "top_candidate": "平竹耕三",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "京都2区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 2,
+      "top_candidate": "辻村ちひろ",
+      "party": "れいわ新選組",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "京都3区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 3,
+      "top_candidate": "泉健太",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "京都4区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 4,
+      "top_candidate": "北神圭朗",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "京都5区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 5,
+      "top_candidate": "山内健",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "京都6区",
+      "prefecture_code": "26",
+      "prefecture_name": "京都府",
+      "district_number": 6,
+      "top_candidate": "山井和則",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 28
+      },
+      "highest_total": 28
+    },
+    {
+      "district_name": "大阪1区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 1,
+      "top_candidate": "井上英孝",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "大阪2区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 2,
+      "top_candidate": "小川陽太",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "大阪3区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 3,
+      "top_candidate": "東徹",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "大阪4区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 4,
+      "top_candidate": "山田みのり",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "大阪5区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 5,
+      "top_candidate": "梅村聡",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "大阪6区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 6,
+      "top_candidate": "永井まさし",
+      "party": "自由民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "大阪7区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 7,
+      "top_candidate": "渡嘉敷奈緒美",
+      "party": "自由民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "大阪8区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 8,
+      "top_candidate": "漆間譲司",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "大阪9区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 9,
+      "top_candidate": "萩原佳",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "大阪10区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 10,
+      "top_candidate": "尾辻かな子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "大阪11区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 11,
+      "top_candidate": "中司宏",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "大阪12区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 12,
+      "top_candidate": "樽床伸二",
+      "party": "中道改革連合",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "大阪13区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 13,
+      "top_candidate": "岩谷良平",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "大阪14区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 14,
+      "top_candidate": "青柳仁士",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "大阪15区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 15,
+      "top_candidate": "島田智明",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "大阪16区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 16,
+      "top_candidate": "森山浩行",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "大阪17区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 17,
+      "top_candidate": "馬場伸幸",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "大阪18区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 18,
+      "top_candidate": "遠藤敬",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "大阪19区",
+      "prefecture_code": "27",
+      "prefecture_name": "大阪府",
+      "district_number": 19,
+      "top_candidate": "伊東信久",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "兵庫1区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 1,
+      "top_candidate": "井坂信彦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 5,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "兵庫2区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 2,
+      "top_candidate": "阿部圭史",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "兵庫3区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 3,
+      "top_candidate": "和田有一朗",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "兵庫4区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 4,
+      "top_candidate": "藤井比早之",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "兵庫5区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 5,
+      "top_candidate": "谷公一",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "兵庫6区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 6,
+      "top_candidate": "桜井周",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "兵庫7区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 7,
+      "top_candidate": "山田賢司",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "兵庫8区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 8,
+      "top_candidate": "徳安淳子",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "兵庫9区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 9,
+      "top_candidate": "橋本慧悟",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "兵庫10区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 10,
+      "top_candidate": "渡海紀三朗",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "兵庫11区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 11,
+      "top_candidate": "住吉寛紀",
+      "party": "日本維新の会",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "兵庫12区",
+      "prefecture_code": "28",
+      "prefecture_name": "兵庫県",
+      "district_number": 12,
+      "top_candidate": "山口壮",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "奈良1区",
+      "prefecture_code": "29",
+      "prefecture_name": "奈良県",
+      "district_number": 1,
+      "top_candidate": "馬淵澄夫",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "奈良2区",
+      "prefecture_code": "29",
+      "prefecture_name": "奈良県",
+      "district_number": 2,
+      "top_candidate": "高市早苗",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "奈良3区",
+      "prefecture_code": "29",
+      "prefecture_name": "奈良県",
+      "district_number": 3,
+      "top_candidate": "太田敦",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 5,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "和歌山1区",
+      "prefecture_code": "30",
+      "prefecture_name": "和歌山県",
+      "district_number": 1,
+      "top_candidate": "要友紀子",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 5,
+        "consistency": 5,
+        "ethics": 5,
+        "total": 28
+      },
+      "highest_total": 28
+    },
+    {
+      "district_name": "和歌山2区",
+      "prefecture_code": "30",
+      "prefecture_name": "和歌山県",
+      "district_number": 2,
+      "top_candidate": "世耕弘成",
+      "party": "無所属",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 1,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "鳥取1区",
+      "prefecture_code": "31",
+      "prefecture_name": "鳥取県",
+      "district_number": 1,
+      "top_candidate": "塚田なるゆき",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "鳥取2区",
+      "prefecture_code": "31",
+      "prefecture_name": "鳥取県",
+      "district_number": 2,
+      "top_candidate": "赤澤亮正",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "島根1区",
+      "prefecture_code": "32",
+      "prefecture_name": "島根県",
+      "district_number": 1,
+      "top_candidate": "亀井亜紀子",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "島根2区",
+      "prefecture_code": "32",
+      "prefecture_name": "島根県",
+      "district_number": 2,
+      "top_candidate": "高見康裕",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "岡山1区",
+      "prefecture_code": "33",
+      "prefecture_name": "岡山県",
+      "district_number": 1,
+      "top_candidate": "原田謙介",
+      "party": "中道改革連合",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "岡山2区",
+      "prefecture_code": "33",
+      "prefecture_name": "岡山県",
+      "district_number": 2,
+      "top_candidate": "山下貴司",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "岡山3区",
+      "prefecture_code": "33",
+      "prefecture_name": "岡山県",
+      "district_number": 3,
+      "top_candidate": "加藤勝信",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "岡山4区",
+      "prefecture_code": "33",
+      "prefecture_name": "岡山県",
+      "district_number": 4,
+      "top_candidate": "橋本岳",
+      "party": "自由民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "広島1区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 1,
+      "top_candidate": "岸田文雄",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "広島2区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 2,
+      "top_candidate": "平口洋",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "広島3区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 3,
+      "top_candidate": "東克哉",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "広島4区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 4,
+      "top_candidate": "新谷正義",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "広島5区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 5,
+      "top_candidate": "佐藤公治",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "広島6区",
+      "prefecture_code": "34",
+      "prefecture_name": "広島県",
+      "district_number": 6,
+      "top_candidate": "小林史明",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 28
+      },
+      "highest_total": 28
+    },
+    {
+      "district_name": "山口1区",
+      "prefecture_code": "35",
+      "prefecture_name": "山口県",
+      "district_number": 1,
+      "top_candidate": "高村正大",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "山口2区",
+      "prefecture_code": "35",
+      "prefecture_name": "山口県",
+      "district_number": 2,
+      "top_candidate": "平岡秀夫",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 17
+      },
+      "highest_total": 17
+    },
+    {
+      "district_name": "山口3区",
+      "prefecture_code": "35",
+      "prefecture_name": "山口県",
+      "district_number": 3,
+      "top_candidate": "林芳正",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "徳島1区",
+      "prefecture_code": "36",
+      "prefecture_name": "徳島県",
+      "district_number": 1,
+      "top_candidate": "仁木博文",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "徳島2区",
+      "prefecture_code": "36",
+      "prefecture_name": "徳島県",
+      "district_number": 2,
+      "top_candidate": "山口俊一",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "香川1区",
+      "prefecture_code": "37",
+      "prefecture_name": "香川県",
+      "district_number": 1,
+      "top_candidate": "小川淳也",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 5,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 26
+      },
+      "highest_total": 26
+    },
+    {
+      "district_name": "香川2区",
+      "prefecture_code": "37",
+      "prefecture_name": "香川県",
+      "district_number": 2,
+      "top_candidate": "玉木雄一郎",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "香川3区",
+      "prefecture_code": "37",
+      "prefecture_name": "香川県",
+      "district_number": 3,
+      "top_candidate": "大野敬太郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "愛媛1区",
+      "prefecture_code": "38",
+      "prefecture_name": "愛媛県",
+      "district_number": 1,
+      "top_candidate": "塩崎彰久",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "愛媛2区",
+      "prefecture_code": "38",
+      "prefecture_name": "愛媛県",
+      "district_number": 2,
+      "top_candidate": "白石洋一",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "愛媛3区",
+      "prefecture_code": "38",
+      "prefecture_name": "愛媛県",
+      "district_number": 3,
+      "top_candidate": "長谷川淳二",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "高知1区",
+      "prefecture_code": "39",
+      "prefecture_name": "高知県",
+      "district_number": 1,
+      "top_candidate": "中谷元",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "高知2区",
+      "prefecture_code": "39",
+      "prefecture_name": "高知県",
+      "district_number": 2,
+      "top_candidate": "尾崎正直",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "福岡1区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 1,
+      "top_candidate": "丸尾圭祐",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "福岡2区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 2,
+      "top_candidate": "稲富修二",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "福岡3区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 3,
+      "top_candidate": "古賀篤",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 5,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "福岡4区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 4,
+      "top_candidate": "許斐亮太郎",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "福岡5区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 5,
+      "top_candidate": "栗原渉",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "福岡6区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 6,
+      "top_candidate": "近藤雅彦",
+      "party": "国民民主党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 1,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 14
+      },
+      "highest_total": 14
+    },
+    {
+      "district_name": "福岡7区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 7,
+      "top_candidate": "藤丸敏",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "福岡8区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 8,
+      "top_candidate": "麻生太郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 22
+      },
+      "highest_total": 22
+    },
+    {
+      "district_name": "福岡9区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 9,
+      "top_candidate": "緒方林太郎",
+      "party": "無所属",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 5,
+        "total": 27
+      },
+      "highest_total": 27
+    },
+    {
+      "district_name": "福岡10区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 10,
+      "top_candidate": "城井崇",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "福岡11区",
+      "prefecture_code": "40",
+      "prefecture_name": "福岡県",
+      "district_number": 11,
+      "top_candidate": "村上智信",
+      "party": "日本維新の会",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "佐賀1区",
+      "prefecture_code": "41",
+      "prefecture_name": "佐賀県",
+      "district_number": 1,
+      "top_candidate": "岩田和親",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "佐賀2区",
+      "prefecture_code": "41",
+      "prefecture_name": "佐賀県",
+      "district_number": 2,
+      "top_candidate": "大串博志",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 2,
+        "ethics": 2,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "長崎1区",
+      "prefecture_code": "42",
+      "prefecture_name": "長崎県",
+      "district_number": 1,
+      "top_candidate": "西岡秀子",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "長崎2区",
+      "prefecture_code": "42",
+      "prefecture_name": "長崎県",
+      "district_number": 2,
+      "top_candidate": "山田勝彦",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "長崎3区",
+      "prefecture_code": "42",
+      "prefecture_name": "長崎県",
+      "district_number": 3,
+      "top_candidate": "金子容三",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "熊本1区",
+      "prefecture_code": "43",
+      "prefecture_name": "熊本県",
+      "district_number": 1,
+      "top_candidate": "木原稔",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "熊本2区",
+      "prefecture_code": "43",
+      "prefecture_name": "熊本県",
+      "district_number": 2,
+      "top_candidate": "益田牧子",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "熊本3区",
+      "prefecture_code": "43",
+      "prefecture_name": "熊本県",
+      "district_number": 3,
+      "top_candidate": "坂本哲志",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 21
+      },
+      "highest_total": 21
+    },
+    {
+      "district_name": "熊本4区",
+      "prefecture_code": "43",
+      "prefecture_name": "熊本県",
+      "district_number": 4,
+      "top_candidate": "金子恭之",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 2,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 4,
+        "ethics": 2,
+        "total": 16
+      },
+      "highest_total": 16
+    },
+    {
+      "district_name": "大分1区",
+      "prefecture_code": "44",
+      "prefecture_name": "大分県",
+      "district_number": 1,
+      "top_candidate": "吉良州司",
+      "party": "無所属",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "大分2区",
+      "prefecture_code": "44",
+      "prefecture_name": "大分県",
+      "district_number": 2,
+      "top_candidate": "吉川元",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "大分3区",
+      "prefecture_code": "44",
+      "prefecture_name": "大分県",
+      "district_number": 3,
+      "top_candidate": "岩屋毅",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 3,
+        "ethics": 2,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "宮崎1区",
+      "prefecture_code": "45",
+      "prefecture_name": "宮崎県",
+      "district_number": 1,
+      "top_candidate": "渡辺創",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "宮崎2区",
+      "prefecture_code": "45",
+      "prefecture_name": "宮崎県",
+      "district_number": 2,
+      "top_candidate": "長友慎治",
+      "party": "国民民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 3,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "宮崎3区",
+      "prefecture_code": "45",
+      "prefecture_name": "宮崎県",
+      "district_number": 3,
+      "top_candidate": "古川禎久",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 3,
+        "ethics": 3,
+        "total": 19
+      },
+      "highest_total": 19
+    },
+    {
+      "district_name": "鹿児島1区",
+      "prefecture_code": "46",
+      "prefecture_name": "鹿児島県",
+      "district_number": 1,
+      "top_candidate": "川内博史",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 3,
+        "ethics": 4,
+        "total": 23
+      },
+      "highest_total": 23
+    },
+    {
+      "district_name": "鹿児島2区",
+      "prefecture_code": "46",
+      "prefecture_name": "鹿児島県",
+      "district_number": 2,
+      "top_candidate": "松崎真琴",
+      "party": "日本共産党",
+      "status": "新人",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 2,
+        "execution": 2,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "鹿児島3区",
+      "prefecture_code": "46",
+      "prefecture_name": "鹿児島県",
+      "district_number": 3,
+      "top_candidate": "野間健",
+      "party": "中道改革連合",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 3,
+        "consistency": 2,
+        "ethics": 3,
+        "total": 18
+      },
+      "highest_total": 18
+    },
+    {
+      "district_name": "鹿児島4区",
+      "prefecture_code": "46",
+      "prefecture_name": "鹿児島県",
+      "district_number": 4,
+      "top_candidate": "森山裕",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 25
+      },
+      "highest_total": 25
+    },
+    {
+      "district_name": "沖縄1区",
+      "prefecture_code": "47",
+      "prefecture_name": "沖縄県",
+      "district_number": 1,
+      "top_candidate": "赤嶺政賢",
+      "party": "日本共産党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 2,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 5,
+        "total": 24
+      },
+      "highest_total": 24
+    },
+    {
+      "district_name": "沖縄2区",
+      "prefecture_code": "47",
+      "prefecture_name": "沖縄県",
+      "district_number": 2,
+      "top_candidate": "瑞慶覧長敏",
+      "party": "社会民主党",
+      "status": "元職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 3,
+        "accountability": 3,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 20
+      },
+      "highest_total": 20
+    },
+    {
+      "district_name": "沖縄3区",
+      "prefecture_code": "47",
+      "prefecture_name": "沖縄県",
+      "district_number": 3,
+      "top_candidate": "島尻安伊子",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 3,
+        "solution_design": 3,
+        "execution": 4,
+        "accountability": 2,
+        "consistency": 1,
+        "ethics": 2,
+        "total": 15
+      },
+      "highest_total": 15
+    },
+    {
+      "district_name": "沖縄4区",
+      "prefecture_code": "47",
+      "prefecture_name": "沖縄県",
+      "district_number": 4,
+      "top_candidate": "西銘恒三郎",
+      "party": "自由民主党",
+      "status": "前職",
+      "scores": {
+        "issue_identification": 5,
+        "solution_design": 5,
+        "execution": 5,
+        "accountability": 4,
+        "consistency": 4,
+        "ethics": 4,
+        "total": 27
+      },
+      "highest_total": 27
+    }
+  ],
+  "summary": {
+    "average_highest": 21.0,
+    "max": 28,
+    "min": 8,
+    "score_distribution": {
+      "8": 1,
+      "11": 1,
+      "12": 1,
+      "13": 2,
+      "14": 1,
+      "15": 11,
+      "16": 12,
+      "17": 10,
+      "18": 32,
+      "19": 21,
+      "20": 41,
+      "21": 17,
+      "22": 30,
+      "23": 29,
+      "24": 42,
+      "25": 20,
+      "26": 6,
+      "27": 8,
+      "28": 4
+    }
+  }
+}

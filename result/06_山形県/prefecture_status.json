@@ -32,37 +32,19 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "原田和広",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 64.0,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "鈴木憲和",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 70.3,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 3
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "加藤鮎子",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 70.3,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 4
     }
   ]
 }

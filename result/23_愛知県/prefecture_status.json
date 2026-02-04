@@ -32,193 +32,97 @@
       "district_number": 1,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "河村たかし",
-      "predicted_winner_party": "減税日本・ゆうこく連合",
-      "predicted_winner_result": "△ 接戦",
-      "predicted_winner_score": 65.3,
-      "competitiveness": "大接戦",
-      "confidence": "低"
+      "processed_candidates": 4
     },
     {
       "district_number": 2,
       "status": "completed",
       "total_candidates": 4,
-      "processed_candidates": 4,
-      "predicted_winner": "古川元久",
-      "predicted_winner_party": "国民民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 71.5,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 4
     },
     {
       "district_number": 3,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "近藤昭一",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 68.9,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     },
     {
       "district_number": 4,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6,
-      "predicted_winner": "工藤彰三",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 76.4,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 6
     },
     {
       "district_number": 5,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6,
-      "predicted_winner": "西川厚志",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 63.9,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 6
     },
     {
       "district_number": 6,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "丹羽秀樹",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 81.1,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 5
     },
     {
       "district_number": 7,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "日野紗里亜",
-      "predicted_winner_party": "国民民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 70.7,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 8,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "伊藤忠彦",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "△ 接戦",
-      "predicted_winner_score": 75.3,
-      "competitiveness": "大接戦",
-      "confidence": "低"
+      "processed_candidates": 3
     },
     {
       "district_number": 9,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "長坂康正",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 76.4,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     },
     {
       "district_number": 10,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "若山慎司",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 66.3,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     },
     {
       "district_number": 11,
       "status": "completed",
       "total_candidates": 2,
-      "processed_candidates": 2,
-      "predicted_winner": "丹野みどり",
-      "predicted_winner_party": "国民民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 58.3,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 2
     },
     {
       "district_number": 12,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "重徳和彦",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 64.9,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 3
     },
     {
       "district_number": 13,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "大西健介",
-      "predicted_winner_party": "中道改革連合",
-      "predicted_winner_result": "△ 接戦",
-      "predicted_winner_score": 60.1,
-      "competitiveness": "大接戦",
-      "confidence": "低"
+      "processed_candidates": 3
     },
     {
       "district_number": 14,
       "status": "completed",
       "total_candidates": 3,
-      "processed_candidates": 3,
-      "predicted_winner": "今枝宗一郎",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "◎ 当選有力",
-      "predicted_winner_score": 80.6,
-      "competitiveness": "安定",
-      "confidence": "中"
+      "processed_candidates": 3
     },
     {
       "district_number": 15,
       "status": "completed",
       "total_candidates": 6,
-      "processed_candidates": 6,
-      "predicted_winner": "根本幸典",
-      "predicted_winner_party": "自由民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 76.4,
-      "competitiveness": "やや接戦",
-      "confidence": "中"
+      "processed_candidates": 6
     },
     {
       "district_number": 16,
       "status": "completed",
       "total_candidates": 5,
-      "processed_candidates": 5,
-      "predicted_winner": "福田徹",
-      "predicted_winner_party": "国民民主党",
-      "predicted_winner_result": "○ 当選予想",
-      "predicted_winner_score": 70.7,
-      "competitiveness": "やや接戦",
-      "confidence": "低"
+      "processed_candidates": 5
     }
   ]
 }

@@ -199,6 +199,15 @@
           }
         },
         "rationale": "前回実績の優位・自由民主党への追い風・現職の優位性・票の集中が強み"
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 5,
+        "ethics": 4,
+        "total": 25
       }
     },
     {
@@ -257,6 +266,15 @@
           }
         },
         "rationale": "前回実績の優位・現職の優位性・票の集中が強み"
+      },
+      "scores": {
+        "issue_identification": 4,
+        "solution_design": 4,
+        "execution": 4,
+        "accountability": 4,
+        "consistency": 2,
+        "ethics": 4,
+        "total": 22
       }
     }
   ],
