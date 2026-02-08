@@ -73,6 +73,11 @@
           }
         },
         "rationale": "前回実績の優位・高い個人評価・現職の優位性が強み"
+      },
+      "election_result": {
+        "result": "当選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -139,6 +144,11 @@
           }
         },
         "rationale": "前回実績の優位・自由民主党への追い風・現職の優位性・票の集中が強み"
+      },
+      "election_result": {
+        "result": "比例復活",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -205,6 +215,11 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -271,6 +286,11 @@
           }
         },
         "rationale": "選挙実績が乏しい・日本共産党への逆風・新人のハンデが課題"
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     }
   ],
@@ -286,5 +306,11 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "大築紅葉",
+    "winner_party": "中道改革連合",
+    "turnout": null,
+    "result_updated": "2026-02-08T21:00:00+09:00"
   }
 }
