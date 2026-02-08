@@ -1,11 +1,11 @@
 {
   "election": "第51回衆議院議員総選挙",
   "date": "2026-02-08",
-  "last_updated": "2026-02-08T20:59:58.970083+09:00",
+  "last_updated": "2026-02-08T21:22:02.421586+09:00",
   "summary": {
     "total_districts": 290,
-    "collected": 12,
-    "remaining": 278
+    "collected": 33,
+    "remaining": 257
   },
   "prefectures": {
     "01": {
@@ -30,64 +30,64 @@
     "02": {
       "name": "青森県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "03": {
       "name": "岩手県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "04": {
       "name": "宮城県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "05": {
       "name": "秋田県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "06": {
       "name": "山形県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "07": {
       "name": "福島県",
       "total_districts": 4,
-      "collected": 0,
+      "collected": 4,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only"
       }
     },
     "08": {
@@ -133,22 +133,22 @@
       "total_districts": 16,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending",
-        "15": "pending",
-        "16": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only",
+        "15": "result_only",
+        "16": "result_only"
       }
     },
     "12": {
@@ -156,20 +156,20 @@
       "total_districts": 14,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only"
       }
     },
     "13": {
@@ -241,11 +241,11 @@
       "total_districts": 5,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "16": {
@@ -253,9 +253,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "17": {
@@ -263,9 +263,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "18": {
@@ -273,8 +273,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "19": {
@@ -282,8 +282,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "20": {
@@ -291,11 +291,11 @@
       "total_districts": 5,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "21": {
@@ -303,11 +303,11 @@
       "total_districts": 5,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "22": {
@@ -315,14 +315,14 @@
       "total_districts": 8,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only"
       }
     },
     "23": {
@@ -330,22 +330,22 @@
       "total_districts": 16,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending",
-        "15": "pending",
-        "16": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only",
+        "15": "result_only",
+        "16": "result_only"
       }
     },
     "24": {
@@ -353,10 +353,10 @@
       "total_districts": 4,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only"
       }
     },
     "25": {
@@ -364,9 +364,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "26": {
@@ -374,12 +374,12 @@
       "total_districts": 6,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only"
       }
     },
     "27": {
@@ -387,25 +387,25 @@
       "total_districts": 19,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending",
-        "15": "pending",
-        "16": "pending",
-        "17": "pending",
-        "18": "pending",
-        "19": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only",
+        "15": "result_only",
+        "16": "result_only",
+        "17": "result_only",
+        "18": "result_only",
+        "19": "result_only"
       }
     },
     "28": {
@@ -414,17 +414,17 @@
       "collected": 0,
       "districts": {
         "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending"
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only"
       }
     },
     "29": {
@@ -432,9 +432,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "30": {
@@ -442,8 +442,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "31": {
@@ -451,8 +451,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "32": {
@@ -460,8 +460,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "33": {
@@ -469,10 +469,10 @@
       "total_districts": 5,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
         "5": "pending"
       }
     },
@@ -481,12 +481,12 @@
       "total_districts": 6,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only"
       }
     },
     "35": {
@@ -494,9 +494,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "36": {
@@ -504,8 +504,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "37": {
@@ -513,9 +513,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "38": {
@@ -523,9 +523,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "39": {
@@ -533,8 +533,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "40": {
@@ -542,17 +542,17 @@
       "total_districts": 11,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only"
       }
     },
     "41": {
@@ -560,8 +560,8 @@
       "total_districts": 2,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending"
+        "1": "result_only",
+        "2": "result_only"
       }
     },
     "42": {
@@ -569,9 +569,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "43": {
@@ -579,10 +579,10 @@
       "total_districts": 4,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only"
       }
     },
     "44": {
@@ -590,8 +590,8 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
+        "1": "result_only",
+        "2": "result_only",
         "3": "pending"
       }
     },
@@ -600,9 +600,9 @@
       "total_districts": 3,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only"
       }
     },
     "46": {
@@ -610,10 +610,10 @@
       "total_districts": 4,
       "collected": 0,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only"
       }
     },
     "47": {
@@ -622,9 +622,9 @@
       "collected": 0,
       "districts": {
         "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending"
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only"
       }
     }
   }

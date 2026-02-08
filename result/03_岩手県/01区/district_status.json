@@ -74,6 +74,11 @@
         "consistency": 2,
         "ethics": 4,
         "total": 22
+      },
+      "election_result": {
+        "result": "当選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -141,6 +146,11 @@
         "consistency": 4,
         "ethics": 4,
         "total": 20
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -208,6 +218,11 @@
         "consistency": 5,
         "ethics": 4,
         "total": 18
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -275,6 +290,11 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     },
     {
@@ -342,6 +362,11 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": null,
+        "vote_rate": null
       }
     }
   ],
@@ -357,5 +382,11 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "階猛",
+    "winner_party": "中道改革連合",
+    "turnout": null,
+    "result_updated": "2026-02-08T21:30:00+09:00"
   }
 }
