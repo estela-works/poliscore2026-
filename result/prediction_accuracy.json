@@ -1,0 +1,2835 @@
+{
+  "generated_at": "2026-02-08T21:34:43.335730+09:00",
+  "summary": {
+    "total_districts": 289,
+    "compared": 236,
+    "correct": 182,
+    "wrong": 54,
+    "pending": 53,
+    "accuracy_pct": 77.1
+  },
+  "by_competitiveness": {
+    "やや接戦": {
+      "total": 96,
+      "correct": 65,
+      "wrong": 31,
+      "accuracy": 67.7
+    },
+    "大接戦": {
+      "total": 33,
+      "correct": 21,
+      "wrong": 12,
+      "accuracy": 63.6
+    },
+    "安定": {
+      "total": 107,
+      "correct": 96,
+      "wrong": 11,
+      "accuracy": 89.7
+    }
+  },
+  "by_predicted_party": {
+    "自由民主党": {
+      "predicted": 150,
+      "correct": 134,
+      "wrong": 16,
+      "accuracy": 89.3
+    },
+    "中道改革連合": {
+      "predicted": 52,
+      "correct": 24,
+      "wrong": 28,
+      "accuracy": 46.2
+    },
+    "日本維新の会": {
+      "predicted": 20,
+      "correct": 17,
+      "wrong": 3,
+      "accuracy": 85.0
+    },
+    "国民民主党": {
+      "predicted": 9,
+      "correct": 5,
+      "wrong": 4,
+      "accuracy": 55.6
+    },
+    "無所属": {
+      "predicted": 4,
+      "correct": 2,
+      "wrong": 2,
+      "accuracy": 50.0
+    },
+    "減税日本・ゆうこく連合": {
+      "predicted": 1,
+      "correct": 0,
+      "wrong": 1,
+      "accuracy": 0.0
+    }
+  },
+  "districts": [
+    {
+      "district": "北海道1区",
+      "status": "correct",
+      "predicted_winner": "道下大樹",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "道下大樹",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.8
+    },
+    {
+      "district": "北海道2区",
+      "status": "correct",
+      "predicted_winner": "髙橋祐介",
+      "predicted_party": "自由民主党",
+      "actual_winner": "髙橋祐介",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.4
+    },
+    {
+      "district": "北海道3区",
+      "status": "correct",
+      "predicted_winner": "荒井優",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "荒井優",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.8
+    },
+    {
+      "district": "北海道4区",
+      "status": "wrong",
+      "predicted_winner": "中村裕之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "大築紅葉",
+      "actual_party": "中道改革連合",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.7
+    },
+    {
+      "district": "北海道5区",
+      "status": "wrong",
+      "predicted_winner": "池田真紀",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "和田義明",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.4
+    },
+    {
+      "district": "北海道6区",
+      "status": "correct",
+      "predicted_winner": "東国幹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "東国幹",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.7
+    },
+    {
+      "district": "北海道7区",
+      "status": "correct",
+      "predicted_winner": "鈴木貴子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鈴木貴子",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.1
+    },
+    {
+      "district": "北海道8区",
+      "status": "wrong",
+      "predicted_winner": "向山淳",
+      "predicted_party": "自由民主党",
+      "actual_winner": "逢坂誠二",
+      "actual_party": "中道改革連合",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.1
+    },
+    {
+      "district": "北海道9区",
+      "status": "correct",
+      "predicted_winner": "山岡達丸",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "山岡達丸",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "北海道10区",
+      "status": "correct",
+      "predicted_winner": "神谷裕",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "神谷裕",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.6
+    },
+    {
+      "district": "北海道11区",
+      "status": "wrong",
+      "predicted_winner": "石川香織",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "中川紘一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "北海道12区",
+      "status": "correct",
+      "predicted_winner": "武部新",
+      "predicted_party": "自由民主党",
+      "actual_winner": "武部新",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.6
+    },
+    {
+      "district": "青森1区",
+      "status": "correct",
+      "predicted_winner": "津島淳",
+      "predicted_party": "自由民主党",
+      "actual_winner": "津島淳",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.1
+    },
+    {
+      "district": "青森2区",
+      "status": "correct",
+      "predicted_winner": "神田潤一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "神田潤一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "青森3区",
+      "status": "wrong",
+      "predicted_winner": "木村次郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "岡田華子",
+      "actual_party": "中道改革連合",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.2
+    },
+    {
+      "district": "岩手1区",
+      "status": "correct",
+      "predicted_winner": "階猛",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "階猛",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.5
+    },
+    {
+      "district": "岩手2区",
+      "status": "correct",
+      "predicted_winner": "鈴木俊一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鈴木俊一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岩手3区",
+      "status": "correct",
+      "predicted_winner": "小沢一郎",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "小沢一郎",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "宮城1区",
+      "status": "wrong",
+      "predicted_winner": "岡本章子",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "ローレンス綾子",
+      "actual_party": "参政党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.0
+    },
+    {
+      "district": "宮城2区",
+      "status": "wrong",
+      "predicted_winner": "鎌田さゆり",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "和田政宗",
+      "actual_party": "参政党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.0
+    },
+    {
+      "district": "宮城3区",
+      "status": "wrong",
+      "predicted_winner": "柳沢剛",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "西村明宏",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.5
+    },
+    {
+      "district": "宮城4区",
+      "status": "wrong",
+      "predicted_winner": "安住淳",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "森下千里",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.6
+    },
+    {
+      "district": "宮城5区",
+      "status": "correct",
+      "predicted_winner": "小野寺五典",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小野寺五典",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "秋田1区",
+      "status": "correct",
+      "predicted_winner": "冨樫博之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "冨樫博之",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "秋田2区",
+      "status": "correct",
+      "predicted_winner": "福原淳嗣",
+      "predicted_party": "自由民主党",
+      "actual_winner": "福原淳嗣",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.6
+    },
+    {
+      "district": "秋田3区",
+      "status": "correct",
+      "predicted_winner": "御法川信英",
+      "predicted_party": "自由民主党",
+      "actual_winner": "御法川信英",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.3
+    },
+    {
+      "district": "山形1区",
+      "status": "wrong",
+      "predicted_winner": "原田和広",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "遠藤寛明",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "山形2区",
+      "status": "correct",
+      "predicted_winner": "鈴木憲和",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鈴木憲和",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.5
+    },
+    {
+      "district": "山形3区",
+      "status": "correct",
+      "predicted_winner": "加藤鮎子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "加藤鮎子",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福島1区",
+      "status": "wrong",
+      "predicted_winner": "金子恵美",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "西山尚利",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.0
+    },
+    {
+      "district": "福島2区",
+      "status": "correct",
+      "predicted_winner": "根本拓",
+      "predicted_party": "自由民主党",
+      "actual_winner": "根本拓",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.1
+    },
+    {
+      "district": "福島3区",
+      "status": "wrong",
+      "predicted_winner": "小熊慎司",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "上杉謙太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "福島4区",
+      "status": "correct",
+      "predicted_winner": "坂本竜太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "坂本竜太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.1
+    },
+    {
+      "district": "茨城県1区",
+      "status": "wrong",
+      "predicted_winner": "田所嘉徳",
+      "predicted_party": "自由民主党",
+      "actual_winner": "福島伸享",
+      "actual_party": "無所属",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.0
+    },
+    {
+      "district": "茨城2区",
+      "status": "correct",
+      "predicted_winner": "額賀福志郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "額賀福志郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "茨城県3区",
+      "status": "correct",
+      "predicted_winner": "葉梨康弘",
+      "predicted_party": "自由民主党",
+      "actual_winner": "葉梨康弘",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "茨城4区",
+      "status": "correct",
+      "predicted_winner": "梶山弘志",
+      "predicted_party": "自由民主党",
+      "actual_winner": "梶山弘志",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "茨城県5区",
+      "status": "correct",
+      "predicted_winner": "浅野哲",
+      "predicted_party": "国民民主党",
+      "actual_winner": "浅野哲",
+      "actual_party": "国民民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.2
+    },
+    {
+      "district": "茨城6区",
+      "status": "wrong",
+      "predicted_winner": "国光文乃",
+      "predicted_party": "自由民主党",
+      "actual_winner": "青山大人",
+      "actual_party": "無所属",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.9
+    },
+    {
+      "district": "茨城県7区",
+      "status": "wrong",
+      "predicted_winner": "永岡桂子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "中村勇太",
+      "actual_party": "無所属",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.0
+    },
+    {
+      "district": "栃木1区",
+      "status": "correct",
+      "predicted_winner": "船田元",
+      "predicted_party": "自由民主党",
+      "actual_winner": "船田元",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "栃木2区",
+      "status": "correct",
+      "predicted_winner": "五十嵐清",
+      "predicted_party": "自由民主党",
+      "actual_winner": "五十嵐清",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.2
+    },
+    {
+      "district": "栃木3区",
+      "status": "correct",
+      "predicted_winner": "簗和生",
+      "predicted_party": "自由民主党",
+      "actual_winner": "簗和生",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "栃木4区",
+      "status": "wrong",
+      "predicted_winner": "藤岡隆雄",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "石坂太",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "栃木5区",
+      "status": "correct",
+      "predicted_winner": "茂木敏充",
+      "predicted_party": "自由民主党",
+      "actual_winner": "茂木敏充",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "群馬1区",
+      "status": "correct",
+      "predicted_winner": "中曽根康隆",
+      "predicted_party": "自由民主党",
+      "actual_winner": "中曽根康隆",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "群馬2区",
+      "status": "correct",
+      "predicted_winner": "井野俊郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "井野俊郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "群馬3区",
+      "status": "correct",
+      "predicted_winner": "笹川博義",
+      "predicted_party": "自由民主党",
+      "actual_winner": "笹川博義",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "群馬4区",
+      "status": "correct",
+      "predicted_winner": "福田達夫",
+      "predicted_party": "自由民主党",
+      "actual_winner": "福田達夫",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "群馬5区",
+      "status": "correct",
+      "predicted_winner": "小渕優子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小渕優子",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉1区",
+      "status": "correct",
+      "predicted_winner": "村井英樹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "村井英樹",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "埼玉2区",
+      "status": "correct",
+      "predicted_winner": "新藤義孝",
+      "predicted_party": "自由民主党",
+      "actual_winner": "新藤義孝",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉3区",
+      "status": "correct",
+      "predicted_winner": "黄川田仁志",
+      "predicted_party": "自由民主党",
+      "actual_winner": "黄川田仁志",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.2
+    },
+    {
+      "district": "埼玉4区",
+      "status": "correct",
+      "predicted_winner": "穂坂泰",
+      "predicted_party": "自由民主党",
+      "actual_winner": "穂坂泰",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉5区",
+      "status": "correct",
+      "predicted_winner": "枝野幸男",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "枝野幸男",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉6区",
+      "status": "correct",
+      "predicted_winner": "大島敦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "大島敦",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉7区",
+      "status": "correct",
+      "predicted_winner": "小宮山泰子",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "小宮山泰子",
+      "actual_party": "中道改革連合",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.1
+    },
+    {
+      "district": "埼玉8区",
+      "status": "wrong",
+      "predicted_winner": "柴山昌彦",
+      "predicted_party": "自由民主党",
+      "actual_winner": "市来伴子",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.5
+    },
+    {
+      "district": "埼玉9区",
+      "status": "correct",
+      "predicted_winner": "杉村慎治",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "杉村慎治",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "埼玉10区",
+      "status": "correct",
+      "predicted_winner": "坂本祐之輔",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "坂本祐之輔",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉11区",
+      "status": "correct",
+      "predicted_winner": "小泉龍司",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小泉龍司",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉12区",
+      "status": "wrong",
+      "predicted_winner": "野中厚",
+      "predicted_party": "自由民主党",
+      "actual_winner": "森田俊和",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.1
+    },
+    {
+      "district": "埼玉13区",
+      "status": "wrong",
+      "predicted_winner": "橋本幹彦",
+      "predicted_party": "国民民主党",
+      "actual_winner": "三ツ林裕巳",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.3
+    },
+    {
+      "district": "埼玉14区",
+      "status": "correct",
+      "predicted_winner": "鈴木義弘",
+      "predicted_party": "国民民主党",
+      "actual_winner": "鈴木義弘",
+      "actual_party": "国民民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉15区",
+      "status": "correct",
+      "predicted_winner": "田中良生",
+      "predicted_party": "自由民主党",
+      "actual_winner": "田中良生",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "埼玉16区",
+      "status": "correct",
+      "predicted_winner": "土屋品子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "土屋品子",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.1
+    },
+    {
+      "district": "千葉1区",
+      "status": "wrong",
+      "predicted_winner": "田嶋要",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "上田敦広",
+      "actual_party": "参政党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.8
+    },
+    {
+      "district": "千葉2区",
+      "status": "correct",
+      "predicted_winner": "小林鷹之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小林鷹之",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "千葉3区",
+      "status": "correct",
+      "predicted_winner": "松野博一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "松野博一",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.6
+    },
+    {
+      "district": "千葉4区",
+      "status": "correct",
+      "predicted_winner": "水沼秀幸",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "水沼秀幸",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.9
+    },
+    {
+      "district": "千葉5区",
+      "status": "correct",
+      "predicted_winner": "英利アルフィヤ",
+      "predicted_party": "自由民主党",
+      "actual_winner": "英利アルフィヤ",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.8
+    },
+    {
+      "district": "千葉6区",
+      "status": "correct",
+      "predicted_winner": "安藤淳子",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "安藤淳子",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.2
+    },
+    {
+      "district": "千葉7区",
+      "status": "correct",
+      "predicted_winner": "齋藤健",
+      "predicted_party": "自由民主党",
+      "actual_winner": "齋藤健",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "千葉8区",
+      "status": "correct",
+      "predicted_winner": "本庄知史",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "本庄知史",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "千葉9区",
+      "status": "correct",
+      "predicted_winner": "奥野総一郎",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "奥野総一郎",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.5
+    },
+    {
+      "district": "千葉10区",
+      "status": "correct",
+      "predicted_winner": "小池正昭",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小池正昭",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.4
+    },
+    {
+      "district": "千葉11区",
+      "status": "correct",
+      "predicted_winner": "森英介",
+      "predicted_party": "自由民主党",
+      "actual_winner": "森英介",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "千葉12区",
+      "status": "correct",
+      "predicted_winner": "浜田靖一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "浜田靖一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "千葉13区",
+      "status": "correct",
+      "predicted_winner": "松本尚",
+      "predicted_party": "自由民主党",
+      "actual_winner": "松本尚",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.4
+    },
+    {
+      "district": "千葉14区",
+      "status": "correct",
+      "predicted_winner": "野田佳彦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "野田佳彦",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.5
+    },
+    {
+      "district": "東京1区",
+      "status": "pending",
+      "predicted_winner": "吉川里奈",
+      "predicted_party": "参政党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.4
+    },
+    {
+      "district": "東京2区",
+      "status": "pending",
+      "predicted_winner": "辻清人",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.9
+    },
+    {
+      "district": "東京3区",
+      "status": "pending",
+      "predicted_winner": "石原宏高",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "東京4区",
+      "status": "pending",
+      "predicted_winner": "平将明",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京5区",
+      "status": "pending",
+      "predicted_winner": "手塚仁雄",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.9
+    },
+    {
+      "district": "東京6区",
+      "status": "pending",
+      "predicted_winner": "落合貴之",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.5
+    },
+    {
+      "district": "東京7区",
+      "status": "pending",
+      "predicted_winner": "松尾明弘",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京8区",
+      "status": "pending",
+      "predicted_winner": "吉田晴美",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.4
+    },
+    {
+      "district": "東京9区",
+      "status": "pending",
+      "predicted_winner": "山岸一生",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京10区",
+      "status": "pending",
+      "predicted_winner": "鈴木隼人",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.5
+    },
+    {
+      "district": "東京11区",
+      "status": "pending",
+      "predicted_winner": "阿久津幸彦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.3
+    },
+    {
+      "district": "東京12区",
+      "status": "pending",
+      "predicted_winner": "高木啓",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.2
+    },
+    {
+      "district": "東京13区",
+      "status": "pending",
+      "predicted_winner": "土田慎",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.1
+    },
+    {
+      "district": "東京14区",
+      "status": "pending",
+      "predicted_winner": "松島みどり",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京15区",
+      "status": "pending",
+      "predicted_winner": "大空幸星",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.2
+    },
+    {
+      "district": "東京16区",
+      "status": "pending",
+      "predicted_winner": "大西洋平",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.5
+    },
+    {
+      "district": "東京17区",
+      "status": "pending",
+      "predicted_winner": "平沢勝栄",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.9
+    },
+    {
+      "district": "東京18区",
+      "status": "pending",
+      "predicted_winner": "福田かおる",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.8
+    },
+    {
+      "district": "東京19区",
+      "status": "pending",
+      "predicted_winner": "松本洋平",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.2
+    },
+    {
+      "district": "東京20区",
+      "status": "pending",
+      "predicted_winner": "木原誠二",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京21区",
+      "status": "pending",
+      "predicted_winner": "小田原潔",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.1
+    },
+    {
+      "district": "東京22区",
+      "status": "pending",
+      "predicted_winner": "伊藤達也",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.9
+    },
+    {
+      "district": "東京23区",
+      "status": "pending",
+      "predicted_winner": "伊藤俊輔",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.1
+    },
+    {
+      "district": "東京24区",
+      "status": "pending",
+      "predicted_winner": "萩生田光一",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京25区",
+      "status": "pending",
+      "predicted_winner": "井上信治",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京26区",
+      "status": "pending",
+      "predicted_winner": "松原仁",
+      "predicted_party": "無所属",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.2
+    },
+    {
+      "district": "東京27区",
+      "status": "pending",
+      "predicted_winner": "長妻昭",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京28区",
+      "status": "pending",
+      "predicted_winner": "安藤高夫",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "東京29区",
+      "status": "pending",
+      "predicted_winner": "長沢こうすけ",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.6
+    },
+    {
+      "district": "東京30区",
+      "status": "pending",
+      "predicted_winner": "五十嵐衣里",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.7
+    },
+    {
+      "district": "神奈川1区",
+      "status": "pending",
+      "predicted_winner": "篠原豪",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川2区",
+      "status": "pending",
+      "predicted_winner": "新田章文",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.7
+    },
+    {
+      "district": "神奈川3区",
+      "status": "pending",
+      "predicted_winner": "中西健治",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川4区",
+      "status": "pending",
+      "predicted_winner": "早稲田夕季",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川5区",
+      "status": "pending",
+      "predicted_winner": "坂井学",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.9
+    },
+    {
+      "district": "神奈川6区",
+      "status": "pending",
+      "predicted_winner": "古川直季",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.9
+    },
+    {
+      "district": "神奈川7区",
+      "status": "pending",
+      "predicted_winner": "中谷一馬",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.6
+    },
+    {
+      "district": "神奈川8区",
+      "status": "pending",
+      "predicted_winner": "三谷英弘",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.7
+    },
+    {
+      "district": "神奈川9区",
+      "status": "pending",
+      "predicted_winner": "笠浩史",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.3
+    },
+    {
+      "district": "神奈川10区",
+      "status": "pending",
+      "predicted_winner": "田中和徳",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.6
+    },
+    {
+      "district": "神奈川11区",
+      "status": "pending",
+      "predicted_winner": "小泉進次郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川12区",
+      "status": "pending",
+      "predicted_winner": "星野剛士",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.1
+    },
+    {
+      "district": "神奈川13区",
+      "status": "pending",
+      "predicted_winner": "太栄志",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川14区",
+      "status": "pending",
+      "predicted_winner": "赤間二郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川15区",
+      "status": "pending",
+      "predicted_winner": "河野太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川16区",
+      "status": "pending",
+      "predicted_winner": "後藤祐一",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "神奈川17区",
+      "status": "pending",
+      "predicted_winner": "牧島かれん",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "神奈川18区",
+      "status": "pending",
+      "predicted_winner": "山際大志郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.7
+    },
+    {
+      "district": "神奈川19区",
+      "status": "pending",
+      "predicted_winner": "草間剛",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.8
+    },
+    {
+      "district": "神奈川20区",
+      "status": "pending",
+      "predicted_winner": "大塚小百合",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "新潟1区",
+      "status": "correct",
+      "predicted_winner": "西村智奈美",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "西村智奈美",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.9
+    },
+    {
+      "district": "新潟2区",
+      "status": "correct",
+      "predicted_winner": "国定勇人",
+      "predicted_party": "自由民主党",
+      "actual_winner": "国定勇人",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.7
+    },
+    {
+      "district": "新潟3区",
+      "status": "correct",
+      "predicted_winner": "斎藤洋明",
+      "predicted_party": "自由民主党",
+      "actual_winner": "斎藤洋明",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "新潟4区",
+      "status": "wrong",
+      "predicted_winner": "米山隆一",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "鷲尾英一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.0
+    },
+    {
+      "district": "新潟5区",
+      "status": "wrong",
+      "predicted_winner": "梅谷守",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "高鳥修一",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.4
+    },
+    {
+      "district": "富山1区",
+      "status": "correct",
+      "predicted_winner": "中田宏",
+      "predicted_party": "自由民主党",
+      "actual_winner": "中田宏",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.4
+    },
+    {
+      "district": "富山2区",
+      "status": "correct",
+      "predicted_winner": "上田英俊",
+      "predicted_party": "自由民主党",
+      "actual_winner": "上田英俊",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "富山3区",
+      "status": "correct",
+      "predicted_winner": "橘慶一郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "橘慶一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "石川1区",
+      "status": "correct",
+      "predicted_winner": "小森卓郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小森卓郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "石川2区",
+      "status": "correct",
+      "predicted_winner": "佐々木紀",
+      "predicted_party": "自由民主党",
+      "actual_winner": "佐々木紀",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "石川3区",
+      "status": "correct",
+      "predicted_winner": "西田昭二",
+      "predicted_party": "自由民主党",
+      "actual_winner": "西田昭二",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.7
+    },
+    {
+      "district": "福井1区",
+      "status": "correct",
+      "predicted_winner": "稲田朋美",
+      "predicted_party": "自由民主党",
+      "actual_winner": "稲田朋美",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.9
+    },
+    {
+      "district": "福井2区",
+      "status": "wrong",
+      "predicted_winner": "辻英之",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "斉木武志",
+      "actual_party": "無所属",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.7
+    },
+    {
+      "district": "山梨1区",
+      "status": "correct",
+      "predicted_winner": "中谷真一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "中谷真一",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.4
+    },
+    {
+      "district": "山梨2区",
+      "status": "correct",
+      "predicted_winner": "堀内詔子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "堀内詔子",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "長野1区",
+      "status": "wrong",
+      "predicted_winner": "篠原孝",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "若林健太",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "長野2区",
+      "status": "wrong",
+      "predicted_winner": "下条みつ",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "藤田ひかる",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "長野3区",
+      "status": "correct",
+      "predicted_winner": "井出庸生",
+      "predicted_party": "自由民主党",
+      "actual_winner": "井出庸生",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.9
+    },
+    {
+      "district": "長野4区",
+      "status": "correct",
+      "predicted_winner": "後藤茂之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "後藤茂之",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "長野5区",
+      "status": "correct",
+      "predicted_winner": "宮下一郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "宮下一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.0
+    },
+    {
+      "district": "岐阜1区",
+      "status": "correct",
+      "predicted_winner": "野田聖子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "野田聖子",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岐阜2区",
+      "status": "correct",
+      "predicted_winner": "棚橋泰文",
+      "predicted_party": "自由民主党",
+      "actual_winner": "棚橋泰文",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岐阜3区",
+      "status": "correct",
+      "predicted_winner": "武藤容治",
+      "predicted_party": "自由民主党",
+      "actual_winner": "武藤容治",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.5
+    },
+    {
+      "district": "岐阜4区",
+      "status": "wrong",
+      "predicted_winner": "今井雅人",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "加藤ともひろ",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岐阜5区",
+      "status": "wrong",
+      "predicted_winner": "古屋圭司",
+      "predicted_party": "自由民主党",
+      "actual_winner": "眞野哲",
+      "actual_party": "中道改革連合",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.3
+    },
+    {
+      "district": "静岡1区",
+      "status": "correct",
+      "predicted_winner": "上川陽子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "上川陽子",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "静岡2区",
+      "status": "correct",
+      "predicted_winner": "井林辰憲",
+      "predicted_party": "自由民主党",
+      "actual_winner": "井林辰憲",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "静岡3区",
+      "status": "wrong",
+      "predicted_winner": "小山展弘",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "山本裕三",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "静岡4区",
+      "status": "wrong",
+      "predicted_winner": "田中健",
+      "predicted_party": "国民民主党",
+      "actual_winner": "深澤陽一",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.0
+    },
+    {
+      "district": "静岡5区",
+      "status": "correct",
+      "predicted_winner": "細野豪志",
+      "predicted_party": "自由民主党",
+      "actual_winner": "細野豪志",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "静岡6区",
+      "status": "correct",
+      "predicted_winner": "勝俣孝明",
+      "predicted_party": "自由民主党",
+      "actual_winner": "勝俣孝明",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.1
+    },
+    {
+      "district": "静岡7区",
+      "status": "correct",
+      "predicted_winner": "城内実",
+      "predicted_party": "自由民主党",
+      "actual_winner": "城内実",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "静岡8区",
+      "status": "wrong",
+      "predicted_winner": "源馬謙太郎",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "稲葉大輔",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.5
+    },
+    {
+      "district": "愛知1区",
+      "status": "wrong",
+      "predicted_winner": "河村たかし",
+      "predicted_party": "減税日本・ゆうこく連合",
+      "actual_winner": "熊田裕通",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.5
+    },
+    {
+      "district": "愛知2区",
+      "status": "correct",
+      "predicted_winner": "古川元久",
+      "predicted_party": "国民民主党",
+      "actual_winner": "古川元久",
+      "actual_party": "国民民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "愛知3区",
+      "status": "correct",
+      "predicted_winner": "近藤昭一",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "近藤昭一",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.8
+    },
+    {
+      "district": "愛知4区",
+      "status": "wrong",
+      "predicted_winner": "工藤彰三",
+      "predicted_party": "自由民主党",
+      "actual_winner": "牧義夫",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.7
+    },
+    {
+      "district": "愛知5区",
+      "status": "wrong",
+      "predicted_winner": "西川厚志",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "神田憲次",
+      "actual_party": "無所属",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "愛知6区",
+      "status": "correct",
+      "predicted_winner": "丹羽秀樹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "丹羽秀樹",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "愛知7区",
+      "status": "wrong",
+      "predicted_winner": "日野紗里亜",
+      "predicted_party": "国民民主党",
+      "actual_winner": "鈴木淳司",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.7
+    },
+    {
+      "district": "愛知8区",
+      "status": "correct",
+      "predicted_winner": "伊藤忠彦",
+      "predicted_party": "自由民主党",
+      "actual_winner": "伊藤忠彦",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.9
+    },
+    {
+      "district": "愛知9区",
+      "status": "correct",
+      "predicted_winner": "長坂康正",
+      "predicted_party": "自由民主党",
+      "actual_winner": "長坂康正",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.0
+    },
+    {
+      "district": "愛知10区",
+      "status": "correct",
+      "predicted_winner": "若山慎司",
+      "predicted_party": "自由民主党",
+      "actual_winner": "若山慎司",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.8
+    },
+    {
+      "district": "愛知11区",
+      "status": "correct",
+      "predicted_winner": "丹野みどり",
+      "predicted_party": "国民民主党",
+      "actual_winner": "丹野みどり",
+      "actual_party": "国民民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.3
+    },
+    {
+      "district": "愛知12区",
+      "status": "correct",
+      "predicted_winner": "重徳和彦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "重徳和彦",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.2
+    },
+    {
+      "district": "愛知13区",
+      "status": "wrong",
+      "predicted_winner": "大西健介",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "石井拓",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.0
+    },
+    {
+      "district": "愛知14区",
+      "status": "correct",
+      "predicted_winner": "今枝宗一郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "今枝宗一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "愛知15区",
+      "status": "correct",
+      "predicted_winner": "根本幸典",
+      "predicted_party": "自由民主党",
+      "actual_winner": "根本幸典",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.1
+    },
+    {
+      "district": "愛知16区",
+      "status": "wrong",
+      "predicted_winner": "福田徹",
+      "predicted_party": "国民民主党",
+      "actual_winner": "山下史守朗",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "三重1区",
+      "status": "correct",
+      "predicted_winner": "田村憲久",
+      "predicted_party": "自由民主党",
+      "actual_winner": "田村憲久",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "三重2区",
+      "status": "correct",
+      "predicted_winner": "川崎秀人",
+      "predicted_party": "自由民主党",
+      "actual_winner": "川崎秀人",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.5
+    },
+    {
+      "district": "三重3区",
+      "status": "correct",
+      "predicted_winner": "岡田克也",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "岡田克也",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.2
+    },
+    {
+      "district": "三重4区",
+      "status": "correct",
+      "predicted_winner": "鈴木英敬",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鈴木英敬",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "滋賀1区",
+      "status": "correct",
+      "predicted_winner": "大岡敏孝",
+      "predicted_party": "自由民主党",
+      "actual_winner": "大岡敏孝",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.0
+    },
+    {
+      "district": "滋賀2区",
+      "status": "correct",
+      "predicted_winner": "上野賢一郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "上野賢一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "滋賀3区",
+      "status": "correct",
+      "predicted_winner": "武村展英",
+      "predicted_party": "自由民主党",
+      "actual_winner": "武村展英",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.4
+    },
+    {
+      "district": "京都1区",
+      "status": "correct",
+      "predicted_winner": "勝目康",
+      "predicted_party": "自由民主党",
+      "actual_winner": "勝目康",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "京都2区",
+      "status": "wrong",
+      "predicted_winner": "前原誠司",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "フジタ洋司",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.9
+    },
+    {
+      "district": "京都3区",
+      "status": "wrong",
+      "predicted_winner": "泉健太",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "繁本護",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.8
+    },
+    {
+      "district": "京都4区",
+      "status": "correct",
+      "predicted_winner": "北神圭朗",
+      "predicted_party": "自由民主党",
+      "actual_winner": "北神圭朗",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "京都5区",
+      "status": "correct",
+      "predicted_winner": "本田太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "本田太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "京都6区",
+      "status": "correct",
+      "predicted_winner": "山井和則",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "山井和則",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪1区",
+      "status": "correct",
+      "predicted_winner": "井上英孝",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "井上英孝",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.2
+    },
+    {
+      "district": "大阪2区",
+      "status": "wrong",
+      "predicted_winner": "守島正",
+      "predicted_party": "無所属",
+      "actual_winner": "高見亮",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.8
+    },
+    {
+      "district": "大阪3区",
+      "status": "correct",
+      "predicted_winner": "東徹",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "東徹",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.8
+    },
+    {
+      "district": "大阪4区",
+      "status": "correct",
+      "predicted_winner": "美延映夫",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "美延映夫",
+      "actual_party": "日本維新の会",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.3
+    },
+    {
+      "district": "大阪5区",
+      "status": "correct",
+      "predicted_winner": "梅村聡",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "梅村聡",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.0
+    },
+    {
+      "district": "大阪6区",
+      "status": "correct",
+      "predicted_winner": "西田薫",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "西田薫",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 12.9
+    },
+    {
+      "district": "大阪7区",
+      "status": "correct",
+      "predicted_winner": "奥下剛光",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "奥下剛光",
+      "actual_party": "日本維新の会",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.7
+    },
+    {
+      "district": "大阪8区",
+      "status": "correct",
+      "predicted_winner": "漆間譲司",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "漆間譲司",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪9区",
+      "status": "correct",
+      "predicted_winner": "萩原佳",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "萩原佳",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪10区",
+      "status": "wrong",
+      "predicted_winner": "尾辻かな子",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "池下卓",
+      "actual_party": "日本維新の会",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.3
+    },
+    {
+      "district": "大阪11区",
+      "status": "correct",
+      "predicted_winner": "中司宏",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "中司宏",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪12区",
+      "status": "correct",
+      "predicted_winner": "藤田文武",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "藤田文武",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪13区",
+      "status": "correct",
+      "predicted_winner": "岩谷良平",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "岩谷良平",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪14区",
+      "status": "correct",
+      "predicted_winner": "青柳仁士",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "青柳仁士",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪15区",
+      "status": "wrong",
+      "predicted_winner": "島田智明",
+      "predicted_party": "自由民主党",
+      "actual_winner": "浦野靖人",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.2
+    },
+    {
+      "district": "大阪16区",
+      "status": "wrong",
+      "predicted_winner": "森山浩行",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "黒田征樹",
+      "actual_party": "日本維新の会",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.2
+    },
+    {
+      "district": "大阪17区",
+      "status": "correct",
+      "predicted_winner": "馬場伸幸",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "馬場伸幸",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪18区",
+      "status": "correct",
+      "predicted_winner": "遠藤敬",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "遠藤敬",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大阪19区",
+      "status": "correct",
+      "predicted_winner": "伊東信久",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "伊東信久",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.5
+    },
+    {
+      "district": "兵庫1区",
+      "status": "pending",
+      "predicted_winner": "井坂信彦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.8
+    },
+    {
+      "district": "兵庫2区",
+      "status": "correct",
+      "predicted_winner": "阿部圭史",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "阿部圭史",
+      "actual_party": "日本維新の会",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "兵庫3区",
+      "status": "correct",
+      "predicted_winner": "関芳弘",
+      "predicted_party": "自由民主党",
+      "actual_winner": "関芳弘",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.6
+    },
+    {
+      "district": "兵庫4区",
+      "status": "correct",
+      "predicted_winner": "藤井比早之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "藤井比早之",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "兵庫5区",
+      "status": "correct",
+      "predicted_winner": "谷公一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "谷公一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "兵庫6区",
+      "status": "wrong",
+      "predicted_winner": "大串正樹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "市村浩一郎",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.9
+    },
+    {
+      "district": "兵庫7区",
+      "status": "correct",
+      "predicted_winner": "山田賢司",
+      "predicted_party": "自由民主党",
+      "actual_winner": "山田賢司",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.4
+    },
+    {
+      "district": "兵庫8区",
+      "status": "wrong",
+      "predicted_winner": "徳安淳子",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "青山繁晴",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "兵庫9区",
+      "status": "correct",
+      "predicted_winner": "西村康稔",
+      "predicted_party": "自由民主党",
+      "actual_winner": "西村康稔",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.2
+    },
+    {
+      "district": "兵庫10区",
+      "status": "correct",
+      "predicted_winner": "渡海紀三朗",
+      "predicted_party": "自由民主党",
+      "actual_winner": "渡海紀三朗",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "兵庫11区",
+      "status": "correct",
+      "predicted_winner": "住吉寛紀",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "住吉寛紀",
+      "actual_party": "日本維新の会",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 3.0
+    },
+    {
+      "district": "兵庫12区",
+      "status": "wrong",
+      "predicted_winner": "山口壮",
+      "predicted_party": "自由民主党",
+      "actual_winner": "池畑浩太朗",
+      "actual_party": "日本維新の会",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.1
+    },
+    {
+      "district": "奈良1区",
+      "status": "correct",
+      "predicted_winner": "小林茂樹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小林茂樹",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.9
+    },
+    {
+      "district": "奈良2区",
+      "status": "correct",
+      "predicted_winner": "高市早苗",
+      "predicted_party": "自由民主党",
+      "actual_winner": "高市早苗",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "奈良3区",
+      "status": "correct",
+      "predicted_winner": "田野瀬太道",
+      "predicted_party": "自由民主党",
+      "actual_winner": "田野瀬太道",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "和歌山1区",
+      "status": "correct",
+      "predicted_winner": "山本大地",
+      "predicted_party": "自由民主党",
+      "actual_winner": "山本大地",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.9
+    },
+    {
+      "district": "和歌山2区",
+      "status": "correct",
+      "predicted_winner": "世耕弘成",
+      "predicted_party": "無所属",
+      "actual_winner": "世耕弘成",
+      "actual_party": "無所属",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "鳥取1区",
+      "status": "correct",
+      "predicted_winner": "石破茂",
+      "predicted_party": "自由民主党",
+      "actual_winner": "石破茂",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "鳥取2区",
+      "status": "correct",
+      "predicted_winner": "赤澤亮正",
+      "predicted_party": "自由民主党",
+      "actual_winner": "赤澤亮正",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "島根1区",
+      "status": "wrong",
+      "predicted_winner": "亀井亜紀子",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "高階恵美子",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.2
+    },
+    {
+      "district": "島根2区",
+      "status": "correct",
+      "predicted_winner": "高見康裕",
+      "predicted_party": "自由民主党",
+      "actual_winner": "高見康裕",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岡山1区",
+      "status": "correct",
+      "predicted_winner": "逢沢一郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "逢沢一郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岡山2区",
+      "status": "correct",
+      "predicted_winner": "山下貴司",
+      "predicted_party": "自由民主党",
+      "actual_winner": "山下貴司",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岡山3区",
+      "status": "correct",
+      "predicted_winner": "加藤勝信",
+      "predicted_party": "自由民主党",
+      "actual_winner": "加藤勝信",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "岡山4区",
+      "status": "correct",
+      "predicted_winner": "橋本岳",
+      "predicted_party": "自由民主党",
+      "actual_winner": "橋本岳",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.3
+    },
+    {
+      "district": "広島1区",
+      "status": "correct",
+      "predicted_winner": "岸田文雄",
+      "predicted_party": "自由民主党",
+      "actual_winner": "岸田文雄",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "広島2区",
+      "status": "correct",
+      "predicted_winner": "平口洋",
+      "predicted_party": "自由民主党",
+      "actual_winner": "平口洋",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.8
+    },
+    {
+      "district": "広島3区",
+      "status": "correct",
+      "predicted_winner": "石橋林太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "石橋林太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.2
+    },
+    {
+      "district": "広島4区",
+      "status": "correct",
+      "predicted_winner": "新谷正義",
+      "predicted_party": "自由民主党",
+      "actual_winner": "新谷正義",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.5
+    },
+    {
+      "district": "広島5区",
+      "status": "wrong",
+      "predicted_winner": "佐藤公治",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "山本深",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "広島6区",
+      "status": "correct",
+      "predicted_winner": "小林史明",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小林史明",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "山口1区",
+      "status": "correct",
+      "predicted_winner": "高村正大",
+      "predicted_party": "自由民主党",
+      "actual_winner": "高村正大",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "山口2区",
+      "status": "correct",
+      "predicted_winner": "岸信千世",
+      "predicted_party": "自由民主党",
+      "actual_winner": "岸信千世",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.3
+    },
+    {
+      "district": "山口3区",
+      "status": "correct",
+      "predicted_winner": "林芳正",
+      "predicted_party": "自由民主党",
+      "actual_winner": "林芳正",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "徳島1区",
+      "status": "correct",
+      "predicted_winner": "仁木博文",
+      "predicted_party": "自由民主党",
+      "actual_winner": "仁木博文",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.3
+    },
+    {
+      "district": "徳島2区",
+      "status": "correct",
+      "predicted_winner": "山口俊一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "山口俊一",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "香川1区",
+      "status": "wrong",
+      "predicted_winner": "平井卓也",
+      "predicted_party": "自由民主党",
+      "actual_winner": "小川淳也",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 6.6
+    },
+    {
+      "district": "香川2区",
+      "status": "wrong",
+      "predicted_winner": "瀬戸隆一",
+      "predicted_party": "自由民主党",
+      "actual_winner": "玉木雄一郎",
+      "actual_party": "国民民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.2
+    },
+    {
+      "district": "香川3区",
+      "status": "correct",
+      "predicted_winner": "大野敬太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "大野敬太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "愛媛1区",
+      "status": "correct",
+      "predicted_winner": "塩崎彰久",
+      "predicted_party": "自由民主党",
+      "actual_winner": "塩崎彰久",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.9
+    },
+    {
+      "district": "愛媛2区",
+      "status": "wrong",
+      "predicted_winner": "白石洋一",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "井原巧",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.8
+    },
+    {
+      "district": "愛媛3区",
+      "status": "correct",
+      "predicted_winner": "長谷川淳二",
+      "predicted_party": "自由民主党",
+      "actual_winner": "長谷川淳二",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "高知1区",
+      "status": "correct",
+      "predicted_winner": "中谷元",
+      "predicted_party": "自由民主党",
+      "actual_winner": "中谷元",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "高知2区",
+      "status": "correct",
+      "predicted_winner": "尾崎正直",
+      "predicted_party": "自由民主党",
+      "actual_winner": "尾崎正直",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡1区",
+      "status": "correct",
+      "predicted_winner": "井上貴博",
+      "predicted_party": "自由民主党",
+      "actual_winner": "井上貴博",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 4.5
+    },
+    {
+      "district": "福岡2区",
+      "status": "correct",
+      "predicted_winner": "鬼木誠",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鬼木誠",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 11.3
+    },
+    {
+      "district": "福岡3区",
+      "status": "correct",
+      "predicted_winner": "古賀篤",
+      "predicted_party": "自由民主党",
+      "actual_winner": "古賀篤",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡4区",
+      "status": "correct",
+      "predicted_winner": "宮内秀樹",
+      "predicted_party": "自由民主党",
+      "actual_winner": "宮内秀樹",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 5.5
+    },
+    {
+      "district": "福岡5区",
+      "status": "correct",
+      "predicted_winner": "栗原渉",
+      "predicted_party": "自由民主党",
+      "actual_winner": "栗原渉",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡6区",
+      "status": "correct",
+      "predicted_winner": "鳩山二郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "鳩山二郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡7区",
+      "status": "correct",
+      "predicted_winner": "藤丸敏",
+      "predicted_party": "自由民主党",
+      "actual_winner": "藤丸敏",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡8区",
+      "status": "correct",
+      "predicted_winner": "麻生太郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "麻生太郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡9区",
+      "status": "correct",
+      "predicted_winner": "緒方林太郎",
+      "predicted_party": "無所属",
+      "actual_winner": "緒方林太郎",
+      "actual_party": "無所属",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡10区",
+      "status": "correct",
+      "predicted_winner": "城井崇",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "城井崇",
+      "actual_party": "中道改革連合",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "福岡11区",
+      "status": "wrong",
+      "predicted_winner": "村上智信",
+      "predicted_party": "日本維新の会",
+      "actual_winner": "武田良太",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 10.9
+    },
+    {
+      "district": "佐賀1区",
+      "status": "wrong",
+      "predicted_winner": "岩田和親",
+      "predicted_party": "自由民主党",
+      "actual_winner": "原口一博",
+      "actual_party": "減税日本・ゆうこく連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 13.4
+    },
+    {
+      "district": "佐賀2区",
+      "status": "correct",
+      "predicted_winner": "古川康",
+      "predicted_party": "自由民主党",
+      "actual_winner": "古川康",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.0
+    },
+    {
+      "district": "長崎1区",
+      "status": "correct",
+      "predicted_winner": "西岡秀子",
+      "predicted_party": "国民民主党",
+      "actual_winner": "西岡秀子",
+      "actual_party": "国民民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.1
+    },
+    {
+      "district": "長崎2区",
+      "status": "wrong",
+      "predicted_winner": "山田勝彦",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "加藤竜祥",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 1.4
+    },
+    {
+      "district": "長崎3区",
+      "status": "correct",
+      "predicted_winner": "金子容三",
+      "predicted_party": "自由民主党",
+      "actual_winner": "金子容三",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "熊本1区",
+      "status": "correct",
+      "predicted_winner": "木原稔",
+      "predicted_party": "自由民主党",
+      "actual_winner": "木原稔",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "熊本2区",
+      "status": "correct",
+      "predicted_winner": "西野太亮",
+      "predicted_party": "自由民主党",
+      "actual_winner": "西野太亮",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "熊本3区",
+      "status": "correct",
+      "predicted_winner": "坂本哲志",
+      "predicted_party": "自由民主党",
+      "actual_winner": "坂本哲志",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "熊本4区",
+      "status": "correct",
+      "predicted_winner": "金子恭之",
+      "predicted_party": "自由民主党",
+      "actual_winner": "金子恭之",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大分1区",
+      "status": "wrong",
+      "predicted_winner": "吉良州司",
+      "predicted_party": "無所属",
+      "actual_winner": "衛藤博昭",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "大分2区",
+      "status": "correct",
+      "predicted_winner": "広瀬建",
+      "predicted_party": "自由民主党",
+      "actual_winner": "広瀬建",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 2.1
+    },
+    {
+      "district": "大分3区",
+      "status": "pending",
+      "predicted_winner": "岩屋毅",
+      "predicted_party": "自由民主党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "安定"
+    },
+    {
+      "district": "宮崎1区",
+      "status": "correct",
+      "predicted_winner": "渡辺創",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "渡辺創",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 14.6
+    },
+    {
+      "district": "宮崎2区",
+      "status": "correct",
+      "predicted_winner": "江藤拓",
+      "predicted_party": "自由民主党",
+      "actual_winner": "江藤拓",
+      "actual_party": "自由民主党",
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.9
+    },
+    {
+      "district": "宮崎3区",
+      "status": "correct",
+      "predicted_winner": "古川禎久",
+      "predicted_party": "自由民主党",
+      "actual_winner": "古川禎久",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "鹿児島1区",
+      "status": "correct",
+      "predicted_winner": "宮路拓馬",
+      "predicted_party": "自由民主党",
+      "actual_winner": "宮路拓馬",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 8.3
+    },
+    {
+      "district": "鹿児島2区",
+      "status": "correct",
+      "predicted_winner": "三反園訓",
+      "predicted_party": "自由民主党",
+      "actual_winner": "三反園訓",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "鹿児島3区",
+      "status": "correct",
+      "predicted_winner": "野間健",
+      "predicted_party": "中道改革連合",
+      "actual_winner": "野間健",
+      "actual_party": "中道改革連合",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.9
+    },
+    {
+      "district": "鹿児島4区",
+      "status": "correct",
+      "predicted_winner": "森山裕",
+      "predicted_party": "自由民主党",
+      "actual_winner": "森山裕",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    },
+    {
+      "district": "沖縄1区",
+      "status": "pending",
+      "predicted_winner": "赤嶺政賢",
+      "predicted_party": "日本共産党",
+      "actual_winner": null,
+      "actual_party": null,
+      "competitiveness": "大接戦",
+      "prediction_score_diff": 0.6
+    },
+    {
+      "district": "沖縄2区",
+      "status": "correct",
+      "predicted_winner": "宮崎政久",
+      "predicted_party": "自由民主党",
+      "actual_winner": "宮崎政久",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 7.5
+    },
+    {
+      "district": "沖縄3区",
+      "status": "correct",
+      "predicted_winner": "島尻安伊子",
+      "predicted_party": "自由民主党",
+      "actual_winner": "島尻安伊子",
+      "actual_party": "自由民主党",
+      "competitiveness": "やや接戦",
+      "prediction_score_diff": 9.3
+    },
+    {
+      "district": "沖縄4区",
+      "status": "correct",
+      "predicted_winner": "西銘恒三郎",
+      "predicted_party": "自由民主党",
+      "actual_winner": "西銘恒三郎",
+      "actual_party": "自由民主党",
+      "competitiveness": "安定"
+    }
+  ]
+}

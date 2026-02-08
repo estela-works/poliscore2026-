@@ -74,6 +74,11 @@
           }
         },
         "rationale": "前回実績の優位・高い個人評価・現職の優位性・票の集中が強み"
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": 0,
+        "vote_rate": 0.0
       }
     },
     {
@@ -141,6 +146,11 @@
           }
         },
         "rationale": "現職の優位性・票の集中が強み"
+      },
+      "election_result": {
+        "result": "当選",
+        "votes": 0,
+        "vote_rate": 0.0
       }
     }
   ],
@@ -156,5 +166,11 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "斉木武志",
+    "winner_party": "無所属",
+    "turnout": null,
+    "result_updated": "2026-02-08T21:18:49.690377+09:00"
   }
 }

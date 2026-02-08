@@ -74,7 +74,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 22
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "永岡桂子",
@@ -141,7 +142,8 @@
         "consistency": 5,
         "ethics": 4,
         "total": 25
-      }
+      },
+      "election_result": "比例復活"
     }
   ],
   "prediction": {
@@ -156,5 +158,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "中村勇太",
+    "winner_party": "無所属",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

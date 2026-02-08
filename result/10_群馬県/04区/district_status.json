@@ -73,7 +73,8 @@
         "consistency": 4,
         "ethics": 2,
         "total": 20
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "山田博規",
@@ -139,7 +140,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 19
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "伊藤達也",
@@ -205,7 +207,8 @@
         "consistency": 5,
         "ethics": 4,
         "total": 20
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "青木ひとみ",
@@ -271,7 +274,8 @@
         "consistency": 3,
         "ethics": 3,
         "total": 14
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -286,5 +290,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "福田達夫",
+    "winner_party": "自由民主党",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

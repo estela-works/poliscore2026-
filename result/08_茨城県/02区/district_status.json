@@ -74,7 +74,8 @@
         "consistency": 4,
         "ethics": 2,
         "total": 21
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "小沼巧",
@@ -141,7 +142,8 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "谷川祐一",
@@ -208,7 +210,8 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "宮内匠",
@@ -275,7 +278,8 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -290,5 +294,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "額賀福志郎",
+    "winner_party": "自由民主党",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

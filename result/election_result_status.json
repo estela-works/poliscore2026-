@@ -1,11 +1,11 @@
 {
   "election": "第51回衆議院議員総選挙",
   "date": "2026-02-08",
-  "last_updated": "2026-02-08T21:22:02.421586+09:00",
+  "last_updated": "2026-02-08T21:53:14.753715+09:00",
   "summary": {
-    "total_districts": 290,
-    "collected": 33,
-    "remaining": 257
+    "total_districts": 289,
+    "collected": 289,
+    "remaining": 0
   },
   "prefectures": {
     "01": {
@@ -93,45 +93,45 @@
     "08": {
       "name": "茨城県",
       "total_districts": 7,
-      "collected": 0,
+      "collected": 7,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only"
       }
     },
     "09": {
       "name": "栃木県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "10": {
       "name": "群馬県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only"
       }
     },
     "11": {
       "name": "埼玉県",
       "total_districts": 16,
-      "collected": 0,
+      "collected": 16,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -154,7 +154,7 @@
     "12": {
       "name": "千葉県",
       "total_districts": 14,
-      "collected": 0,
+      "collected": 14,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -175,71 +175,71 @@
     "13": {
       "name": "東京都",
       "total_districts": 30,
-      "collected": 0,
+      "collected": 30,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending",
-        "15": "pending",
-        "16": "pending",
-        "17": "pending",
-        "18": "pending",
-        "19": "pending",
-        "20": "pending",
-        "21": "pending",
-        "22": "pending",
-        "23": "pending",
-        "24": "pending",
-        "25": "pending",
-        "26": "pending",
-        "27": "pending",
-        "28": "pending",
-        "29": "pending",
-        "30": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only",
+        "15": "result_only",
+        "16": "result_only",
+        "17": "result_only",
+        "18": "result_only",
+        "19": "result_only",
+        "20": "result_only",
+        "21": "result_only",
+        "22": "result_only",
+        "23": "result_only",
+        "24": "result_only",
+        "25": "result_only",
+        "26": "result_only",
+        "27": "result_only",
+        "28": "result_only",
+        "29": "result_only",
+        "30": "result_only"
       }
     },
     "14": {
       "name": "神奈川県",
       "total_districts": 20,
-      "collected": 0,
+      "collected": 20,
       "districts": {
-        "1": "pending",
-        "2": "pending",
-        "3": "pending",
-        "4": "pending",
-        "5": "pending",
-        "6": "pending",
-        "7": "pending",
-        "8": "pending",
-        "9": "pending",
-        "10": "pending",
-        "11": "pending",
-        "12": "pending",
-        "13": "pending",
-        "14": "pending",
-        "15": "pending",
-        "16": "pending",
-        "17": "pending",
-        "18": "pending",
-        "19": "pending",
-        "20": "pending"
+        "1": "result_only",
+        "2": "result_only",
+        "3": "result_only",
+        "4": "result_only",
+        "5": "result_only",
+        "6": "result_only",
+        "7": "result_only",
+        "8": "result_only",
+        "9": "result_only",
+        "10": "result_only",
+        "11": "result_only",
+        "12": "result_only",
+        "13": "result_only",
+        "14": "result_only",
+        "15": "result_only",
+        "16": "result_only",
+        "17": "result_only",
+        "18": "result_only",
+        "19": "result_only",
+        "20": "result_only"
       }
     },
     "15": {
       "name": "新潟県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -251,7 +251,7 @@
     "16": {
       "name": "富山県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -261,7 +261,7 @@
     "17": {
       "name": "石川県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -271,7 +271,7 @@
     "18": {
       "name": "福井県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -280,7 +280,7 @@
     "19": {
       "name": "山梨県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -289,7 +289,7 @@
     "20": {
       "name": "長野県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -301,7 +301,7 @@
     "21": {
       "name": "岐阜県",
       "total_districts": 5,
-      "collected": 0,
+      "collected": 5,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -313,7 +313,7 @@
     "22": {
       "name": "静岡県",
       "total_districts": 8,
-      "collected": 0,
+      "collected": 8,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -328,7 +328,7 @@
     "23": {
       "name": "愛知県",
       "total_districts": 16,
-      "collected": 0,
+      "collected": 16,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -351,7 +351,7 @@
     "24": {
       "name": "三重県",
       "total_districts": 4,
-      "collected": 0,
+      "collected": 4,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -362,7 +362,7 @@
     "25": {
       "name": "滋賀県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -372,7 +372,7 @@
     "26": {
       "name": "京都府",
       "total_districts": 6,
-      "collected": 0,
+      "collected": 6,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -385,7 +385,7 @@
     "27": {
       "name": "大阪府",
       "total_districts": 19,
-      "collected": 0,
+      "collected": 19,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -411,9 +411,9 @@
     "28": {
       "name": "兵庫県",
       "total_districts": 12,
-      "collected": 0,
+      "collected": 12,
       "districts": {
-        "1": "pending",
+        "1": "result_only",
         "2": "result_only",
         "3": "result_only",
         "4": "result_only",
@@ -430,7 +430,7 @@
     "29": {
       "name": "奈良県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -440,7 +440,7 @@
     "30": {
       "name": "和歌山県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -449,7 +449,7 @@
     "31": {
       "name": "鳥取県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -458,7 +458,7 @@
     "32": {
       "name": "島根県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -466,20 +466,19 @@
     },
     "33": {
       "name": "岡山県",
-      "total_districts": 5,
-      "collected": 0,
+      "total_districts": 4,
+      "collected": 4,
       "districts": {
         "1": "result_only",
         "2": "result_only",
         "3": "result_only",
-        "4": "result_only",
-        "5": "pending"
+        "4": "result_only"
       }
     },
     "34": {
       "name": "広島県",
       "total_districts": 6,
-      "collected": 0,
+      "collected": 6,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -492,7 +491,7 @@
     "35": {
       "name": "山口県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -502,7 +501,7 @@
     "36": {
       "name": "徳島県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -511,7 +510,7 @@
     "37": {
       "name": "香川県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -521,7 +520,7 @@
     "38": {
       "name": "愛媛県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -531,7 +530,7 @@
     "39": {
       "name": "高知県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -540,7 +539,7 @@
     "40": {
       "name": "福岡県",
       "total_districts": 11,
-      "collected": 0,
+      "collected": 11,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -558,7 +557,7 @@
     "41": {
       "name": "佐賀県",
       "total_districts": 2,
-      "collected": 0,
+      "collected": 2,
       "districts": {
         "1": "result_only",
         "2": "result_only"
@@ -567,7 +566,7 @@
     "42": {
       "name": "長崎県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -577,7 +576,7 @@
     "43": {
       "name": "熊本県",
       "total_districts": 4,
-      "collected": 0,
+      "collected": 4,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -588,17 +587,17 @@
     "44": {
       "name": "大分県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
-        "3": "pending"
+        "3": "result_only"
       }
     },
     "45": {
       "name": "宮崎県",
       "total_districts": 3,
-      "collected": 0,
+      "collected": 3,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -608,7 +607,7 @@
     "46": {
       "name": "鹿児島県",
       "total_districts": 4,
-      "collected": 0,
+      "collected": 4,
       "districts": {
         "1": "result_only",
         "2": "result_only",
@@ -619,9 +618,9 @@
     "47": {
       "name": "沖縄県",
       "total_districts": 4,
-      "collected": 0,
+      "collected": 4,
       "districts": {
-        "1": "pending",
+        "1": "result_only",
         "2": "result_only",
         "3": "result_only",
         "4": "result_only"

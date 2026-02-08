@@ -107,7 +107,8 @@ git checkout <commit-hash> -- result/  # result全体を復元
 | 値 | 意味 |
 |----|------|
 | `pending` | 未収集 |
-| `collected` | 結果取得済み・JSON更新済み |
+| `result_only` | 当落のみ記録済み（得票数・得票率は未取得） |
+| `collected` | 完全取得済み（当落＋得票数＋得票率） |
 | `not_found` | 検索したが結果未確定/取得不可 |
 
 ### 生成方法

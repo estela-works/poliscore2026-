@@ -74,7 +74,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 24
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "鈴木拓海",
@@ -141,7 +142,8 @@
           }
         },
         "rationale": "自由民主党への追い風・票の集中が強み。選挙実績が乏しい・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -156,5 +158,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "浅野哲",
+    "winner_party": "国民民主党",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

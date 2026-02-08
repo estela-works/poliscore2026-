@@ -73,6 +73,11 @@
         "consistency": 4,
         "ethics": 2,
         "total": 20
+      },
+      "election_result": {
+        "result": "当選",
+        "votes": 0,
+        "vote_rate": 0.0
       }
     },
     {
@@ -139,6 +144,11 @@
         "consistency": 1,
         "ethics": 4,
         "total": 13
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": 0,
+        "vote_rate": 0.0
       }
     },
     {
@@ -205,6 +215,11 @@
         "consistency": 4,
         "ethics": 4,
         "total": 15
+      },
+      "election_result": {
+        "result": "落選",
+        "votes": 0,
+        "vote_rate": 0.0
       }
     }
   ],
@@ -220,5 +235,11 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "小林鷹之",
+    "winner_party": "自由民主党",
+    "turnout": null,
+    "result_updated": "2026-02-08T21:20:01.859507+09:00"
   }
 }

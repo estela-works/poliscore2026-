@@ -75,7 +75,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 24
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "長谷川嘉一",
@@ -143,7 +144,8 @@
         "consistency": 2,
         "ethics": 4,
         "total": 20
-      }
+      },
+      "election_result": "比例復活"
     }
   ],
   "prediction": {
@@ -158,5 +160,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "笹川博義",
+    "winner_party": "自由民主党",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

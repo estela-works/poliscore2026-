@@ -75,7 +75,8 @@
         "consistency": 4,
         "ethics": 2,
         "total": 20
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "石関貴史",
@@ -143,7 +144,8 @@
         "consistency": 2,
         "ethics": 4,
         "total": 20
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "高橋保",
@@ -211,7 +213,8 @@
         "consistency": 5,
         "ethics": 4,
         "total": 20
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "原和隆",
@@ -279,7 +282,8 @@
         "consistency": 2,
         "ethics": 3,
         "total": 16
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "熊井戸園子",
@@ -347,7 +351,8 @@
         "consistency": 4,
         "ethics": 3,
         "total": 16
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "伊藤純子",
@@ -415,7 +420,8 @@
           }
         },
         "rationale": "選挙実績が乏しい・個人評価が低い・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -430,5 +436,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "井野俊郎",
+    "winner_party": "自由民主党",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

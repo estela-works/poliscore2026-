@@ -74,7 +74,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 24
-      }
+      },
+      "election_result": "比例復活"
     },
     {
       "name": "青山大人",
@@ -141,7 +142,8 @@
         "consistency": 4,
         "ethics": 4,
         "total": 24
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "中村吉男",
@@ -208,7 +210,8 @@
           }
         },
         "rationale": "選挙実績が乏しい・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "稲葉英樹",
@@ -275,7 +278,8 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・日本共産党への逆風・個人評価が低い・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     },
     {
       "name": "堀越麻紀",
@@ -342,7 +346,8 @@
           }
         },
         "rationale": "票の集中が強み。選挙実績が乏しい・個人評価が低い・新人のハンデが課題"
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -357,5 +362,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "青山大人",
+    "winner_party": "無所属",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

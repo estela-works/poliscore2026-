@@ -75,7 +75,8 @@
           }
         },
         "rationale": "前回実績の優位・高い個人評価・現職の優位性・票の集中が強み"
-      }
+      },
+      "election_result": "当選"
     },
     {
       "name": "野中厚",
@@ -143,7 +144,8 @@
           }
         },
         "rationale": "前回実績の優位・自由民主党への追い風・高い個人評価・現職の優位性・票の集中が強み"
-      }
+      },
+      "election_result": "落選"
     }
   ],
   "prediction": {
@@ -158,5 +160,10 @@
       "media_forecast": "報道情勢なし（重み再配分で対応）",
       "local_factors": "地盤情報なし（デフォルト値使用）"
     }
+  },
+  "election_summary": {
+    "winner": "森田俊和",
+    "winner_party": "中道改革連合",
+    "result_updated": "2026-02-08T22:00:00+09:00"
   }
 }

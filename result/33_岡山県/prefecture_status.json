@@ -51,12 +51,6 @@
       "status": "completed",
       "total_candidates": 4,
       "processed_candidates": 4
-    },
-    {
-      "district_number": 5,
-      "status": "none",
-      "total_candidates": 0,
-      "processed_candidates": 0
     }
   ]
 }
